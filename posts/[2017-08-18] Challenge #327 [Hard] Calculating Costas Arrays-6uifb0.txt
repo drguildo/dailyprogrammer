@@ -31,8 +31,8 @@ You'll be given a number _N_, one integer per line, telling you the order of the
 
 Your program should emit the number of distinct Costas arrays for that order. From our example:
 
-    3 -&gt; 4
-    5 -&gt; 40
+    3 -> 4
+    5 -> 40
 
 # Challenge Input
 
@@ -42,8 +42,8 @@ Your program should emit the number of distinct Costas arrays for that order. Fr
 
 # Challenge Output
 
-    6 -&gt; 116
-    7 -&gt; 200
-    13 -&gt; 12828
+    6 -> 116
+    7 -> 200
+    13 -> 12828
 
 Orders 13-18 should test the efficiency of your solution pretty well.

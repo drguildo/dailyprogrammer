@@ -16,7 +16,7 @@ We also want to keep the vowels we removed around (in their original order), whi
 
     ouaaaaoai
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input description
 
@@ -26,7 +26,7 @@ A string consisting of a series of words to disemvowel. It will be all lowercase
 
 Two strings, one of the disemvoweled text (spaces removed), and one of all the removed vowels.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input 1
 

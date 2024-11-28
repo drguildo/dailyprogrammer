@@ -4,7 +4,7 @@ Title: [2019-01-30] Challenge #374 [Intermediate] The Game of Blobs
 
 You are give a list of blobs, each having an initial position in an discrete grid, and a size. Blobs try to eat each other greedily and move around accordingly. 
 
-During each cycle, all blobs move one step (Moore neighborhood) towards another blob of smaller size (if any). This blob is chosen as the closest one, with a preference for larger ones, breaking ties as clockwise (11H &lt; 12H &gt; 01H). 
+During each cycle, all blobs move one step (Moore neighborhood) towards another blob of smaller size (if any). This blob is chosen as the closest one, with a preference for larger ones, breaking ties as clockwise (11H < 12H > 01H). 
 
 At the end of each cycle, blobs merge (with summed size) if they are on the same location.
 

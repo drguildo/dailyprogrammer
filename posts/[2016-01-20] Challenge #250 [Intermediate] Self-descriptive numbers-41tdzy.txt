@@ -14,7 +14,7 @@ As example the descriptive number of 101 is 120 meaning:
 
 Today we are looking for numbers that describe themself:
 
-&gt;In mathematics, a self-descriptive number is an integer m that in a given base b is b digits long in which each digit d at position n (the most significant digit being at position 0 and the least significant at position b - 1) counts how many instances of digit n are in m.
+>In mathematics, a self-descriptive number is an integer m that in a given base b is b digits long in which each digit d at position n (the most significant digit being at position 0 and the least significant at position b - 1) counts how many instances of digit n are in m.
 
 [Source](https://en.wikipedia.org/wiki/Self-descriptive_number)
 
@@ -26,7 +26,7 @@ As example we are looking for a 5 digit number that describes itself. This would
  * It contains 0 at index 3, indicating that there are no '3's in 21200;
  * It contains 0 at index 4, indicating that there are no '4's in 21200;
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

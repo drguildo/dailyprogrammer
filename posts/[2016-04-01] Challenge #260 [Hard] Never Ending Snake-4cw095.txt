@@ -29,7 +29,7 @@ But as if Yn didn't have enough problems already, she still has to worry about t
 
 So let's recap: you can tell Sleether ("s") to go up ("u"), down ("d"), left ("l") or right ("r"). On each map, she must eat (go over) all baloney sandwiches ("\*"), while **avoiding her own trail** (including the initial square) and the neverending pits ("O").
 
-# Input &amp;amp; Output
+# Input &amp; Output
 **Input**: a map, like the ones described above; you can ignore the first and last lines (those with "+"s), and parse only the characters between the pipes ("|").
 
 **Output**: a string with commands to solve the map.

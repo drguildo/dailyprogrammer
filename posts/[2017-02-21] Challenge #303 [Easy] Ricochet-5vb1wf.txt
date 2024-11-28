@@ -11,7 +11,7 @@ The particle always starts from the upper-left corner of the grid (and will ther
 
 Since we'll be working with unit squares, _h_ and _w_ are always integers.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 ##Input description
 The input will be an arbitrary number of lines containing _h_, _w_, and _v_, each separated by spaces:
 

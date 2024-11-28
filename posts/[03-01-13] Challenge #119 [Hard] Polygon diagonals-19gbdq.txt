@@ -11,12 +11,12 @@ A _diagonal_ of a regular polygon is a line joining two non-adjacent vertices. T
 What's the largest N that your program can handle in a reasonable amount of time? Post the solution for N = 23 if you can get it.
 
 *Author: skeeto*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Number of polygon sides N
 ## Output Description
 Number of distinct ways to divide the N-gon into N-2 triangles using N-3 non-intersecting diagonals.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 6
 ## Sample Output

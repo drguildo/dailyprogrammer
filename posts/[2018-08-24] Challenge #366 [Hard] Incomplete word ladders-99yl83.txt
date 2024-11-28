@@ -4,11 +4,11 @@ Title: [2018-08-24] Challenge #366 [Hard] Incomplete word ladders
 
 Given two different strings of equal length, the *spacing* between them is the number of other strings you would need to connect them on a [word ladder](https://en.wikipedia.org/wiki/Word_ladder). Alternately, this is 1 less than the number of letters that differ between the two strings. Examples:
 
-    spacing("shift", "shirt") =&gt; 0
-    spacing("shift", "whist") =&gt; 1
-    spacing("shift", "wrist") =&gt; 2
-    spacing("shift", "taffy") =&gt; 3
-    spacing("shift", "hints") =&gt; 4
+    spacing("shift", "shirt") => 0
+    spacing("shift", "whist") => 1
+    spacing("shift", "wrist") => 2
+    spacing("shift", "taffy") => 3
+    spacing("shift", "hints") => 4
 
 The *total spacing* of a word list is the sum of the spacing between each consecutive pair of words on the word list, i.e. the number of (not necessarily distinct) strings you'd need to insert to make it into a word ladder. For example, the list:
 

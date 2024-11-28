@@ -1,6 +1,6 @@
 Title: [2016-11-11] Challenge #291 [Hard] Spaghetti Wiring
 
-&gt; **Note:** As has been [pointed out](https://www.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challenge_291_hard_spaghetti_wiring/d9wd9h1/), this problem is a duplicate of a previous one, resulting from my being clueless after returning from a hiatus from moderation. Sorry. :(
+> **Note:** As has been [pointed out](https://www.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challenge_291_hard_spaghetti_wiring/d9wd9h1/), this problem is a duplicate of a previous one, resulting from my being clueless after returning from a hiatus from moderation. Sorry. :(
 
 #Description
 
@@ -110,7 +110,7 @@ Make your program come up with solutions that use all the available space on the
     
 #Finally
 
-*This challenge was inspired by the [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&amp;hl=en) mobile game. Credit where it's due.* 
+*This challenge was inspired by the [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en) mobile game. Credit where it's due.* 
 
 Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas.
 

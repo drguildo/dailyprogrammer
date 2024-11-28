@@ -45,7 +45,7 @@ In general:
         p(n-22) -
         p(n-26) + ...
 
-While the sequence is infinite, `p(n) = 0` when `n &lt; 0`, so you stop when the argument becomes negative. The first two terms of this sequence (`p(n-1)` and `p(n-2)`) are positive, followed by two negative terms (`-p(n-5)` and `-p(n-7)`), and then it repeats back and forth: two positive, two negative, etc.
+While the sequence is infinite, `p(n) = 0` when `n < 0`, so you stop when the argument becomes negative. The first two terms of this sequence (`p(n-1)` and `p(n-2)`) are positive, followed by two negative terms (`-p(n-5)` and `-p(n-7)`), and then it repeats back and forth: two positive, two negative, etc.
 
 The numbers that get subtracted from the argument form a second sequence:
 

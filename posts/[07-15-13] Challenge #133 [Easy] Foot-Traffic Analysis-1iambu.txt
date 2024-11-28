@@ -8,7 +8,7 @@ Your goal is to write a program that takes a formatted log file that describes t
 
 *Author: nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be first given an integer N which represents the following N-number of lines of text. Each line represents either a visitor entering or leaving a room: it starts with an integer, representing a visitor's unique identifier. Next on this line is another integer, representing the room index. Note that there are at most 100 rooms, starting at index 0, and at most 1,024 visitors, starting at index 0. Next is a single character, either 'I' (for "In") for this visitor entering the room, or 'O' (for "out") for the visitor leaving the room. Finally, at the end of this line, there is a time-stamp integer: it is an integer representing the minute the event occurred during the day. This integer will range from 0 to 1439 (inclusive). All of these elements are space-delimited.
@@ -21,7 +21,7 @@ Note that the order of events in the log **are not sorted in any way**; it shoul
 
 For each room that had log data associated with it, print the room index (starting at 0), then print the average length of time visitors have stayed as an integer (round down), and then finally print the total number of visitors in the room. All of this should be on the same line and be space delimited; you may optionally include labels on this text, like in our sample output 1.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     4

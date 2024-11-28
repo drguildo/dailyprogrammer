@@ -54,16 +54,16 @@ Varied as needed for the game to work
      Select an AI difficulty:
      1) easy
      2) Hard
-     --&gt; 1
+     --> 1
      You have selected Easy! - Let's begin!
      
      Turn 1 -- Points You: 0 Computer: 0
      -----------------------------------------
      Your letters: a b c d e k l m o p t u
-     Your word-&gt; rekt
+     Your word-> rekt
      I am sorry but you cannot spell rekt with your letters. Try again.
      Your letters: a b c d e k l m o p t u
-     Your word-&gt; top
+     Your word-> top
      Valid Word! Open Fire!!!!
      AI selects "potluck"
 

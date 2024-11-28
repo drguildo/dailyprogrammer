@@ -2,7 +2,7 @@ Title: [2017-09-08] Challenge #330 [Hard] Mini-Chess Positions
 
 # Description
 
-&gt; The motivation for these variants is to make the game simpler and shorter than the standard chess.
+> The motivation for these variants is to make the game simpler and shorter than the standard chess.
 
 The objective is to count the number of legal positions on a [4x4 chess board](https://en.wikipedia.org/wiki/Minichess).
 

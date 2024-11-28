@@ -80,11 +80,11 @@ You should get something like this: https://i.imgur.com/5F31DSE.png
 
 If you would like more of a challenge, implement the following commands:
 
-* `bline &lt;R&gt; &lt;G&gt; &lt;B&gt; &lt;row1&gt; &lt;col1&gt; &lt;row2&gt; &lt;col2&gt;` draw a line using [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
-* `circle &lt;R&gt; &lt;G&gt; &lt;B&gt; &lt;centerRow&gt; &lt;centerCol&gt; &lt;radius&gt;`
-* `ellipse &lt;R&gt; &lt;G&gt; &lt;B&gt; &lt;centerRow&gt; &lt;centerCol&gt; &lt;radiusVertical&gt; &lt;radiusHorizontal&gt;`
-* `fill &lt;R&gt; &lt;G&gt; &lt;B&gt; &lt;row&gt; &lt;col&gt;` (flood fill one color starting at the given point)
-* `smartfill &lt;R&gt; &lt;G&gt; &lt;B&gt; &lt;row&gt; &lt;col&gt; &lt;tolerance&gt;` (flood fill similar colors starting at the given point, filling pixels as long as the gradient distance (`sqrt( (r2-r1)^2 + (g2-g1)^2 + (b2-b1)^2)`) is less than the tolerance.
+* `bline <R> <G> <B> <row1> <col1> <row2> <col2>` draw a line using [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
+* `circle <R> <G> <B> <centerRow> <centerCol> <radius>`
+* `ellipse <R> <G> <B> <centerRow> <centerCol> <radiusVertical> <radiusHorizontal>`
+* `fill <R> <G> <B> <row> <col>` (flood fill one color starting at the given point)
+* `smartfill <R> <G> <B> <row> <col> <tolerance>` (flood fill similar colors starting at the given point, filling pixels as long as the gradient distance (`sqrt( (r2-r1)^2 + (g2-g1)^2 + (b2-b1)^2)`) is less than the tolerance.
 
 # Resources
 

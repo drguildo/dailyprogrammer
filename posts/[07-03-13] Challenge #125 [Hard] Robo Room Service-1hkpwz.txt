@@ -8,7 +8,7 @@ Your goal is to convert a given ASCII-map (a big 2D array of valid spaces the ro
 
 *Original author: /u/nint22. I'm posting this challenge as "hard", though it is more correctly somewhere between "intermediate" and "hard". This challenge was inspired by the Dwarf Fortress path-planner.*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given an integer W and H on standard input, which represents the the **W**idth and **H**eight of the ASCII map that will follow: this map is just a 2D array of ASCII digit characters ('0' to '9'). The digit '0' (zero) represents a non-accessible area of the hotel's layout, while any other digit represent a room. Different digits represent different room-types. Rooms are "connected" if they are directly-adjacent. A room is defined as any rectangular shape.
@@ -19,7 +19,7 @@ You must convert the above-described ASCII-map input into a graph of nodes (room
 
 Note that the output has some ambiguity: the same map may produce multiple graphs that have the same overall structure. Don't worry about this, and just focus on printing the correct edge relationships (it is why we're asking you to print unique node numbers, not what the nodes actually associate to).
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     5 5

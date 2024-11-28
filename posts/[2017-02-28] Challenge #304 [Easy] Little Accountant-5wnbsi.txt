@@ -4,7 +4,7 @@ Title: [2017-02-28] Challenge #304 [Easy] Little Accountant
 
 Your task is to design a program to help an accountant to get balances from accounting journals.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 ##Input files
 ###Journal
 The first input is accounting journals

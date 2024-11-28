@@ -8,7 +8,7 @@ As an example, the [Petersen graph](http://en.wikipedia.org/wiki/Petersen_graph)
 
 On the other hand, the [Butterfly graph](http://en.wikipedia.org/wiki/Butterfly_graph) has a radius of 1 since its middle vertex can connect to any other vertex within 1 edge, which is the smallest eccentricity of all vertices in this set. Any other vertex has an eccentricity of 2.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input you will be given an integer N, followed by an [Adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix). The graph is not directed, so the matrix will always be reflected about the [main diagonal](http://en.wikipedia.org/wiki/Main_diagonal).
@@ -17,7 +17,7 @@ On standard console input you will be given an integer N, followed by an [Adjace
 
 Print the radius of the graph as an integer.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     10

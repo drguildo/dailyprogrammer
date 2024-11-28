@@ -27,7 +27,7 @@ The above numbers suggest that farmers produce $30k worth of stuff.  Their (a fa
 
 Spouses, children and hippies are classified as slaves, for unfortunate convenience.  The coding allows the simplification of their production flowing to a household, and to indicate that they do not take spouses of their own.
 
-The other cornerstone of civilization is making children.  A farmer's child might produce along the formula: (age - 6)* 1000 for age &lt;= 18.  It may be easier to model as total cost of $160k less production benefit of $55k, and so net cost of $105K, or $7k per year.
+The other cornerstone of civilization is making children.  A farmer's child might produce along the formula: (age - 6)* 1000 for age <= 18.  It may be easier to model as total cost of $160k less production benefit of $55k, and so net cost of $105K, or $7k per year.
 
 This simplification of the **cost of children being $7k/year for 16 years to farmers** is probably the most useful and easiest to model.  We can make separate entries for non-farmer-spouses production value, and non-farmer-children may cost $10k/year for 16 years (same as all people and production units).
 

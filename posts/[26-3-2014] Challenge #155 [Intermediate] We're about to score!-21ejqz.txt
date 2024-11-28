@@ -41,10 +41,10 @@ Three values per line: move number, then white's move, then black's move using c
 
 Example:
 
-1. e4 e5          &lt;-- White's pawn to e4, Black's pawn moves to e5
-2. Nf3 Nc6       &lt;-- White's Knight moves to f3, Black's Knight moves to c6
-3. Bb5 Nf6       &lt;-- White's Bishop moves to b5, Black's Knight moves to f6
-4. d3 Bc5        &lt;-- White's Pawn moves to d3, Black's Bishop moves to c5
+1. e4 e5          <-- White's pawn to e4, Black's pawn moves to e5
+2. Nf3 Nc6       <-- White's Knight moves to f3, Black's Knight moves to c6
+3. Bb5 Nf6       <-- White's Bishop moves to b5, Black's Knight moves to f6
+4. d3 Bc5        <-- White's Pawn moves to d3, Black's Bishop moves to c5
 
 etc...
 

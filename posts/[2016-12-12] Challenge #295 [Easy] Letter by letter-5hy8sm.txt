@@ -6,7 +6,7 @@ Change the a sentence to another sentence, letter by letter.
 
 The sentences will always have the same length.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 

@@ -5,7 +5,7 @@ Title: [2016-09-02] Challenge #281 [Hard] Minesweeper Solver
 In this challenge you will come up with an algorithm to solve the classic game of [Minesweeper](http://minesweeperonline.com/).
 The brute force approach is impractical since the search space size is anywhere around 10^20 to 10^100 depending on the situation, you'll have to come up with something clever.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

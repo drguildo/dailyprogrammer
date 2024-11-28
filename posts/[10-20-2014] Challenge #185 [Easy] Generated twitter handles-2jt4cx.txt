@@ -19,13 +19,13 @@ You can see, the '@' symbol is more or less an integral part of the tweet and th
 
 e.g.
 
-@tack -&gt; (attack)
+@tack -> (attack)
 
-@trocious -&gt;(atrocious)
+@trocious ->(atrocious)
 
 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -50,13 +50,13 @@ I think it would be even better if we could find words that have 'at' in them at
 
 For example
 
-r@@a -&gt; (ratata)
+r@@a -> (ratata)
 
 
-r@ic@e -&gt;(raticate)
+r@ic@e ->(raticate)
 
 
-dr@ -&gt;(drat)
+dr@ ->(drat)
 
 
 #Finally
@@ -67,7 +67,7 @@ Consider submitting it to /r/dailyprogrammer_ideas
 
 Thanks to /u/jnazario for the challenge!
 
-Remember to check out our IRC channel. Check the sidebar for a link --&gt;
+Remember to check out our IRC channel. Check the sidebar for a link -->
 
 
 

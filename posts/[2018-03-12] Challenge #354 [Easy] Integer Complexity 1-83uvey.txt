@@ -13,19 +13,19 @@ For instance, given `A = 12345` you should return `838`. Here's why. There are f
 
 The sum of the two factors in each case is:
 
-    1*12345 =&gt; 1+12345 = 12346
-    3*4115 =&gt; 3+4115 = 4118
-    5*2469 =&gt; 5+2469 = 2474
-    15*823 =&gt; 15+823 = 838
+    1*12345 => 1+12345 = 12346
+    3*4115 => 3+4115 = 4118
+    5*2469 => 5+2469 = 2474
+    15*823 => 15+823 = 838
 
 The smallest sum of a pair of factors in this case is `838`.
 
 # Examples
 
-    12 =&gt; 7
-    456 =&gt; 43
-    4567 =&gt; 4568
-    12345 =&gt; 838
+    12 => 7
+    456 => 43
+    4567 => 4568
+    12345 => 838
 
 The corresponding products are `12 = 3*4`, `456 = 19*24`, `4567 = 1*4567`, and `12345 = 15*823`.
 

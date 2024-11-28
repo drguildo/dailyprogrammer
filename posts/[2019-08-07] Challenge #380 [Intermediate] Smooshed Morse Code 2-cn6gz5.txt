@@ -9,11 +9,11 @@ Given a smooshed Morse code encoding of a permutation of the alphabet, find the 
 # Examples
 
     smalpha(".--...-.-.-.....-.--........----.-.-..---.---.--.--.-.-....-..-...-.---..--.----..")
-        =&gt; "wirnbfzehatqlojpgcvusyxkmd"
+        => "wirnbfzehatqlojpgcvusyxkmd"
     smalpha(".----...---.-....--.-........-----....--.-..-.-..--.--...--..-.---.--..-.-...--..-")
-        =&gt; "wzjlepdsvothqfxkbgrmyicuna"
+        => "wzjlepdsvothqfxkbgrmyicuna"
     smalpha("..-...-..-....--.---.---.---..-..--....-.....-..-.--.-.-.--.-..--.--..--.----..-..")
-        =&gt; "uvfsqmjazxthbidyrkcwegponl"
+        => "uvfsqmjazxthbidyrkcwegponl"
 
 Again, there's more than one valid output for these inputs.
 

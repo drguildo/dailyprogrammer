@@ -22,19 +22,19 @@ The following directed river gives you "nodes". The direction matters as you can
 
 A is our Start. All logs enter the river at point A.
 
-* A-&gt;B - holds 6 log paths
-* A-&gt;C - holds 2 log paths
-* B-&gt;E - holds 3 log paths
-* B-&gt;D - holds 3 log paths
-* D-&gt;C - holds 2 log paths
-* D-&gt;F - holds 1 log path
-* C-&gt;G - holds 5 log paths
-* E-&gt;H - holds 1 log paths
-* E-&gt;I - holds 2 log paths
-* F-&gt;H - holds 1 log path
-* G-&gt;H - holds 2 log paths
-* G-&gt;I - holds 2 log paths
-* H-&gt;I - holds 4 log paths
+* A->B - holds 6 log paths
+* A->C - holds 2 log paths
+* B->E - holds 3 log paths
+* B->D - holds 3 log paths
+* D->C - holds 2 log paths
+* D->F - holds 1 log path
+* C->G - holds 5 log paths
+* E->H - holds 1 log paths
+* E->I - holds 2 log paths
+* F->H - holds 1 log path
+* G->H - holds 2 log paths
+* G->I - holds 2 log paths
+* H->I - holds 4 log paths
 
 I is the lumber mill pond.
 
@@ -42,7 +42,7 @@ So log routes will go from A to I. You want the shortest path to route logs. But
 
 #Log Paths
 
-So an optimal path on our river would be A-&gt;B-&gt;E-&gt;I -- 4 segments. However each of those segments will now have 1 less log that can go on it. When we send another log we might A-&gt;B-&gt;E-&gt;I again for the next log. But the third log will not be able to take this path because the E-&gt;I segment has 2 logs going on that path so the problem must find another path as the E-&gt;I segment is now maxed on what logs can go on it.
+So an optimal path on our river would be A->B->E->I -- 4 segments. However each of those segments will now have 1 less log that can go on it. When we send another log we might A->B->E->I again for the next log. But the third log will not be able to take this path because the E->I segment has 2 logs going on that path so the problem must find another path as the E->I segment is now maxed on what logs can go on it.
 
 #Output:
 
@@ -52,11 +52,11 @@ Eventually hit a point where no new log can be sent because the river cannot han
 
 So your output should show as an example
 
-Log #1 takes A-&gt;B-&gt;E-&gt;I - path of 4
+Log #1 takes A->B->E->I - path of 4
 
-Log #2 takes A-&gt;B-&gt;E-&gt;I - path of 4
+Log #2 takes A->B->E->I - path of 4
 
-Log #3 takes A-&gt;C-&gt;G-&gt;I - path of 4
+Log #3 takes A->C->G->I - path of 4
 
 ...
 

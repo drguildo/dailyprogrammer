@@ -12,7 +12,7 @@ This isn't an ironclad rule, and if you really can't think of any way to do this
 
 It is, however, perfectly acceptable to use a library to save your pixels in whatever format you like.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 
@@ -35,7 +35,7 @@ If you don't wish to tangle with libraries that output PNG images, I recommend c
 
 Regardless of your chosen method of output, I highly encourage you to upload your resulting images to [imgur](http://imgur.com) so that the rest of us can see the product of your hard work! If you chose to output your image to the screen, you can take a screenshot and crop the gradient out.
 
-#Example inputs &amp; outputs
+#Example inputs & outputs
 
 #Input 
     500 100 

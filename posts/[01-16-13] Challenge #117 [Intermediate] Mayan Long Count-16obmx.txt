@@ -19,12 +19,12 @@ Write a function that accepts a year, month, and day and returns the Mayan Long 
 
 
 *Author: skeeto*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Through standard console, expect an integer N, then a new-line, followed by N lines which have three integers each: a day, month, and year. These integers are guaranteed to be valid days and either on or after the 1st of Jan. 1970.
 ## Output Description
-For each given line, output a new line in the long-form Mayan calendar format: &lt;Baktun&gt;.&lt;Katun&gt;.&lt;Tun&gt;.&lt;Uinal&gt;.&lt;Kin&gt;.
-# Sample Inputs &amp; Outputs
+For each given line, output a new line in the long-form Mayan calendar format: <Baktun>.<Katun>.<Tun>.<Uinal>.<Kin>.
+# Sample Inputs & Outputs
 ## Sample Input
     3
     1 1 1970

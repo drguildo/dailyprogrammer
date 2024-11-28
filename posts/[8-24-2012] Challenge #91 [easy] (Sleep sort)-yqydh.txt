@@ -10,7 +10,7 @@ An anonymous user on world4ch's programming text board posted a thread in early 
     }
     while [ -n "$1" ]
     do
-        f "$1" &amp;
+        f "$1" &
         shift 
     done
     wait

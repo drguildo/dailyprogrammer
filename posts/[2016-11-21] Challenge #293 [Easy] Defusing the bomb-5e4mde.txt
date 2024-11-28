@@ -17,7 +17,7 @@ If you have anything wrong in the wrong order, the bomb will explode.
 
 
 There can be multiple wires with the same colour and these instructions are for one wire at a time. Once you cut a wire you can forget about the previous ones. 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

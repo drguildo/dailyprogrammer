@@ -76,7 +76,7 @@ As the game progresses the cave changes based on the actions.
 * Picking up a weapon/gold will turn that room into an empty explored room (only points for the items and not for exploring an empty room)
 
 
-##Understanding Walls &amp; Environment:
+##Understanding Walls & Environment:
 
 There are walls surrounding your cave. So for example if you pick N to be 10 you will have a 10x10 cave. But really the cave is 12x12 with the Border of the Cave being Walls. You cannot go in a direction that would put you into a wall. (This is not a game for mining) Trying to move into a wall will display an error describing how you bump into a wall or such and continue then to redisplay the current room you are in and prompt for another command.
 
@@ -87,7 +87,7 @@ As you move in the cave you will be given hints to nearby dangers (see below on 
 There are no clues to being near an empty room, gold or weapons. 
 
 
-#Input &amp; Output:
+#Input & Output:
 
 ##Start of Game:
 either pass the N size of the cave as a start up value, you can prompt for it, you can hard code it. Whatever you like but somehow you must set the N value of the cave.
@@ -106,7 +106,7 @@ The program will give status to the user in the following format
 
 [x Points Earned] You are (Weaponless/Armed).
 
-Enter Move (? for help) &gt;
+Enter Move (? for help) >
 
 **Ascii Display**
 
@@ -182,7 +182,7 @@ So putting it all together you might see these screen shots
     Empty Room - there is nothing here but air.
     You hear howling winds.
     [10 points earned] You are weaponless.
-    Enter Move (? for help) &gt;
+    Enter Move (? for help) >
 
 
     ###
@@ -190,7 +190,7 @@ So putting it all together you might see these screen shots
     ...
     Empty Room - there is nothing here but air.
     [23 points earned] You are armed and dangerous.
-    Enter Move (? for help) &gt;
+    Enter Move (? for help) >
 
 
 ##End of Game Message:

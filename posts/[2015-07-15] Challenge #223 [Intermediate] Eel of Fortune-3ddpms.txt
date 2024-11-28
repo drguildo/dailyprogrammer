@@ -14,11 +14,11 @@ Write a function that, given a secret word and an offensive word, returns true i
 
 # Examples
 
-    problem("synchronized", "snond") -&gt; true
-    problem("misfunctioned", "snond") -&gt; true
-    problem("mispronounced", "snond") -&gt; false
-    problem("shotgunned", "snond") -&gt; false
-    problem("snond", "snond") -&gt; true
+    problem("synchronized", "snond") -> true
+    problem("misfunctioned", "snond") -> true
+    problem("mispronounced", "snond") -> false
+    problem("shotgunned", "snond") -> false
+    problem("snond", "snond") -> true
 
 # Optional challenges
 

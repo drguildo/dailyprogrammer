@@ -27,13 +27,13 @@ To get to grips with some different sorting algorithms, let's look at four here.
 Bubble sort is the simplest of the four. You simply step through the list, looking at pairs of elements that are next to each other. If the pair is not in order, you swap them and look at the next pair, like so:
 
 	4 1 2 3 5
-	&lt;-&gt;
+	<->
 	
 	1 4 2 3 5
-	  &lt;-&gt;
+	  <->
 	
 	1 2 4 3 5
-	    &lt;-&gt;
+	    <->
 	
 	1 2 3 4 5
 	       x

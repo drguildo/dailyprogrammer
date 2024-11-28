@@ -34,14 +34,14 @@ Your function should take the described inputs, and an additional parameter that
 #1. Basic format
 The following  as input must also be able to output itself.   
     
-      D=. x +/&amp;i.&amp;&gt;:&amp;# y
+      D=. x +/&i.&>:&# y
       for_i. 1+i.#x do.
         for_j. 1+i.#y do.
-          if. ((&lt;:i){x)=(&lt;:j){y do.
-            D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D
+          if. ((<:i){x)=(<:j){y do.
+            D=.(D {~<<:i,j) (<i,j)} D
           else.
-            min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3
-            D=. min (&lt;i,j)} D
+            min=. 1+<./D{~(i,j) <@:-"1#:1 2 3
+            D=. min (<i,j)} D
           end.
         end.
       end.
@@ -52,57 +52,57 @@ This has linefeeds removed, and the 2 statements inside the `else.` clause are s
 
 This is likely the most useful "starting format" to convert to and from all others.  If you do just 2 parts of this challege, convert from this format to `1.`, and also convert from `1.` to `1.` unchanged.
 
-    D=. x +/&amp;i.&amp;&gt;:&amp;# y for_i. 1+i.#x do. for_j. 1+i.#y do. if. ((&lt;:i) (x)=(&lt;:j){y do. D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D else. min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3 label_. D=. min (&lt;i,j)} D end. end. end. {:{:D
+    D=. x +/&i.&>:&# y for_i. 1+i.#x do. for_j. 1+i.#y do. if. ((<:i) (x)=(<:j){y do. D=.(D {~<<:i,j) (<i,j)} D else. min=. 1+<./D{~(i,j) <@:-"1#:1 2 3 label_. D=. min (<i,j)} D end. end. end. {:{:D
 
 #3. python layout format
 like `1.` but with `end.`s terminating the last line of their sections.
 
-      D=. x +/&amp;i.&amp;&gt;:&amp;# y
+      D=. x +/&i.&>:&# y
       for_i. 1+i.#x do.
         for_j. 1+i.#y do.
-          if. ((&lt;:i){x)=(&lt;:j){y do.
-            D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D
+          if. ((<:i){x)=(<:j){y do.
+            D=.(D {~<<:i,j) (<i,j)} D
           else.
-            min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3
-            D=. min (&lt;i,j)} D end. end. end.
+            min=. 1+<./D{~(i,j) <@:-"1#:1 2 3
+            D=. min (<i,j)} D end. end. end.
       {:{:D
 
 #4. implied python format
 this is the only format that is not valid J code.  Its a simple modification to `3.` in that `do.` and `end.` control words are removed.  Where this is challenging is if this is the input for other outputs, and this format must be detected and `do` and ` end` keywords must be added.
 
-      D=. x +/&amp;i.&amp;&gt;:&amp;# y
+      D=. x +/&i.&>:&# y
       for_i. 1+i.#x 
         for_j. 1+i.#y 
-          if. ((&lt;:i){x)=(&lt;:j){y 
-            D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D
+          if. ((<:i){x)=(<:j){y 
+            D=.(D {~<<:i,j) (<i,j)} D
           else.
-            min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3
-            D=. min (&lt;i,j)} D 
+            min=. 1+<./D{~(i,j) <@:-"1#:1 2 3
+            D=. min (<i,j)} D 
       {:{:D
 
 #challenge input 1
 this is valid J code.
     
-    D=. x +/&amp;i.&amp;&gt;:&amp;# y 
+    D=. x +/&i.&>:&# y 
     for_i.
     1+i.#x 
     do. for_j. 1+i.#y 
     do. 
     
-    if. ((&lt;:i) (x)=(&lt;:j){y do. D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D else. min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3 
-    D=. min (&lt;i,j)} D 
+    if. ((<:i) (x)=(<:j){y do. D=.(D {~<<:i,j) (<i,j)} D else. min=. 1+<./D{~(i,j) <@:-"1#:1 2 3 
+    D=. min (<i,j)} D 
     label_.  end. end. end. {:{:D
 
 #challenge input 2
 Very hard:  partially implied python format, and partially "free form"
 
-      D=. x +/&amp;i.&amp;&gt;:&amp;# y for_i. 1+i.#x 
+      D=. x +/&i.&>:&# y for_i. 1+i.#x 
         for_j. 1+i.#y do. 
-          if. ((&lt;:i){x)=(&lt;:j){y 
-            D=.(D {~&lt;&lt;:i,j) (&lt;i,j)} D
+          if. ((<:i){x)=(<:j){y 
+            D=.(D {~<<:i,j) (<i,j)} D
           else.
-            min=. 1+&lt;./D{~(i,j) &lt;@:-"1#:1 2 3
-            D=. min (&lt;i,j)} D end. 
+            min=. 1+<./D{~(i,j) <@:-"1#:1 2 3
+            D=. min (<i,j)} D end. 
       {:{:D
 
 (missing (implied) end. statement.  Some implied do. statements)

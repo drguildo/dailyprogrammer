@@ -13,9 +13,9 @@ Here are some other continued fraction representations of square roots:
     
 Let Q(N) be the sum of the numbers in the period for the continued fraction representation of sqrt(N). So Q(19) = 2 + 1 + 3 + 1 + 2 + 8 = 17 and Q(26) = 10. When N is a perfect square, Q(N) is defined to be 0.
 
-The sum of Q(N) for 1 &amp;le; N &amp;le; 100 is 1780. 
+The sum of Q(N) for 1 &le; N &le; 100 is 1780. 
 
-What is the sum of Q(N) for 1 &amp;le; N &amp;le; 50000? 
+What is the sum of Q(N) for 1 &le; N &le; 50000? 
 
 ***
 

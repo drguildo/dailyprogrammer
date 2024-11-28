@@ -2,11 +2,11 @@ Title: [12/1/13] Challenge #139 [Intermediate] Telephone Keypads
 
 # [](#IntermediateIcon) *(Intermediate)*: Telephone Keypads
 
-[Telephone Keypads](http://en.wikipedia.org/wiki/Telephone_keypad) commonly have both digits and characters on them. This is to help with remembering &amp; typing phone numbers (called a [Phoneword](http://en.wikipedia.org/wiki/Phoneword)), like 1-800-PROGRAM rather than 1-800-776-4726. This keypad layout is also helpful with [T9](http://en.wikipedia.org/wiki/T9_(predictive_text\)), a way to type texts with word prediction.
+[Telephone Keypads](http://en.wikipedia.org/wiki/Telephone_keypad) commonly have both digits and characters on them. This is to help with remembering & typing phone numbers (called a [Phoneword](http://en.wikipedia.org/wiki/Phoneword)), like 1-800-PROGRAM rather than 1-800-776-4726. This keypad layout is also helpful with [T9](http://en.wikipedia.org/wiki/T9_(predictive_text\)), a way to type texts with word prediction.
 
 Your goal is to mimic some of the T9-features: given a series of digits from a telephone keypad, and a list of English words, print the word or set of words that fits the starting pattern. You will be given the number of button-presses and digit, narrowing down the search-space.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input, you will be given an array of digits (0 to 9) and spaces. All digits will be space-delimited, unless the digits represent multiple presses of the same button (for example pressing 2 twice gives you the letter 'B').
@@ -30,7 +30,7 @@ You may use any source for looking up English-language words, though this [simpl
 
 Print a list of all best-fitting words, meaning words that start with the word generated using the given input on a telephone keypad. You do not have to only print words of the same length as the input (e.g. even if the input is 4-digits, it's possible there are many long words that start with those 4-digits).
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     7777 666 555 3

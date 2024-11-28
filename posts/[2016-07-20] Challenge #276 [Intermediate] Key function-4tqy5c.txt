@@ -90,7 +90,7 @@ for the input from `2.` return the first element keyed (grouped) by first column
 
 **output:**
 
-      (&gt;@{."1 ({./.) ]) b
+      (>@{."1 ({./.) ]) b
     ┌─┬──┐
     │a│14│
     ├─┼──┤

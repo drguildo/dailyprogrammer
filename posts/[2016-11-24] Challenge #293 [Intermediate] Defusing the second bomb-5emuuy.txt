@@ -21,7 +21,7 @@ Try to draw this out if it is confusing, it is a part of the challenge. My drawi
 
 The bomb is defused when you reach the end, so by either cutting a green or orange cable. If you can't do that, bomb will explode
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

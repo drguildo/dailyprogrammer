@@ -4,7 +4,7 @@ Title: [2017-11-13] Challenge #340 [Easy] First Recurring Character
 
 Write a program that outputs the first recurring character in a string.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input Description
 

@@ -13,9 +13,9 @@ Write a program that can read in a units expression involving multiplying and di
 
 Examples (input,output):
 
-    m/s*m*cd -&gt; s^-1 m^2 cd
-    newton/m -&gt; s^-2 kg
-    watt/velocity -&gt; s^-2 m kg
+    m/s*m*cd -> s^-1 m^2 cd
+    newton/m -> s^-2 kg
+    watt/velocity -> s^-2 m kg
     
 BONUS:  Make it so, when printing, if there is a simpler name for the quanity output than the base name, then it also prints that as well.  For example, s^-2 m kg is also
 the definition of force in newtons, so when it prints watt/velocity it should output
@@ -24,4 +24,4 @@ the definition of force in newtons, so when it prints watt/velocity it should ou
     
 
 SUPER BONUS:  Correctly parse and handle Metrix Prefixes, like giga,micro,nano, etc.  So we could have
-     kilo-watt/mega-joule -&gt; kilo-second
+     kilo-watt/mega-joule -> kilo-second

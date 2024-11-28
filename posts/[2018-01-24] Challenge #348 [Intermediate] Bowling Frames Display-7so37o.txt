@@ -10,7 +10,7 @@ The basic rules are as follows:
 * If the player doesn't knock down any pins, that should be displayed as `-`
 * If the player gets a spare (knocks down the remaining pins on the second roll of the frame, that should be displayed as `/`
 
-If you want more details about the rules, see: [Challenge #235 [Intermediate] Scoring a Bowling Game](https://www.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challenge_235_intermediate_scoring_a/?ref=share&amp;ref_source=link)
+If you want more details about the rules, see: [Challenge #235 [Intermediate] Scoring a Bowling Game](https://www.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challenge_235_intermediate_scoring_a/?ref=share&ref_source=link)
 
 
 # Input Description

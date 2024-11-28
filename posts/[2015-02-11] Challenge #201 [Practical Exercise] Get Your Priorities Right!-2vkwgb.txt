@@ -51,7 +51,7 @@ Depending on how you implemented your priority queue, this may not be feasible, 
 
 ## Extension
 
-Rather than making your priority queue only accept strings, make a **generic** priority queue, instead. A generic object is compatible with many types. In C++, this will involve the use of [templates](//en.wikipedia.org/wiki/Template_\(C%2B%2B\)). More reading resources [here](//en.wikipedia.org/wiki/Generic_programming). For example, in C#, your class name might look like `DualPriorityQueue&lt;TEntry&gt;`. Some dynamic languages such as Ruby or Python do not have static typing, so this will not be necessary.
+Rather than making your priority queue only accept strings, make a **generic** priority queue, instead. A generic object is compatible with many types. In C++, this will involve the use of [templates](//en.wikipedia.org/wiki/Template_\(C%2B%2B\)). More reading resources [here](//en.wikipedia.org/wiki/Generic_programming). For example, in C#, your class name might look like `DualPriorityQueue<TEntry>`. Some dynamic languages such as Ruby or Python do not have static typing, so this will not be necessary.
 
 # Notes
 

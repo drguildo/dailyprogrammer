@@ -11,7 +11,7 @@ You must write code that verifies the awarded points for a fictional sport are v
 
 A valid score could be 7, which can come from a single "touch-down" and then an "extra-point". Another example could be 6, from either a single "touch-down" or two "field-goals". 4 is not a valid score, since it cannot be formed by any well-combined rewards.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 Input will consist of a single positive integer given on standard console input.
@@ -20,7 +20,7 @@ Input will consist of a single positive integer given on standard console input.
 
 Print "Valid Score" or "Invalid Score" based on the respective validity of the given score.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     35

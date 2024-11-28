@@ -6,11 +6,11 @@ A bogo sort is a purposefully inefficient algorithm for sorting a sequence. Toda
 
 Here is wikipedias entry for a [Bogo-Sort](http://en.wikipedia.org/wiki/Bogo-sort)
 
-#Inputs &amp; Outputs
+#Inputs & Outputs
 
 Given a scrambled string N and another string M. You must sort N so that it matches M. After it has been sorted, it must output how many iterations  it took to complete the sorting.
 
-##Sample Inputs &amp; Outputs
+##Sample Inputs & Outputs
 
 Input:
 

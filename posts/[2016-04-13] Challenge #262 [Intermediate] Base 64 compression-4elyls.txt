@@ -35,7 +35,7 @@ Text to compress inputs are used to apply/test your compressor
 **compressor input:** (alphabet has leading space)
 
      64 64
-      abcdefghijklmnopqrstuvwxyz.,ABCDEFGHIJKLMNOPQRSTUVWXYZ-()"';:/?!1234567890@%+*^#&lt;&gt;{}[]&amp;_`|\
+      abcdefghijklmnopqrstuvwxyz.,ABCDEFGHIJKLMNOPQRSTUVWXYZ-()"';:/?!1234567890@%+*^#<>{}[]&_`|\
 
 **input taxt**
 

@@ -9,7 +9,7 @@ Our explorer has the following rules:
  - I always walk 6 blocks straight on and then turn 180° and start walking 6 blocks again
  - If a wall is in my way I turn to the right, if that not possible I turn to the left and if that is not possible I turn back from where I came.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -17,8 +17,8 @@ A maze with our explorer and the exit to reach
 
 Legend: 
 
-    &gt; : Explorer looking East
-    &lt; : Explorer looking West
+    > : Explorer looking East
+    < : Explorer looking West
     ^ : Explorer looking North
     v : Explorer looking south
     E : Exit
@@ -28,20 +28,20 @@ Legend:
 ###Maze 1
 
     #######
-    #&gt;   E#
+    #>   E#
     #######
 
 ###Maze 2
 
     #####E#
-    #&lt;    #
+    #<    #
     #######
 
 
 ###Maze 3
 
     ##########
-    #&gt;      E#
+    #>      E#
     ##########
 
 
@@ -49,7 +49,7 @@ Legend:
 
     #####E#
     ##### #
-    #&gt;    #
+    #>    #
     ##### #
     #######
 
@@ -61,7 +61,7 @@ Legend:
     ##### #
     ##### #
     ##### #
-    #&gt;    #
+    #>    #
     ##### #
     #######
 
@@ -71,7 +71,7 @@ Legend:
     #E ######
     ##      #
     ##### # #
-    #&gt;    ###
+    #>    ###
     ##### ###
     ##### ###
     ##### ###
@@ -88,7 +88,7 @@ Legend:
     ##      #
     ## ## # #
     ##### # #
-    #&gt;    ###
+    #>    ###
     ##### ###
     ##### ###
     ##### ###

@@ -14,6 +14,6 @@ For example, the 'censored' version of 'peter' would be 'p****'
 
 Example: 
 
-    &gt;echo 'You jerkface!' | censor badwords.txt
+    >echo 'You jerkface!' | censor badwords.txt
     You j***face!
     

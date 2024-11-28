@@ -3,7 +3,7 @@ Title: [2016-12-19] Challenge #296 [Easy] The Twelve Days of...
 #Description
 Print out the lyrics of [The Twelve Days of Christmas](http://www.41051.com/xmaslyrics/twelvedays.html)
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

@@ -4,13 +4,13 @@ Title: [2021-04-26] Challenge #387 [Easy] Caesar cipher
 
 Given a lowercase letter and a number between 0 and 26, return that letter Caesar shifted by that number. To Caesar shift a letter by a number, advance it in the alphabet by that many steps, wrapping around from `z` back to `a`:
 
-    warmup('a', 0) =&gt; 'a'
-    warmup('a', 1) =&gt; 'b'
-    warmup('a', 5) =&gt; 'f'
-    warmup('a', 26) =&gt; 'a'
-    warmup('d', 15) =&gt; 's'
-    warmup('z', 1) =&gt; 'a'
-    warmup('q', 22) =&gt; 'm'
+    warmup('a', 0) => 'a'
+    warmup('a', 1) => 'b'
+    warmup('a', 5) => 'f'
+    warmup('a', 26) => 'a'
+    warmup('d', 15) => 's'
+    warmup('z', 1) => 'a'
+    warmup('q', 22) => 'm'
 
 Hint: taking a number modulo 26 will wrap around from 25 back to 0. This is commonly represented using the modulus operator `%`. For example, `29 % 26 = 3`. Finding a way to map from the letters a-z to the numbers 0-25 and back will help.
 
@@ -18,12 +18,12 @@ Hint: taking a number modulo 26 will wrap around from 25 back to 0. This is comm
 
 Given a string of lowercase letters and a number, return a string with each letter Caesar shifted by the given amount.
 
-    caesar("a", 1) =&gt; "b"
-    caesar("abcz", 1) =&gt; "bcda"
-    caesar("irk", 13) =&gt; "vex"
-    caesar("fusion", 6) =&gt; "layout"
-    caesar("dailyprogrammer", 6) =&gt; "jgorevxumxgsskx"
-    caesar("jgorevxumxgsskx", 20) =&gt; "dailyprogrammer"
+    caesar("a", 1) => "b"
+    caesar("abcz", 1) => "bcda"
+    caesar("irk", 13) => "vex"
+    caesar("fusion", 6) => "layout"
+    caesar("dailyprogrammer", 6) => "jgorevxumxgsskx"
+    caesar("jgorevxumxgsskx", 20) => "dailyprogrammer"
 
 Hint: you can use the `warmup` function as a helper function.
 
@@ -31,7 +31,7 @@ Hint: you can use the `warmup` function as a helper function.
 
 Correctly handle capital letters and non-letter characters. Capital letters should also be shifted like lowercase letters, but remain capitalized. Leave non-letter characters, such as spaces and punctuation, unshifted.
 
-    caesar("Daily Programmer!", 6) =&gt; "Jgore Vxumxgsskx!"
+    caesar("Daily Programmer!", 6) => "Jgore Vxumxgsskx!"
 
 If you speak a language that doesn't use the 26-letter A-Z alphabet that English does, handle strings in that language in whatever way makes the most sense to you! In English, if a string is encoded using the number N, you can decode it using the number 26 - N. Make sure that for your language, there's some similar way to decode strings.
 

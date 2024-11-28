@@ -37,7 +37,7 @@ You will be first given a value **t**. This is the number of seconds to run your
 
 You will be then  given a line in the format:
 
-    a-&gt;b-&gt;c-&gt;...-&gt;z
+    a->b->c->...->z
 
 Where `a`...`z` are types of nucleus. `a` is the starting nucleus type of your sample, and `z` is the end of the chain; the stable nucleus.
 
@@ -60,7 +60,7 @@ Where `a` is a type of nucleus in the decay chain, and `3.4%` is the percentage 
 ## Sample Input
 
     5000
-    a-&gt;b-&gt;c-&gt;d-&gt;s
+    a->b->c->d->s
     a: 0.00007
     b: 0.0005
     c: 0.00013

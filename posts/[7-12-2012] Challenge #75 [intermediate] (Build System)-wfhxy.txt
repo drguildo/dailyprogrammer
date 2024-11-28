@@ -15,24 +15,24 @@ Each line of the input file is treated as a seperate command, where each command
 
 Commands to set the target:
 
-    exe &lt;file&gt;
-    lib &lt;file&gt;
+    exe <file>
+    lib <file>
     
-This says that the current build target is an executable named &lt;file&gt;, or a static lib named &lt;file&gt;.  All subsequent commands affect this build target until it is changed.
+This says that the current build target is an executable named <file>, or a static lib named <file>.  All subsequent commands affect this build target until it is changed.
 
 Commands to set flags:
     
-    ldflags &lt;flag1&gt; &lt;flag2&gt; &lt;flag3&gt; ... &lt;flagn&gt;
-    cflags &lt;flag1&gt; &lt;flag2&gt; &lt;flag3&gt; ... &lt;flagn&gt;
+    ldflags <flag1> <flag2> <flag3> ... <flagn>
+    cflags <flag1> <flag2> <flag3> ... <flagn>
 
-ldflags appends &lt;flags&gt; to the linker flags for the current build target
-cflags appends &lt;flags&gt; to the compiler flags for the current build target
+ldflags appends <flags> to the linker flags for the current build target
+cflags appends <flags> to the compiler flags for the current build target
 
 Commands to set dependencies:
 
-    link &lt;file&gt;
+    link <file>
 
-This says to append &lt;file&gt; to the list of linked libraries for the current build target.  This is used for dependency resolution.
+This says to append <file> to the list of linked libraries for the current build target.  This is used for dependency resolution.
 
 Commands to set source files.
 If a line does not contain a command and is not blank, then that line is interpreted as the filename of a C source file to add to the current build target's source list.

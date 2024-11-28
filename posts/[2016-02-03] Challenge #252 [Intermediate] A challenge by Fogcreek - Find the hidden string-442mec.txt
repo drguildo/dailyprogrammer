@@ -59,7 +59,7 @@ For the following 3200 character string (ignoring newlines):
 
 5. The remaining string is the answer.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 **Input**
 

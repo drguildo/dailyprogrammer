@@ -10,5 +10,5 @@ When translating to Morse code, one space should be used to separate morse code 
 Here's a chart of the morse code symbols: [1] http://www.w1wc.com/pdf_files/international_morse_code.pdf
 
 Example input and output:
-'sos' -&gt; '... --- ...'
-'... --- ...' -&gt; 'sos'
+'sos' -> '... --- ...'
+'... --- ...' -> 'sos'

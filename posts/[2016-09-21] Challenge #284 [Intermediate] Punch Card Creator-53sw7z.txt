@@ -24,9 +24,9 @@ To use them, a program would be transcribed to the punch cards. Each column repr
 
 Each card vendor would have an alphabet, an array of characters that are numerically represented by the punches. Here's an example of the DEC9 simple alphabet showing you the punch codes and the order in which they appear.
 
-    DEC9 &amp;-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.&lt;(+^!$*);\],%_&gt;?
+    DEC9 &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.<(+^!$*);\],%_>?
          ________________________________________________________________
-        /&amp;-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.&lt;(+^!$*);\],%_&gt;?
+        /&-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.<(+^!$*);\],%_>?
     12 / O           OOOOOOOOO                        OOOOOO
     11|   O                   OOOOOOOOO                     OOOOOO
      0|    O                           OOOOOOOOO                  OOOOOO
@@ -57,7 +57,7 @@ Your program should emit an ASCII art punchcard  in the format above, with the d
 
 # Challenge Input
 
-    DEC9 &amp;-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.&lt;(+^!$*);\],%_&gt;?
+    DEC9 &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:#@'="[.<(+^!$*);\],%_>?
 	3
 	Hello, world!
 	This is Reddit's r/dailyprogrammer challenge. 

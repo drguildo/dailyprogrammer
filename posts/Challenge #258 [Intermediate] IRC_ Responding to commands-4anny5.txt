@@ -59,27 +59,27 @@ In addition to the last challenge's output, you must also pick and respond to on
 must take at least one parameter, and the return value should be chatted back to the same channel prefixed with the nick
 of the person who invoked the command.
 
-The following code block has the prefix `&gt;` for outgoing messages, and `&lt;` for incoming messages.
+The following code block has the prefix `>` for outgoing messages, and `<` for incoming messages.
 
-    &gt;NICK Nickname
-    &gt;USER Username 0 * :Real Name
-    &lt;:wolfe.freenode.net NOTICE * :*** Looking up your hostname...
-    &lt;:wolfe.freenode.net NOTICE * :*** Checking Ident
-    &lt;:wolfe.freenode.net NOTICE * :*** Found your hostname
-    &lt;:wolfe.freenode.net NOTICE * :*** No Ident response
-    &lt;:wolfe.freenode.net 001 Nickname :Welcome to the freenode Internet Relay Chat Network Nickname
+    >NICK Nickname
+    >USER Username 0 * :Real Name
+    <:wolfe.freenode.net NOTICE * :*** Looking up your hostname...
+    <:wolfe.freenode.net NOTICE * :*** Checking Ident
+    <:wolfe.freenode.net NOTICE * :*** Found your hostname
+    <:wolfe.freenode.net NOTICE * :*** No Ident response
+    <:wolfe.freenode.net 001 Nickname :Welcome to the freenode Internet Relay Chat Network Nickname
     --- A bit later ---
-    &lt;:wolfe.freenode.net 376 MyRC_Bot :End of /MOTD command.
-    &gt;JOIN #reddit-dailyprogrammer,#rdp,#botters-test
-    &lt;:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #reddit-dailyprogrammer
-    &gt;PRIVMSG #reddit-dailyprogrammer :Hello World!
-    &lt;:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #rdp
-    &gt;PRIVMSG #rdp :Hello World!
-    &lt;:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #botters-test
-    &gt;PRIVMSG #botters-test :Hello World!
+    <:wolfe.freenode.net 376 MyRC_Bot :End of /MOTD command.
+    >JOIN #reddit-dailyprogrammer,#rdp,#botters-test
+    <:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #reddit-dailyprogrammer
+    >PRIVMSG #reddit-dailyprogrammer :Hello World!
+    <:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #rdp
+    >PRIVMSG #rdp :Hello World!
+    <:GeekBot!G33kDude@192-168-1-42.isp.com JOIN #botters-test
+    >PRIVMSG #botters-test :Hello World!
     --- Wait for chat ---
-    &lt;:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG #reddit-dailyprogrammer :GeekBot: sum 12 8 7 3 5
-    &gt;PRIVMSG #reddit-dailyprogrammer :GeekDude: The sum is 35
+    <:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG #reddit-dailyprogrammer :GeekBot: sum 12 8 7 3 5
+    >PRIVMSG #reddit-dailyprogrammer :GeekDude: The sum is 35
 
 Also, don't forget to return any incoming `PING` messages!
 
@@ -103,10 +103,10 @@ you would end up sending the chat to yourself.
 When communicating with the bot directly via private message, nickname prefixes for calling commands and for return
 values should be optional. For example, the following should work:
 
-    &lt;:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG GeekBot :GeekBot: div 1 9801
-    &gt;PRIVMSG GeekDude :GeekDude: 0.00010203...
-    &lt;:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG GeekBot :div 1 9801
-    &gt;PRIVMSG GeekDude :0.00010203...
+    <:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG GeekBot :GeekBot: div 1 9801
+    >PRIVMSG GeekDude :GeekDude: 0.00010203...
+    <:GeekDude!G33kDude@192-168-1-42.isp.com PRIVMSG GeekBot :div 1 9801
+    >PRIVMSG GeekDude :0.00010203...
 
 # Notes
 

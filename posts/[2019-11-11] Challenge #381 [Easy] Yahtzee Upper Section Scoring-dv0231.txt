@@ -12,11 +12,11 @@ The maximum here is 10 (2x5), so your result should be 10.
 
 # Examples
 
-    yahtzee_upper([2, 3, 5, 5, 6]) =&gt; 10
-    yahtzee_upper([1, 1, 1, 1, 3]) =&gt; 4
-    yahtzee_upper([1, 1, 1, 3, 3]) =&gt; 6
-    yahtzee_upper([1, 2, 3, 4, 5]) =&gt; 5
-    yahtzee_upper([6, 6, 6, 6, 6]) =&gt; 30
+    yahtzee_upper([2, 3, 5, 5, 6]) => 10
+    yahtzee_upper([1, 1, 1, 1, 3]) => 4
+    yahtzee_upper([1, 1, 1, 3, 3]) => 6
+    yahtzee_upper([1, 2, 3, 4, 5]) => 5
+    yahtzee_upper([6, 6, 6, 6, 6]) => 30
 
 # Optional Bonus
 
@@ -24,7 +24,7 @@ Efficiently handle inputs that are unsorted and much larger, both in the number 
 
     yahtzee_upper([1654, 1654, 50995, 30864, 1654, 50995, 22747,
         1654, 1654, 1654, 1654, 1654, 30864, 4868, 1654, 4868, 1654,
-        30864, 4868, 30864]) =&gt; 123456
+        30864, 4868, 30864]) => 123456
 
 There's no strict limit on how fast it needs to run. That depends on your language of choice. But for rough comparison, my Python solution on [this challenge input, consisting of 100,000 values between 1 and 999,999,999](https://gist.githubusercontent.com/cosmologicon/beadf49c9fe50a5c2a07ab8d68093bd0/raw/fb5af1a744faf79d64e2a3bb10973e642dc6f7b0/yahtzee-upper-1.txt) takes about 0.2 seconds (0.06 seconds not counting input parsing).
 

@@ -22,12 +22,12 @@ As an example, let shell and propellant retrieval take two seconds each. Let gun
 three seconds, your cannon would only fire once, but if you simulated for five seconds, it would fire twice, if simulated for seven seconds, it would fire thrice, etc.
 
 *Author: nint22*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
-Expect four decimal numbers (up to two decimal points in precision, so a format like "&lt;some integers or zero&gt;.&lt;two integer decimals, or double-zero&gt;") on standard input (console) delimited by a space character. Let these four decimals, in order, be N A B and C. N is the time you want the firing system to be simulated. A and B are, respectively, the work times for shell and propellant retrieval. Finally, C is the time it takes to fire the cannon.
+Expect four decimal numbers (up to two decimal points in precision, so a format like "<some integers or zero>.<two integer decimals, or double-zero>") on standard input (console) delimited by a space character. Let these four decimals, in order, be N A B and C. N is the time you want the firing system to be simulated. A and B are, respectively, the work times for shell and propellant retrieval. Finally, C is the time it takes to fire the cannon.
 ## Output Description
 Simply print, as an integer, how many times the cannon can successfully fire in the given simulation time. Please note that a cannon's shot can be counted before the cannon's work time is past.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
     5.00 2.00 2.00 1.00
 ## Sample Output

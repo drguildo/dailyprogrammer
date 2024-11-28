@@ -28,21 +28,21 @@ On the first line of input, you will be given a number **N**, and then the list 
 
 You will then be given **N** lines containing probabilities in this format:
 
-    A &amp; !B: 0.03
+    A & !B: 0.03
 
-Where the `&amp;` indicates the left and right occur together, and the `!` indicates negation - ie. `A &amp; !B` indicates that event A occurs and event B doesn't.
+Where the `&` indicates the left and right occur together, and the `!` indicates negation - ie. `A & !B` indicates that event A occurs and event B doesn't.
 
 Finally, on the last line, you will be given an outcome for which to find the probability of, like this:
 
-    !A &amp; !B
+    !A & !B
 
 Thus, an input set describing Stan and his buses would look like this (where B1 is missing bus 1, B2 is missing bus 2):
 
     3 B1 B2
-    !B1 &amp; B2: 0.01
-    !B1 &amp; !B2: 0.85
+    !B1 & B2: 0.01
+    !B1 & !B2: 0.85
     B2: 0.12
-    B1 &amp; !B2
+    B1 & !B2
 
 **You may assume all probabilities are in increments of 1/100 - ie. 0.27, 0.9, 0.03, but not 0.33333333 or 0.0001.**
 
@@ -61,11 +61,11 @@ Output the probability of the given unknown - in the example above,
     6 A B C
     B: 0.7
     C: 0.27
-    A &amp; B &amp; !C: 0
-    A &amp; C &amp; !B: 0
-    A &amp; !B &amp; !C: 0.13
-    !A &amp; !B &amp; !C: 0.1
-    B &amp; C
+    A & B & !C: 0
+    A & C & !B: 0
+    A & !B & !C: 0.13
+    !A & !B & !C: 0.1
+    B & C
 
 ## Output
 
@@ -74,10 +74,10 @@ Output the probability of the given unknown - in the example above,
 ## Input
 
     3 B1 B2
-    !B1 &amp; B2: 0.01
-    !B1 &amp; !B2: 0.85
+    !B1 & B2: 0.01
+    !B1 & !B2: 0.85
     B2: 0.12
-    B1 &amp; !B2
+    B1 & !B2
 
 ## Output
 
@@ -86,7 +86,7 @@ Output the probability of the given unknown - in the example above,
 ## Input
 
     1 A B
-    A &amp; B: 0.5
+    A & B: 0.5
     A
 
 ## Output

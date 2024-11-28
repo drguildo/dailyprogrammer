@@ -6,7 +6,7 @@ It can be helpful sometimes to rotate a string 90-degrees, like a big vertical "
 
 *Author:* nint22
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will first be given an integer N which is the number of strings that follows. N will range inclusively from 1 to 16. Each line of text will have at most 256 characters, including the new-line (so at most 255 printable-characters, with the last being the new-line or carriage-return).
@@ -15,7 +15,7 @@ You will first be given an integer N which is the number of strings that follows
 
 Simply print the given lines top-to-bottom. The first given line should be the left-most vertical line.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     1

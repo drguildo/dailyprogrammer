@@ -11,18 +11,18 @@ Write A function that takes an amount of money, rounds it to the nearest penny a
 
 
 *Author: nanermaner*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Your Function should accept a decimal number (which may or may not have an actual decimal, in which you can assume it is an integer representing dollars, not cents). Your function should round this number to the nearest hundredth.
 ## Output Description
 Print the minimum number of coins needed. The four coins used should be 25 cent, 10 cent, 5 cent and 1 cent. It should be in the following format:
 
-    Quarters: &lt;integer&gt;
-    Dimes: &lt;integer&gt;
-    Nickels: &lt;integer&gt;
-    Pennies: &lt;integer&gt;
+    Quarters: <integer>
+    Dimes: <integer>
+    Nickels: <integer>
+    Pennies: <integer>
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 1.23
 ## Sample Output

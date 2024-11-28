@@ -1,6 +1,6 @@
 Title: [10/27/2012] Challenge #108 [Easy] (Scientific Notation Translator)
 
-If you haven't gathered from the title, the challenge here is to go from decimal notation -&gt; scientific notation.  For those that don't know, scientific notation allows for a decimal less than ten, greater than zero, and a power of ten to be multiplied.
+If you haven't gathered from the title, the challenge here is to go from decimal notation -> scientific notation.  For those that don't know, scientific notation allows for a decimal less than ten, greater than zero, and a power of ten to be multiplied.
 
 For example: 239487 would be 2.39487 x 10^5
 

@@ -6,7 +6,7 @@ Now that we have the basic, let's review something else [Elementary cellular aut
 
 I could explain it, but over at [Wolfram](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html) they do a pretty decent job.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 All tapes have 1 active cell at the center
 

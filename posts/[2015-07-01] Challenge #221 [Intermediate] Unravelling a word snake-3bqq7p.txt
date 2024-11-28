@@ -40,7 +40,7 @@ In this case it's unclear whether snake's inital direction is right or down solv
 
 Specifically, "unambiguous" means that every letter will only ever have two neighbors, except for the end-points, which will have only one. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Input
 
@@ -52,7 +52,7 @@ Note that the word-snake will not have any trailing spaces on any line, so you c
 
 The resulting sequence of words from unraveling the word snake! Each word will be in all caps and each word will be separated by a space.
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 ##Input 1
     

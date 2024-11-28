@@ -8,7 +8,7 @@ Let's define the actual behavior of the jousting event and how the robots work: 
 
 [Check out these two images as examples of the described scene](http://imgur.com/a/NSzpY). Note that the actual robot geometry you want to simulate is a perfect circle, where the radius is 0.25 meters, or 25 centimeters.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given three separate lines of information: the first has data describing the hallway that the robots will joust in, and then the second and third represent information on the left and right robots, respectively.
@@ -21,7 +21,7 @@ The second and third lines also contain two integers: the first is the initial a
 
 Simply print "Left robot wins at X seconds." or "Right robot wins at X seconds." whenever the robots collide: make sure that the variable X is the number of seconds elapsed since start, and that the winning robot is whichever robot had the higher velocity. In case the robots never hit each other during a simulation, simply print "No winner found".
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     10 2

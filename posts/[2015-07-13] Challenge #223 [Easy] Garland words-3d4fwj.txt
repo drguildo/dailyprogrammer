@@ -10,10 +10,10 @@ Today's challenge is to write a function `garland` that, given a lowercase word,
 
 # Examples
 
-    garland("programmer") -&gt; 0
-    garland("ceramic") -&gt; 1
-    garland("onion") -&gt; 2
-    garland("alfalfa") -&gt; 4
+    garland("programmer") -> 0
+    garland("ceramic") -> 1
+    garland("onion") -> 2
+    garland("alfalfa") -> 4
 
 # Optional challenges
 

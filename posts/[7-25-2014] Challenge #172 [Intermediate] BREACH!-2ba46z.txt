@@ -10,7 +10,7 @@ The password wasn't in plaintext, it was hashed, but an identical password broug
 
 Maybe If I could get a unique hash for each user regardless of the password they enter that would solve the problem? Yes, that'll do...Damn monkeys...
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 
 

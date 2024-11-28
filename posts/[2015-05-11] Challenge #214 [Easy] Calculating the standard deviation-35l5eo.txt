@@ -20,7 +20,7 @@ The following steps describe how to calculate standard deviation for a collectio
 
 4. Finally, to get standard deviation, take the square root of the variance. For our example, sqrt(95.6) ≈ 9.7775. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 #Input
 
@@ -30,7 +30,7 @@ The input will consist of a single line of numbers separated by spaces. The numb
 
 Your output should consist of a single line with the standard deviation rounded off to at most 4 digits after the decimal point.
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 ##Input 1
 

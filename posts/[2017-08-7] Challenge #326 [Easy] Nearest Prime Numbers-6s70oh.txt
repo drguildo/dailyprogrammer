@@ -12,12 +12,12 @@ The input will be a number on each line, called *n*.
 # Output Description 
 
 The format of the output will be:  
-&gt; *p1 &lt; n &lt; p2*
+> *p1 < n < p2*
 
 where *p1* is the smaller prime, *p2* is the larger prime and *n* is the input.
 
 If *n* already is a prime, the output will be:  
-&gt;*n* is prime.
+>*n* is prime.
 
 # Challenge Input
 
@@ -28,10 +28,10 @@ If *n* already is a prime, the output will be:
 
 # Challenge Output
 
-	269 &lt; 270 &lt; 271  
+	269 < 270 < 271  
 	541 is prime.  
-	991 &lt; 993 &lt; 997  
-	647 &lt; 649 &lt; 653
+	991 < 993 < 997  
+	647 < 649 < 653
 
 # Bonus
 

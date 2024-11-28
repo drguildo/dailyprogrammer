@@ -8,16 +8,16 @@ You will be given two lists, list A and B, where the elements are positive integ
 
 *Author: nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given two lists, list A and B, of integers from 1 to 2147483647. List A will be unsorted, while list B will be sorted. List B has extra elements in the start of the list that are all '0' value: this is buffered space for you to work with when merging and sorting list A into B. These two lists will be space-delimited and on separate lines.
 
 ## Output Description
 
-Simply print the contents of list B, after it has had the contents of A merged &amp; sorted within it.
+Simply print the contents of list B, after it has had the contents of A merged & sorted within it.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     692 1 32

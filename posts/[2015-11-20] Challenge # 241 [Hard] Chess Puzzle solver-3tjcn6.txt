@@ -140,4 +140,4 @@ For these problems all legal moves for white can be considered.  But a good filt
 r2qrb2/p1pn1Qp1/1p4Nk/4PR2/3n4/7N/P5PP/R6K
 
 
-&gt;Thanks to /u/szerlok for this Challenge idea.  If you have ideas for challenges, visit /r/dailyprogrammer_ideas 
+>Thanks to /u/szerlok for this Challenge idea.  If you have ideas for challenges, visit /r/dailyprogrammer_ideas 

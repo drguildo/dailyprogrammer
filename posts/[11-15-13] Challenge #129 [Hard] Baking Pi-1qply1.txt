@@ -8,13 +8,13 @@ This is where [Spigot Algorithms](http://en.wikipedia.org/wiki/Spigot_algorithm)
 
 Your goal is to write an application that computes base-16 digits of Pi across multiple machines over the Internet. You will have to implement a master dispatcher service, that sends out work commands and receives results, to networked machines that implement the BBP formula. The implementation details are up to you, including the network protocol and platform you want to write for. You must support at minimum four (4) machines computing in parallel, though for demonstration purposes you may run the processes locally on one machine.
 
-**Bonus:** As an extra bonus challenge, implement a verification feature (e.g. machine 1 computes a digit, then machines 2 &amp; 3 verify it is valid).
+**Bonus:** As an extra bonus challenge, implement a verification feature (e.g. machine 1 computes a digit, then machines 2 & 3 verify it is valid).
 
 **Reddit Gold:** To thank Reddit for hosting such an awesome community, the first two valid solutions posted will win one-month of [Reddit Gold](http://www.reddit.com/gold/about).
 
 **Special Thanks:** Special thanks to Daily Programmer's Elite6809 for clarifying why this challenge must compute in base-16 (or in a base that's a power of two), and not in the original description's base-10. The challenge text has been updated to reflect the fix.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 There is no formal input description, though this is the desired behavior:
@@ -23,7 +23,7 @@ You launch your main dispatcher-application on Computer A. You then launch the c
 
 ## Output Description
 
-For each computed base-16 (hexadecimal) digit of Pi, write to a file a line of text in the format of &lt;Digit-Index&gt;:&lt;Computed-Digit&gt;. The order does not matter, and you may skip digits. An example of the file, after eight computed digits, would be as follows:
+For each computed base-16 (hexadecimal) digit of Pi, write to a file a line of text in the format of <Digit-Index>:<Computed-Digit>. The order does not matter, and you may skip digits. An example of the file, after eight computed digits, would be as follows:
 
     0:2
     1:4

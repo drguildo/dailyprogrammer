@@ -37,7 +37,7 @@ Your challenge is to be able to take 2 sets of inputs and find out how many uniq
 
 #Input:
 
-&lt;Base system&gt; &lt;digits&gt;
+<Base system> <digits>
 
 * Base system is a base counting system. This number can be between 2 to 16.
 * Digits will be a list of digits that are ALL shown only once in the number

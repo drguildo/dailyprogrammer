@@ -7,29 +7,29 @@ You are working as the only software engineer at a small but
 successful startup. One day, though, there is a problem. You got this
 e-mail from the CEO:
 
-&gt; My dearest programmer,
-&gt; 
-&gt; Wonderful news! It looks like our website exploded in popularity
-&gt; last night! We are going to be rich! We have hundreds to thousands
-&gt; of people accessing the site every second, and growing fast.
-&gt;
-&gt; To capitalize on this, we need to immediately identify who the
-&gt; biggest sources of traffic are. Fortunately, my friend Quincy has
-&gt; sent me this huge list of internet addresses coupled with associated
-&gt; names. Isn't that cool?
-&gt;
-&gt; Can you write something that takes our huge amount of visitors,
-&gt; compares it against this list of addresses/names, and creates some
-&gt; statistics? I dunno, a list of names with a count of how many visits
-&gt; they each paid us?
-&gt;
-&gt; Do this and I'll throw a pizza party for everyone!
-&gt;
-&gt; Toodles!
-&gt;
-&gt; /u/Blackshell
-&gt;
-&gt; &lt;attachment: ip_ranges.txt, 33 MB&gt;
+> My dearest programmer,
+> 
+> Wonderful news! It looks like our website exploded in popularity
+> last night! We are going to be rich! We have hundreds to thousands
+> of people accessing the site every second, and growing fast.
+>
+> To capitalize on this, we need to immediately identify who the
+> biggest sources of traffic are. Fortunately, my friend Quincy has
+> sent me this huge list of internet addresses coupled with associated
+> names. Isn't that cool?
+>
+> Can you write something that takes our huge amount of visitors,
+> compares it against this list of addresses/names, and creates some
+> statistics? I dunno, a list of names with a count of how many visits
+> they each paid us?
+>
+> Do this and I'll throw a pizza party for everyone!
+>
+> Toodles!
+>
+> /u/Blackshell
+>
+> <attachment: ip_ranges.txt, 33 MB>
 
 The attached file looks like it contains a list of IP address ranges
 and names. Using your server administration skills, you are also able
@@ -112,7 +112,7 @@ Sample Input Lookups
 Formal Output
 =============
 
-You must output a reverse-ordered list of the total number of times the varying institutions/people visited your website. Each visitor IP should only count once, and it should count for the **smallest** range it is a member of. IPs that were not found in the given rangescan count as `&lt;unknown&gt;`.
+You must output a reverse-ordered list of the total number of times the varying institutions/people visited your website. Each visitor IP should only count once, and it should count for the **smallest** range it is a member of. IPs that were not found in the given rangescan count as `<unknown>`.
 
 	8 - National Center for Pointlessness
 	4 - Shavian Refillable Committee
@@ -120,7 +120,7 @@ You must output a reverse-ordered list of the total number of times the varying 
 	2 - University of Vestige
 	1 - SAP Rostov
 	1 - United Adverbs
-	1 - &lt;unknown&gt;
+	1 - <unknown>
 
 Explanation
 -----------
@@ -158,7 +158,7 @@ Here's each input IP and which name it mapped to:
     United Adverbs
     123.51.100.52
 
-	&lt;unknown&gt;
+	<unknown>
 	127.0.0.1
 
 

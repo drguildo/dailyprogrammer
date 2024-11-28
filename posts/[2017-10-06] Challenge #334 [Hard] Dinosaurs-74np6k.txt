@@ -10,7 +10,7 @@ dinosaurs wakes up, he does not stand a chance. Thus, he wants to follow a path 
 In this problem we assume that Jeff and the dinosaurs are points on the plane and that Jeff’s path is a continuous curve connecting the southwest and northeast corners of the lab. As we mentioned, Jeff wants to maximize the minimum distance between this curve and the position of any dinosaur. You can find an example solution for the third test case
 in the sample input [here](http://imgur.com/duotSll).
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input Description
 
@@ -26,7 +26,7 @@ Each of the next `N` lines contains two integers `X` and `Y` separated by a sing
 For each test case print a single line with the maximum possible distance to the
 closest dinosaur rounded to three decimal digits.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Input
 

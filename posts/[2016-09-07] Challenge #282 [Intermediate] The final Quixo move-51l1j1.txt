@@ -9,7 +9,7 @@ The blocks can only be taken from the sides and must be placed in a line, pushin
 
 from [boardgamegeek](https://boardgamegeek.com/boardgame/3190/quixo):
 
-&gt; On a turn, the active player takes a cube that is blank or bearing his symbol from the outer ring of the grid, rotates it so that it shows his symbol (if needed), then adds it to the grid by pushing it into one of the rows from which it was removed. Thus, a few pieces of the grid change places each turn, and the cubes slowly go from blank to crosses and circles. Play continues until someone forms an orthogonal or diagonal line of five cubes bearing his symbol, with this person winning the game.
+> On a turn, the active player takes a cube that is blank or bearing his symbol from the outer ring of the grid, rotates it so that it shows his symbol (if needed), then adds it to the grid by pushing it into one of the rows from which it was removed. Thus, a few pieces of the grid change places each turn, and the cubes slowly go from blank to crosses and circles. Play continues until someone forms an orthogonal or diagonal line of five cubes bearing his symbol, with this person winning the game.
 
 If the block comes from a corner, you have 2 options
 
@@ -112,7 +112,7 @@ The grid with the current game
 ## Output
 The move that will make you have won the game
 
-    B1 -&gt; B5
+    B1 -> B5
 
 Here you have me doing this with the actual game
 
@@ -130,7 +130,7 @@ Here you have me doing this with the actual game
 
 ##Challenge output 1
 
-    B1 -&gt; A1
+    B1 -> A1
 
 ##Inputs from /u/zandekar
 
@@ -176,9 +176,9 @@ Give all possible answers to win.
 
 ##Output 1
 
-    B1 -&gt; B5
-    B1 -&gt; A1
-    B1 -&gt; E1
+    B1 -> B5
+    B1 -> A1
+    B1 -> E1
 
 #Finally
 

@@ -50,25 +50,25 @@ Note that this JSON document has been pretty-printed, which means that a bunch o
 
 If you wish to find the name of the first play in the list of selected works, you could say that the "path" to it looks something like this: 
 
-    selectedWorks -&gt; 0 -&gt; name
+    selectedWorks -> 0 -> name
 
 You would say that the value located at this path is `"The Tragedy of Macbeth"`. The value "dailyprogrammer" is located at:
 
-    favoriteWebsites -&gt; 1
+    favoriteWebsites -> 1
 
 Notice that JSON lists are zero-based, so the first item in the list has index 0.
 
 Your challenge today is as follows: you will be given a JSON object, and you will print out the search path that leads to the value "dailyprogrammer". You are allowed to use any JSON parsing libraries that you want to, today's challenge is not about parsing JSON, it's about finding a key hidden in a JSON object. If you wish to write a parser yourself, you are of course allowed to do so (though I personally think that would be a little nuts), but you are absolutely not required to do so in any way. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Inputs
 The input will be a JSON document which contains the string "dailyprogrammer" somewhere as a value. The JSON document is guaranteed to be valid and use no non-ASCII characters. 
 
 ##Outputs
-The search-path for the string "dailyprogrammer", in the format described above. Each "element" of the path will either be an integer (if it's indexing a list) or a string (if it's indexing an object). The elements should be joined together with " -&gt; " between them.
+The search-path for the string "dailyprogrammer", in the format described above. Each "element" of the path will either be an integer (if it's indexing a list) or a string (if it's indexing an object). The elements should be joined together with " -> " between them.
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 ##Input 1
 
@@ -83,7 +83,7 @@ The search-path for the string "dailyprogrammer", in the format described above.
 
 ##Output 1
 
-    favoriteWebsites -&gt; 1
+    favoriteWebsites -> 1
 
 ##Input 2
 
@@ -105,7 +105,7 @@ The search-path for the string "dailyprogrammer", in the format described above.
 
 ##Output 2
 
-    caki -&gt; cyd -&gt; qembsejm -&gt; 1
+    caki -> cyd -> qembsejm -> 1
 
 #Challenge inputs
 

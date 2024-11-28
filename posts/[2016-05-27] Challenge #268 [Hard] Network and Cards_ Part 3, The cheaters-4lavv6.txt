@@ -17,38 +17,38 @@ When all connected clients send a `START` command, the game will begin, you don'
 
 The communication goes as followed:
 
-    CLIENT A -&gt; SERVER: START
-    CLIENT B -&gt; SERVER: START
+    CLIENT A -> SERVER: START
+    CLIENT B -> SERVER: START
 
-    SERVER -&gt; CLIENT A: Ace of spades
-    SERVER -&gt; CLIENT B: 4 of clubs
+    SERVER -> CLIENT A: Ace of spades
+    SERVER -> CLIENT B: 4 of clubs
 
-    SERVER -&gt; CLIENT A: TAKE or PASS
-    CLIENT A -&gt; SERVER: TAKE
-    SERVER -&gt; CLIENT A: Queen of hearts
-    CLIENT A -&gt; SERVER: PLAY Ace of spades
+    SERVER -> CLIENT A: TAKE or PASS
+    CLIENT A -> SERVER: TAKE
+    SERVER -> CLIENT A: Queen of hearts
+    CLIENT A -> SERVER: PLAY Ace of spades
     
-    SERVER -&gt; CLIENT B: TAKE or PASS
-    CLIENT B -&gt; SERVER: PASS
+    SERVER -> CLIENT B: TAKE or PASS
+    CLIENT B -> SERVER: PASS
     
 The client has the option to either respond with a `TAKE` command, folowed by a `PLAY` or `PASS` command, the server then go to the next client till everyone is done (all passed or everyone has 21 or more in score)
 
 The cards have the following values:
 
-    2 -&gt; 2
-    3 -&gt; 3
-    4 -&gt; 4
-    5 -&gt; 5
-    6 -&gt; 6
-    7 -&gt; 7
-    8 -&gt; 8
-    9 -&gt; 9
-    Jack -&gt; 10
-    Queen -&gt; 10
-    King -&gt; 10
-    Ace -&gt; 1 or 11 (11 if not over 21 and 1 if over)
+    2 -> 2
+    3 -> 3
+    4 -> 4
+    5 -> 5
+    6 -> 6
+    7 -> 7
+    8 -> 8
+    9 -> 9
+    Jack -> 10
+    Queen -> 10
+    King -> 10
+    Ace -> 1 or 11 (11 if not over 21 and 1 if over)
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

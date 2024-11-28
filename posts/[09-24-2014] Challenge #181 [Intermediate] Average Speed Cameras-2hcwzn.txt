@@ -12,23 +12,23 @@ In this challenge, you will be given a number of speed cameras and their positio
 
 The first section of the input will contain the speed limit and the position of the speed cameras. The speed limit may be in miles per hour or kilometres per hour. The lines will be in the format:
 
-    Speed limit is &lt;limit&gt; mph.
+    Speed limit is <limit> mph.
 
 OR
 
-	Speed limit is &lt;limit&gt; km/h.
+	Speed limit is <limit> km/h.
 
 The lines describing the positions of the speed cameras will look like:
 
-	Speed camera &lt;number&gt; is &lt;distance&gt; metres down the motorway.
+	Speed camera <number> is <distance> metres down the motorway.
 
 Speed camera number 1 will always have a distance of 0.
 
 After this, you will get logs for each speed camera, like this:
 
-	Start of log for camera &lt;number&gt;:
-	Vehicle &lt;registration number&gt; passed camera &lt;number&gt; at &lt;time&gt;.
-	Vehicle &lt;registration number&gt; passed camera &lt;number&gt; at &lt;time&gt;.
+	Start of log for camera <number>:
+	Vehicle <registration number> passed camera <number> at <time>.
+	Vehicle <registration number> passed camera <number> at <time>.
 	...
 
 Example inputs and outputs can be found below.
@@ -37,9 +37,9 @@ Example inputs and outputs can be found below.
 
 For each vehicle that breaks the speed limit, print a line like so:
 
-    Vehicle &lt;registration number&gt; broke the speed limit by &lt;amount&gt;.
+    Vehicle <registration number> broke the speed limit by <amount>.
 
-Where `&lt;amount&gt;` is in the local units.
+Where `<amount>` is in the local units.
 
 # Sample Inputs and Outputs
 

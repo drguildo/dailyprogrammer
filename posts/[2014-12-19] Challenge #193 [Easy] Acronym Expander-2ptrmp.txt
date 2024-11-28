@@ -16,7 +16,7 @@ This is even evident on IRC's and other chat systems.
 However, all this abbreviated text can be confusing and intimidating for someone new to a game. They're not going to instantly know what 'gl hf all'(good luck have fun all) means. It is with this problem that you come in.
 
 You are tasked with converting an abbreviated sentence into its full version.
-#Inputs &amp; Outputs
+#Inputs & Outputs
 
 ##Input
 On console input you will be given a string that represents the abbreviated chat message.

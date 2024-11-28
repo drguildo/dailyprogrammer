@@ -6,7 +6,7 @@ There is a crisis unfolding in Reddit. For many years, Redditors have continued 
 
 Given a word, a width and a length, you must print a rektangle with the word of the given dimensions.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 

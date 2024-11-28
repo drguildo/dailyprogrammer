@@ -8,7 +8,7 @@ The Shannon entropy *H* of input sequence *X* is calculated as -1 times the sum 
 
                 n
                 _   count(i)          count(i)
-    H(X) = -1 * &gt;   --------- * log  (--------)
+    H(X) = -1 * >   --------- * log  (--------)
                 -       N          2      N
                 i=1
 

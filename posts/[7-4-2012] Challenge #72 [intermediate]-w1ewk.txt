@@ -14,11 +14,11 @@ Each piece of cellophane is guaranteed to be an positive integer number of centi
 on the illuminator.  
 
 The input file will contain the following:  
-First, an integer n &lt;= 1024 specifying how many pieces of cellophane there are
+First, an integer n <= 1024 specifying how many pieces of cellophane there are
 
 Then n lines for each piece of cellophane, where each line contains a character 'R' or 'B' for the color of the cellophane sheet, then two positive integers x,y for the position of the upper-left corner of the sheet, then two positive integers w,h for the width and height of the sheet.  
 
-IMPORTANT: Here are the constraints on the dimensions:  1 &lt;= x+w &lt;= 4096,1&lt;=y+h&lt;=4096,1&lt;=w&lt;=4095,1&lt;=h&lt;=4095...in other words, a sheet should always lie within the boundry of the 4k by 4k board.
+IMPORTANT: Here are the constraints on the dimensions:  1 <= x+w <= 4096,1<=y+h<=4096,1<=w<=4095,1<=h<=4095...in other words, a sheet should always lie within the boundry of the 4k by 4k board.
 
 Here is an example input and output
 

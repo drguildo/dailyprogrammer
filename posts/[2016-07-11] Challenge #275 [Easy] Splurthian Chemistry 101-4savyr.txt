@@ -19,15 +19,15 @@ The symbol will have exactly two letters. Both element name and symbol will cont
 
 # Examples
 
-    Spenglerium, Ee -&gt; true
-    Zeddemorium, Zr -&gt; true
-    Venkmine, Kn -&gt; true
-    Stantzon, Zt -&gt; false
-    Melintzum, Nn -&gt; false
-    Tullium, Ty -&gt; false
+    Spenglerium, Ee -> true
+    Zeddemorium, Zr -> true
+    Venkmine, Kn -> true
+    Stantzon, Zt -> false
+    Melintzum, Nn -> false
+    Tullium, Ty -> false
 
 # Optional bonus challenges
 
-1. Given an element name, find the valid symbol for that name that's first in alphabetical order. E.g. `Gozerium -&gt; Ei`, `Slimyrine -&gt; Ie`.
-2. Given an element name, find the number of distinct valid symbols for that name. E.g. `Zuulon -&gt; 11`.
-3. The planet Blurth has similar symbol rules to Splurth, but symbols can be any length, from 1 character to the entire length of the element name. Valid Blurthian symbols for `Zuulon` include `N`, `Uuo`, and `Zuuln`. Complete challenge #2 for the rules of Blurth. E.g. `Zuulon -&gt; 47`.
+1. Given an element name, find the valid symbol for that name that's first in alphabetical order. E.g. `Gozerium -> Ei`, `Slimyrine -> Ie`.
+2. Given an element name, find the number of distinct valid symbols for that name. E.g. `Zuulon -> 11`.
+3. The planet Blurth has similar symbol rules to Splurth, but symbols can be any length, from 1 character to the entire length of the element name. Valid Blurthian symbols for `Zuulon` include `N`, `Uuo`, and `Zuuln`. Complete challenge #2 for the rules of Blurth. E.g. `Zuulon -> 47`.

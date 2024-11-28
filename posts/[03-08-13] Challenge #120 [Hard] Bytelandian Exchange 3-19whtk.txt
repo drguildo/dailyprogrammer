@@ -11,21 +11,21 @@ These two machines can be used together to get arbitrarily large amounts of mone
 
 For instance, it can be done with a coin worth 897. Here's how. Use Machine 1 to convert it into coins worth 448, 299, and 224. Through repeated applications of Machine 1, the 299-valued coin can be converted into 262 1-valued coins, and the 224-valued coin can be converted into 188 1-valued coins. At this point you have a 448-valued coin and 450 1-valued coins. By using Machine 2 449 times, you can make this into a 897-valued coin and a 1-valued coin. To summarize this strategy:
 
-  * 897 -&gt; 448 + 299 + 224 (Machine 1)
-  * 299 + 224 -&gt; 450x1 (repeated Machine 1)
-  * 448 + 450x1 -&gt; 897 + 1 (repeated Machine 2)
+  * 897 -> 448 + 299 + 224 (Machine 1)
+  * 299 + 224 -> 450x1 (repeated Machine 1)
+  * 448 + 450x1 -> 897 + 1 (repeated Machine 2)
 
 But of course, 897 is not the lowest coin value that lets you pull this trick off. Your task is to find the lowest such value.
 
 [Here is a python script that will verify the steps of a correct solution (will not verify that it's optimal, though).](http://pastebin.com/JJuKJBLp)
 
 *Author: Cosmologicon*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 None
 ## Output Description
 The lowest N such that an N-valued coin can be converted into an N-valued coin *and* a 1-valued coin.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 None
 ## Sample Output

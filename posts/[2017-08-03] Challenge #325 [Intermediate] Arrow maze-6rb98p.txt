@@ -10,7 +10,7 @@ At each node in the maze we can decide to change direction (depending on the new
 
 When done right, we should have a path to [home](http://imgur.com/UqD5Brf) 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

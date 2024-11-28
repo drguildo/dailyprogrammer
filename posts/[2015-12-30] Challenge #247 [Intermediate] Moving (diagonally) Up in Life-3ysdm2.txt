@@ -139,7 +139,7 @@ Output the number of valid path combinations in the input, or an error message i
 
 ### Output
 
-**&lt;invalid input&gt;**
+**<invalid input>**
 
 ## Example 4
 

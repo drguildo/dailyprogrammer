@@ -47,7 +47,7 @@ Output each consecutive distance rating, one per line.
 
 # Notes / hints  
 
-Be careful that your program doesn't double up the distances. Consider the sequence `1 2`. An incorrect algorithm might see 1 -&gt; 2 and 2 -&gt; 1 as two separate distances, resulting in a (wrong) consecutive distance rating of 2. Visually, you should think of distances like [this](https://i.imgur.com/MsFLgjW.png) and not like [that](https://i.imgur.com/2V6GMQg.png).
+Be careful that your program doesn't double up the distances. Consider the sequence `1 2`. An incorrect algorithm might see 1 -> 2 and 2 -> 1 as two separate distances, resulting in a (wrong) consecutive distance rating of 2. Visually, you should think of distances like [this](https://i.imgur.com/MsFLgjW.png) and not like [that](https://i.imgur.com/2V6GMQg.png).
 
 #Bonus  
 

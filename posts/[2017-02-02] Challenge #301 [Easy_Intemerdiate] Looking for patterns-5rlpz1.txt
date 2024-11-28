@@ -10,15 +10,15 @@ E.G.
     Pattern:
     XXYY means that you have a word that contains a sequence of 2 of the same letters followed by again 2 of the same letts
 
-    succeed &lt;- matches
-    succes &lt;- no match
+    succeed <- matches
+    succes <- no match
 
     XYYX means we have a word with at least for letters where you have a sequence of a letter, followed by 2 letters that are the same and then again the first letter
 
-    narrate &lt;- matches
-    hodor &lt;- no match
+    narrate <- matches
+    hodor <- no match
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

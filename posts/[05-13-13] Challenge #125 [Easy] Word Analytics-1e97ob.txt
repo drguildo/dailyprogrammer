@@ -17,10 +17,10 @@ Please note that your tool does *not* have to be case sensitive, meaning the wor
 
 *Author: nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
-As an argument to your program on the command line, you will be given a text file location (such as "C:\Users\nint22\Document.txt" on Windows or "/Users/nint22/Document.txt" on any other sane file system). This file may be empty, but will be guaranteed well-formed (all valid ASCII characters). You can assume that line endings will follow the UNIX-style new-line ending ([unlike the Windows carriage-return &amp; new-line format](http://www.cs.toronto.edu/~krueger/csc209h/tut/line-endings.html) ).
+As an argument to your program on the command line, you will be given a text file location (such as "C:\Users\nint22\Document.txt" on Windows or "/Users/nint22/Document.txt" on any other sane file system). This file may be empty, but will be guaranteed well-formed (all valid ASCII characters). You can assume that line endings will follow the UNIX-style new-line ending ([unlike the Windows carriage-return & new-line format](http://www.cs.toronto.edu/~krueger/csc209h/tut/line-endings.html) ).
 
 ## Output Description
 
@@ -37,7 +37,7 @@ For each analytic feature, you must print the results in a special string format
 
 If there are certain lines that have no answers (such as the situation in which a given document has no paragraph structures), simply do not print that line of text. In this example, I've just generated some random Lorem Ipsum text.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
 *Note that "MyDocument.txt" is just a [Lorem Ipsum](http://en.wikipedia.org/wiki/Lorem_ipsum) text file that conforms to this challenge's well-formed text-file definition.

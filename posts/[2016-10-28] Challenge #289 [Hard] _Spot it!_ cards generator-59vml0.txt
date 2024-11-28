@@ -28,18 +28,18 @@ The challenge difficulty will strongly depend on the value of N:
 
 - [Intermediate] when N is prime
 
-- [Hard] when N is a power of prime (N = X^P with X prime and P &amp;gt; 0)
+- [Hard] when N is a power of prime (N = X^P with X prime and P &gt; 0)
 
 Nobody ever succeeded in generating a finite projective plane for N not being a power of prime, but you may go for it and win the Fields medal ! It has been conjectured impossible for N = 6 by [Euler](https://en.wikipedia.org/wiki/Thirty-six_officers_problem), and more recently proven for N = 10 by... [brute force](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lam305-318.pdf) ! N = 12 is still an open case.
 
 Be aware that even for relatively small orders, brute force programs will take a long time to find a valid solution. A non-brute force algorithm exists and may be used instead.
 
-Your program should be able to handle N &amp;lt;= 101.
+Your program should be able to handle N &lt;= 101.
 
 
 **Input description**
 
-You will be given a card set order N &amp;gt; 1.
+You will be given a card set order N &gt; 1.
 
 
 **Output description**

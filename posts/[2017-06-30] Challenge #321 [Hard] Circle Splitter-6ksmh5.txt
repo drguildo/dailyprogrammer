@@ -14,7 +14,7 @@ This is a hard challenge so we have a few constraints:
 
 There are some inputs which cannot be solved. If there is no solution to this challenge then your solver must indicate this - for example, in [this scenaro](http://i.imgur.com/fDGPvX3.png), there's no "dividing sphere" which lies entirely within the square.
 
-# Input &amp; Output Description
+# Input & Output Description
 
 ## Input
 

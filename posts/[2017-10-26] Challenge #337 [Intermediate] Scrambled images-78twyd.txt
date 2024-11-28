@@ -6,7 +6,7 @@ For this challenge you will get a couple of images containing a secret word, you
 
 To unscramble the images you will have to line up all non-gray scale pixels on each "row" of the image.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 You get a [scrambled](http://i.imgur.com/rMYBq14.png) image, which you will have to unscramble to get the [original](http://i.imgur.com/wKaiHpv.png) image.
 

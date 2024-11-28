@@ -16,7 +16,7 @@ On the console, you will be given a number **N**. You will then be given **N** l
 
 You must print out **all** of the details of the triangle in the same format as above.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 
@@ -34,11 +34,11 @@ You must print out **all** of the details of the triangle in the same format as 
 	B=53.13
 	C=90
 	
-# Tips &amp; Notes
+# Tips & Notes
 
 There are 4 useful trigonometric identities you may find very useful.
 
-* [Pythagoreas' Theorem](http://latex.codecogs.com/gif.latex?r%5E2&amp;plus;s%5E2%3Dh%5E2), where *h* is the side length opposite the right-angle and *r* and *s* are any 2 other sides.
+* [Pythagoreas' Theorem](http://latex.codecogs.com/gif.latex?r%5E2&plus;s%5E2%3Dh%5E2), where *h* is the side length opposite the right-angle and *r* and *s* are any 2 other sides.
 
 * [3 Trigonometric Ratios](http://simple.wikipedia.org/wiki/Trigonometry#Trigonometric_Ratios)
 

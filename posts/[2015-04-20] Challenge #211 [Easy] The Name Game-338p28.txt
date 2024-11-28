@@ -10,29 +10,29 @@ It should be noted that while the rhyming algorithm is very elegant and easy for
 
 You should primarily refer to the song for instructions, but I've includeded the relevant lyrics here: 
 
-&gt; Come on everybody!  
-&gt; I say now let's play a game  
-&gt; I betcha I can make a rhyme out of anybody's name  
-&gt;   
-&gt; The first letter of the name, I treat it like it wasn't there  
-&gt; But a "B" or an "F" or an "M" will appear  
-&gt; And then I say "bo", add a "B", then I say the name   
-&gt; and "Bonana fanna" and a "fo"  
-&gt;   
-&gt; And then I say the name again with an "F" very plain  
-&gt; and a "fee fy" and a "mo"  
-&gt; And then I say the name again with an "M" this time  
-&gt; and there isn't any name that I can't rhyme  
-&gt;   
-&gt; But if the first two letters are ever the same,  
-&gt; I drop them both and say the name like  
-&gt;   
-&gt; Bob, Bob drop the B's "Bo-ob"  
-&gt; For Fred, Fred drop the F's "Fo-red"  
-&gt; For Mary, Mary drop the M's Mo-ary  
-&gt; That's the only rule that is contrary.  
+> Come on everybody!  
+> I say now let's play a game  
+> I betcha I can make a rhyme out of anybody's name  
+>   
+> The first letter of the name, I treat it like it wasn't there  
+> But a "B" or an "F" or an "M" will appear  
+> And then I say "bo", add a "B", then I say the name   
+> and "Bonana fanna" and a "fo"  
+>   
+> And then I say the name again with an "F" very plain  
+> and a "fee fy" and a "mo"  
+> And then I say the name again with an "M" this time  
+> and there isn't any name that I can't rhyme  
+>   
+> But if the first two letters are ever the same,  
+> I drop them both and say the name like  
+>   
+> Bob, Bob drop the B's "Bo-ob"  
+> For Fred, Fred drop the F's "Fo-red"  
+> For Mary, Mary drop the M's Mo-ary  
+> That's the only rule that is contrary.  
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 
@@ -42,7 +42,7 @@ Your input will be a single line with a single name on it. Note that in all the 
 
 The rhyme of the name!
 
-#Example Inputs &amp;amp; Outputs
+#Example Inputs &amp; Outputs
 
 Examples helpfully provided by Ms. Ellis herself.
 

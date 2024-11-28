@@ -12,7 +12,7 @@ It should have the following basic functionality
 * Delete a selected item from the to-do list
 * And obviously, print out the list so I can see what to do!
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Output description
 

@@ -18,7 +18,7 @@ is given by
 
 Rows become columns and columns become rows. See https://en.wikipedia.org/wiki/Transpose. 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -47,8 +47,8 @@ Note that the lower left character is a space in the output, but nothing in the 
 
     func main() {
         queue := make(chan string, 2)
-        queue &lt;- "one"
-        queue &lt;- "twoO"
+        queue <- "one"
+        queue <- "twoO"
         close(queue)
         for elem := range queue {
             fmt.Println(elem)
@@ -67,7 +67,7 @@ Note that the lower left character is a space in the output, but nothing in the 
       " iuuus
     m f neeeeef
     a m (   (lm
-    i t ):&lt;&lt;qet
+    i t ):<<qet
     n "  =--um.
         {   e P
          m""u:r

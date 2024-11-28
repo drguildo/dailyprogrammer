@@ -10,7 +10,7 @@ However, as you might have realized, Mandy made a mistake! If she had taken the 
 
 Today, you are going to visit The Cave of Prosperity, and we are going to see if you can do better than Mandy
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 ##Input
 On the first line of the input, you will get the capacity of your backpack, rounded to 7 digits after the decimal point. After that, there will be one line specifying how many gold nuggets there are in the cave. After that, there will be one line per gold nugget specifying how much each of them weighs. 
 
@@ -21,7 +21,7 @@ On the first line of the output, you will specify how much gold you are able to 
 
 After that, you will print out the weights of the gold nuggets you have collected. In other words, the first line should be the sum of the rest of the lines.
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 ##Input 1
 
     2.0000000

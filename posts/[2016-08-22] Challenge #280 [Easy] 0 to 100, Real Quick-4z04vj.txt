@@ -25,11 +25,11 @@ Your challenge is to take these inputs, and:
 # Formal Inputs and Outputs
 
 
-    0111011100 -&gt; 37
-    1010010000 -&gt; Invalid
-    0011101110 -&gt; 73
-    0000110000 -&gt; 55
-    1111110001 -&gt; Invalid
+    0111011100 -> 37
+    1010010000 -> Invalid
+    0011101110 -> 73
+    0000110000 -> 55
+    1111110001 -> Invalid
 
 # Credit
 

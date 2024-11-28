@@ -9,7 +9,7 @@ As an example, in the United States it is common to write down a date first with
 Your goal is to write a function that takes a given string that defines how dates and times should be ordered, and then print off the current date-time in that format.
 
 *Author: nint22*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Your function must accept a string "Format". This string can have any set of characters or text, but you must explicitly replace certain special-characters with their equivalent date-time element. Those special characters, and what they map to, are as follows:
 
@@ -24,7 +24,7 @@ Your function must accept a string "Format". This string can have any set of cha
 "%y": Year (four-digit format)
 ## Output Description
 The output must be the given string, but with the appropriate date-time special-characters replaced with the current date-time of your system. All other characters should be left untouched.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
     "%s.%l"
     "%s:%m:%h %M/%d/%y"

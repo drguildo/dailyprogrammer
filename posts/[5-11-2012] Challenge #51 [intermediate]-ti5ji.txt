@@ -5,8 +5,8 @@ which is manipulated by moving around a single tape pointer. The 8 commands are:
 
 Character|Action
 |:--:|:---
-|&amp;lt;|move the pointer to the left
-|&amp;gt;|move the pointer to the right
+|&lt;|move the pointer to the left
+|&gt;|move the pointer to the right
 |+|increment the byte the pointer is pointing at (mod 256)
 |-|decrement the byte the pointer is pointing at (mod 256)
 |[|if the data which the tape pointer is pointing at is 0, jump *forward* to the command after the matching square bracket. Otherwise, just continue to the next command
@@ -25,10 +25,10 @@ More information, including a "Hello World" program, can be found [on wikipedia]
 
 If you've written your program successfully, try running this and see what pops out:
 
-    ++++++++++[&gt;&gt;++++++&gt;+++++++++++&gt;++++++++++&gt;+++++++++&gt;+++&gt;+++++&gt;++++&gt;++++++++&gt;+[&lt;
-    ]&lt;-]&gt;&gt;+++++++.&gt;+.-.&gt;+++.&lt;++++.&gt;&gt;+++++++.&lt;&lt;++.+.&gt;+++++.&gt;.&lt;&lt;-.&gt;---.&lt;-----.-.+++++.
-    &gt;&gt;&gt;+++.-.&lt;&lt;-.&lt;+..----.&gt;&gt;&gt;&gt;++++++++.&gt;+++++++..&lt;&lt;&lt;&lt;+.&gt;&gt;&gt;&gt;-.&lt;&lt;&lt;&lt;.++++.------.&lt;+++++
-    .---.&gt;&gt;&gt;&gt;&gt;.&lt;&lt;&lt;++.&lt;&lt;---.&gt;++++++.&gt;&gt;&gt;&gt;+.&lt;&lt;&lt;-.--------.&lt;&lt;+.&gt;&gt;&gt;&gt;&gt;&gt;+++.---.&lt;-.&lt;&lt;&lt;&lt;---.
-    &lt;.&gt;---.&gt;&gt;&gt;&gt;&gt;&gt;.  
+    ++++++++++[>>++++++>+++++++++++>++++++++++>+++++++++>+++>+++++>++++>++++++++>+[<
+    ]<-]>>+++++++.>+.-.>+++.<++++.>>+++++++.<<++.+.>+++++.>.<<-.>---.<-----.-.+++++.
+    >>>+++.-.<<-.<+..----.>>>>++++++++.>+++++++..<<<<+.>>>>-.<<<<.++++.------.<+++++
+    .---.>>>>>.<<<++.<<---.>++++++.>>>>+.<<<-.--------.<<+.>>>>>>+++.---.<-.<<<<---.
+    <.>---.>>>>>>.  
 
 * Thanks to [nooodl](http://www.reddit.com/user/nooodl) for submitting this problem in /r/dailyprogrammer_ideas!

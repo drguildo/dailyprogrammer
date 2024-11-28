@@ -6,7 +6,7 @@ This challenge takes its roots from the world-famous game Pacman. To finish the 
 
 The goal of this chalenge is to have a time-limited pacman. Pacman must gather as much pacgum as possible in the given time. To simplify, we will say that 1 move (no diagonals) = 1 unit of time.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 

@@ -10,7 +10,7 @@ Write a program which, given a series of moves, outputs the number of times that
 
 A space separated series of movies in the official [WCA Notation](https://www.worldcubeassociation.org/regulations/#article-12-notation) will be given.
 
-Summary (from [Challenge #157](https://www.reddit.com/r/dailyprogrammer/comments/22k8hu/492014_challenge_157_intermediate_puzzle_cube/?st=j8kfmdyb&amp;sh=9f0157fe))
+Summary (from [Challenge #157](https://www.reddit.com/r/dailyprogrammer/comments/22k8hu/492014_challenge_157_intermediate_puzzle_cube/?st=j8kfmdyb&sh=9f0157fe))
 * There are 6 faces. U (up, the top face). D (down, the bottom face). L (left). R (right). F (front). B (back).
 * Each face is turned like you were looking at it from the front.
 * A notation such as X means you turn the X face clockwise 90'. So R L means turn the right face clockwise 90' (from its perspective), then the left face clockwise 90' (from its perspective).

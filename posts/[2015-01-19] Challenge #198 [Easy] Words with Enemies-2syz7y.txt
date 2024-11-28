@@ -34,7 +34,7 @@ All words will be lower case. They will be in the set [a-z]
 
 Two words ordered from which side of the valley they come from:
 
-     &lt;left side word&gt; &lt;right side word&gt;
+     <left side word> <right side word>
 
 #Output:
 

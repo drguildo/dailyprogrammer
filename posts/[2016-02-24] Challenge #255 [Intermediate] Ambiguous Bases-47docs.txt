@@ -16,7 +16,7 @@ For example "A1" in normal hexadecimal would in our case be "101" as "A" convert
 A few notes:
 
 - Digits in an "ambiguous" number won't start with a 0. For example, dividing the digits in 101 as `[1][01]` is not valid because `01` is not a valid digit.
-- Ensure that your solutions work with non-ambiguous bases, like "1010" base 2 -&gt; 10
+- Ensure that your solutions work with non-ambiguous bases, like "1010" base 2 -> 10
 - Recall that like normal base n numbers the range of values to multiply by a power of n is 0 to (n-1) inclusive.
 
 #Input:

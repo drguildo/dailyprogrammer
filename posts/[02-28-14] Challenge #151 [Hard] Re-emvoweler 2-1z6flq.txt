@@ -12,7 +12,7 @@ The challenge inputs this time are all based on English sentences taken from the
 
 Along with your solution, be sure to post your results from running the challenge inputs!
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input description
 
@@ -22,7 +22,7 @@ Two strings, one containing only consonants, and one containing only vowels. The
 
 A space-separated series of words that could be disemvoweled into the input, each word of which must appear in your word list. The output should resemble an English sentence (without capitalization and punctuation) as closely as possible.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

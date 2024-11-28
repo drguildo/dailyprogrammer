@@ -24,7 +24,7 @@ contains three chains.
 
 Your challenge today is to write a program that calculates the number of contiguous chains in a given input.  
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 ##Input:
 
 The first line in the input will consist of two numbers separated by a space, giving the dimensions of the ASCII-field you're supposed to read. The first number gives the number of lines to read, the second the number of columns (all lines have the same number of columns).
@@ -35,7 +35,7 @@ After that follows the field itself, consisting of only x's and spaces.
 
 Output a single number giving the number of contiguous chains. 
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 ##Input 1
 

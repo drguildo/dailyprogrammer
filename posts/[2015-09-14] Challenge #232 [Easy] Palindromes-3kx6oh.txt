@@ -8,7 +8,7 @@ Palindromes can be longer than one word as well. "Solo gigolos" (the saddest of 
 
 Today, you are going to write a program that detects whether or not a particular input is a valid palindrome. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 ##Inputs
 
 On the first line of the input, you will receive a number specifying how many lines of input to read. After that, the input consists of some number of lines of text that you will read and determine whether or not it is a palindrome or not. 
@@ -60,7 +60,7 @@ Comedian Demitri Martin wrote a famous 224 palindrome, [test your code on that](
 
 A two-word palindrome is (unsurprisingly) a palindrome that is two words long. "Swap paws", "Yell alley" and "sex axes" (don't ask) are examples of this. 
 
-Using words from /r/dailyprogrammer's favorite wordlist [enable1.txt](https://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt&amp;can=2&amp;q=), how many two-word palindromes can you find? Note that just repeating the same palindromic word twice (i.e. "tenet tenet") does *not* count as proper two-word palindromes.
+Using words from /r/dailyprogrammer's favorite wordlist [enable1.txt](https://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt&can=2&q=), how many two-word palindromes can you find? Note that just repeating the same palindromic word twice (i.e. "tenet tenet") does *not* count as proper two-word palindromes.
 
 #Notes
 

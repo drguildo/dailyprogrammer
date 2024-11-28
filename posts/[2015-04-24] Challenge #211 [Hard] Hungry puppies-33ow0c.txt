@@ -16,7 +16,7 @@ Note that the puppies on either end of the line only have a single neighbor to l
 
 Write a program for Annie to recommend a treat distribution that maximizes puppy happiness.
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 #Input
 
 The input is a single line of positive integers representing the sizes of the treats Annie purchased. For example:

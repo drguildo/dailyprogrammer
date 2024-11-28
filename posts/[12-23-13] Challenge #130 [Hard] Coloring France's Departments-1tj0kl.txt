@@ -8,7 +8,7 @@ Some departments, like 66 (Pyrénées-Orientales), are only bordered by two othe
 
 The input will be a variation of the list of French departments, represented as an [adjacency list](http://en.wikipedia.org/wiki/Adjacency_list). This challenge is essentially solving for [Graph coloring](http://en.wikipedia.org/wiki/Graph_coloring), where you must print each department's color (a unique integer).
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input, you will be given an integer N which represents the following N-lines of an adjacency list. These lines of data will always be in the format of integers A B C D ... where A is the source node / vertex that points to vertices B C D... etc. Remember that this data really means that A is the ID of a department, and B C D ... are the bordering departments.
@@ -19,7 +19,7 @@ Writing up the French department list as an adjacency list is very tedious; feel
 
 For each given node (a department), print the unique color identifier after it. A color identifier is unique integer, starting from 0, that represents a unique color. Remember that bordering departments (e.g. adjacent nodes) cannot have the same color index!
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
 *Note that this list only contains 8 departments from the south-western corner of France as an example*

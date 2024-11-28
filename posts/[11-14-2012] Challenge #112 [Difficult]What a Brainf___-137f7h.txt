@@ -6,13 +6,13 @@ Title: [11/14/2012] Challenge #112 [Difficult]What a Brainf***
 
 An example is:
 
-     ++++++++++[&gt;+++++++&gt;++++++++++&gt;+++&gt;+&lt;&lt;&lt;&lt;-]&gt;++.&gt;+.+++++++..+++.&gt;++.&lt;&lt;+++++++++++++++.&gt;.+++.------.--------.&gt;+.&gt;.
+     ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 
 Which prints "Hello World!"
 
 Your goal is to write a BrainFuck interpreter from scratch, and have it support both single-character output to standard-out and single-character input from standard-in.
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -22,7 +22,7 @@ String BFProgram - A string of a valid BrainFuck program.
 
 Your function must execute and print out any data from the above given BrainFuck program.
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 *See above*
 

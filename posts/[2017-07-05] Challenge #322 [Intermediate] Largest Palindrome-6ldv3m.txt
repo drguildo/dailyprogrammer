@@ -28,13 +28,13 @@ The largest integer palindrome who has factors each with string length of the in
 
 # Challenge inputs/outputs
 
-	3 =&gt; 906609
+	3 => 906609
 
-	4 =&gt; 99000099
+	4 => 99000099
 
-	5 =&gt; 9966006699
+	5 => 9966006699
 
-	6 =&gt; ?
+	6 => ?
 
 # Credit
 

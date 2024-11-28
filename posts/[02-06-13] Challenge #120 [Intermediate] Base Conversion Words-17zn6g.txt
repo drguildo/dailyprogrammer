@@ -5,7 +5,7 @@ Title: [02/06/13] Challenge #120 [Intermediate] Base Conversion Words
 Given as input an arbitrary string and base (integer), your goal is to convert the base-encoded string to all bases from 2 to 64 and try to detect all English-language words.
 
 *Author: aredna*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 On the console, you will be first given an arbitrary string followed by an integer "Base". This given string is base-encoded, so as an example if the string is "FF" and base is "16", then we know that the string is hex-encoded, where "FF" means 255 in decimal. 
 ## Output Description
@@ -18,7 +18,7 @@ It is ** extremely** important to note this challenge's encoding scheme: unlike 
     Values 36 to 61 maps to 'A' through 'Z'
     Value 62 maps to '+'
     Value 63 maps to '/'
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
     E1F1 22
 ## Sample Output

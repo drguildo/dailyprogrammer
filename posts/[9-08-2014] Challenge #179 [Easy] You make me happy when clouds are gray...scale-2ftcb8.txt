@@ -6,7 +6,7 @@ The 'Daily Business' newspaper are a distributor of the most recent news concern
 
 If you can convert these images before they reach the publisher, then you will surely get a promotion, or at least a raise!
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

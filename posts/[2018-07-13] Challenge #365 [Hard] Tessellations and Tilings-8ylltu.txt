@@ -48,12 +48,12 @@ Your program should emit a tessellation of the tile, with the rotation rules app
 
     180
     6
-    &amp;`{!#;
+    &`{!#;
     #*#@+#
     ~/}}?|
     '|(==]
     \^)~=*
-    |?|*&lt;%
+    |?|*<%
 
 # Bonus
 

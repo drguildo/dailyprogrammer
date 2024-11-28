@@ -26,8 +26,8 @@ To define a ruleset for your program, each of the possible colors will have one 
 colors. Before listing these rules, there will be one line defining the
 number of colors and the number of iterations to produce:
 
-    &lt;ncolors&gt; &lt;niterations&gt;
-    &lt;ncolors lines of rules&gt;
+    <ncolors> <niterations>
+    <ncolors lines of rules>
 
 For example, the input to produce a Sierpinski carpet at 4 iterations
 (as in the image above):

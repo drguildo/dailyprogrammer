@@ -10,7 +10,7 @@ The title of this challenge refers to [artwork by William Hogarth](https://en.wi
 
 # Questions to Answer
 
-**EDIT** After reading [this comment](https://www.reddit.com/r/dailyprogrammer/comments/72s7xp/20170927_challenge_333_intermediate_beer_street/dnkzeff/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=dailyprogrammer) that does a great job explaining the data set (I had misinterpreted it when I wrote this up), i edited the questions. Also I don't think Iowa tracks beer sales in this category. 
+**EDIT** After reading [this comment](https://www.reddit.com/r/dailyprogrammer/comments/72s7xp/20170927_challenge_333_intermediate_beer_street/dnkzeff/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=dailyprogrammer) that does a great job explaining the data set (I had misinterpreted it when I wrote this up), i edited the questions. Also I don't think Iowa tracks beer sales in this category. 
 
 * ~~For beer sales across Iowa (e.g. where someone buys beer, not just any alcohol), what is the most popular street name across all cities?~~
 * What's the most popular non-beer beverage bought in 2016? 

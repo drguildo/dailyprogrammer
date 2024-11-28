@@ -12,7 +12,7 @@ Your task today is to write a program that can encode a string of text into Röv
 
 (note 2: surströmming is actually not that bad, it's much tastier than its reputation would suggest! I'd go so far as to say that it's the tastiest half-rotten fish in the world!)
 
-# Formal inputs &amp;amp; outputs
+# Formal inputs &amp; outputs
 ## Input
 
 You will recieve one line of input, which is a text string that should be encoded into Rövarspråket. 

@@ -19,7 +19,7 @@ To help you figure that out, you're going to need to compute when M Julian years
 
 
 *Author: Zamarok*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given two numbers `(M, N)`, where  
@@ -38,7 +38,7 @@ If they do synchronize with the given input, print out the number of days that w
 
 If the calendars don't synchronize with the given input, print `0`.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     38, 470

@@ -24,7 +24,7 @@ Additional Rules:
 *   The batsmen exchange their bases after 6 *legal* balls called an *over*, that means a 'w' doesn't count as a ball. So a score like '1..2.www' is still one over as it has only 5 *legal* balls.  
 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

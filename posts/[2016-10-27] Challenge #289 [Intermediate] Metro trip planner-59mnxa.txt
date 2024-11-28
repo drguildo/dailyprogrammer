@@ -5,7 +5,7 @@ Title: [2016-10-27] Challenge #289 [Intermediate] Metro trip planner
 The prupose of this challenge is to help user to find the quickest way to go from a metro station to another.
 The metro map is the following: http://imgur.com/9K060Fr (blacks numbers are the time between stations)
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ## Metro map input description
 

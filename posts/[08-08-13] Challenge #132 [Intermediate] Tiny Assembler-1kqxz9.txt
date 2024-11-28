@@ -68,7 +68,7 @@ The following are all mnemonics and associated op-codes for the Tiny machine. No
 
 *Original author: /u/nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given the contents of a file of Tiny assembly-language source code. This text file will only contain source-code, and no meta-data or comments. The source code is not case-sensitive, so the instruction "and", "And", and "AND" are all the same.
@@ -77,7 +77,7 @@ You will be given the contents of a file of Tiny assembly-language source code. 
 
 Print the resulting op-codes in hexadecimal value. Formatting does not matter, as long as you print the *correct* hex-code!
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
 *The following Tiny assembly-language code will multiply the numbers at memory-location 0 and 1, putting the result at memory-location 0, while using [2] and [3] as working variables. All of this is done at the lowest 4 bytes of memory.*

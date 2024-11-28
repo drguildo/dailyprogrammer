@@ -12,11 +12,11 @@ In this challenge you'll be given a starting layout, then you have to show how t
 
 # Sample Input
 
-You'll be given the 6x6 (or 7x7) board, indicating the exit (with a `&gt;`), along with the red escape car (marked with an `R`), and blocking cars (2x1 sized, indicated with letters `A` through `G`) and trucks (3x1 sized, indicated with letters `T` through `Z`). Empty spaces will be marked with a `.`. The way the cars are facing should be obvious from their orientation. Remember, they can only move forwards or backwards. Example:
+You'll be given the 6x6 (or 7x7) board, indicating the exit (with a `>`), along with the red escape car (marked with an `R`), and blocking cars (2x1 sized, indicated with letters `A` through `G`) and trucks (3x1 sized, indicated with letters `T` through `Z`). Empty spaces will be marked with a `.`. The way the cars are facing should be obvious from their orientation. Remember, they can only move forwards or backwards. Example:
 
     GAA..Y
     G.V..Y
-    RRV..Y&gt;
+    RRV..Y>
     ..VZZZ
     ....B.
     WWW.B.
@@ -35,7 +35,7 @@ Find a solution to the puzzle, preferably one with the minimal number of steps. 
 
     TTTAU.
     ...AU.
-    RR..UB&gt;
+    RR..UB>
     CDDFFB
     CEEG.H
     VVVG.H

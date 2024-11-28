@@ -9,7 +9,7 @@ If there are multiple words of same maximum length, output all of them.
 
 You may use the [the Enable word list](http://norvig.com/ngrams/enable1.txt), or some other reasonable English word list. Every word in your output must appear in your word list.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input description
 
 One string.

@@ -12,7 +12,7 @@ Slider puzzles are nearly impossible for me to solve by hand, so lets make a pro
 
 This board would be solved by moving the 8 to the left one space. The challenge is to make the computer solve these boards for you in a** reasonable amount of time.**  if they are solveable. For complicated boards a brute force method might take too long, and you will have to come up with an A* algorithm.
 
-**Formal Inputs &amp; Outputs**
+**Formal Inputs & Outputs**
 
 All of these are for a 3 by 3 board:
 
@@ -27,7 +27,7 @@ All of these are for a 3 by 3 board:
 
 **Bonus**
 
-Make your code be able to solve any N by N board; N &lt;= 100
+Make your code be able to solve any N by N board; N <= 100
 
 **Tips**
 

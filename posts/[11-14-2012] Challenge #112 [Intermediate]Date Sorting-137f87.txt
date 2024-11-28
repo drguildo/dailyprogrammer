@@ -4,7 +4,7 @@ Title: [11/14/2012] Challenge #112 [Intermediate]Date Sorting
 
 Your boss has just given you a list of dates that need to be sorted. Since it's Friday night, and you don't want to come in on Saturday, you want to write a little application that sorts these dates for you! Fortionatly, these dates are all written in a text file, where all of the date strings are on individual lines (un-sorted), and follow a standard format. All dates are guaranteed to be in the format of "YYYY MM DD hh:mm:ss", where "YYYY" is a year from 1800 to 2020, "MM" is from 01 to 12, "DD" is from 01 to 31, "hh" is from 00 to 23, "mm" is from 01 to 60, and "ss" is from 01 to 60.
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -14,7 +14,7 @@ String InputData - A string of the input file, where each date is on its own sep
 
 Your application must print all dates sorted, from the oldest date (i.e. 1800's) the modern dates (i.e. 2012), to future dates (i.e. 2020s").
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 *The following is the string given to your function*
 

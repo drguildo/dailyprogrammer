@@ -6,7 +6,7 @@ In the far future, demand for pre-manufactured housing, particularly in planets 
 
 You decide to use ASCII to design your buildings. However, as you are lazy and wish to churn out many designs quickly, you decide to simply give the computer a string, and have the computer make the building for you.
 
-#Formal input &amp; output
+#Formal input & output
 
 **Input**
 

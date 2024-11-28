@@ -64,7 +64,7 @@ The battery can give us 1200mA for 1 hour. So if we devide 1200 by 20 we get tha
 **Part 2**
 
 Draw out the circuit.
-A led is drawn in this way `-|&gt;|-`
+A led is drawn in this way `-|>|-`
 
 *input*
 
@@ -72,11 +72,11 @@ A led is drawn in this way `-|&gt;|-`
 
 *Output*
     
-    *--|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--*
+    *--|>|---|>|---|>|---|>|---|>|--*
      |                             |
-     --|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--
+     --|>|---|>|---|>|---|>|---|>|--
      |                             |
-     --|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--
+     --|>|---|>|---|>|---|>|---|>|--
 
 *inputs*
 
@@ -93,7 +93,7 @@ We know we can have 5 leds of 1.7V in serie, so that is 0.5V over the resistor.
 If we know the current we need we can calculate the resistance.
 
 E.g. If we need 1 hour we can have a current of 1200 mA and we have 0.5V so the resistance is the voltage devided by the current.
-=&gt; 0.5(V)/1.2(A) = 0.417 ohms
+=> 0.5(V)/1.2(A) = 0.417 ohms
 
 *inputs*
 
@@ -123,11 +123,11 @@ The units are in voltage V, current mA (devide by 1000 for A), voltave V, capaci
 
     Resistor: 8.333 Ohms
     Scheme:
-    *--|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--*
+    *--|>|---|>|---|>|---|>|---|>|--*
      |                             |
-     --|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--
+     --|>|---|>|---|>|---|>|---|>|--
      |                             |
-     --|&gt;|---|&gt;|---|&gt;|---|&gt;|---|&gt;|--
+     --|>|---|>|---|>|---|>|---|>|--
 
 
 **Finally**

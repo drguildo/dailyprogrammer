@@ -7,7 +7,7 @@ Clicking on the first link in the main text of a Wikipedia article not in parent
 
 Your goal is to write a program that will find the path from a given article to the Philosophy article by following the first link (not in parentheses) in the main text of the given article.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -17,7 +17,7 @@ The program should take in a string containing a valid title of a Wikipedia arti
 
 Your program must print out each article in the path from the given article to [Philosophy](http://en.wikipedia.org/wiki/Philosophy).
 
-##Sample Inputs &amp; Outputs
+##Sample Inputs & Outputs
 
 **Input**
 

@@ -14,7 +14,7 @@ Note that the "area" is defined as a grid where the origin is in the top-left an
 
 [Here is an album of several examples of how objects are placed, and how they can be moved and rotated to minimized the minimum-span rectangle.](http://imgur.com/a/M3MNk)
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -24,7 +24,7 @@ You will first be given two integers: the width and height of your starting (emp
 
 Once you have optimally placed the given items in the given grid such that it as the smallest minimum-span possible, you must print each item's x and y coordinate (as an integer), and the object's size (to show us if there has been any rotations).
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 [Take a look at the example images here.](http://imgur.com/a/M3MNk) For all images that have the two 1x3 items, you would be given the following sample input:
 

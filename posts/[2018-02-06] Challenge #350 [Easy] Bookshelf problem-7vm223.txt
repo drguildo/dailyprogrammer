@@ -7,7 +7,7 @@ The wierd part is, some shelfs are different in length but they all cost the sam
 
 You now want to puzzle your collection so that you can fit as many books on the least number of shelfs
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

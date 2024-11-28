@@ -8,7 +8,7 @@ The game is a fun cooperative game, where a bunch of fire(wo)men try to rescue v
 
 Each round the fire is spreading, and it is this mechanic that we are going to implement.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -16,27 +16,27 @@ You recieve a floorplan of the building with the current situation on it. The fl
 
  Here is the legend to what is what:
 
-    S &lt;- smoke
-    F &lt;- fire
-    # &lt;- wall
-    | &lt;- closed door
-    / &lt;- open door
-    = &lt;- damaged wall
-    _ &lt;- broken wall or broken door
-      &lt;- Open space (blank space)
+    S <- smoke
+    F <- fire
+    # <- wall
+    | <- closed door
+    / <- open door
+    = <- damaged wall
+    _ <- broken wall or broken door
+      <- Open space (blank space)
 
 After the floorplan you will recieve a bunch off coordinates ((0,0) is top left coord).
 
 Each of these coordinates indicate where smoke developes. Depending on the tile it lands can have various outcomes:
 
-    S -&gt; S becomes F, smoke turns into fire
-    F -&gt; Nothing happens
-    # -&gt; invalid move
-    | -&gt; invalid move
-    / -&gt; invalid move
-    = -&gt; invalid move
-    _ -&gt; invalid move
-      -&gt;   becomes S, Smoke develops on a blank spot
+    S -> S becomes F, smoke turns into fire
+    F -> Nothing happens
+    # -> invalid move
+    | -> invalid move
+    / -> invalid move
+    = -> invalid move
+    _ -> invalid move
+      ->   becomes S, Smoke develops on a blank spot
 
 Additional rules:
 
@@ -93,14 +93,14 @@ When smoke is ~~set~~ applied to fire, an explosion happens.
 
 To solve an explosion you need to look at the adjective tiles of where the explosion happend.
 
-    S -&gt; Impossible, should already be fire
-    F -&gt; Traverse in same direction until you do not have fire any more
-    # -&gt; Wall take damage and becomes =
-    | -&gt; Door is totaly broken and becomes _
-    / -&gt; Explosion passes trough and traverse in the same direction. The door lives
-    = -&gt; Wall is completely broken now and becomes _
-    _ -&gt; Explosion passes trough and traverse in the same direction
-      -&gt; The spot is set on fire and becomes F
+    S -> Impossible, should already be fire
+    F -> Traverse in same direction until you do not have fire any more
+    # -> Wall take damage and becomes =
+    | -> Door is totaly broken and becomes _
+    / -> Explosion passes trough and traverse in the same direction. The door lives
+    = -> Wall is completely broken now and becomes _
+    _ -> Explosion passes trough and traverse in the same direction
+      -> The spot is set on fire and becomes F
 
 
 Additional input for explosion, using the outcome of the small house
@@ -180,15 +180,15 @@ Consider submitting it to /r/dailyprogrammer_ideas
 
 Good morning everyone,
 
-&gt; A bit confused, you seem to write your input coordinates in (Y, X) rather than (X, Y). fx (1, 9), from non-bonus-input, which is outside the borders of the house in X-Y but inside in Y-X. Not a big thing to work around but quite ambiguous :P
+> A bit confused, you seem to write your input coordinates in (Y, X) rather than (X, Y). fx (1, 9), from non-bonus-input, which is outside the borders of the house in X-Y but inside in Y-X. Not a big thing to work around but quite ambiguous :P
 
 This is a typon on my behalve, it is X Y. `5 7` was just to test you would ignore incorrect moves tough
 
-&gt; Does fire spread through closed doors? The description seems to imply yes but that doesn't make much sense...
+> Does fire spread through closed doors? The description seems to imply yes but that doesn't make much sense...
 
 No it doesn't. I should have made that more clear
 
-&gt; Smoke adjacent to fire turns to fire, but how is this applied? Does it only update once per turn, much like Conway's Game of Life, or does it automatically update and continue to transform all adjacent smoke until there is no more left?
+> Smoke adjacent to fire turns to fire, but how is this applied? Does it only update once per turn, much like Conway's Game of Life, or does it automatically update and continue to transform all adjacent smoke until there is no more left?
 
 All smoke adjective to fire is turned in the same turn, so it is possible to set a long corridor at fire at once if it is in smoke
 

@@ -24,10 +24,10 @@ You must actually be able to answer all these questions. Writing a program that 
 
 When you write the numbers out in step 2, omit spaces, punctuation, and the word "and". Examples of how this step looks:
 
-    100 -&gt; onehundred
-    1709 -&gt; onethousandsevenhundrednine
-    500000000 -&gt; fivehundredmillion
-    911610034 -&gt; ninehundredelevenmillionsixhundredtenthousandthirtyfour
+    100 -> onehundred
+    1709 -> onethousandsevenhundrednine
+    500000000 -> fivehundredmillion
+    911610034 -> ninehundredelevenmillionsixhundredtenthousandthirtyfour
 
 The first word in this list after sorting alphabetically is `eight`, followed by `eighteen`, then `eighteenmillion`, then `eighteenmillioneight`. Thus your final string will begin like this:
 

@@ -23,7 +23,7 @@ Sounds delicious!
 
 In today's challenge, we will automate this process. You will be given the full text of Shakespeare's Macbeth, and then a phrase that's used somewhere in it. You will then output the full passage of dialog where the phrase appears.
 
-#Formal inputs &amp; outputs
+#Formal inputs & outputs
 
 ##Input description
 First off all, you're going to need a full copy of the play, which you can find here: [macbeth.txt](https://gist.githubusercontent.com/Quackmatic/f8deb2b64dd07ea0985d/raw/macbeth.txt). Either right click and save it to your local computer, or open it and copy the contents into a local file. 

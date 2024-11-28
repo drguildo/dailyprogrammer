@@ -38,7 +38,7 @@ The grid that you are using must 'wrap around'. That means, if something goes of
 
 Using that starting state, simulate **N** iterations of Conway's Game of Life. Print the final state in the same format as above - `.` is off and `#` is on.
 
-# Sample Inputs &amp; Output
+# Sample Inputs & Output
 
 ## Sample Input
 

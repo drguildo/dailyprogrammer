@@ -5,7 +5,7 @@ You're a well known web-dev with far too much confidence, you mistakingly agreed
 
 But first, you'll need to program it.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -15,7 +15,7 @@ On standard console input you should be prompted to enter a paragraph.
 
 Once your paragraph has been entered, it should be saved as a valid HTML file and opened in your default brower to display the results
 
-#Sample Inputs &amp; Outputs
+#Sample Inputs & Outputs
 
 ##Input
 
@@ -25,16 +25,16 @@ Once your paragraph has been entered, it should be saved as a valid HTML file an
 ##Output
 (this is the expected content of the .html file)
 
-    &lt;!DOCTYPE html&gt;
-    &lt;html&gt;
-        &lt;head&gt;
-            &lt;title&gt;&lt;/title&gt;
-        &lt;/head&gt;
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title></title>
+        </head>
 
-        &lt;body&gt;
-            &lt;p&gt;This is my paragraph entry&lt;/p&gt;
-        &lt;/body&gt;
-    &lt;/html&gt;
+        <body>
+            <p>This is my paragraph entry</p>
+        </body>
+    </html>
 
 #Bonus
 

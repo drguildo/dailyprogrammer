@@ -4,14 +4,14 @@ Title: [2017-08-01] Challenge #325 [Easy] Color maze
 
 Today we are going to do something colorfull and amazing. Yes it is a color maze :D (you can downvote me now, it was totally worth it).
 
-You traverse a color by following a sequence of colors. For example [this maze](http://imgur.com/AnK1kwa) can be solved by the sequence 'orange -&gt; green'.
+You traverse a color by following a sequence of colors. For example [this maze](http://imgur.com/AnK1kwa) can be solved by the sequence 'orange -> green'.
 Then you would have something like [this](http://imgur.com/zgciqa5) (paint skills)
 
 For the mazes you always pick a spot on the bottom, in the starting color and try to get to the first row. Once you reach the first row, you are out of the maze. The sequence does not have to be complete.
 
 You can move horizontally and vertically, but not diagonally. It is also allowed to move on the same node more then once.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

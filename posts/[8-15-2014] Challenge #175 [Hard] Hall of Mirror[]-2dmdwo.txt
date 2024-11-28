@@ -32,7 +32,7 @@ You will print a line in the format:
 
 Where (PX,PY) is the final position of the vector in the world.
 
-# Sample Inputs &amp; Output
+# Sample Inputs & Output
 
 ## Sample Input
 

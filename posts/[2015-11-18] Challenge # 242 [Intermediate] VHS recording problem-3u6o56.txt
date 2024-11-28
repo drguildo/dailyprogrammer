@@ -64,7 +64,7 @@ We want to know what shows we have recorded, so instead of showing the number of
 *Input*
 
     1535 1610 Pokémon
-    1610 1705 Law &amp; Order
+    1610 1705 Law & Order
     1615 1635 ER
     1615 1635 Ellen
     1615 1705 Family Matters
@@ -73,7 +73,7 @@ We want to know what shows we have recorded, so instead of showing the number of
 *Output*
 
     Pokémon
-    Law &amp; Order
+    Law & Order
     The Fresh Prince of Bel-Air
 
 **Bonus 2**

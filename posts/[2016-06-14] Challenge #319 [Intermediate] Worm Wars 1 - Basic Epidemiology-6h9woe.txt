@@ -12,7 +12,7 @@ As part of this approach, populations are tracked in multiple buckets to track t
 - I - currently infected and spreading the pathogen
 - R - immune from the pathogen (e.g. recovered)
 
-The population is therefore the sum of these three buckets, which change over time. In theory for a new pathogen everyone starts out in state *S*, and either becomes *I* if they get hit with the pathogen first or *R* if they get immunized (patched). Alternatively once infected they can recover. Each transition - S -&gt; I, I -&gt; R, and S -&gt; R - have their transition rates. You can assume no back transitions - you won't see I -&gt; S or R -&gt; I, for example. 
+The population is therefore the sum of these three buckets, which change over time. In theory for a new pathogen everyone starts out in state *S*, and either becomes *I* if they get hit with the pathogen first or *R* if they get immunized (patched). Alternatively once infected they can recover. Each transition - S -> I, I -> R, and S -> R - have their transition rates. You can assume no back transitions - you won't see I -> S or R -> I, for example. 
 
 Your challenge today is to model a basic epidemiological system. Given a population and some transition rates, model some number N of generations. 
 
@@ -22,7 +22,7 @@ You'll be given some values on a line telling you the total population size (N),
 
 	10000 10 0.01 0.01 0.015
 
-You have 10000 systems to track, 10 of which are infected, and S -&gt; I is 0.01, I -&gt; R is 0.01, and S -&gt; R (those that get patched first) is 0.015. 
+You have 10000 systems to track, 10 of which are infected, and S -> I is 0.01, I -> R is 0.01, and S -> R (those that get patched first) is 0.015. 
 
 # Output Description
 

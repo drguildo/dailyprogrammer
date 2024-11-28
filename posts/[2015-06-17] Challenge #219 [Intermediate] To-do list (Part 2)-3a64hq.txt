@@ -21,7 +21,7 @@ The newest To-do list should be capable of the following functionality:
 
 Thanks!
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Output description
 
@@ -60,7 +60,7 @@ Output:
     - Haskell's School of Music
     - Algorithmic Symphonies from one line of code
 
-    ----MUSIC &amp; PROGRAMMING----
+    ----MUSIC & PROGRAMMING----
     - Haskell's School of Music
     - Algorithmic Symphonies from one line of code
 

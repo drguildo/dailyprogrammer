@@ -10,7 +10,7 @@ You are to implement code that first accepts a few vectors, the operations you w
 
 *Original author: /u/nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given an integer N on standard input, which represents the N-following number of lines of text. The start of each line will be a positive non-zero integer A, where A is the following number of space-delimited [Real number](http://en.wikipedia.org/wiki/Real_number) (floating-point in many languages). These numbers representing a vector of A-dimensions (or an A-component vector). After these N-lines of text, expect a single line with an integer M, which represents the M-following number of lines of text. Each line will start with the characters 'l', 'n', or 'd', representing the function you are to compute. After that, you can expect one or two space-delimited integers. These integers represent the index of the above-defined vectors; the indexing scheme starts at zero (0). An 'l' and 'n' line will be given a single integer, while a 'd' will be given two space-delimited integers.
@@ -19,7 +19,7 @@ You will be given an integer N on standard input, which represents the N-followi
 
 For each line that defines the function ('l' for length, 'n' for normalize, and 'd' for dot-product) and operands (the vector values based on the given indices), you are to print the result of the appropriate computation on standard console output. The length-function must compute the given vector's [Euclidean space](http://en.wikipedia.org/wiki/Euclidean_space#Distance) length. The normalize-function must compute the given vector's [Unit vector](http://en.wikipedia.org/wiki/Unit_vector). Finally, the Dot-product function must compute the *two* given vector's, well... [Dot Product](http://en.wikipedia.org/wiki/Dot_product)! When printing your result, you may choose however you print the result (regular float, or scientific notation), but you must be accurate with 5 decimals.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     5

@@ -29,7 +29,7 @@ text to [XKCD: Extended Mind](http://www.youtube.com/watch?v=vehDe2lSptU).
 
 
 *Author: nagasgura*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Two strings, both which are names of existing Wikipedia articles (in
 the Wikipedia language of your choice).
@@ -44,7 +44,7 @@ leads from the start article to the end article.
 * You must implement article caching early on
 
 You choose the output datastructure yourself, or print to standard-out.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 * From: Molecule
 * To:   Philosophy

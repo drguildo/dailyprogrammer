@@ -35,7 +35,7 @@ COW
 #**Input:**
 
 
-The input will be formatted to enter the number of words to sort and the new Alphabet ordering and a list of words to sort. n should be &gt; 0. The alphabet is assumed to be 26 letters with no duplicates and arranged in the new order. Also assumed there are n strings entered.
+The input will be formatted to enter the number of words to sort and the new Alphabet ordering and a list of words to sort. n should be > 0. The alphabet is assumed to be 26 letters with no duplicates and arranged in the new order. Also assumed there are n strings entered.
 
 
 n (new alphabet ordering)

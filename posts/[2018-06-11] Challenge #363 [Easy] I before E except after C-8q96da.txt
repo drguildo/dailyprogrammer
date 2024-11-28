@@ -23,11 +23,11 @@ There are many exceptions that don't follow this rule, such as:
 
 Write a function that tells you whether or not a given word follows the "I before E except after C" rule.
 
-    check("a") =&gt; true
-    check("zombie") =&gt; true
-    check("transceiver") =&gt; true
-    check("veil") =&gt; false
-    check("icier") =&gt; false
+    check("a") => true
+    check("zombie") => true
+    check("transceiver") => true
+    check("veil") => false
+    check("icier") => false
 
 # Optional Bonus 1
 

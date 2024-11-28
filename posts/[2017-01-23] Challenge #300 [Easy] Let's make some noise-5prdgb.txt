@@ -4,7 +4,7 @@ Title: [2017-01-23] Challenge #300 [Easy] Let's make some noise
 
 Let's try something different this week. Our output is going to be sound instead of text/graphics
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 No real input for this challenge. But this is research/getting familiar with the sound framework of your language, for the next 2 challenges.
 

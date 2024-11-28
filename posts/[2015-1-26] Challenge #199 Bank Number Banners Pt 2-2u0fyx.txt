@@ -9,7 +9,7 @@ This meant that sending a fax of this number format was useless as no one could 
 
 Your job is to parse **back** the fax numbers into normal digits.
 
-#Inputs &amp; Outputs
+#Inputs & Outputs
 
 ##Input
 As input, you should take the output of the easy challenge

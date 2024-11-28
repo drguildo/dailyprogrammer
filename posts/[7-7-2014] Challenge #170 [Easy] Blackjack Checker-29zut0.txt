@@ -61,6 +61,6 @@ Print the winning player. If two or more players won, print "Tie".
 
 Here's a tip to simplify things. If your programming language supports it, create enumerations (`enum`) for card ranks and card suits, and create structures/classes (`struct`/`class`) for the cards themselves - see [this example C# code](https://github.com/DropTableSpoon/Challenge170Easy/blob/master/Challenge170Easy/Cards/Card.cs).
 
-For resources on using structs and enums if you haven't used them before (in C#): [structs](https://duckduckgo.com/l/?kh=-1&amp;uddg=http%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Fsaxz13w4.aspx), [enums](http://msdn.microsoft.com/en-us/library/sbbt4032.aspx).
+For resources on using structs and enums if you haven't used them before (in C#): [structs](https://duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Fsaxz13w4.aspx), [enums](http://msdn.microsoft.com/en-us/library/sbbt4032.aspx).
 
 You may want to re-use some code from your solution to [this challenge](http://www.reddit.com/r/dailyprogrammer/comments/24r50l/) where appropriate.

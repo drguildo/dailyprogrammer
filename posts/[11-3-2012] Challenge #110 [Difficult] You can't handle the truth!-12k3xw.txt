@@ -8,7 +8,7 @@ Your goal is to write a Boolean algebra function truth-table generator for state
 
 Note that you must maintain order of operator correctness, though evaluate left-to-right if there are ambiguous statements.
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -18,7 +18,7 @@ String BoolFunction - A string of one or more variables (always A, B, C, or D) a
 
 Your application must print all possible combinations of states for all variables, with the last variable being "Result", which should the correct result if the given variables were set to the given values. An example row would be "A:false, B:false, Result: false"
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 Given "A and B", your program should print the following:
 

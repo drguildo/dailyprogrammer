@@ -8,11 +8,11 @@ A *practical number* is a positive integer N such that all smaller positive inte
 
 Write a function that returns whether a given positive integer is a practical number.
 
-    practical(1) =&gt; true
-    practical(2) =&gt; true
-    practical(3) =&gt; false
-    practical(10) =&gt; false
-    practical(12) =&gt; true
+    practical(1) => true
+    practical(2) => true
+    practical(3) => false
+    practical(10) => false
+    practical(12) => true
 
 You should be able to handle numbers up to 10,000 efficiently. The sum of all practical numbers up to 10,000 inclusive is 6,804,107. Test your code by verifying this value.
 

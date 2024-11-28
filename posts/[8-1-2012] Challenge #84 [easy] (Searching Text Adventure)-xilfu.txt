@@ -12,7 +12,7 @@ The player can go north,south,east,or west.  In my original version of the game,
 Here is an example playthrough of my old program:
 
     You awaken to find yourself in a barren moor.  Try "look"
-	&gt; look
+	> look
 	Grey foggy clouds float oppressively close to you, 
 	reflected in the murky grey water which reaches up your shins.
 	Some black plants barely poke out of the shallow water.
@@ -22,23 +22,23 @@ Here is an example playthrough of my old program:
 	
 	The dial reads '5m'
 	
-	&gt;north
+	>north
 	The dial reads '4.472m'
-	&gt;north
+	>north
 	The dial reads '4.123m'
-	&gt;n
+	>n
 	The dial reads '4m'
-	&gt;n
+	>n
 	The dial reads '4.123m'
-	&gt;south
+	>south
 	The dial reads '4m'
-	&gt;e
+	>e
 	The dial reads '3m'
-	&gt;e
+	>e
 	The dial reads '2m'
-	&gt;e
+	>e
 	The dial reads '1m'
-	&gt;e
+	>e
 	
 	You see a box sitting on the plain.   Its filled with treasure!  You win!  The end.
 	

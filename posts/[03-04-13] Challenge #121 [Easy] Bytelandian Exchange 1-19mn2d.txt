@@ -9,12 +9,12 @@ One day you're bored so you insert a 7-valued coin. You get three coins back, an
 How many 0-valued coins could you get starting with a single 1000-valued coin?
 
 *Author: Thomas1122*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 The value N of the coin you start with
 ## Output Description
 The number of 0-valued coins you wind up with after putting every positive-valued coin you have through the machine.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 7
 ## Sample Output

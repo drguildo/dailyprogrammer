@@ -22,8 +22,8 @@ Write a function that takes the name of a major scale and the solfège name of a
 
 # Examples
 
-    note("C", "Do") -&gt; "C"
-    note("C", "Re") -&gt; "D"
-    note("C", "Mi") -&gt; "E"
-    note("D", "Mi") -&gt; "F#"
-    note("A#", "Fa") -&gt; "D#"
+    note("C", "Do") -> "C"
+    note("C", "Re") -> "D"
+    note("C", "Mi") -> "E"
+    note("D", "Mi") -> "F#"
+    note("A#", "Fa") -> "D#"

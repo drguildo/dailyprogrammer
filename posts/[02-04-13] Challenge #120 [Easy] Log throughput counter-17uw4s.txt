@@ -8,12 +8,12 @@ If there are no entries in the past x seconds then obviously the file needs to s
 The output file and the interval should be options with default values.
 
 *Author: soundjack*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 The input is a growing log file. The script should read the input from stdin.
 ## Output Description
 The output should be a file that contains only one single number that represents the number of lines counted in the last X seconds. For the purpose of this challenge it's ok if the output is stdout.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
     INFO : [query] [2012/12/10 19:19:51.819] 0c9250e0-3272-4e2c-bab4-0a4fd88e0d75  
     INFO : [query] [2012/12/10 19:19:52.108] 2e9cf755-7f39-4c96-b1c7-f7ccd0a573aa  

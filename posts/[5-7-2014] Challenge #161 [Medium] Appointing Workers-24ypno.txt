@@ -18,7 +18,7 @@ Note that there may be more than one possible assignment of workers.
 
 You must print the list of workers, along with the job each worker is assigned to.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

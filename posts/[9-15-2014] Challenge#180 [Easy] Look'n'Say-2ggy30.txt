@@ -13,7 +13,7 @@ The 1st term is given as 1. The 2nd term is 11 ('one one') because the first ter
     111221
     312211
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input
 On console input you should enter a number N

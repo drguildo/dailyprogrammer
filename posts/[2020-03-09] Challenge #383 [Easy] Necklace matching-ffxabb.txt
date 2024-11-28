@@ -10,17 +10,17 @@ Write a function that returns whether two strings describe the same necklace.
 
 # Examples
 
-    same_necklace("nicole", "icolen") =&gt; true
-    same_necklace("nicole", "lenico") =&gt; true
-    same_necklace("nicole", "coneli") =&gt; false
-    same_necklace("aabaaaaabaab", "aabaabaabaaa") =&gt; true
-    same_necklace("abc", "cba") =&gt; false
-    same_necklace("xxyyy", "xxxyy") =&gt; false
-    same_necklace("xyxxz", "xxyxz") =&gt; false
-    same_necklace("x", "x") =&gt; true
-    same_necklace("x", "xx") =&gt; false
-    same_necklace("x", "") =&gt; false
-    same_necklace("", "") =&gt; true
+    same_necklace("nicole", "icolen") => true
+    same_necklace("nicole", "lenico") => true
+    same_necklace("nicole", "coneli") => false
+    same_necklace("aabaaaaabaab", "aabaabaabaaa") => true
+    same_necklace("abc", "cba") => false
+    same_necklace("xxyyy", "xxxyy") => false
+    same_necklace("xyxxz", "xxyxz") => false
+    same_necklace("x", "x") => true
+    same_necklace("x", "xx") => false
+    same_necklace("x", "") => false
+    same_necklace("", "") => true
 
 # Optional Bonus 1
 
@@ -28,12 +28,12 @@ If you have a string of N letters and you move each letter one at a time from th
 
 Write a function that returns the number of times you encounter the same starting string if you move each letter in the string from the start to the end, one at a time.
 
-    repeats("abc") =&gt; 1
-    repeats("abcabcabc") =&gt; 3
-    repeats("abcabcabcx") =&gt; 1
-    repeats("aaaaaa") =&gt; 6
-    repeats("a") =&gt; 1
-    repeats("") =&gt; 1
+    repeats("abc") => 1
+    repeats("abcabcabc") => 3
+    repeats("abcabcabcx") => 1
+    repeats("aaaaaa") => 6
+    repeats("a") => 1
+    repeats("") => 1
 
 # Optional Bonus 2
 

@@ -24,13 +24,13 @@ line. An example of a colon-prefixed parameter would be the contents of a chat m
 
 The first of the two initiation messages (`NICK`) defines what name people will see when you send a chat message.
 It will have to be unique, and you will not be able to connect if you specify a name which is currently in use or reserved.
-It has a single parameter `&lt;nickname&gt;` and will be sent in the following form:
+It has a single parameter `<nickname>` and will be sent in the following form:
 
-    NICK &lt;nickname&gt;
+    NICK <nickname>
 
 The second of the two initiation messages (`USER`) defines your username, user mode, server name, and real name. The username must also be unique and is usually set to be the same as the nickname. Originally, hostname was sent instead of user mode, but this was changed in a later version of the IRC protocol. For our purposes, standard mode `0` will work fine. As for server name, this will be ignored by the server and is conventionally set as an asterisk (`*`). The real name parameter can be whatever you want, though it is usually set to be the same value as the nickname. It does not have to be unique and may contain spaces. As such, it must be prefixed by a colon. The `USER` message will be sent in the following form:
 
-    USER &lt;username&gt; 0 * :&lt;realname&gt;
+    USER <username> 0 * :<realname>
 
 # Input Description
 

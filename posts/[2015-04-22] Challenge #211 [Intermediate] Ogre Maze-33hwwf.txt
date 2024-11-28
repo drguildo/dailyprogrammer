@@ -25,7 +25,7 @@ You will read in a swamp. The swamp is laid out in 10x10 spaces. Each space can 
 
 #Output:
 
-You will navigate the swamp. If you find a path you will display the solution of all the spaces the ogre will occupy to get to his gold. Use a "&amp;" symbol to show the muddy path created by the ogre to reach his gold. If there is no path at all then you will output "No Path"
+You will navigate the swamp. If you find a path you will display the solution of all the spaces the ogre will occupy to get to his gold. Use a "&" symbol to show the muddy path created by the ogre to reach his gold. If there is no path at all then you will output "No Path"
 
 #Example Input 1:
 
@@ -42,16 +42,16 @@ You will navigate the swamp. If you find a path you will display the solution of
 
 #Example  Output 1:
 
-	&amp;&amp;.&amp;&amp;&amp;&amp;&amp;&amp;&amp;
-	&amp;&amp;O&amp;&amp;&amp;&amp;&amp;&amp;&amp;
-	&amp;&amp;&amp;&amp;&amp;O.O&amp;&amp;
-	&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
-	..O.O&amp;&amp;&amp;&amp;&amp;
-	..O..&amp;&amp;O.O
-	.O...&amp;&amp;&amp;&amp;.
-	.....&amp;&amp;&amp;&amp;.
-	.....OO&amp;&amp;&amp;
-	.......&amp;&amp;&amp;
+	&&.&&&&&&&
+	&&O&&&&&&&
+	&&&&&O.O&&
+	&&&&&&&&&&
+	..O.O&&&&&
+	..O..&&O.O
+	.O...&&&&.
+	.....&&&&.
+	.....OO&&&
+	.......&&&
 
 #Example Input 2:
 

@@ -7,12 +7,12 @@ The snake-fill algorithm is a "fictional" algorithm where you must fill a given 
 Your goal is to take a board definition, as described below, and then attempt to fill it as best as possible with a snake's body while respecting the snake's movement rules!
 
 *Author: nint22*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 You will be first given two integers on a single line through standard input. They represent the width and height, respectively, of the board you are to attempt to fill. On the next line, you will be given an integer N, which represents the following N lines of obstacle definitions. Obstacles are pairs of integers that represent the X and Y coordinate, respectively, of an impassable (blocked) tile. Any impassable block does not allow snake movement over it. Note that the origin (0, 0) is in the top-left of the board, and positive X grows to the right while positive Y grows to the bottom. Thus, the biggest valid coordinate would be (Width - 1, Height - 1).
 ## Output Description
 First, print the number of tiles filled and then the number of tiles total: do *not* count occluded (blocked) tiles. Remember, the more tiles filled by your snake, the more correct your solution is. Then, for each movement your snake has done in its attempt to fill the board, print the position is has moved to. This has to be listed in correct and logical order: one should be able to verify your solution by just running through this data again.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 [The following inputs generates this board configuration](http://i.imgur.com/WclGAwX.png). Note that the darker blocks are occluded (blocked) tiles.
 

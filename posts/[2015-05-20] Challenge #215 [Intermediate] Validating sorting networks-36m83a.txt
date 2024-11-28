@@ -13,13 +13,13 @@ In general, however, there's often no easy way to tell whether or not a sorting 
 ##The zero-one principle
 Thankfully, there's a better way, thanks to the so-called "zero-one principle", which is as follows: 
 
-&gt; If an N-wire sorting network can correctly sort all 2^N possible sequences of 0's and 1's, it will correctly sort all possible input sequences. 
+> If an N-wire sorting network can correctly sort all 2^N possible sequences of 0's and 1's, it will correctly sort all possible input sequences. 
 
 So, instead of having to try and check all N! possible permutations of the input sequence, we can just check all 2^N sequences consisting of 0's and 1's. While this is still exponential, it is far smaller than N!.
 
 Today, you will be given a sorting network and your challenge will be to check whether or not that network will correctly sort all inputs. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Inputs
 

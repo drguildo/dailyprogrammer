@@ -12,7 +12,7 @@ Your goal will be more modest: you must implement a specific checksum algorithm 
 
 **Note:** Make sure to explicitly implement this algorithm, and not call into other code (libraries). The challenge here is focused on your implementation of the algorithm.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input, you will first be given an integer N which ranges inclusively from 1 to 256. After this line, you will receive N-lines of ASCII text. This text will only contain regular printable characters, and will all be on a single line of input.
@@ -21,7 +21,7 @@ On standard console input, you will first be given an integer N which ranges inc
 
 For each line of input, print the index (starting from 1) and the 16-bit Fletcher's checksum as a 4-digit hexadecimal number.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     3

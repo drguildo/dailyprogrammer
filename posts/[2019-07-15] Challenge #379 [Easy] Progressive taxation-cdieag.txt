@@ -16,13 +16,13 @@ Given a whole-number income amount up to ¤100,000,000, find the amount of tax o
 
 # Examples
 
-    tax(0) =&gt; 0
-    tax(10000) =&gt; 0
-    tax(10009) =&gt; 0
-    tax(10010) =&gt; 1
-    tax(12000) =&gt; 200
-    tax(56789) =&gt; 8697
-    tax(1234567) =&gt; 473326
+    tax(0) => 0
+    tax(10000) => 0
+    tax(10009) => 0
+    tax(10010) => 1
+    tax(12000) => 200
+    tax(56789) => 8697
+    tax(1234567) => 473326
 
 # Optional improvement
 
@@ -50,11 +50,11 @@ The overall tax rate is simply the total tax divided by the total income. For ex
 
 Given a target overall tax rate, find the income amount that would be taxed at that overall rate in Examplania:
 
-    overall(0.00) =&gt; 0 (or anything up to 10000)
-    overall(0.06) =&gt; 25000
-    overall(0.09) =&gt; 34375
-    overall(0.32) =&gt; 256250
-    overall(0.40) =&gt; NaN (or anything to signify that no such income value exists)
+    overall(0.00) => 0 (or anything up to 10000)
+    overall(0.06) => 25000
+    overall(0.09) => 34375
+    overall(0.32) => 256250
+    overall(0.40) => NaN (or anything to signify that no such income value exists)
 
 You may get somewhat different answers because of rounding, but as long as it's close that's fine.
 

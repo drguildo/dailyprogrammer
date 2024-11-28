@@ -4,7 +4,7 @@ Title: [11/3/2012] Challenge #110 [Intermediate] Creepy Crawlies
 
 The web is full of creepy stories, with Reddit's /r/nosleep at the top of this list. Since you're a huge fan of not sleeping (we are programmers, after all), you need to amass a collection of creepy stories into a single file for easy reading access! Your goal is to write a web-crawler that downloads all the text submissions from the top 100 posts on /r/nosleep and puts it into a simple text-file.
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -14,7 +14,7 @@ No formal input: the application should simply launch and download the top 100 p
 
 Your application must either save to a file, or print to standard output, the following format: each story should start with a title line. This line is three equal-signs, the posts's name, and then three more equal-signs. An example is "=== People are Scary! ===". The following lines are the story itself, written in regular plain text. No need to worry about formatting, HTML links, bullet points, etc.
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 If I were to run the application now, the following would be examples of output:
 

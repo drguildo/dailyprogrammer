@@ -33,7 +33,7 @@ For example:
     rrw
     oww
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

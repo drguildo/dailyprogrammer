@@ -21,7 +21,7 @@ You'll be given a pair of lines per input. The first line tells you how many num
 
 Your program should emit the number of spatula flips it took to sort the pancakes from smallest to largest. Optionally show the intermediate steps. Remember, all you have is a spatula that can grab the pancakes from the 0th to the _n_th position and flip them. Example:
 
-    2 flips: 312 -&gt; 213 -&gt; 123
+    2 flips: 312 -> 213 -> 123
 
 # Challenge Input
 

@@ -13,10 +13,10 @@ Your challenge today is to implement a function that calculates the additive per
 
 # Examples
 
-    13 -&gt; 1
-    1234 -&gt; 2
-    9876 -&gt; 2
-    199 -&gt; 3
+    13 -> 1
+    1234 -> 2
+    9876 -> 2
+    199 -> 3
 
 # Bonus
 

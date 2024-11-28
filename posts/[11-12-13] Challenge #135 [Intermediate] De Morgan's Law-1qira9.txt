@@ -13,7 +13,7 @@ An interpretation of these rules, helpful for applying it, is that you first app
 
 Your goal is to take a C-like language's Boolean expression, and apply De Morgan's Law on it. You may choose to simplify the resulting expression as much as possible for epic bonus poinst; consider reading into [Karnaugh maps](http://en.wikipedia.org/wiki/Karnaugh_map) as one approach. "Simplified" is measured in the least-amount of variables and operators required (not counting parentheses).
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 The grammar of this C-like language is English-language space-delimited words, uses parentheses for nested expressions, with variables strictly being lower-case alpha-numeric. The reserved key-word for logical-and is "AND", with logical-or "OR", and logical-not "NOT". The expression will be in [Infix-notation](http://en.wikipedia.org/wiki/Infix_notation).
@@ -24,7 +24,7 @@ Note that the "NOT" is a unary operator, meaning it always applies first to vari
 
 Given the expression, print it's inverse using the same grammar and given variables. Simplify the expression for epic bonus points.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Inputs
 
     a

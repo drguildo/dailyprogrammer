@@ -99,4 +99,4 @@ Consider submitting it to /r/dailyprogrammer_ideas
 # Edit
 As some of you have pointed out, my solution had a small bug in it. 
 
-    9024720 -&gt; 1010100101010100000010001000010010
+    9024720 -> 1010100101010100000010001000010010

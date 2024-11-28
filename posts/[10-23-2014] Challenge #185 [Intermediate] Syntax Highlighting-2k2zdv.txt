@@ -28,7 +28,7 @@ The program is to accept a source code file in the language of choice.
 
 You are to output some format which allows formatted text display. Here are some examples for you to choose.
 
-* You could choose to make your program output HTML/CSS to highlight the syntax. For example, a highlighted keyword `static` could be output as `&lt;span class="syntax-keyword"&gt;static&lt;/span&gt;` where the CSS `.syntax-keyword` selector makes the keyword bold or in a distinctive colour.
+* You could choose to make your program output HTML/CSS to highlight the syntax. For example, a highlighted keyword `static` could be output as `<span class="syntax-keyword">static</span>` where the CSS `.syntax-keyword` selector makes the keyword bold or in a distinctive colour.
 * You could output an image with the text in it, coloured and styled however you like.
 * You could use a library such as `ncurses` (or another way, such as `Console.ForegroundColor` for .NET developers) to output coloured text to the terminal directly, siimlar to the style of complex editors such as vim and Emacs.
 

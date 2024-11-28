@@ -28,7 +28,7 @@ You will be given two numbers **X** and **Y**. After that you will be given a te
 
 You must print out the maze. Within the maze there should be a path drawn with askerisks `*` leading from the letter `S` to the letter `E`. Try to minimise the length of the path if possible - don't just fill all of the spaces with `*`!
 
-# Sample Inputs &amp; Output
+# Sample Inputs & Output
 
 ## Sample Input
 

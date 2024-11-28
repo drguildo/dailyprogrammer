@@ -6,7 +6,7 @@ The reason for this is of course that there are more ways that two dice can sum 
 
 Define a function f(d, n) that gives the number of ways d six-sided dice can be thrown to show the number n. So, in the previous example, f(2,7) = 6. Here are a few other values of that function:
 
-f(1,n) = 1 (for 1&amp;le;n&amp;le;6, 0 otherwise)    
+f(1,n) = 1 (for 1&le;n&le;6, 0 otherwise)    
 f(2,7) = 6        
 f(2,10) = 3    
 f(2,12) = 1    

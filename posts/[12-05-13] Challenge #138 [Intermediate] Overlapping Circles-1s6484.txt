@@ -10,7 +10,7 @@ Your goal is to write a program that takes two unit-circles (radius of one) at g
 
 As a starting point, check out how to compute [circle segments](http://en.wikipedia.org/wiki/Circular_segment).
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard input you will be given four floating-point space-delimited values: x y u w. x and y are the first circle's position in [Cartesian coordinates](http://en.wikipedia.org/wiki/Cartesian_coordinate_system). The second pair u and w are the second circle's position.
@@ -21,7 +21,7 @@ Note that the given circles may not actually intersect. If this is the case, ret
 
 Print the summed volume of the two circles, up to an accuracy of 4 digits after the decimal place.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     -0.5 0 0.5 0

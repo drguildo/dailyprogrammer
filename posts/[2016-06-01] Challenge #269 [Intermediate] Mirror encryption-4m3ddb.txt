@@ -56,7 +56,7 @@ The full letter grid will look like this (without the seperators):
     -----------------------------
      |N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

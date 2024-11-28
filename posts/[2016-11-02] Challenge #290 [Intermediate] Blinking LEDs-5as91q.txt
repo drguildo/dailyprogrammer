@@ -24,15 +24,15 @@ for you). Afterwards, print LED states as they are whenever the program performs
 
 Each line is in the following format:
 
-    &lt;line&gt;: &lt;whitespace&gt; &lt;instruction&gt; |
-            &lt;empty&gt;
+    <line>: <whitespace> <instruction> |
+            <empty>
 
-    &lt;instruction&gt; : ld a,&lt;num&gt; |
+    <instruction> : ld a,<num> |
                     out (0),a
 
-&amp;lt;whitespace&amp;gt; is one or more of characters " " or "\t". &amp;lt;num&amp;gt; is a number between 0 and 255.
+&lt;whitespace&gt; is one or more of characters " " or "\t". &lt;num&gt; is a number between 0 and 255.
 
-Instruction ld a,&amp;lt;num&amp;gt; sets internal 8-bit register A to the given number.
+Instruction ld a,&lt;num&gt; sets internal 8-bit register A to the given number.
 Instruction out (0),a updates the LEDs according to the current number in A.
 The LED-0's state corresponds to bit 0 of number in A, when that number is represented
 in binary. For example, when A = 5, the LED state after out instruction is ".....\*.*".
@@ -71,30 +71,30 @@ writing out instruction for each of them. We will have loops.
 
 Each line has the following format:
 
-    &lt;line&gt;: &lt;whitespace&gt; &lt;instruction&gt; |
-            &lt;label&gt;                    |
-            &lt;empty&gt;
+    <line>: <whitespace> <instruction> |
+            <label>                    |
+            <empty>
 
-    &lt;instruction&gt; : ld a,&lt;num&gt; |
-                    ld b,&lt;num&gt; |
+    <instruction> : ld a,<num> |
+                    ld b,<num> |
                     out (0),a  |
                     rlca       |
                     rrca       |
-                    djnz &lt;labelref&gt;
+                    djnz <labelref>
 
-&amp;lt;label&amp;gt; is a sequence of characters a-z A-Z _ terminated with one character ":".
-&amp;lt;labelref&amp;gt; is a sequence of characters a-z A-Z _ (it corresponds to some label minus
+&lt;label&gt; is a sequence of characters a-z A-Z _ terminated with one character ":".
+&lt;labelref&gt; is a sequence of characters a-z A-Z _ (it corresponds to some label minus
 the trailing ":").
 
-Instruction ld b,&amp;lt;num&amp;gt; sets a number to register B. Instruction rlca rotates bits in
+Instruction ld b,&lt;num&gt; sets a number to register B. Instruction rlca rotates bits in
 register A one position to the left, in circle (i.e. bit 0 goes to bit 1, bit 1 to bit 2,
 and bit 7 to bit 0). Instruction rrca rotates bits in register A one position to the
 right, in circle.
-Instruction djnz &amp;lt;labelref&amp;gt; (decrement and jump if not zero)
+Instruction djnz &lt;labelref&gt; (decrement and jump if not zero)
 subtracts one from the value of register B and if the new value of register B is not
 zero then the processing of instructions continues at the line containg label
-corresponding to the &amp;lt;labelref&amp;gt;. You can assume that in the input text &amp;lt;label&amp;gt; is always
-given before the corresponding &amp;lt;labelref&amp;gt; (i.e. jumps go backwards).
+corresponding to the &lt;labelref&gt;. You can assume that in the input text &lt;label&gt; is always
+given before the corresponding &lt;labelref&gt; (i.e. jumps go backwards).
 
 You should output the LED states after each out instruction.
 

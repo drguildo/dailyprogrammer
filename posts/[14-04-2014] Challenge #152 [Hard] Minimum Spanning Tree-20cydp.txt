@@ -33,7 +33,7 @@ You will then be given a distance matrix, with newlines separating rows and comm
 
 You must print out the total weight of the MST, and then the edges of the minimum spanning tree represented by the two vertices such as DF, AE. They do not need to be in any particular order.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

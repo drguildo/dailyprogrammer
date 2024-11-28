@@ -13,7 +13,7 @@ Metaprogramming ain't easy but you're not phased, you're a programmer armed with
 
 ...Oh did I mention you're on an island? Yeah there's that too...
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 Given a programming language, output its corresponding truth table. Only the most basic of types need to be included (If you're in a language that doesn't have any of these types, ignore them).
 

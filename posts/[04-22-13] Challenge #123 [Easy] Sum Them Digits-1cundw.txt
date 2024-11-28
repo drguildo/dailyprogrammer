@@ -9,12 +9,12 @@ Can you help him implement this problem in your favourite programming language?
 It is possible to treat the number as a string and work with each character at a time. This is pretty slow on big numbers, though, so Lars wants you to at least try solving it with only integer calculations (the [modulo operator](http://en.wikipedia.org/wiki/Modulo_operation) may prove to be useful!).
 
 *Author: TinyLebowski*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 A positive integer, possibly 0.
 ## Output Description
 An integer between 0 and 9, the digital root of the input number.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 31337
 ## Sample Output

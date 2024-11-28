@@ -5,17 +5,17 @@ In the popular Pokémon games all moves and Pokémons have types that determine 
 
 These work by some very simple rules, a certain type can be super effective, normal, not very effective or have no effect at all against another type. These translate respectively to 2x, 1x, 0.5x and 0x damage multiplication. If a Pokémon has multiple types the effectiveness of a move against this Pokémon will be the product of the effectiveness of the move to it's types.
 
-# Formal Inputs &amp;amp; Outputs
+# Formal Inputs &amp; Outputs
 ## Input
 The program should take the type of a move being used and the types of the Pokémon it is being used on.
 
 **Example inputs**
 
-     fire -&gt; grass
-     fighting -&gt; ice rock
-     psychic -&gt; poison dark
-     water -&gt; normal
-     fire -&gt; rock
+     fire -> grass
+     fighting -> ice rock
+     psychic -> poison dark
+     water -> normal
+     fire -> rock
 
 ## Output
 The program should output the damage multiplier these types lead to.
@@ -157,9 +157,9 @@ If you parse this json, you can calculate the output, instead of hard coding it.
 Deep further into the api and give the multiplier for folowing 
 
 
-    fire punch -&gt; bulbasaur
-    wrap -&gt; onix
-    surf -&gt; dwegong
+    fire punch -> bulbasaur
+    wrap -> onix
+    surf -> dwegong
 
 
 ##side note 

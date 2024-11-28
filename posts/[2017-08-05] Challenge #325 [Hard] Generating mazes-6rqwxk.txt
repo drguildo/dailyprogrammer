@@ -6,7 +6,7 @@ Now we are going generate the inputs for this week challenges [Color maze](https
 
 The mazes should always be solvable, other then that it should be random
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

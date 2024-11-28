@@ -2,7 +2,7 @@ Title: [2018-03-16] Challenge #354 [Hard] Integer Complexity 3
 
 # Background
 
-The *integer complexity* of a positive integer is the minimum possible sum of the numbers used in an expression - using only positive integers, addition, multiplication, and parentheses - that's equal to the given number. See [this week's Intermediate challenge](https://www.reddit.com/r/dailyprogrammer/comments/84f35x/20180314_challenge_354_intermediate_integer/?st=jerrhz81&amp;sh=b536ffb2) for examples and more information.
+The *integer complexity* of a positive integer is the minimum possible sum of the numbers used in an expression - using only positive integers, addition, multiplication, and parentheses - that's equal to the given number. See [this week's Intermediate challenge](https://www.reddit.com/r/dailyprogrammer/comments/84f35x/20180314_challenge_354_intermediate_integer/?st=jerrhz81&sh=b536ffb2) for examples and more information.
 
 The typical definition of integer complexity disallows all numbers in the expression other than 1. This definition is equivalent, so either one you want to use is fine.
 

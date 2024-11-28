@@ -8,7 +8,7 @@ You are allowed to use whatever resources you have, except for existing language
 
 The more consistently correct you are, the most correct your solution is considered.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be give a large lower-case space-delimited non-punctuated string that has a series of words (they may or may not form a grammatically correct). The string will be unicode, to support accents in all of the five languages (except English). Note that a string of a certain language may make references to nouns in their own respective language. As an example, the sample input is in French, but references the American publication "The Hollywood Reporter" and the state "California".
@@ -17,7 +17,7 @@ You will be give a large lower-case space-delimited non-punctuated string that h
 
 Given the input, you must attempt to detect the language the text was written in, printing your top guesses. At minimum you must print your top guess; if your code is not certain of the language, you may print your ordered "best guesses".
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 0
 
     l'école a été classé meilleure école de cinéma d'europe par la revue professionnelle de référence the hollywood reporter et 7e meilleure école de cinéma du monde juste derrière le california institute of the arts et devant l'université columbia

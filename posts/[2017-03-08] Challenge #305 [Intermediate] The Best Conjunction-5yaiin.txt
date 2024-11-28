@@ -7,7 +7,7 @@ Your job is to find the best conjunction—that is, find the word with the most 
 - Something (3 words: So, me, thing)
 - Awesomeness (3 words: awe, some, ness)
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -30,7 +30,7 @@ Find minSize 5
 #Bonus
 
 - Each sub-word must include the last letter of the previous subword. For example "counterrevolutionary" would become "count, terre, evolution, nary"
-- Instead of simply the last letter, allow any number of letters to be shared between words (e.g. consciencestricken =&gt; conscience, sciences, stricken
+- Instead of simply the last letter, allow any number of letters to be shared between words (e.g. consciencestricken => conscience, sciences, stricken
 
 #Credit
 

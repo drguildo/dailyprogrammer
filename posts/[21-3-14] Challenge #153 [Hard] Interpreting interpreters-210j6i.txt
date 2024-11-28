@@ -10,7 +10,7 @@ For instance;
 
 Let's say your programming language of choice is Ruby. Your languages could be linked like so:
 
-Ruby -&gt; Scheme -&gt; Brainfuck
+Ruby -> Scheme -> Brainfuck
 
 Ruby parses and evaluates the Scheme syntax. The Scheme syntax will parse the Brainfuck syntax.
 
@@ -21,8 +21,8 @@ I chose Scheme as an example here because there is a lot of reading material on 
 
 You will be given Brainfuck code, within your program, convert this code back to its string equivalent.
 
-    ++++++++[&gt;++++[&gt;++&gt;+++&gt;+++&gt;+&lt;&lt;&lt;&lt;-]&gt;+&gt;+&gt;-&gt;&gt;+
-    [&lt;]&lt;-]&gt;&gt;.&gt;---.+++++++..+++.&gt;&gt;.&lt;-.&lt;.+++.------.--------.&gt;&gt;+.&gt;++.
+    ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+
+    [<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
     
 #**Output**
@@ -32,16 +32,16 @@ You will be given Brainfuck code, within your program, convert this code back to
 
 #**Challenge Input**
 
-    ++++++++[&gt;+&gt;++&gt;+++&gt;++++&gt;+++++&gt;++++++&gt;
-    +++++++&gt;++++++++&gt;+++++++++&gt;++++++++++&gt;
-    +++++++++++&gt;++++++++++++&gt;+++++++++++++&gt;++++++++++++++&gt;
-    +++++++++++++++&gt;++++++++++++++++
-    &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;-]&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;+.-&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;
-    &gt;&gt;&gt;-.+&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;---.+++&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
-    &lt;&lt;&lt;&gt;&gt;&gt;&gt;.&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;+++.---&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
-    &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;-.+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;++.--&lt;&lt;&lt;&lt;
-    &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
-    &gt;++.--&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;+.-&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;.
+    ++++++++[>+>++>+++>++++>+++++>++++++>
+    +++++++>++++++++>+++++++++>++++++++++>
+    +++++++++++>++++++++++++>+++++++++++++>++++++++++++++>
+    +++++++++++++++>++++++++++++++++
+    <<<<<<<<<<<<<<<<-]>>>>>>>>>+.-<<<<<<<<<>>
+    >>>-.+<<<<<>>>>>>>>>>>>>>---.+++<<<<<<<<<<<
+    <<<>>>>.<<<<>>>>>>>>>>>>>>+++.---<<<<<<<<<
+    <<<<<>>>>>>>>>>>>>>-.+<<<<<<<<<<<<<<>>>>>>>>>>>>>>++.--<<<<
+    <<<<<<<<<<>>>>>>>>>>>>>
+    >++.--<<<<<<<<<<<<<<>>>>>>>>>>>>>>>+.-<<<<<<<<<<<<<<<.
 
 
 
@@ -50,7 +50,7 @@ You will be given Brainfuck code, within your program, convert this code back to
 For extra points, have your chain add an extra language.
 E.g.
 
-Ruby -&gt; Scheme -&gt; Brainfuck -&gt; Whitespace
+Ruby -> Scheme -> Brainfuck -> Whitespace
 
 
 (Only the mentally ill would attempt such a feat.)

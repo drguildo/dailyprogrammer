@@ -10,7 +10,7 @@ Read up on the original [[Easy] challenge here](http://www.reddit.com/r/dailypro
 
 *Note: This is not a particularly difficult challenge, but it is a great example of real-world programming! Make sure you actually test your generator with the previous challenge's program you wrote.*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input, you will be given one line of five space-delimited integers: E (for the number of events to generate), V (for the number of visitors), R (for the number of rooms), I (for the time at which the earliest event can occur), and O (for the time at which the last event can occur).
@@ -23,7 +23,7 @@ Though your data set can randomly pick the visitor and room index, you must make
 
 Make sure to [seed your random-number generator](http://en.wikipedia.org/wiki/Random_seed)! It does not matter if your resulting list is ordered (on any column) or not.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     18 8 32 300 550

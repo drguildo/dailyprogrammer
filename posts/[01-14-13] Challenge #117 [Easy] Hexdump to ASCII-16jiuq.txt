@@ -6,12 +6,12 @@ Hexadecimal is a base-16 representation of a number. A single byte of informatio
 Your job is to open a given file (using the given file name) and print every byte's hexadecimal value.
 
 *Author: PoppySeedPlehzr*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 As a program command-line argument to the program, accept a valid file name.
 ## Output Description
 Print the given file's contents, where each byte of the file must be printed in hexadecimal form. Your program must print 16 bytes per line, where there is a space between each hexadecimal byte. Each line must start with the line number, starting from line 0, and must also count in hexadecimal.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 "MyFile.txt" (This file is an arbitrary file as an example)
 ## Sample Output

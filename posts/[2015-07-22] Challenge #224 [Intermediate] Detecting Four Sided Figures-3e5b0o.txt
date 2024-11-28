@@ -4,7 +4,7 @@ Title: [2015-07-22] Challenge #224 [Intermediate] Detecting Four Sided Figures
 
 I got this idea from the [Mensa quiz](https://www.mensa.org/workout/questions), specifically question 17. It's a basic scanning challenge: can your program detect and count intersecting bounding boxes from an ASCII art input? A four-sided figure is an ASCII art rectangle. Note that it can overlap another one, as long as the four corners are fully connected. 
 
-# Formal Inputs &amp;amp; Outputs
+# Formal Inputs &amp; Outputs
 
 Your program will be given an ASCII art chart showing boxes and lines. `-` and `|` characters indicate horizontal and vertical lines, respectively, while "+" characters show intersections.
 

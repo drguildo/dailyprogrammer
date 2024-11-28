@@ -3,6 +3,7 @@
 import os
 import requests
 import re
+import html
 
 # Define the subreddit and URL
 url = 'https://www.reddit.com/r/dailyprogrammer/.json'
@@ -42,7 +43,7 @@ def main():
             post_filename = f'{post_title}-{post_id}.txt'
             with open(f'{dir_name}/{sanitise_filename(post_filename)}', 'w', encoding='utf-8') as file:
                 file.write(f"Title: {post_title}\n\n")
-                file.write(post_body)
+                file.write(html.unescape(post_body))
 
         after = data['after']
         if not after:
@@ -51,13 +52,9 @@ def main():
     print("Posts downloaded successfully.")
 
 def sanitise_filename(filename):
-    sanitised = re.sub(r'\d+/\d+/\d+', lambda x: x.group(0).replace('/', '-'), filename)
+    sanitised = html.unescape(filename)
+    sanitised = re.sub(r'\d+/\d+/\d+', lambda x: x.group(0).replace('/', '-'), sanitised)
     sanitised = re.sub(r'[\\/:*?"<>|]', '_', sanitised)
-    sanitised = re.sub(r'&amp;', '&', sanitised)
-    sanitised = re.sub(r'&lt;', '<', sanitised)
-    sanitised = re.sub(r'&gt;', '>', sanitised)
-    sanitised = re.sub(r'&quot;', '"', sanitised)
-    sanitised = re.sub(r'&#39;', "'", sanitised)
     return sanitised
 
 if __name__ == '__main__':

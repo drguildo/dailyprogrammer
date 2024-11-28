@@ -38,7 +38,7 @@ As pointed out by /u/pshatmsft , YouTube loads the comments via AJAX so there's 
 
 Given the URL below, all you need to do is replace FullYoutubePathHere with your URL
 
-https://plus.googleapis.com/u/0/_/widget/render/comments?first_party_property=YOUTUBE&amp;href=FullYoutubePathHere
+https://plus.googleapis.com/u/0/_/widget/render/comments?first_party_property=YOUTUBE&href=FullYoutubePathHere
 
 Remember to append your url in full (https://www.youtube.com/watch?v=dQw4w9WgXcQ  as an example)
 
@@ -46,7 +46,7 @@ Remember to append your url in full (https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 The string for a Youtube comment is the following
 
-    &lt;div class="CT"&gt;Youtube comment here&lt;/div&gt;
+    <div class="CT">Youtube comment here</div>
 
 
 #Finally

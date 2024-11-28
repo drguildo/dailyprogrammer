@@ -6,15 +6,15 @@ This challenge uses only additive notation for roman numerals. There's also subt
 
 Given two Roman numerals, return whether the first one is less than the second one:
 
-    numcompare("I", "I") =&gt; false
-    numcompare("I", "II") =&gt; true
-    numcompare("II", "I") =&gt; false
-    numcompare("V", "IIII") =&gt; false
-    numcompare("MDCLXV", "MDCLXVI") =&gt; true
-    numcompare("MM", "MDCCCCLXXXXVIIII") =&gt; false
+    numcompare("I", "I") => false
+    numcompare("I", "II") => true
+    numcompare("II", "I") => false
+    numcompare("V", "IIII") => false
+    numcompare("MDCLXV", "MDCLXVI") => true
+    numcompare("MM", "MDCCCCLXXXXVIIII") => false
 
 You only need to correctly handle the case where there are at most 1 each of `D`, `L`, and `V`, and at most 4 each of `C`, `X`, and `I`. You don't need to validate the input, but you can if you want. Any behavior for invalid inputs like `numcompare("V", "IIIIIIIIII")` is fine - true, false, or error.
 
 Try to complete the challenge without actually determining the numerical values of the inputs.
 
-*(This challenge is a repost of [Challenge #66 [Easy]](https://www.reddit.com/r/dailyprogrammer/comments/v89c4/6182012_challenge_66_easy/), originally posted by u/rya11111 in June 2012. [Roman numerals have appeared in several previous challenges.](https://www.reddit.com/r/dailyprogrammer/search/?q=roman%20numerals&amp;source=recent&amp;restrict_sr=1))*
+*(This challenge is a repost of [Challenge #66 [Easy]](https://www.reddit.com/r/dailyprogrammer/comments/v89c4/6182012_challenge_66_easy/), originally posted by u/rya11111 in June 2012. [Roman numerals have appeared in several previous challenges.](https://www.reddit.com/r/dailyprogrammer/search/?q=roman%20numerals&source=recent&restrict_sr=1))*

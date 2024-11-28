@@ -28,7 +28,7 @@ Your task today is to try and generate addition chains of a given length and las
 
 (by the way, you may think this looks similar to the Fibonacci sequence, but it's not, there's a crucial difference: you don't just add the last two numbers of the chain to get the next number, you can add *any* two previous numbers to get the next number. The challenge is figuring out, for each step, which two numbers to add)
 
-#Formal inputs &amp; outputs
+#Formal inputs & outputs
 
 ##Input description
 

@@ -72,10 +72,10 @@ Here is a Python script that verifies and scores a solution, if it's written in 
 		leftdraws, play, word = line.split()
 		# Draw from the left
 		leftdraws = int(leftdraws)
-		assert leftdraws &lt;= len(row), "Not enough tiles to draw from"
+		assert leftdraws <= len(row), "Not enough tiles to draw from"
 		rack += list(row[:leftdraws])
 		row = row[leftdraws:]
-		assert len(rack) &lt;= N, "Drew too many tiles"
+		assert len(rack) <= N, "Drew too many tiles"
 		# Draw remaining from the right
 		rightdraws = min(len(row), N - len(rack))
 		if rightdraws:

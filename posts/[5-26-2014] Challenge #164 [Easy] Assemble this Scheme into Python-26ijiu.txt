@@ -11,7 +11,7 @@ It is your task to familiarise yourself with this language following this criter
 
 In order to Impress HR and convince the manager to hire you, you must complete 5 small tasks. You will definitely be hired if you complete the bonus task.
 
-##Input &amp; Output
+##Input & Output
 
 These 5 tasks are:
 

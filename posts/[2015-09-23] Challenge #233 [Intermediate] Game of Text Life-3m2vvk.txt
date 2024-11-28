@@ -46,7 +46,7 @@ Which leads to this generation
 Notice that the character that represents newly born cells are selected randomly from the three neighbors that spawned it.
 Your challenge today is to implement this variation of the Game of Life. 
 
-#Formal inputs &amp; outputs
+#Formal inputs & outputs
 
 Since there's a random component to this challenge (i.e. which character a newly born cell will be, your solutions obviously don't have to match these character for character)
 

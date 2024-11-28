@@ -26,6 +26,6 @@ Bonus: By the [4-color theorem](http://en.wikipedia.org/wiki/4-color_theorem) al
 
 Edit: to make it easier for everyone, [here's a list of what states borders other states](http://pastebin.com/uNJAEfgr). I compiled it myself, so I can't guarantee accuracy (though I'm fairly sure it's accurate, and it works fine in my program). To be clear, a line like
 
-    ND &lt;- MN, SD, MT
+    ND <- MN, SD, MT
 
 Means that North Dakota borders Minnesota, South Dakota and Montana. 

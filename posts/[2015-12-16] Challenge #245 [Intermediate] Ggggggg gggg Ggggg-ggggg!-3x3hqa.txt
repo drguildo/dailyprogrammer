@@ -33,7 +33,7 @@ First, we need to be able to understand what the Ggggg aliens are saying. Fortun
 
 When we read the message from left to right, we can divide it into letters like so (alternating letters bolded):
 
-&amp;gt; **GgG**ggG**GGg**GGg**gGG**, **ggg**gGG**Ggg**GGg**gGg**!
+&gt; **GgG**ggG**GGg**GGg**gGG**, **ggg**gGG**Ggg**GGg**gGg**!
 
 Take those letter groups and turn them into letters using the key, and you get "Hello, world!"
 

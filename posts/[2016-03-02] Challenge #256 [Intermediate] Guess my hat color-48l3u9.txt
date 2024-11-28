@@ -18,7 +18,7 @@ The challenge today is to write the logic to make the guess.
 The person guessing can only see the persons in front of them (and their hats) and can hear the guesses from the persons behind them. 
 They can **NEVER** look behind them or look at their own hat.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 
@@ -78,15 +78,15 @@ There is no fixed ratio, neither do the participants know what the ratio is.
 
 You have 4 people with lined up like this:
 
-    Black -&gt; White -&gt; White -&gt; Black
+    Black -> White -> White -> Black
 
 The one in the back can see:
 
-    White -&gt; White -&gt; Black
+    White -> White -> Black
 
 The second one sees:
 
-    White -&gt; Black
+    White -> Black
 
 And so on...
 

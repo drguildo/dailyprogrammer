@@ -39,7 +39,7 @@ Have your program fill in your drawn triangles with pretty colors. Pick them at 
     4 0
     2 2
 
-&amp;nbsp;
+&nbsp;
 
 1) [image](https://i.imgur.com/kBgXVVz.png)
 
@@ -52,7 +52,7 @@ Have your program fill in your drawn triangles with pretty colors. Pick them at 
     2 4 
     4 2 
     4 4
-&amp;nbsp;
+&nbsp;
 
 2) [image](https://i.imgur.com/0L2vtk5.png)
 

@@ -4,14 +4,14 @@ Title: [2015-11-09] Challenge #240 [Easy] Typoglycemia
 
 Typoglycemia is a relatively new word given to a purported recent discovery about how people read written text. [As wikipedia puts it](https://en.wikipedia.org/wiki/Typoglycemia):
 
-&gt; The legend, propagated by email and message boards, purportedly demonstrates that readers can understand the meaning of words in a sentence even when the interior letters of each word are scrambled. As long as all the necessary letters are present, and the first and last letters remain the same, readers appear to have little trouble reading the text.
+> The legend, propagated by email and message boards, purportedly demonstrates that readers can understand the meaning of words in a sentence even when the interior letters of each word are scrambled. As long as all the necessary letters are present, and the first and last letters remain the same, readers appear to have little trouble reading the text.
 
-[Or as Urban Dictionary puts it](http://www.urbandictionary.com/define.php?term=Typoglycemia&amp;defid=1561227):
+[Or as Urban Dictionary puts it](http://www.urbandictionary.com/define.php?term=Typoglycemia&defid=1561227):
 
-&gt; Typoglycemia  
-&gt; The mind's ability to decipher a mis-spelled word if the first and last letters of the word are correct.
-&gt;
-&gt; The word Typoglycemia describes Teh mdin's atbiliy to dpeihecr a msi-selpeld wrod if the fsirt and lsat lteetrs of the wrod are cerorct.
+> Typoglycemia  
+> The mind's ability to decipher a mis-spelled word if the first and last letters of the word are correct.
+>
+> The word Typoglycemia describes Teh mdin's atbiliy to dpeihecr a msi-selpeld wrod if the fsirt and lsat lteetrs of the wrod are cerorct.
 
 #Input Description
 

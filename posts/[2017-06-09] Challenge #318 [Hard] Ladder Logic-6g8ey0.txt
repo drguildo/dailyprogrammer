@@ -34,7 +34,7 @@ There are a number of instructions used but we will focus on the most common:
 Your task is to convert a series of mnemonics and data points (inputs, outputs, memory locations) into the graphical representation.  Each rung should be numbered.  The number of dashes between items does not matter but it should be readable and reasonably aligned.  It is common for all input logic to be aligned to the left and for all output logic to be aligned to the right side of the screen, but this is not requied.  I have provided some pseudo code with each example that more or less matches what is going on in the ladder logic for reference.  Instead of a text representation, feel free to do a graphical representation instead.
 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 
 ##Example 1 - Motor Starter (Traditional Ladder Style)
@@ -136,7 +136,7 @@ Traditional Programming Equivalent:
     
 ##Example 4 Motor Starter With Local/Remote Select
 
-I1 = Stop, I2 = Local Start, I3 &amp; I4 = Remote Start buttons, I5 = Local/Remote Toggle Switch, O1 = Motor
+I1 = Stop, I2 = Local Start, I3 & I4 = Remote Start buttons, I5 = Local/Remote Toggle Switch, O1 = Motor
 
 If the system is in local mode, start the motor when the local start button is pressed.
 

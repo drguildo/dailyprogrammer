@@ -12,7 +12,7 @@ The goal of the game is to escape a maze and not get eaten by the trolls.
 ##Phase 1
 Create your character and make it moveable.
 You can use this amazing maze (see what I did there?) or create one yourself.
-If you are going to use ASCII for the game, I suggest you use `&lt;&gt;v^` for your character since direction becomes important.
+If you are going to use ASCII for the game, I suggest you use `<>v^` for your character since direction becomes important.
 
     #########################################################################
     #   #               #               #           #                   #   #
@@ -76,13 +76,13 @@ e.g.
     Can push
 
     #   #     
-    # &gt; #   ##
+    # > #   ##
     #   #        
 
     Can't push
     
     #   #     
-    # &gt; #####
+    # > #####
     #   #   
 
 ##Phase 3

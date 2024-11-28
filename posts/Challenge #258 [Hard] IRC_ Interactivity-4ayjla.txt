@@ -47,13 +47,13 @@ And as for chat commands, the following should be supported. Braces `[]` denote 
 There should be an output field that shows parsed messages in the following format:
 
     [HH:MM] GeekBot has joined #rdp
-    [HH:MM] #rdp &lt;GeekBot&gt; Hey, is anyone here?
+    [HH:MM] #rdp <GeekBot> Hey, is anyone here?
     [HH:MM] GeekDude has joined #rdp
-    [HH:MM] #rdp &lt;GeekDude&gt; Oh, hey GeekBot.
+    [HH:MM] #rdp <GeekDude> Oh, hey GeekBot.
     [HH:MM] GeekBot has joined #reddit-dailyprogrammer
-    [HH:MM] #reddit-dailyprogrammer &lt;GeekBot&gt; This is a test message
+    [HH:MM] #reddit-dailyprogrammer <GeekBot> This is a test message
     [HH:MM] GeekBot has parted #rdp
-    [HH:MM] GeekBot &lt;GeekDude&gt; This is a private message
+    [HH:MM] GeekBot <GeekDude> This is a private message
     [HH:MM] GeekBot has parted #reddit-dailyprogrammer
 
 It should show the joins/parts of any users, including yourself. Outgoing messages should be shown as well as incoming.
@@ -69,25 +69,25 @@ Because you no longer have to specify where a message is coming from, the messag
 \#reddit-dailyprogrammer
 
     [HH:MM] GeekBot has joined #reddit-dailyprogrammer
-    [HH:MM] &lt;GeekBot&gt; This is a test message
-    [HH:MM] &lt;jose_&gt; This conversation is entirely made up
-    [HH:MM] &lt;GeekBot&gt; Yes, yes it is. Got to go!
+    [HH:MM] <GeekBot> This is a test message
+    [HH:MM] <jose_> This conversation is entirely made up
+    [HH:MM] <GeekBot> Yes, yes it is. Got to go!
     [HH:MM] GeekBot has parted #reddit-dailyprogrammer
 
 \#rdp
 
     [HH:MM] GeekBot has joined #rdp
-    [HH:MM] &lt;GeekBot&gt; Hey, is anyone here?
+    [HH:MM] <GeekBot> Hey, is anyone here?
     [HH:MM] GeekDude has joined #rdp
-    [HH:MM] &lt;GeekDude&gt; Oh, hey GeekBot.
-    [HH:MM] &lt;GeekBot&gt; What's up GeekDude?
+    [HH:MM] <GeekDude> Oh, hey GeekBot.
+    [HH:MM] <GeekBot> What's up GeekDude?
     [HH:MM] GeekDude has parted #rdp
-    [HH:MM] &lt;GeekBot&gt; Guess he won't be replying...
+    [HH:MM] <GeekBot> Guess he won't be replying...
     [HH:MM] GeekBot has parted #rdp
 
 GeekDude (not technically a channel, but it should go into its own section for the individual messager)
 
-    [HH:MM] GeekBot &lt;GeekDude&gt; This is a private message. Sorry for parting without replying to your message.
+    [HH:MM] GeekBot <GeekDude> This is a private message. Sorry for parting without replying to your message.
 
 # Bonus
 

@@ -81,7 +81,7 @@ Devon's nemesis, Sally, is by far the best salesperson in the team, but her writ
 - https://xkcd.com/1179/
 - *Moderator note:* If you would like to solve the general case to absolutely work on all possible input dates, check out this video first: https://www.youtube.com/watch?v=-5wpm-gesOY
 
-PS: Using `&lt;?php echo strftime('%Y-%m-%d', strtotime($s));` is cheating! :\^)
+PS: Using `<?php echo strftime('%Y-%m-%d', strtotime($s));` is cheating! :\^)
 
 
 

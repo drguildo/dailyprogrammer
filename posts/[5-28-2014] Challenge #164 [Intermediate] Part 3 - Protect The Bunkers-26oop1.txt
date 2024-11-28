@@ -29,8 +29,8 @@ Input will be given on STDIN, read from a file map.txt, or supplied as a command
 
 Input Limits
 
-    1 &lt;= n &lt; 16
-    3 &lt;= m &lt; 16
+    1 <= n < 16
+    3 <= m < 16
 
 ##Output Description
 

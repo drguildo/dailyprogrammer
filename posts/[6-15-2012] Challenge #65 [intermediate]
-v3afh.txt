@@ -5,7 +5,7 @@ Anyone who've tried to get through the *A Song of Ice and Fire* books written by
 
 So, today, we make that a little bit easier! What follows at the end here is a list of 50+ characters from the books and a list detailing how their related. Each character is given a two-letter code (for instance "AA" or "BQ") and a specification of their gender ("M" or "F"), and then what follows is a list detailing how they're related to the other characters. 
 
-To make things simple, there's only one "basic" relationship, which is "A is parent to B", written as "-&gt;". So, for instance, if Arya Stark has the code "AI" and Eddard Stark has the code "AB", then "AB-&gt;AI" means "Eddard Stark is parent to Arya Stark". Each person may have 0, 1 or 2 parents specified somewhere in the list, but no more.
+To make things simple, there's only one "basic" relationship, which is "A is parent to B", written as "->". So, for instance, if Arya Stark has the code "AI" and Eddard Stark has the code "AB", then "AB->AI" means "Eddard Stark is parent to Arya Stark". Each person may have 0, 1 or 2 parents specified somewhere in the list, but no more.
 
 (I should point out here that this family tree contains *no spoilers*. This is the family tree as it stands in the beginning of Book 1, though some of the characters you wont meet until much later. For those of you who've read the books or seen the show, please don't put any spoilers in the comments, even in hidden spoiler text.)
 
@@ -47,10 +47,10 @@ And now, here is the family tree of some of the major characters in A Song of Ic
     BW = Aeron Greyjoy (M)        BX = Rodrik Greyjoy (M)       BY = Maron Greyjoy (M)        
     BZ = Asha Greyjoy (F)         CA = Theon Greyjoy (M)        CB = Alannys Harlaw (F)       
     ---------------------------------------------------------------------------------------
-    AA-&gt;AB, AA-&gt;AD, AA-&gt;AE, AB-&gt;AF, AB-&gt;AG, AB-&gt;AH, AB-&gt;AI, AB-&gt;AJ, AB-&gt;AK, AC-&gt;AG, 
-    AC-&gt;AH, AC-&gt;AI, AC-&gt;AJ, AC-&gt;AK, AL-&gt;AC, AL-&gt;AN, AL-&gt;AO, AM-&gt;AC, AM-&gt;AN, AM-&gt;AO, 
-    AO-&gt;AQ, AP-&gt;AQ, AR-&gt;AS, AR-&gt;AU, AS-&gt;AV, AS-&gt;AW, AS-&gt;AX, AT-&gt;AV, AT-&gt;AW, AT-&gt;AX, 
-    AU-&gt;BC, AV-&gt;AZ, AV-&gt;BA, AV-&gt;BB, AY-&gt;AZ, AY-&gt;BA, AY-&gt;BB, BD-&gt;AY, BD-&gt;BE, BD-&gt;BH, 
-    BE-&gt;BG, BF-&gt;BG, BI-&gt;BJ, BI-&gt;BK, BJ-&gt;BL, BJ-&gt;BP, BJ-&gt;BQ, BK-&gt;BL, BK-&gt;BP, BK-&gt;BQ, 
-    BL-&gt;BN, BL-&gt;BO, BM-&gt;BN, BM-&gt;BO, BR-&gt;BS, BR-&gt;BT, BR-&gt;BU, BR-&gt;BV, BR-&gt;BW, BS-&gt;BX, 
-    BS-&gt;BY, BS-&gt;BZ, BS-&gt;CA, CB-&gt;BX, CB-&gt;BY, CB-&gt;BZ, CB-&gt;CA
+    AA->AB, AA->AD, AA->AE, AB->AF, AB->AG, AB->AH, AB->AI, AB->AJ, AB->AK, AC->AG, 
+    AC->AH, AC->AI, AC->AJ, AC->AK, AL->AC, AL->AN, AL->AO, AM->AC, AM->AN, AM->AO, 
+    AO->AQ, AP->AQ, AR->AS, AR->AU, AS->AV, AS->AW, AS->AX, AT->AV, AT->AW, AT->AX, 
+    AU->BC, AV->AZ, AV->BA, AV->BB, AY->AZ, AY->BA, AY->BB, BD->AY, BD->BE, BD->BH, 
+    BE->BG, BF->BG, BI->BJ, BI->BK, BJ->BL, BJ->BP, BJ->BQ, BK->BL, BK->BP, BK->BQ, 
+    BL->BN, BL->BO, BM->BN, BM->BO, BR->BS, BR->BT, BR->BU, BR->BV, BR->BW, BS->BX, 
+    BS->BY, BS->BZ, BS->CA, CB->BX, CB->BY, CB->BZ, CB->CA

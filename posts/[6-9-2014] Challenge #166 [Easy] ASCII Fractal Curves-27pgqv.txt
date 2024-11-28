@@ -18,7 +18,7 @@ The input to this challenge is extremely simple. You will take a number **N** wh
 
 You must print out your own curve to the given degree of complexity. The method of display is up to you, but try and stick with the ASCII theme - for example, see below.
 
-# Sample Inputs &amp; Output
+# Sample Inputs & Output
 
 ## Sample Input
 

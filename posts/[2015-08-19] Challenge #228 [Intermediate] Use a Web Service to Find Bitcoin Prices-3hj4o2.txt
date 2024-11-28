@@ -74,7 +74,7 @@ The API call you make to the bitcoincharts.com site will yield a plain text resp
 
 Your API should return the current value of Bitcoin according to that exchange in that currency. For example, your API might look like this (in F# notation to show types and args):
 
-    val getCurrentBitcoinPrice : exchange:string -&gt; currency:string -&gt; float
+    val getCurrentBitcoinPrice : exchange:string -> currency:string -> float
 
 Which basically says take two string args to describe the exchange by name and the currency I want the price in and return the latest price as a floating point value. In the above example my code would return `349.25`. 
 

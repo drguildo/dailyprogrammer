@@ -8,7 +8,7 @@ For each line of input, there are three space-delimited values: the first being 
 
 *Author: nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given an integer N on the first line of input: it represents the following N lines of input. For each line, you will be given an integer T and then two strings A and B. If the integer T is zero (0), then you must reverse the string A. If the integer T is one (1), then you must upper-case (capitalize) the entire string A. At the end of either of these operations, you must test if the expected result (string B) and the result of the function (string A) match.
@@ -17,7 +17,7 @@ You will be given an integer N on the first line of input: it represents the fol
 
 If string A, after the above described functions are executed, and B match, then print "Good test data". Else, print "Mismatch! Bad test data". "Matching" is defined as two strings being letter-for-letter, equivalent case, and of the same length.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     6

@@ -9,8 +9,8 @@ Pretend you don't know that only one multitap can be used in a given PS2 at once
 
 Given that a controller costs $20, and a multitap costs $12, write a function that takes in an integer D for the amount of money you have (in dollars) and returns the total maximum number of people you could afford to get to play with you on one ps2 tree.
 
-For example, the ps2 has 2 ports to start with and comes with 1 controller, so if D &lt; 20, then the function should return 1.
+For example, the ps2 has 2 ports to start with and comes with 1 controller, so if D < 20, then the function should return 1.
 However, when you add another $20, you can afford another controller, so for D = 20, the function should return 2.
-Adding another controller costs you not only another $20 for the controller, but also $12 for the first multitap to go into the system, so for 20&lt;=D&lt;(40+12), you should return N=3.
+Adding another controller costs you not only another $20 for the controller, but also $12 for the first multitap to go into the system, so for 20<=D<(40+12), you should return N=3.
 
-This is tricky because once you get &gt;5 controllers, you need ANOTHER multitap...and greater than 8 controllers you need 3+ multitaps.
+This is tricky because once you get >5 controllers, you need ANOTHER multitap...and greater than 8 controllers you need 3+ multitaps.

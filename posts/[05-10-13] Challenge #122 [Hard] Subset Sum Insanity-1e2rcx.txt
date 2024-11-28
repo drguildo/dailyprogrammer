@@ -6,7 +6,7 @@ The [subset sum](http://en.wikipedia.org/wiki/Subset_sum_problem) problem is a c
 
 **Don't forget our [previous week-long](http://www.reddit.com/r/dailyprogrammer/comments/1dk7c7/05213_challenge_121_hard_medal_management/) [Hard] challenge competition ends today!**
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given three integers `(U, V, W)` on the first line of data, where each is the length of the matrices' respective dimensions (meaning U is the number of elements in the X dimension, V is the number of elements in the Y dimension, and W is the number of elements in the Z dimension). After the initial line of input, you will be given a series of space-delimited integers that makes up the 3D matrix. Integers are ordered first in the X dimension, then Y, and then Z ( [the coordinate system is clarified here](http://i.imgur.com/nxChpUZ.png) ).
@@ -15,7 +15,7 @@ You will be given three integers `(U, V, W)` on the first line of data, where ea
 
 Simply print all sets of integers that sum to 0, if this set is of directly-adjacent integers (meaning a set that travels vertically or horizontally, but never diagonally). If there are no such sets, simply print "No subsets sum to 0".
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     2 2 3

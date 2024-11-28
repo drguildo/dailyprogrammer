@@ -35,7 +35,7 @@ Your task today is to take an input word sequence and turn it into a word snake.
 
 Other than that, you're free to decide how the snake should "snake around". If you want to make it easy for yourself and simply have it alternate between going right and going down, that's perfectly fine. If you want to make more elaborate shapes, that's fine too. 
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Input
 
@@ -45,7 +45,7 @@ The input will be a single line of words (written in ALL CAPS). The last letter 
 
 Your word snake! Make it look however you like, as long as it follows the rules.
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 There are of course many possible outputs for each inputs, these just show a sample that follows the rules
 

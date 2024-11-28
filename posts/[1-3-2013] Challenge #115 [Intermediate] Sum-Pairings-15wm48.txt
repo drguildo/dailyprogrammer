@@ -6,7 +6,7 @@ Let the term "sum-pair" be a pair of integers A and B such that the sum of A and
 
 Your goal is to write a program that, given an array through standard input (console), you echo out all sum-pairs of a given integer C.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input Description:
 
@@ -16,7 +16,7 @@ On the console, you will be first given an integer N. This is the number of foll
 
 Your program must print all unique pair of integers in the given list, where the sum of the pair is equal to integer C.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Input (Through Console)
 

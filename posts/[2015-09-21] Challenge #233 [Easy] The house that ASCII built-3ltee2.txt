@@ -26,7 +26,7 @@ In case it isn't clear: the `o`'s are windows, the `A`'s are the tops of the roo
 
 Today, you are to step into the shoes of Lilly the ASCII contractor! You are to be given an ASCII blueprint of a house, which you will then turn in to glorious reality.
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 ##Inputs
 
 On the first line, you will recieve a number telling you how many lines the blueprint will occupy. 

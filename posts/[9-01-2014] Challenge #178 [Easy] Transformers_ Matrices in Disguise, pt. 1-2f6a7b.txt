@@ -14,7 +14,7 @@ Your program must be able to do the following:
 
 * Reflection over the X or Y axis http://i.imgur.com/X6JH6pT.png
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input
 

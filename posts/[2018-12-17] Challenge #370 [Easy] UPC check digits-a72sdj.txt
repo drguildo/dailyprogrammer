@@ -28,9 +28,9 @@ Given an 11-digit number, find the 12th digit that would make a valid UPC. You m
 
 # Examples
 
-    upc(4210000526) =&gt; 4
-    upc(3600029145) =&gt; 2
-    upc(12345678910) =&gt; 4
-    upc(1234567) =&gt; 0
+    upc(4210000526) => 4
+    upc(3600029145) => 2
+    upc(12345678910) => 4
+    upc(1234567) => 0
 
 Also, if you live in a country that uses UPCs, you can generate all the examples you want by picking up store-bought items or packages around your house. Find anything with a bar code on it: if it has 12 digits, it's probably a UPC. Enter the first 11 digits into your program and see if you get the 12th.

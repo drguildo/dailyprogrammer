@@ -30,8 +30,8 @@ Write a two-language Quine. That is, write a program in language A that prints o
 That is, if your two languages are python and ruby, you should be able to run this:
 
 
-     $ python A.py &gt; B.rb
-     $ ruby B.rb &gt; C.py
+     $ python A.py > B.rb
+     $ ruby B.rb > C.py
      $ diff A.py C.py
      $
 

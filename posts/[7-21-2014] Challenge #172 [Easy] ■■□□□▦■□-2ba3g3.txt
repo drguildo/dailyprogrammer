@@ -24,7 +24,7 @@ But basically the program consists of the following:
 * And finally, our pixel data - Whether a pixel is 1 - Black or 0 - White.
 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 
 

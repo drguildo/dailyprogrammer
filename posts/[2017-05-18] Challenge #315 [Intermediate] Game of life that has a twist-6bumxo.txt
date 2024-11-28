@@ -23,7 +23,7 @@ When a cell only has neighbours that are of his own color, nothing changes and i
 When a cell has neighbours that are not of his own 1 of two things can happen:
 
     - The total amount of cells in his neighbourhood of his color (including himself) is greater then the amount of cells not in his color in his neighbourhood 
-        -&gt; apply normal rules, meaning that you have to count in the cells of other colors as alive cells
+        -> apply normal rules, meaning that you have to count in the cells of other colors as alive cells
     - If the amout of the other colors is greater then amount of that cell's own color then it just changes color.
 
 Last if a cell is 'off' and has 3 neighbour cells that are alive it will be the color that is the most represented. 
@@ -51,7 +51,7 @@ The grid that you are using must 'wrap around'. That means, if something goes of
 
 Using that starting state, simulate **N** iterations of Conway's Game of Life. Print the final state in the same format as above - `.` is off and `#` is on.
 
-# Sample Inputs &amp; Output
+# Sample Inputs & Output
 
 ## Sample Input
 

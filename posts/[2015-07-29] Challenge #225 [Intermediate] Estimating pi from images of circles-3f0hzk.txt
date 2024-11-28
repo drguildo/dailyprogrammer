@@ -14,7 +14,7 @@ For those of you who have forgotten your formulas for circles, the formula for t
 
 In other words, to calculate the area of a circle, multiply pi by the square of the radius.
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 ##Inputs
 
 As input, you will be given an image that contains a black circle on white background (those are the only two colors in the image, there's no anti-aliasing or anything). The image provided will be in PNG format, but if you find it difficult to import and analyze PNG images in your language, you're welcome to use a tool like ImageMagick to convert it to a format you prefer (the [Netpbm](https://en.wikipedia.org/wiki/Netpbm) family of formats are famously easy for a computers to parse). 

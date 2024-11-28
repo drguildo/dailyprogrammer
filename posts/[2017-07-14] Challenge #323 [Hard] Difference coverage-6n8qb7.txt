@@ -27,4 +27,4 @@ This problem was inspired by me trying to make a minimal set of rows for a [Caes
     FGHIJKLMNOPQRSTUVWXYZABCDE
     EFGHIJKLMNOPQRSTUVWXYZABCD
 
-Now I have a key for any Caesar cipher by comparing two rows. For instance, the shift A-&gt;H (shifting by 7 places) corresponds to mapping the 2nd row to the 6th row, because 7 = 3 - 22 (mod 26). You didn't need to know this in order to solve the problem, but I thought I'd mention it.
+Now I have a key for any Caesar cipher by comparing two rows. For instance, the shift A->H (shifting by 7 places) corresponds to mapping the 2nd row to the 6th row, because 7 = 3 - 22 (mod 26). You didn't need to know this in order to solve the problem, but I thought I'd mention it.

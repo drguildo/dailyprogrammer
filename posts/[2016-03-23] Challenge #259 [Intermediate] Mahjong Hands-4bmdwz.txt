@@ -53,7 +53,7 @@ These additional tiles are:
 
 There are a number of special hands that are an exception to the above rules. One such hand is "Seven Pairs". As the name suggests, it is a hand composed of seven pairs.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input description
 
@@ -61,13 +61,13 @@ There are a number of special hands that are an exception to the above rules. On
 
 You will be provided with N on a single line, followed by N lines of the following format:
 
-&lt;tile suit&gt;,&lt;value&gt;
+<tile suit>,<value>
 
 ### Bonus 2
 
 In addition, the lines may be of the format:
 
-&lt;honour tile&gt;
+<honour tile>
 
 ## Output description
 

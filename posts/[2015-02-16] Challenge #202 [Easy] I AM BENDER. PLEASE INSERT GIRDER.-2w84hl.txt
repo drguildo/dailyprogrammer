@@ -6,7 +6,7 @@ Poor Mr.Tinkles is having some troubles. Similar to [The Loneliest Whale In The 
 
 He talks in a sequence of on's and off's. 0's and 1's, it's binary. Obviously as a mere human you can't possibly translate what he's saying as he says it. Looks like you'll have to think of a way around this....
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 

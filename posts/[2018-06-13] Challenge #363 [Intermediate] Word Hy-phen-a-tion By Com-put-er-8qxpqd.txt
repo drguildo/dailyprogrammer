@@ -40,15 +40,15 @@ There are 10 patterns that match the word `mistranslate`, and they give values f
 
 # Additional examples
 
-    mistranslate =&gt; mis-trans-late
-    alphabetical =&gt; al-pha-bet-i-cal
-    bewildering =&gt; be-wil-der-ing
-    buttons =&gt; but-ton-s
-    ceremony =&gt; cer-e-mo-ny
-    hovercraft =&gt; hov-er-craft
-    lexicographically =&gt; lex-i-co-graph-i-cal-ly
-    programmer =&gt; pro-gram-mer
-    recursion =&gt; re-cur-sion
+    mistranslate => mis-trans-late
+    alphabetical => al-pha-bet-i-cal
+    bewildering => be-wil-der-ing
+    buttons => but-ton-s
+    ceremony => cer-e-mo-ny
+    hovercraft => hov-er-craft
+    lexicographically => lex-i-co-graph-i-cal-ly
+    programmer => pro-gram-mer
+    recursion => re-cur-sion
 
 # Optional bonus
 

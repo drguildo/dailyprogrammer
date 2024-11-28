@@ -14,12 +14,12 @@ Write a function that prints all of the permutatons of the unique characters of 
 Find all the permutations of daily.
 
 *Author: skeeto*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 Your function should accept a single string variable which is guaranteed to be at least 1 character long.
 ## Output Description
 Print all permutations of the given string variable.
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 Let the string argument be "ab"
 ## Sample Output

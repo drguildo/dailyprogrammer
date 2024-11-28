@@ -18,7 +18,7 @@ Here is an [example] and [solution] of a 7x7 puzzle.
 [example]: https://upload.wikimedia.org/wikipedia/commons/d/d4/Val42-Bridge1n.png
 [solution]: https://upload.wikimedia.org/wikipedia/commons/f/f6/Val42-Bridge1.png
 
-# Formal Inputs &amp;amp; Outputs
+# Formal Inputs &amp; Outputs
 
 ## Input description
 

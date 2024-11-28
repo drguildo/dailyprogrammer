@@ -30,29 +30,29 @@ The tricky part is what questions to ask. I leave it to you and your design to d
 
 #Example of Play 1:
 
-	Welcome to Animal Guess. Please think of an Animal and type "y" to proceed --&gt; y
+	Welcome to Animal Guess. Please think of an Animal and type "y" to proceed --> y
 
-	Is your animal a mammal? --&gt; y
-	Is your animal a swimmer? --&gt; y
-	Is your animal grey? --&gt; y
+	Is your animal a mammal? --> y
+	Is your animal a swimmer? --> y
+	Is your animal grey? --> y
 
-	I think your animal is a grey whale. Am I correct? --&gt; n
+	I think your animal is a grey whale. Am I correct? --> n
 
 	Oh well. please help me learn.
-	What is the name of your animal-&gt; dolphin
-	What is a unique question that answers yes for dolphin -&gt; Does your animal have high intelligence
+	What is the name of your animal-> dolphin
+	What is a unique question that answers yes for dolphin -> Does your animal have high intelligence
 
 	Thank  you for teaching me. 
 
 #Example of Play 2:
 
-	Welcome to Animal Guess. Please think of an Animal and type "y" to proceed --&gt; y
+	Welcome to Animal Guess. Please think of an Animal and type "y" to proceed --> y
 
-	Is your animal a mammal? --&gt; y
-	Is your animal a swimmer? --&gt; n
-	Is your animal grey? --&gt; y
+	Is your animal a mammal? --> y
+	Is your animal a swimmer? --> n
+	Is your animal grey? --> y
 
-	I think your animal is an elephant. Am I correct? --&gt; y
+	I think your animal is an elephant. Am I correct? --> y
 
 	It is okay to feel bad you did not stump me. I am a computer. :)
 	Thank you for playing!

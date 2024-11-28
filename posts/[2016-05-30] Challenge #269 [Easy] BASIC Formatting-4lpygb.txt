@@ -34,7 +34,7 @@ You should output the BASIC indented by SpaceCorp guidelines.
     »»»»····IF !(I MOD 5) THEN
     »»»»··PRINT "BUZZ"
     ··»»»»»»ENDIF
-    »»»»IF (I MOD 3) &amp;&amp; (I MOD 5) THEN
+    »»»»IF (I MOD 3) && (I MOD 5) THEN
     ······PRINT "FIZZBUZZ"
     ··»»ENDIF
     »»»»·NEXT
@@ -49,7 +49,7 @@ You should output the BASIC indented by SpaceCorp guidelines.
     ····IF !(I MOD 5) THEN
     ········PRINT "BUZZ"
     ····ENDIF
-    ····IF (I MOD 3) &amp;&amp; (I MOD 5) THEN
+    ····IF (I MOD 3) && (I MOD 5) THEN
     ········PRINT "FIZZBUZZ"
     ····ENDIF
     NEXT

@@ -18,7 +18,7 @@ In case you need clarification, [here's](https://www.youtube.com/watch?v=TlR1hfi
 
 Your task is to write a program that, given an initial grid of tiles, outputs a solution to that grid.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 An easy way to represent tiles without having to deal with Unicode (or ASCII art) is to use the bitmask technique to encode the tiles as numbers 0...15. 
 

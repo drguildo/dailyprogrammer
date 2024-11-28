@@ -63,6 +63,6 @@ Here's some Python that will tell you the number of single-symbol squares for a 
         for x in range(N):
             for y in range(N):
                 for d in range(1, N):
-                    if x + d &lt; N and y + d &lt; N:
+                    if x + d < N and y + d < N:
                         yield x, y, d
     print(sum(square_is_single(x, y, d) for x, y, d in squares()))

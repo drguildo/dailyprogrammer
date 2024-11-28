@@ -30,7 +30,7 @@ Where **N** is the worker number (starting from 1, eg. Worker 1, Worker 2, Worke
 
 Finally you must print the total number of idle (not working) worker days, **I**. So if Worker 1 has 3 off days and Worker 2 has 5, then print 8.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

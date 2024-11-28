@@ -44,7 +44,7 @@ That decoding resulted in `22010`, which is base 10 `219`, or ASCII `Û`. Oops!
 
 Now that we have a way to encode/decode characters into "Threes", let's encode words:
 
-- `three` -&amp;gt; `[11022, 10212, 11020, 10202, 10202]` (ternary)
+- `three` -&gt; `[11022, 10212, 11020, 10202, 10202]` (ternary)
 - Concatenate them all into: `1102210212110201020210202`
 - Encode that string by working Threes backwards so it becomes: `1343814725227`
 

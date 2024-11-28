@@ -7,17 +7,17 @@ Keeping your code clean is one thing. But keeping it sorted is a whole other thi
 Today you will get sorted `C++` coded (literaly) like this:
 
     
-      std::cout &lt;&lt; "Hello world!" &lt;&lt; std::endl;
+      std::cout << "Hello world!" << std::endl;
     }
-    #include &lt;iostream&gt;
+    #include <iostream>
     int main () {
     
  And you have to unsort it into this:
  
-    #include &lt;iostream&gt;
+    #include <iostream>
     
     int main () {
-      std::cout &lt;&lt; "Hello world!" &lt;&lt; std::endl;
+      std::cout << "Hello world!" << std::endl;
     }
 
 There are some rules you have to follow:
@@ -39,12 +39,12 @@ You'll be given a program that was sorted
       {
       }
       int sum = 0
-      for (int i = 0; i &lt;= 100; ++i)
-      std::cout &lt;&lt; sum;
+      for (int i = 0; i <= 100; ++i)
+      std::cout << sum;
       return 0;
     {
     }
-    #include &lt;iostream&gt;
+    #include <iostream>
     int main()
 
 
@@ -52,16 +52,16 @@ You'll be given a program that was sorted
 
 Your program should unsort the lines to something compilable by the compiler:
 
-    #include &lt;iostream&gt;
+    #include <iostream>
      
     int main()
     {
       int sum = 0;
-      for (int i = 0; i &lt;= 100; ++i)
+      for (int i = 0; i <= 100; ++i)
       {
         sum = i + sum;
       }
-      std::cout &lt;&lt; sum;
+      std::cout << sum;
       return 0;
     }
 
@@ -71,25 +71,25 @@ Your program should unsort the lines to something compilable by the compiler:
       {
       }
       int sum = 0
-      for (int i = 0; i &lt;= 100; ++i)
-      std::cout &lt;&lt; sum;
+      for (int i = 0; i <= 100; ++i)
+      std::cout << sum;
       return 0;
     {
     }
-    #include &lt;iostream&gt;
+    #include <iostream>
     int main()
 
 # Challenge Output
     
-    #include &lt;iostream&gt;
+    #include <iostream>
     int main()
     {
       int sum = 0;
-      for (int i = 0; i &lt;= 100; ++i)
+      for (int i = 0; i <= 100; ++i)
       {
         sum = i + sum;
       }
-      std::cout &lt;&lt; sum;
+      std::cout << sum;
       return 0;
     }
 
@@ -109,20 +109,20 @@ When you have multiple possibilities, you can sort the methods alpabeticly
         unsigned int start = 1;
         unsigned int end = 1000;
         double sum = 0;
-        for( unsigned int x = start; x &lt;= end; ++x )
-        std::cout &lt;&lt; "Sum of f(x) from " &lt;&lt; start &lt;&lt; " to " &lt;&lt; end &lt;&lt; " is " &lt;&lt; sum &lt;&lt; std::endl;
+        for( unsigned int x = start; x <= end; ++x )
+        std::cout << "Sum of f(x) from " << start << " to " << end << " is " << sum << std::endl;
         return 0;
     {
     {
     }
     }
-    #include &lt;iostream&gt;
+    #include <iostream>
     double f(double y)
     int main()
     
 # Output
 
-    #include &lt;iostream&gt;
+    #include <iostream>
      
     double f(double y)
     {
@@ -135,11 +135,11 @@ When you have multiple possibilities, you can sort the methods alpabeticly
         unsigned int end = 1000;
         double sum = 0;
      
-        for( unsigned int x = start; x &lt;= end; ++x )
+        for( unsigned int x = start; x <= end; ++x )
         {
             sum += f(x);
         }
-        std::cout &lt;&lt; "Sum of f(x) from " &lt;&lt; start &lt;&lt; " to " &lt;&lt; end &lt;&lt; " is " &lt;&lt; sum &lt;&lt; std::endl;
+        std::cout << "Sum of f(x) from " << start << " to " << end << " is " << sum << std::endl;
         return 0;
     }
 

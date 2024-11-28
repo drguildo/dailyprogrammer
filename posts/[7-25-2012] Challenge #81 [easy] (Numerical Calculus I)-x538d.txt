@@ -23,15 +23,15 @@ When A' is evaluated at x, it computes an approximation of the derivative at x
 
 EDIT:  devil's assassin gave a decently good explaination of the problem, I'm stealing it here and modifying it a bit.
 
-&gt;for those of you who don't know, the derivative can be defined as the slope of the tangent line at a particular point. I'm assuming he wants a numerical derivative, making this a programming exercise and not a math one. We need to interpolate those values into a derivative. If you have some set of numbers N = {a1,a2,a3,a4,...,an} and some domain set S={b1,b2,...,bn} you can find the slope between two points on this line. Now this is a /bad/ approximation, but it can be made better through limiting the step size.
+>for those of you who don't know, the derivative can be defined as the slope of the tangent line at a particular point. I'm assuming he wants a numerical derivative, making this a programming exercise and not a math one. We need to interpolate those values into a derivative. If you have some set of numbers N = {a1,a2,a3,a4,...,an} and some domain set S={b1,b2,...,bn} you can find the slope between two points on this line. Now this is a /bad/ approximation, but it can be made better through limiting the step size.
 
-&gt;Basically, here is the formula:
+>Basically, here is the formula:
 
-&gt;f'(x) = lim h-&gt;0(f(x+h) - f(x))/h
+>f'(x) = lim h->0(f(x+h) - f(x))/h
 
-&gt;the "lim" part, means that this only works when h is REALLY small (pretty much 0, but without being exactly 0 so there is no dividing by 0). So you can modify this:
+>the "lim" part, means that this only works when h is REALLY small (pretty much 0, but without being exactly 0 so there is no dividing by 0). So you can modify this:
 
-&gt;f'(x) ~= f(x+h)-f(x)/h
+>f'(x) ~= f(x+h)-f(x)/h
 
 
 Basically, what you do here is use compute the slope between the current point and the next point for each point.   Use the slope equation from two points.

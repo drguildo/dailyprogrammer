@@ -8,7 +8,7 @@ Your goal is to implement a single ray-cast query within a 2D world: you will be
 
 *Original author: /u/nint22*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input you will be given two integers, N and M. N is the number of columns, while M is the number of rows. This will be followed by M rows of N-characters, which are either 'x' or ' ' (space), where 'x' is a wall that you can collide with or ' ' which is empty space. After this world-definition data, you will be given three space-delimited floating-point values: X, Y, and R. X and Y are world positions, following [this coordinate system description](http://imgur.com/a/pUOKb), with R being a radian-value degree representing your ray direction (using the unit-circle definition where if R is zero, it points to the right, with positive R growth rotation counter-clockwise). R is essentially how much you rotate the ray from the default position of X+ in a counter-clockwise manner.
@@ -17,7 +17,7 @@ On standard console input you will be given two integers, N and M. N is the numb
 
 Simply print the collision coordinate with three-digit precision.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
 *Note that this input is rendered and explained in more detail [here](http://imgur.com/a/pUOKb).*

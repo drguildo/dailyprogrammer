@@ -37,7 +37,7 @@ Let the user enter 'n' number of digits or accept a whole number.
 
 #Output Description
 
-&gt; RepeatingNumber1:x RepeatingNumber2:y
+> RepeatingNumber1:x RepeatingNumber2:y
 
 If no repeating digits exist, then display 0.
 

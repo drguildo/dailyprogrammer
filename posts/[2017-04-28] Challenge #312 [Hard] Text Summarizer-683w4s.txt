@@ -41,8 +41,8 @@ Here's a simple extraction-based summary of that paragraph, one of a few possibl
 
 # Challenge Input
 
-    This case describes the establishment of a new Cisco Systems R&amp;D facility in Shanghai, China, 
-    and the great concern that arises when a collaborating R&amp;D site in the United States is closed 
+    This case describes the establishment of a new Cisco Systems R&D facility in Shanghai, China, 
+    and the great concern that arises when a collaborating R&D site in the United States is closed 
     down. What will that closure do to relationships between the Shanghai and San Jose business 
     units? Will they be blamed and accused of replacing the U.S. engineers? How will it affect 
     other projects? The case also covers aspects of the site's establishment, such as securing an 

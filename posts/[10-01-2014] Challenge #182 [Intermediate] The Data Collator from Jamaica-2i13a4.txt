@@ -31,7 +31,7 @@ Your challenge is, given 2 data sets, draw the values on an appropriately-scaled
 
 The first line of input will be in the format:
 
-    &lt;X&gt;:&lt;graph title&gt;:&lt;X label&gt;:&lt;Y label&gt;
+    <X>:<graph title>:<X label>:<Y label>
 
 * **X**: The size of the data sets.
 * **graph title**: The title to be displayed at the top of the graph.

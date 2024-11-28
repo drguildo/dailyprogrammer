@@ -6,7 +6,7 @@ Your goal is to draw a tree given the base-width of the tree (the number of char
 
 _[Originally submitted by u/Onkel_Wackelflugel](http://www.reddit.com/r/dailyprogrammer_ideas/comments/1srsde/easy_build_a_christmas_treemenorah_with/)_
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given one line of text on standard-console input: an integer and two characters, all space-delimited. The integer, N, will range inclusively from 3 to 21 and *always* be odd. The next character will be your trunk character. The next character will be your leaves character. Draw the trunk and leaves components with these characters, respectively.
@@ -27,7 +27,7 @@ Here's a much larger tree, of base 7:
     *******
       ###
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     3 # *

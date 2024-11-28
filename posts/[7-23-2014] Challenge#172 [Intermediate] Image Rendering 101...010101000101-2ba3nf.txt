@@ -19,7 +19,7 @@ This Wikipedia article will tell you more
 
 http://en.wikipedia.org/wiki/Netpbm_format
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 
 

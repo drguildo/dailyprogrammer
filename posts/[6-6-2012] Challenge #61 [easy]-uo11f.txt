@@ -8,18 +8,18 @@ After that, the number remains the same regardless of how much you rotate it, si
 
 This gives us a sequence of numbers. Starting with 19 and then rotating it step by step until we get a number with only 1's in the binary representation, we get
 
-    19 -&gt; 25 -&gt; 28 -&gt; 14 -&gt; 7
+    19 -> 25 -> 28 -> 14 -> 7
 
 Lets call this a "binary rotation sequence" for 19. Here are the binary rotation sequences for the numbers 69, 205 and 357, with the numbers written first in decimal and then in binary to show what is going on: 
 
-    69 -&gt; 98 -&gt; 49 -&gt; 56 -&gt; 28 -&gt; 14 -&gt; 7
-    1000101 -&gt; 1100010 -&gt; 110001 -&gt; 111000 -&gt; 11100 -&gt; 1110 -&gt; 111
+    69 -> 98 -> 49 -> 56 -> 28 -> 14 -> 7
+    1000101 -> 1100010 -> 110001 -> 111000 -> 11100 -> 1110 -> 111
         
-    205 -&gt; 230 -&gt; 115 -&gt; 121 -&gt; 124 -&gt; 62 -&gt; 31
-    11001101 -&gt; 11100110 -&gt; 1110011 -&gt; 1111001 -&gt; 1111100 -&gt; 111110 -&gt; 11111
+    205 -> 230 -> 115 -> 121 -> 124 -> 62 -> 31
+    11001101 -> 11100110 -> 1110011 -> 1111001 -> 1111100 -> 111110 -> 11111
     
-    357 -&gt; 434 -&gt; 217 -&gt; 236 -&gt; 118 -&gt; 59 -&gt; 61 -&gt; 62 -&gt; 31
-    101100101 -&gt; 110110010 -&gt; 11011001 -&gt; 11101100 -&gt; 1110110 -&gt; 111011 -&gt; 111101 -&gt; 111110 -&gt; 11111
+    357 -> 434 -> 217 -> 236 -> 118 -> 59 -> 61 -> 62 -> 31
+    101100101 -> 110110010 -> 11011001 -> 11101100 -> 1110110 -> 111011 -> 111101 -> 111110 -> 11111
     
 Write a program that given a number will print out the binary rotation sequence for that number (you only need to print out the sequence in decimal). 
 

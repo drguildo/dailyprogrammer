@@ -36,7 +36,7 @@ You must print out **all** of the details shown below of the triangle in the sam
 	
 The input data will always give enough information and will describe a valid triangle.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

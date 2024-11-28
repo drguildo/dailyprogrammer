@@ -21,7 +21,7 @@ It can be shown that Langford strings only exist when the order is a multiple of
 
 Your challenge today is to calculate all Langford strings of a given order.
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Inputs
 
@@ -33,7 +33,7 @@ The output will be all the Langford strings of the given order, one per line. Th
 
 Note that for the second challenge input, the output will be somewhat lengthy. If you wish to show your output off, I suggest using a service like [gist.github.com](http://gist.github.com) or [hastebin](http://hastebin.com) and provide a link instead of pasting them directly in your comments.
 
-#Sample input &amp;amp; output
+#Sample input &amp; output
 
 ##Input 
 

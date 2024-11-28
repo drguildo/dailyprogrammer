@@ -10,7 +10,7 @@ FFT is often used in data compression algorithms: JPEG, the image format, uses a
 
 Your goal is to write a simple FFT tool that takes a set of 100 points from an unknown signal, and then decomposes them into the discrete frequency domain. Once your sinusoidal functions are generated from this original signal, print the percentage-difference between what you compute vs. the original signal.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given 200 floating-point numbers, two space-delimited values on each line (so 100 lines total). The first number is the x-position of the point, with the second being the y-position. These points are guaranteed to be on a graph only composed of the sum of at most 8 sinusoidal functions.
@@ -19,7 +19,7 @@ You will be given 200 floating-point numbers, two space-delimited values on each
 
 After applying the FFT algorithm on these points, print the set of sinusoidal equations you believe are the original signal's components. Then, print the percentage difference between your results versus the given data.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     0 0.5

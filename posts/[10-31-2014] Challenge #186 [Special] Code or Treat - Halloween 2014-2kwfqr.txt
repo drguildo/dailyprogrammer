@@ -52,7 +52,7 @@ You will feed your simulation 4 numbers. x y z t
 
 ##Map Error Checking:
 
-So on a 20x20 map you have 400 spots. If x+y+z &gt; 400 you will return an error. You cannot create a map that holds more than it can hold.
+So on a 20x20 map you have 400 spots. If x+y+z > 400 you will return an error. You cannot create a map that holds more than it can hold.
 
 ##Simulation
 

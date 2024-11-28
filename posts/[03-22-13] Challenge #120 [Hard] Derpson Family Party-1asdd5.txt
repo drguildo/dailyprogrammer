@@ -13,7 +13,7 @@ start a fight if put together. The list is rather long so it is your
 mission to write a program to partition the guests into two tables.
 
 *Author: emilvikstrom*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 The input is a list of enemies for each guest (with empty lines for
 guests without enemies). Each guest have a number which is equivalent
@@ -43,7 +43,7 @@ be sorted.
 
 Additionally, if the problem is impossible to solve, just output
 "No solution".
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
     2,4
     1,3

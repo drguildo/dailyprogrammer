@@ -18,16 +18,16 @@ If you have three phones, you only need a maximum of 9 trials.
 
 Given N, the number of phone prototypes you have, and H, the maximum height that needs to be tested, determine the maximum number of trials required by an optimal strategy to determine K. 
 
-    phonedrop(1, 100) =&gt; 100
-    phonedrop(2, 100) =&gt; 14
-    phonedrop(3, 100) =&gt; 9
-    phonedrop(1, 1) =&gt; 1
-    phonedrop(2, 456) =&gt; 30
-    phonedrop(3, 456) =&gt; 14
-    phonedrop(4, 456) =&gt; 11
-    phonedrop(2, 789) =&gt; 40
-    phonedrop(3, 789) =&gt; 17
-    phonedrop(4, 789) =&gt; 12
+    phonedrop(1, 100) => 100
+    phonedrop(2, 100) => 14
+    phonedrop(3, 100) => 9
+    phonedrop(1, 1) => 1
+    phonedrop(2, 456) => 30
+    phonedrop(3, 456) => 14
+    phonedrop(4, 456) => 11
+    phonedrop(2, 789) => 40
+    phonedrop(3, 789) => 17
+    phonedrop(4, 789) => 12
 
 You should be able to at least handle values of H up to 999.
 

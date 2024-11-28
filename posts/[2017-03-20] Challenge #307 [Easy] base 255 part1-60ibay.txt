@@ -43,7 +43,7 @@ In a binary encoding of numeric array data, leading nulls (0s) in a field can't 
 
 # 4. possible but rare trailing or starting embedded nulls
  
-variation on 3, when an odd number of "magic chars" &gt; 2 are encountered, a trailing code removes the ambiguity of whether there are trailing "magic chars" in the field just ended (code `0`), or leading "magic chars" in the field following the separator (code `1`)
+variation on 3, when an odd number of "magic chars" > 2 are encountered, a trailing code removes the ambiguity of whether there are trailing "magic chars" in the field just ended (code `0`), or leading "magic chars" in the field following the separator (code `1`)
 
 **encoded part 1 input:**  
 

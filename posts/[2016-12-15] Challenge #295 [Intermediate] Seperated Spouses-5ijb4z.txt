@@ -30,8 +30,8 @@ Note: This is a circular table, so I count "aAbB" to be the same as "BaAb", sinc
 
 You just can't get the guests sometimes, some of them have already sat down and ignored your seating arrangements!  Find the number of permutations given an existing table layout (underscores represent unknowns):
 
-    &lt;&lt;&lt; ab_B
-    &gt;&gt;&gt; 1
+    <<< ab_B
+    >>> 1
 
 In this case, there is only one solution (abAB).
 

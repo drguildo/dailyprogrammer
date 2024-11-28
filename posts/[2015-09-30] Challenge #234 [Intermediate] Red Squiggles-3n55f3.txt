@@ -21,10 +21,10 @@ You'll be given words, one per line. Examples:
 
 Your program should emit an indicator for where you would flag the word as mispelled. Examples:
 
-    foob&lt;ar
-    garbg&lt;ae
+    foob<ar
+    garbg<ae
 
-Here the `&lt;` indicates "This is the start of the mispelling". If the word is spelled correctly, indicate so.
+Here the `<` indicates "This is the start of the mispelling". If the word is spelled correctly, indicate so.
 
 # Challenge Input
 
@@ -45,20 +45,20 @@ Here the `&lt;` indicates "This is the start of the mispelling". If the word is 
 
 # Challenge Output
 
-    accomo&lt;date
-    acknowleg&lt;ement
-    arguem&lt;int 
-    comitm&lt;ment 
-    deducta&lt;bel
-    depin&lt;dant
-    exista&lt;nse
-    forword&lt;e
-    herra&lt;ss
-    inadva&lt;rtent
-    judgema&lt;nt 
-    ocur&lt;rance
-    parog&lt;ative
-    supa&lt;rseed
+    accomo<date
+    acknowleg<ement
+    arguem<int 
+    comitm<ment 
+    deducta<bel
+    depin<dant
+    exista<nse
+    forword<e
+    herra<ss
+    inadva<rtent
+    judgema<nt 
+    ocur<rance
+    parog<ative
+    supa<rseed
 
 # Note
 

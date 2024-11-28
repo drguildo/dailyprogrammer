@@ -10,7 +10,7 @@ Title: [10/27/2014] Challenge #186 [Easy] Admin Schmadmin
 
 You've been hired as a temp to do some administrative duties that involve digging through the records of the filesystem in search for any hints as to where the ex-employee may have fled to. But first, you'll need some training. I've assigned you a few simple tasks that should build your command line skills to that of an adequate admin. 
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 For this task, you are given a tasklist of tasks to perform. Each task has a bulleted point and a summary. The bulleted point contains the dialogue of what the manager wants you to perform, the summary can be seen as a sort of 'technical overview' of what needs to be done.
 
@@ -74,5 +74,5 @@ Have a good challenge idea?
 
 Consider submitting it to /r/dailyprogrammer_ideas
 
-Remember to check out our IRC channel. Check the sidebar for a link --&gt;
+Remember to check out our IRC channel. Check the sidebar for a link -->
 

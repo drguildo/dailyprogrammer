@@ -22,11 +22,11 @@ We'll work with powers and bases greater than zero.
 
 # Input Description 
 
-&gt; Base Power
+> Base Power
 
 means base^power
 
-&gt; 2 ^ 1000
+> 2 ^ 1000
 
 means 2^1000
 
@@ -36,19 +36,19 @@ Display the sum of the digits of base^power.
 
 # Challenge Input
 
-&gt; 2 1234
+> 2 1234
 
-&gt; 11 4000 
+> 11 4000 
 
-&gt; 50 3000
+> 50 3000
 
 # Challenge Output 
 
-&gt;1636
+>1636
 
-&gt;18313
+>18313
 
-&gt; 9208
+> 9208
 
 ----------------------------
 

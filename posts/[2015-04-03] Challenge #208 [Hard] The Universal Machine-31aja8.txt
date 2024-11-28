@@ -22,11 +22,11 @@ This read head can move one symbol to the left or right, but it can't skip ahead
 
 Now, this machine is capable of performing a **step**. A step will change the symbol under the read head to another symbol from the alphabet, and then either move the read head left or right. The type of step that happens depends on the current state, and the current symbol under the read head. We can define a rule for our machine which says something like this:
 
-&gt; If the current symbol under the read head is **p**, and the current state is **A**, then change the state to **B**, change the symbol under the read head to **q** and move the read head in direction **d**.
+> If the current symbol under the read head is **p**, and the current state is **A**, then change the state to **B**, change the symbol under the read head to **q** and move the read head in direction **d**.
 
 **p** and **q** can be the same symbol, and **A** and **B** can be the same state. For example:
 
-&gt; If the current symbol under the read head is `0`, and the current state is `State1`, then change the state to `State1`, change the symbol under the read head to `1` and move the read head left.
+> If the current symbol under the read head is `0`, and the current state is `State1`, then change the state to `State1`, change the symbol under the read head to `1` and move the read head left.
 
 This rule is called a **transition function**, and the typical notation is:
 
@@ -34,7 +34,7 @@ This rule is called a **transition function**, and the typical notation is:
 
 So our example rule is:
 
-    𝛿(State1, 0) = (State1, 1, &lt;)
+    𝛿(State1, 0) = (State1, 1, <)
 
 So, if our machine is in the state `State1` and our tape looks like this:
 
@@ -82,17 +82,17 @@ After this, you will be given the initial tape to use. The first character is as
 
 Finally, you're given a list of transition rules. These are in the format `StateBefore SymbolBefore = StateAfter SymbolAfter DirectionToMove`, like this list:
 
-    Mov 0 = Mov 0 &gt;
-    Mov 1 = Mov 1 &gt;
-    Mov _ = B _ &lt;
-    B 0 = B 0 &lt;
-    B 1 = Bi 1 &lt;
-    B _ = OK _ &gt;
-    Bi 0 = Bi 1 &lt;
-    Bi 1 = Bi 0 &lt;
-    Bi _ = OK _ &gt;
+    Mov 0 = Mov 0 >
+    Mov 1 = Mov 1 >
+    Mov _ = B _ <
+    B 0 = B 0 <
+    B 1 = Bi 1 <
+    B _ = OK _ >
+    Bi 0 = Bi 1 <
+    Bi 1 = Bi 0 <
+    Bi _ = OK _ >
 
-The direction is either `&lt;` for left, or `&gt;` for right.
+The direction is either `<` for left, or `>` for right.
 
 ## Output Description
 
@@ -114,15 +114,15 @@ This machine computes the two's complement of the binary number in the input. No
     Mov
     OK
     01100100
-    Mov 0 = Mov 0 &gt;
-    Mov 1 = Mov 1 &gt;
-    Mov _ = B _ &lt;
-    B 0 = B 0 &lt;
-    B 1 = Bi 1 &lt;
-    B _ = OK _ &gt;
-    Bi 0 = Bi 1 &lt;
-    Bi 1 = Bi 0 &lt;
-    Bi _ = OK _ &gt;
+    Mov 0 = Mov 0 >
+    Mov 1 = Mov 1 >
+    Mov _ = B _ <
+    B 0 = B 0 <
+    B 1 = Bi 1 <
+    B _ = OK _ >
+    Bi 0 = Bi 1 <
+    Bi 1 = Bi 0 <
+    Bi _ = OK _ >
 
 ### Output
 
@@ -140,22 +140,22 @@ This machine takes input as dots (`.`) and dashes (`/`), including a delimiter s
     Init
     OK
     /././../.../..../k
-    Init _ = Init _ &gt;
-    Init . = Mdot _ &gt;
-    Init / = MDash _ &gt;
-    Init k = OK k &gt;
-    Mdot . = Mdot . &gt;
-    Mdot / = Mdot / &gt;
-    Mdot k = Mdot k &gt;
-    Mdot _ = Ret . &lt;
-    MDash . = MDash . &gt;
-    MDash / = MDash / &gt;
-    MDash k = MDash k &gt;
-    MDash _ = Ret / &lt;
-    Ret . = Ret . &lt;
-    Ret / = Ret / &lt;
-    Ret k = Ret k &lt;
-    Ret _ = Init _ &gt;
+    Init _ = Init _ >
+    Init . = Mdot _ >
+    Init / = MDash _ >
+    Init k = OK k >
+    Mdot . = Mdot . >
+    Mdot / = Mdot / >
+    Mdot k = Mdot k >
+    Mdot _ = Ret . <
+    MDash . = MDash . >
+    MDash / = MDash / >
+    MDash k = MDash k >
+    MDash _ = Ret / <
+    Ret . = Ret . <
+    Ret / = Ret / <
+    Ret k = Ret k <
+    Ret _ = Init _ >
 
 ### Output
 
@@ -175,22 +175,22 @@ This machine takes a binary input string, including a delimiter symbol at the en
     Search
     OK
     0110100#
-    Search 0 = C0 x &gt;
-    Search 1 = C1 y &gt;
-    Search # = OK # &gt;
-    C0 0 = C0 0 &gt;
-    C0 1 = C0 1 &gt;
-    C0 # = C0 # &gt;
-    C0 _ = Ret 0 &lt;
-    C1 0 = C1 0 &gt;
-    C1 1 = C1 1 &gt;
-    C1 # = C1 # &gt;
-    C1 _ = Ret 1 &lt;
-    Ret 0 = Ret 0 &lt;
-    Ret 1 = Ret 1 &lt;
-    Ret # = Ret # &lt;
-    Ret x = Search 0 &gt;
-    Ret y = Search 1 &gt;
+    Search 0 = C0 x >
+    Search 1 = C1 y >
+    Search # = OK # >
+    C0 0 = C0 0 >
+    C0 1 = C0 1 >
+    C0 # = C0 # >
+    C0 _ = Ret 0 <
+    C1 0 = C1 0 >
+    C1 1 = C1 1 >
+    C1 # = C1 # >
+    C1 _ = Ret 1 <
+    Ret 0 = Ret 0 <
+    Ret 1 = Ret 1 <
+    Ret # = Ret # <
+    Ret x = Search 0 >
+    Ret y = Search 1 >
 
 ### Output
 

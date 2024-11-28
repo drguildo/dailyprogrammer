@@ -25,20 +25,20 @@ Here's a python script that will evaluate your solution:
         print word, nword
 
 *Author: Cosmologicon*
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
-&lt;Field to be removed&gt;
+<Field to be removed>
 ## Output Description
-&lt;Field to be removed&gt; 
-# Sample Inputs &amp; Outputs
+<Field to be removed> 
+# Sample Inputs & Outputs
 ## Sample Input
-&lt;Field to be removed&gt; 
+<Field to be removed> 
 ## Sample Output
-&lt;Field to be removed&gt; 
+<Field to be removed> 
 # Challenge Input
-&lt;Field to be removed&gt; 
+<Field to be removed> 
 ## Challenge Input Solution
-&lt;Field to be removed&gt; 
+<Field to be removed> 
 # Note
 None
 				

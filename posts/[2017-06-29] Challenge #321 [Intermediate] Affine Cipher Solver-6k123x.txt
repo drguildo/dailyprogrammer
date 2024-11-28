@@ -32,7 +32,7 @@ Now we change this to text again
 
 `tyyrbd`
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

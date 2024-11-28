@@ -18,32 +18,32 @@ Display the remainder and quotient obtained.
 
 1:
 
-&gt; 4x^3 + 2x^2 - 6x + 3
+> 4x^3 + 2x^2 - 6x + 3
 
-&gt; x - 3
+> x - 3
 
 2:
 
-&gt; 2x^4  - 9x^3 + 21x^2 - 26x + 12
+> 2x^4  - 9x^3 + 21x^2 - 26x + 12
 
-&gt; 2x - 3
+> 2x - 3
 
 3:
 
-&gt; 10x^4 - 7x^2 -1 
+> 10x^4 - 7x^2 -1 
 
-&gt; x^2 - x + 3
+> x^2 - x + 3
 
 #Challenge Output
 
 1: 
-&gt; Quotient: 4x^2 + 14x + 36 Remainder: 111
+> Quotient: 4x^2 + 14x + 36 Remainder: 111
 
 2: 
-&gt; Quotient: x^3 - 3x^2 +6x - 4 Remainder: 0
+> Quotient: x^3 - 3x^2 +6x - 4 Remainder: 0
 
 3:
-&gt; Quotient: 10x^2 + 10x - 27 Remainder: -57x + 80
+> Quotient: 10x^2 + 10x - 27 Remainder: -57x + 80
 
 # Bonus
 

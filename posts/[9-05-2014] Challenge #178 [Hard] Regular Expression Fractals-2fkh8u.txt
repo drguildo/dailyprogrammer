@@ -16,7 +16,7 @@ The second line will be a regular expression with literals limited to the digits
 
 Output a binary image of the regexp fractal according to the specification. You could print this out in the terminal with characters or you could produce an image file. Be creative! Feel free to share your outputs along with your submission.
 
-#Example Input &amp; Output:
+#Example Input & Output:
 
 ##Input Example 1:
 

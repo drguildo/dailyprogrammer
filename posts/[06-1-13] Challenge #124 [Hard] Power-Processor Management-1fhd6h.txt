@@ -10,7 +10,7 @@ Note that the time intervals must be strictly enforced: you may not load a proce
 
 *Author: nint22, with the base idea from challenge #4254 ACM Competitive Collegiate Programming challenges repository.*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You must read in, from standard console input, an integer T for the number of test cases. You should expect, for each test case, an integer N for the number of given programs you must execute. For each program, you will be given an integer an integer R for the start time, then (space-delimited) an integer D for end time, and then (space-delimited) an integer W for the amount of work. All input will be guaranteed well formed.
@@ -19,7 +19,7 @@ You must read in, from standard console input, an integer T for the number of te
 
 For each test-case, you must print how much simulation time it took to accomplish all given work, and the maximum work/power ratio set, both as integers and space-delimited.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

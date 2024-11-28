@@ -4,7 +4,7 @@ Title: [2015-06-22] Challenge #220 [Easy] Mangling sentences
 
 In this challenge, we are going to take a sentence and mangle it up by sorting the letters in each word. So, for instance, if you take the word "hello" and sort the letters in it, you get "ehllo". If you take the two words "hello world", and sort the letters in each word, you get "ehllo dlorw". 
 
-#Inputs &amp;amp; outputs
+#Inputs &amp; outputs
 
 ##Input
 
@@ -18,7 +18,7 @@ To be clear, only spaces separate words, not any other kind of punctuation. So "
 
 **Edit:** It has been pointed out to me that this criterion might make the problem a bit too difficult for [easy] difficulty. If you find this version too challenging, you can consider every non-alphabetic character as splitting a word. So "time-worn" becomes "eimt-norw" and "Mickey's" becomes ""Ceikmy's". Consider the harder version as a Bonus. 
 
-#Sample inputs &amp;amp; outputs
+#Sample inputs &amp; outputs
 
 ##Input 1
 

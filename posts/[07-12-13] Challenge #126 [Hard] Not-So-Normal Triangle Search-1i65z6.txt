@@ -10,7 +10,7 @@ You will be given a set of N points, such that N is greater than or equal to 3. 
 
 *Original author: /u/nint22. This challenge is a little more math-heavy than usual, but don't worry: the math isn't hard, and Wikipedia has all the formulas you'll need. Triangle-triangle intersection will be the most tricky part!*
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given an integer N which represents the N-following lines, each being a 3D point in space. Each line has three [Real-numbers](https://en.wikipedia.org/wiki/Real_number) that are space -delimited. The last line, which will be line N+1, is the target vector that you are trying to align-with: it is also represented as three space-delimited Real-numbers.
@@ -19,7 +19,7 @@ You will be given an integer N which represents the N-following lines, each bein
 
 Find the largest set of triangles whose average surface normals match the target vector direction within at minimum 10 degrees. Print the result as one triangle per line, where a triangle is defined as the three point indices used. If no set is found, print "No valid result found".
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input
 
     5

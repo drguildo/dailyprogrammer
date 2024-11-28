@@ -9,7 +9,7 @@ Text formatting is big business. Every day we read information in one of several
 
 To start, you will be given 3 numbers on one line:
 
-	&lt;number of columns&gt; &lt;column width&gt; &lt;space width&gt;
+	<number of columns> <column width> <space width>
 
 * *number of columns*: The number of columns to collect the text into.
 * *column width*: The width, in characters, of each column.

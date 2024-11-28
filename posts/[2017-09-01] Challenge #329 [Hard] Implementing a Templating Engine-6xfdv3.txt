@@ -8,9 +8,9 @@ Many immediately associate template engines with HTML output, but they can suppo
 
 For today's challenge, let's implement a subset of the [Erb](https://docs.puppet.com/puppet/5.1/lang_template_erb.html) templating language:
 
-- `&lt;% %&gt;` - Denotes tag start and end.
-- `&lt;%= EXPRESSION %&gt;` — Inserts the value of an expression.
-- `&lt;% CODE %&gt;`— Executes code, but does not insert a value. This code may include loops and conditionals, and pair with an `&lt;% end %&gt;` tag. 
+- `<% %>` - Denotes tag start and end.
+- `<%= EXPRESSION %>` — Inserts the value of an expression.
+- `<% CODE %>`— Executes code, but does not insert a value. This code may include loops and conditionals, and pair with an `<% end %>` tag. 
 
 Everything else is output without modification. 
 
@@ -26,7 +26,7 @@ The JSON to use:
 
 And the example template, calling the above `data`:
 
-    Hello &lt;%= @data["foo"] %&gt;!
+    Hello <%= @data["foo"] %>!
 
 # Example Output
 
@@ -53,22 +53,22 @@ The JSON to use (and reference as `data`):
 
 And the template to use:
 
-    &lt;head&gt;
-    &lt;title&gt;Local Farmer's Market: &lt;%= data["store_name"] %&gt;&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-    &lt;table&gt;
-    &lt;th&gt;Food&lt;/th&gt;
-    &lt;th&gt;Price (10 lbs)&lt;/th&gt;
-    &lt;thead&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-    &lt;% data["foods"].each do |k,v| %&gt;
-    &lt;tr&gt;
-    &lt;td&gt;&lt;%= k %&gt;&lt;/td&gt;
-    &lt;td&gt;&lt;%= v %&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;% end %&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;
-    &lt;/body&gt;
+    <head>
+    <title>Local Farmer's Market: <%= data["store_name"] %></title>
+    </head>
+    <body>
+    <table>
+    <th>Food</th>
+    <th>Price (10 lbs)</th>
+    <thead>
+    </thead>
+    <tbody>
+    <% data["foods"].each do |k,v| %>
+    <tr>
+    <td><%= k %></td>
+    <td><%= v %></td>
+    </tr>
+    <% end %>
+    </tbody>
+    </table>
+    </body>

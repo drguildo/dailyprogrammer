@@ -12,7 +12,7 @@ The grid fill rules are as follows:
 * You can fill any cell in the grid with "1".
 * You can fill any cell in the grid with "2", provided that cell is adjacent to a cell containing "1".
 * You can fill any cell in the grid with "3", provided that cell is both adjacent to a cell containing "2", and adjacent to another cell containing "1".
-* &amp;lt;snip&amp;gt;
+* &lt;snip&gt;
 * You can fill any cell in the grid with "9", provided it is adjacent to cells containing 8, 7, 6, 5, 4, 3, 2, and 1.
 * "Adjacent" includes diagonals (i.e. in a move's reach of a chess King).
 * There are no limits on how many times you can use each number (except to comply with the above rules), and you are not obliged to use any number.

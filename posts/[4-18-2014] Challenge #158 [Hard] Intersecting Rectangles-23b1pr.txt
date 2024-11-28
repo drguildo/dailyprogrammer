@@ -24,7 +24,7 @@ Note that the corners given will be the top-left and bottom-right co-ordinates, 
 
 You must print out the area (as a number) of the compound shape given. No units are necessary.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 
 ## Sample Input
 

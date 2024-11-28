@@ -2,7 +2,7 @@ Title: [8/27/2012] Challenge #92 [intermediate] (Rubik's cube simulator)
 
 Your intermediate task today is to build a simple simulator of a [Rubik's Cube](http://en.wikipedia.org/wiki/Rubik%27s_Cube). The cube should be represented by some sort of structure, which you can give a list of moves which it will execute and show you how the cube will look as a result.
 
-A Rubik's Cube has six sides, which are traditionally known as Up, Down, Front, Back, Left and Right, abbreviated as U, D, F, B, L and R respectively. Color the sides of the cube as follows: Up &lt;- white, Down &lt;- yellow, Front &lt;- green, Back &lt;- blue, Left &lt;- orange and Right &lt;- red. 
+A Rubik's Cube has six sides, which are traditionally known as Up, Down, Front, Back, Left and Right, abbreviated as U, D, F, B, L and R respectively. Color the sides of the cube as follows: Up <- white, Down <- yellow, Front <- green, Back <- blue, Left <- orange and Right <- red. 
 
 Taking advantage of the style of [problem #85](http://www.reddit.com/r/dailyprogrammer/comments/xq2ao/832012_challenge_85_intermediate_3d_cuboid/), the basic solved cube should then look something like this:
 

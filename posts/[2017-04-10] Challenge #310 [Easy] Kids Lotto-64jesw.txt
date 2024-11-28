@@ -33,12 +33,12 @@ Number of kids in list: 3
 
 ##Example of output:
 
-    Oda Wilhite &gt; Carmelina Biles; Arletha Eason; Jim Bench
-    Jim Bench &gt; Arletha Eason;Oda Wilhite; Carmelina Biles
-    Latosha Caraveo &gt; Carmelina Biles;Rebbeca Gann; Arletha Eason
-    Carmelina Biles &gt; Oda Wilhite; Arletha Eason; Latosha Caraveo
-    Arletha Eason &gt; Carmelina Biles;Jim Bench;Oda Wilhite
-    Rebbeca Gann &gt; Latosha Caraveo;Jim Bench;Carmelina Biles
+    Oda Wilhite > Carmelina Biles; Arletha Eason; Jim Bench
+    Jim Bench > Arletha Eason;Oda Wilhite; Carmelina Biles
+    Latosha Caraveo > Carmelina Biles;Rebbeca Gann; Arletha Eason
+    Carmelina Biles > Oda Wilhite; Arletha Eason; Latosha Caraveo
+    Arletha Eason > Carmelina Biles;Jim Bench;Oda Wilhite
+    Rebbeca Gann > Latosha Caraveo;Jim Bench;Carmelina Biles
 
 
 #Challenge input

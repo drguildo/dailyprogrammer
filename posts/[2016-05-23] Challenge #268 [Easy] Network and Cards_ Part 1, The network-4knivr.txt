@@ -9,7 +9,7 @@ The server needs to send out a heartbeat message to the clients and the clients 
 
 For those who want to be prepared, we are going to deal and play cards over the network.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

@@ -22,7 +22,7 @@ Is exactly equivalent to:
 
     6
     ERTY*$TW*
-    f   &amp;   q
+    f   &   q
     @ " @ ` w
     ' : ; { e
     # ^   m r

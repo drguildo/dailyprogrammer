@@ -7,7 +7,7 @@ You are given a number of points, forming the hull of a convex polygon.  You are
 
 Your goal is to partition the original polygon into _N_ smaller polygons,  all containing equal amount of space (surface, volume, ...), by adding at most one node, and as many edges as required.
 
-If it is impossible to find a valid solution by adding the single node,  you may give a result for the max number &lt; _N_, for which a equitable partitioning is possible.
+If it is impossible to find a valid solution by adding the single node,  you may give a result for the max number < _N_, for which a equitable partitioning is possible.
 
 # Input Description
 

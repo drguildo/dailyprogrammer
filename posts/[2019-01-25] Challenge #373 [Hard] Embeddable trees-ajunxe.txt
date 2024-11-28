@@ -26,15 +26,15 @@ The ordering of child nodes is unimportant. Two trees are equal if you can rearr
 
 Given representations of two trees, determine whether the two trees are equal.
 
-    equal("((()((())()))(()))", "((())(()(()(()))))") =&gt; true
-    equal("((()))", "(()())") =&gt; false
-    equal("(((()())())()())", "(((()())()())())") =&gt; false
+    equal("((()((())()))(()))", "((())(()(()(()))))") => true
+    equal("((()))", "(()())") => false
+    equal("(((()())())()())", "(((()())()())())") => false
 
 It's easy to make a mistake, so I highly recommend checking yourself before submitting your answer! [Here's a list of 200 randomly-generated pairs of trees](https://gist.githubusercontent.com/cosmologicon/be38523b48f7da5ab9c886fca94a57b4/raw/37abb03b7365ff17056f7f59beb77d999fd6c81b/tree-equal.txt), one pair on each line, separated by a space. For how many pairs is the first tree equal to the second?
 
 ## Warmup 2: embeddable trees
 
-One tree is *homeomorphically embeddable* into another - which we write as `&lt;=` - if it's possible to label the trees' nodes such that:
+One tree is *homeomorphically embeddable* into another - which we write as `<=` - if it's possible to label the trees' nodes such that:
 
 * Every label is unique within each tree.
 * Every label in the first tree appears in the second tree.
@@ -42,15 +42,15 @@ One tree is *homeomorphically embeddable* into another - which we write as `&lt;
 
 [This image shows a few examples](https://i.imgur.com/YmNC3cR.jpg):
 
-* `(()) &lt;= (()())`
-* `(()()) &lt;= (((())()))`
+* `(()) <= (()())`
+* `(()()) <= (((())()))`
 * `(()()())` is not embeddable in `((()())())`. The image shows one incorrect attempt to label them: in the first graph, B and C have a lowest common ancestor of A, but in the second graph, B and C's lowest common ancestor is the unlabeled node.
-* `(()(()())) &lt;= (((((())()))())((()())))`. There are several different valid labelings in this case. The image shows one.
+* `(()(()())) <= (((((())()))())((()())))`. There are several different valid labelings in this case. The image shows one.
 
 Given representations of two trees, determine whether the first is embeddable in the second.
 
-    embeddable("(())", "(()())") =&gt; true
-    embeddable("(()()())", "((()())())") =&gt; false
+    embeddable("(())", "(()())") => true
+    embeddable("(()()())", "((()())())") => false
 
 It's easy to make a mistake, so I highly recommend checking yourself before submitting your answer! [Here's a list of 200 randomly-generated pairs of trees](https://gist.githubusercontent.com/cosmologicon/dcf49d29c563dfc36a3d1c5053124be4/raw/9c663c5a9071571f041d11b08bf3c8958a22b3dd/tree-embed.txt), one pair on each line, separated by a space. For how many pairs is the first embeddable into the second?
 
@@ -59,4 +59,4 @@ It's easy to make a mistake, so I highly recommend checking yourself before subm
 Generate a list of trees as long as possible such that:
 
 1. The first tree has no more than 4 nodes, the second has no more than 5, the third has no more than 6, etc.
-2. No tree in the list is embeddable into a tree that appears later in the list. That is, there is no pair of indices i and j such that i &lt; j and the i'th tree &lt;= the j'th tree.
+2. No tree in the list is embeddable into a tree that appears later in the list. That is, there is no pair of indices i and j such that i < j and the i'th tree <= the j'th tree.

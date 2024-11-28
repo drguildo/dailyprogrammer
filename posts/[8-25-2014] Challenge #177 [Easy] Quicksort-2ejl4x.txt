@@ -19,7 +19,7 @@ S and G don't have to be created in order, just so long as they are all smaller 
 
 You challenge today is, given an arbitrarily long list of real numbers, sort them using your own, *non-library* version of quicksort.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 
 ## Input
 

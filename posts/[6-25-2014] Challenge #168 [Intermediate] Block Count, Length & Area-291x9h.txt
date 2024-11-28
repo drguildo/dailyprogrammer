@@ -56,7 +56,7 @@ You give a Length and Area report of all the blocks.
 
 ##Example: (using the example input)
 
-    Block Count, Length &amp; Area Report
+    Block Count, Length & Area Report
     =================================
 
     #: Total SF (400), Total Circumference LF (100) - Found 1 block
@@ -72,7 +72,7 @@ Remove the need to compute the block count. Just focus on area and circumference
 
 #Challenge Input:
 
-So we have a "B" building. It has a "D" driveway. "O" and "o" landscaping. "c" concrete walks. "p" pavers. "V" &amp; "v" valley gutters. @ and T tree planting. 
+So we have a "B" building. It has a "D" driveway. "O" and "o" landscaping. "c" concrete walks. "p" pavers. "V" & "v" valley gutters. @ and T tree planting. 
 Finally we have # as Asphalt Paving.
 
     ooooooooooooooooooooooDDDDDooooooooooooooooooooooooooooo

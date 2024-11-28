@@ -43,7 +43,7 @@ The above input can be interpreted as the circuit:
          |        |
          +--(30)--+
 
-&gt; Note: resistance is bi-directional. `A B 10` means the same thing as `B A 10`.
+> Note: resistance is bi-directional. `A B 10` means the same thing as `B A 10`.
 
 Formal Output
 -------------

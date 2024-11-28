@@ -12,7 +12,7 @@ Your code must only work in 512Kb, meaning that both the allocate memory AND the
 
 There are many methods to implement a heap structure; investigate either the Linux Slab allocator, or try to stick to the obvious solutions of linked lists. Don't forget to coalesce freed spaces over time! An example of this situations is when you have three blocks, left, middle, and right, where the left and right are unallocated, but the middle is allocated. Upon free-ing the middle block, your code should understand that there aren't three free blocks left, but instead one large unified block!
 
-**Formal Inputs &amp; Outputs:**
+**Formal Inputs & Outputs:**
 
 *Input Description:*
 
@@ -23,7 +23,7 @@ There are many methods to implement a heap structure; investigate either the Lin
 
 No formal output is required, but a helpful tool for you to develop is printing the memory map of the heap, useful for debugging.
 
-**Sample Inputs &amp; Outputs:**
+**Sample Inputs & Outputs:**
 
 * `void* PtrA = Malloc(131072);` // Allocating 128Kb; success
 * `void* PtrB = Malloc(131072);` // Allocating 128Kb; success

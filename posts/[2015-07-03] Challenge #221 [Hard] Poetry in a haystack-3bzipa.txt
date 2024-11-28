@@ -13,7 +13,7 @@ A few notes:
  * The lines of poetry are written in English
  * The three lines of the poem is in the file in the right order, but split up with lines of gibberish.
 
-#Formal inputs &amp;amp; outputs
+#Formal inputs &amp; outputs
 
 ##Input
 

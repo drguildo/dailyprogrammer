@@ -2,11 +2,11 @@ Title: [2017-01-28] Challenge #300 [Hard] Let's make some noise part 3
 
 #Description
 
-As the final part we are going to combine [part 1](https://www.reddit.com/r/dailyprogrammer/comments/5prdgb/20170123_challenge_300_easy_lets_make_some_noise/?utm_content=title&amp;utm_medium=hot&amp;utm_source=reddit&amp;utm_name=frontpage) and [part 2](https://www.reddit.com/r/dailyprogrammer/comments/5q9cll/20170126_challenge_300_easyintermediate_lets_make/)
+As the final part we are going to combine [part 1](https://www.reddit.com/r/dailyprogrammer/comments/5prdgb/20170123_challenge_300_easy_lets_make_some_noise/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=frontpage) and [part 2](https://www.reddit.com/r/dailyprogrammer/comments/5q9cll/20170126_challenge_300_easyintermediate_lets_make/)
 
 The sequence we generate shall be the tones for our instruments.
 
-#Formal Inputs &amp;amp; Outputs
+#Formal Inputs &amp; Outputs
 
 ##Input description
 

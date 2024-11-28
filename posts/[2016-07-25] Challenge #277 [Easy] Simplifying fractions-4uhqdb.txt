@@ -7,7 +7,7 @@ A fraction exists of a numerator (top part) and a denominator (bottom part) as y
 Simplifying (or reducing) fractions means to make the fraction as simple as possible. Meaning that the denominator is a close to `1` as possible.
 This can be done by dividing the numerator and denominator by their greatest common divisor.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

@@ -38,7 +38,7 @@ Your challenge today is to write a program that can generate a Gray code sequenc
 
 # Bonus
 
-Write a program that can construct an *n*-ary Gray code, so not just binary but, say, ternary (for an arbitrary bit width, in this example 2), where successive values differ by one *position* (so 0&lt;-&gt;2 is OK):
+Write a program that can construct an *n*-ary Gray code, so not just binary but, say, ternary (for an arbitrary bit width, in this example 2), where successive values differ by one *position* (so 0<->2 is OK):
 
     00
     01

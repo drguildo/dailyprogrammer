@@ -23,7 +23,7 @@ This translates to (pardon my ugly ASCII art) this triangle:
 
            .                                       .
                                                   / \
-                                =&gt;               /   \
+                                =>               /   \
                                                 /     \
                                                /       \
                                               /         \

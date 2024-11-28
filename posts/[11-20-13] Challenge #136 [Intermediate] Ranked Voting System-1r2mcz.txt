@@ -8,7 +8,7 @@ There are some neat implications on how this differs from conventional voting sy
 
 Your goal is to take a list of candidates and voter's ballots, implement this voting system (using the [Instant-runoff rules](http://en.wikipedia.org/wiki/Instant-runoff_voting)), and print the results of the fictional election.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 On standard console input, you will be given two space-delimited integers, N and M. N is the number of votes, while M is the number of candidates. After this line, you will be given the candidates line, which is a space-delimited set of M-number of candidate names. These names are one-word lower-case letters only. This is followed by N-lines of ballots, where each ballot is a list of M-integers, from 0 to M-1, representing the order of preference.
@@ -21,7 +21,7 @@ Given the candidates and ballots, compute the first-round of successful candidat
 
 For each round of computation, print the percentage of votes for each candidate, and rank them based on that percentage, using the output format.
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Inputs
 
     5 3

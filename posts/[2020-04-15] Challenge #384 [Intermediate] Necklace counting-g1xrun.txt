@@ -15,13 +15,13 @@ For example, there are 24 distinct 3-ary necklaces of length 4, so `necklaces(3,
     AACB  BBAC  CCBA
     ABAC  BCBA  CACB
 
-You only need to handle inputs such that k^n &lt; 10,000.
+You only need to handle inputs such that k^n < 10,000.
 
-    necklaces(2, 12) =&gt; 352
-    necklaces(3, 7) =&gt; 315
-    necklaces(9, 4) =&gt; 1665
-    necklaces(21, 3) =&gt; 3101
-    necklaces(99, 2) =&gt; 4950
+    necklaces(2, 12) => 352
+    necklaces(3, 7) => 315
+    necklaces(9, 4) => 1665
+    necklaces(21, 3) => 3101
+    necklaces(99, 2) => 4950
 
 The most straightforward way to count necklaces is to generate all k^n patterns, and deduplicate them (potentially using your code from Easy #383). This is an acceptable approach for this challenge, as long as you can actually run your program through to completion for the above examples.
 
@@ -52,9 +52,9 @@ For example, for `a = 12`, the primes that divide `a` are 2 and 3. So:
 
 If you decide to go this route, you can test much bigger examples.
 
-    necklaces(3, 90) =&gt; 96977372978752360287715019917722911297222
-    necklaces(123, 18) =&gt; 2306850769218800390268044415272597042
-    necklaces(1234567, 6) =&gt; 590115108867910855092196771880677924
-    necklaces(12345678910, 3) =&gt; 627225458787209496560873442940
+    necklaces(3, 90) => 96977372978752360287715019917722911297222
+    necklaces(123, 18) => 2306850769218800390268044415272597042
+    necklaces(1234567, 6) => 590115108867910855092196771880677924
+    necklaces(12345678910, 3) => 627225458787209496560873442940
 
 If your language doesn't easily let you handle such big numbers, that's okay. But your program should run much faster than O(k^(n)).

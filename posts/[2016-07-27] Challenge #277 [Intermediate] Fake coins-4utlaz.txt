@@ -4,7 +4,7 @@ Title: [2016-07-27] Challenge #277 [Intermediate] Fake coins
 
 Their are some false golden coins, wich are lighter then others, in the treasure chest. The assistant has weighed the coins, but can not figure out which are false and which are not.
 
-#Formal Inputs &amp; Outputs
+#Formal Inputs & Outputs
 
 ##Input description
 

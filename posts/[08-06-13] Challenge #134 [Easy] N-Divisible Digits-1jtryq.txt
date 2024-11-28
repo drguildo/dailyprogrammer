@@ -8,7 +8,7 @@ Example: if you are given an N of 3 and M of 2, the largest integer with 3-digit
 
 *Author:* nint22. *Note:* Sorry for the absence of challenges; I've been away for the last two weeks, and am getting back into the grove of things.
 
-# Formal Inputs &amp; Outputs
+# Formal Inputs & Outputs
 ## Input Description
 
 You will be given two integers, N and M, on standard console input. They will be space delimited values where N will range from 1 to 9, and M will range from 2 to 999,999,999.
@@ -17,7 +17,7 @@ You will be given two integers, N and M, on standard console input. They will be
 
 Print the largest integer within the range of 1 to the largest integer formed by N-digits, that is evenly-divisible by the integer M. You only need to print the largest integer, not the set of evenly-divisible integers. If there is no solution, print "No solution found".
 
-# Sample Inputs &amp; Outputs
+# Sample Inputs & Outputs
 ## Sample Input 1
 
     3 2

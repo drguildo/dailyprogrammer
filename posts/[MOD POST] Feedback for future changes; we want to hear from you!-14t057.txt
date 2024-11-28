@@ -15,7 +15,7 @@ Here are the current proposals (in no particular order) from an internal discuss
 * Have only 1 to 2 challenges a week total (posted on the same day)
 * Force moderators to submit at least 2 challenges a month, otherwise they loose their mod-rank
 * *Write down your own suggestion, we really want to hear from you!*
-* Post solutions to problems, in the form of a tutorial (i.e. code &amp; explanation)
+* Post solutions to problems, in the form of a tutorial (i.e. code & explanation)
 * Actually declare three kinds of winner per challenge: most "correct", most "unique", and most "tiny"
 * A flare or prize for winners
 

@@ -48,7 +48,7 @@ Command | Description
     ^04^^
     ^13/ \^d^b  /   \
     ^u^d^d^l^l^l^l^l^l^l^l^l
-    ^r^r^l^l^d&lt;^49&gt;^l^l^d/^b \
+    ^r^r^l^l^d<^49>^l^l^d/^b \
     ^d^r^r^66/^b  \
     ^b^d   \ /
     ^d^l^lv^d^b===========^i^94O123456
@@ -60,7 +60,7 @@ Command | Description
        / \
       /   \
      /     \
-    &lt;       &gt;
+    <       >
      \     /
       \   /
        \ /

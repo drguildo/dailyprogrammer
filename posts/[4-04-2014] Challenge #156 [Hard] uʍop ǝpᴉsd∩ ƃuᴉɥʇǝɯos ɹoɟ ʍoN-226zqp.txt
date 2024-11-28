@@ -48,7 +48,7 @@ The text modified to be upside down.
 In addition to above look into trying these out:
 
 * convert upside down to normal
-* find conversions for $&amp;@';/\&gt;&lt;+*=_- if any are possible
+* find conversions for $&@';/\><+*=_- if any are possible
 * given a word search the text count the word matches. Count how many times the word is normal or upside down
 
 

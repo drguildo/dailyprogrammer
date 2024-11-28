@@ -42,7 +42,7 @@ IX = "1 from 10" = 10 - 1 = 9
 
 XCIV = "10 from 100" + "1 from 5" = (100 - 10) + (5 - 1) = 90 + 4 = 94
 
-#Inputs &amp; Outputs
+#Inputs & Outputs
 
 Your program should be able to accept numbers in either integer or roman numeral format to return the other. You may want to add validation checks on the input.
 When converting to a roman numeral, the maximum number is 4999.
