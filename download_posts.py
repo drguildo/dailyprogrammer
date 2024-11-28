@@ -40,7 +40,7 @@ def main():
             print(f'Downloading post: {post_title}')
 
             # Create a file for each post
-            post_filename = f'{post_title}-{post_id}.txt'
+            post_filename = f'{post_title}-{post_id}.md'
             with open(f'{dir_name}/{sanitise_filename(post_filename)}', 'w', encoding='utf-8') as file:
                 file.write(f"Title: {post_title}\n\n")
                 file.write(html.unescape(post_body))
