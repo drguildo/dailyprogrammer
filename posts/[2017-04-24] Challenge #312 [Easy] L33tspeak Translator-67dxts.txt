@@ -1,0 +1,62 @@
+Title: [2017-04-24] Challenge #312 [Easy] L33tspeak Translator
+
+# Description
+
+L33tspeak - the act of speaking like a computer hacker (or hax0r) - was popularized in the late 1990s as a mechanism of abusing ASCII art and character mappings to confuse outsiders. It was a lot of fun. [One popular comic strip](http://megatokyo.com/strip/9) in 2000 showed just how far the joke ran. 
+
+In L33Tspeak you substitute letters for their rough outlines in ASCII characters, e.g. symbols or numbers. You can have 1:1 mappings (like E -&gt; 3) or 1:many mappings (like W -&gt; `//). So then you wind up with words like this:
+
+    BASIC =&gt; 6451C
+    ELEET =&gt; 31337 (pronounced elite)
+    WOW =&gt; `//0`//
+    MOM =&gt; (V)0(V)
+
+## Mappings
+
+For this challenge we'll be using a subset of American Standard Leetspeak:
+
+    A -&gt; 4
+    B -&gt; 6
+    E -&gt; 3
+    I -&gt; 1
+    L -&gt; 1
+    M -&gt; (V)
+    N -&gt; (\)
+    O -&gt; 0
+    S -&gt; 5
+    T -&gt; 7
+    V -&gt; \/
+    W -&gt; `//
+
+Your challenge, should you choose to accept it, is to translate to and from L33T. 
+
+# Input Description
+
+You'll be given a word or a short phrase, one per line, and asked to convert it from L33T or to L33T. Examples:
+
+    31337 
+    storm 
+
+# Output Description
+
+You should emit the translated words: Examples:
+
+    31337 -&gt; eleet
+    storm -&gt; 570R(V)
+
+# Challenge Input
+
+    I am elite.
+    Da pain!
+    Eye need help!
+    3Y3 (\)33d j00 t0 g37 d4 d0c70r.
+    1 n33d m4 p1llz!
+
+# Challenge Output
+
+    I am elite. -&gt; 1 4m 37173
+    Da pain! -&gt; D4 P41(\)!
+    Eye need help! -&gt; 3Y3 (\)33D H31P!
+    3Y3 (\)33d j00 t0 g37 d4 d0c70r. -&gt; Eye need j00 to get da doctor.
+    1 n33d m4 p1llz! -&gt; I need ma pillz!
+
