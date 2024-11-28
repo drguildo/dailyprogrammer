@@ -36,12 +36,13 @@ def main():
             post_id = post_data['id']
             post_title = post_data['title']
             post_body = post_data['selftext']
+            post_permalink = post_data['permalink'].split('/')[-2]
 
             print(f'Downloading post: {post_title}')
 
             # Create a file for each post
-            post_filename = f'{post_title}-{post_id}.md'
-            with open(f'{dir_name}/{sanitise_filename(post_filename)}', 'w', encoding='utf-8') as file:
+            post_filename = f'{post_permalink}-{post_id}.md'
+            with open(f'{dir_name}/{post_filename}', 'w', encoding='utf-8') as file:
                 file.write(f"Title: {post_title}\n\n")
                 file.write(html.unescape(post_body))
 
@@ -50,12 +51,6 @@ def main():
             break
 
     print("Posts downloaded successfully.")
-
-def sanitise_filename(filename):
-    sanitised = html.unescape(filename)
-    sanitised = re.sub(r'\d+/\d+/\d+', lambda x: x.group(0).replace('/', '-'), sanitised)
-    sanitised = re.sub(r'[\\/:*?"<>|]', '_', sanitised)
-    return sanitised
 
 if __name__ == '__main__':
     main()
