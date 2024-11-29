@@ -6,7 +6,7 @@ import re
 import html
 
 # Define the subreddit and URL
-url = 'https://www.reddit.com/r/dailyprogrammer/.json'
+url = 'https://old.reddit.com/r/dailyprogrammer/.json'
 
 # Set up headers to mimic a browser request
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0'}
