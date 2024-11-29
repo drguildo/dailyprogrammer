@@ -1,4 +1,7 @@
-Title: [5/9/2014] Challenge #161 [Hard] Phone Network
+---
+title: [5/9/2014] Challenge #161 [Hard] Phone Network
+url: https://old.reddit.com/r/dailyprogrammer/comments/25576s/592014_challenge_161_hard_phone_network/
+---
 
 #Description:
 

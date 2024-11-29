@@ -1,4 +1,7 @@
-Title: [2015-01-21] Challenge #198 [Intermediate] Base-Negative Numbers
+---
+title: [2015-01-21] Challenge #198 [Intermediate] Base-Negative Numbers
+url: https://old.reddit.com/r/dailyprogrammer/comments/2t3m7j/20150121_challenge_198_intermediate_basenegative/
+---
 
 # [](#IntermediateIcon) _(Intermediate)_: Base-Negative Numbers
 

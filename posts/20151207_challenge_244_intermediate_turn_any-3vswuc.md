@@ -1,4 +1,7 @@
-Title: [2015-12-07] Challenge #244 [Intermediate] Turn any language into an Array language (part 1)
+---
+title: [2015-12-07] Challenge #244 [Intermediate] Turn any language into an Array language (part 1)
+url: https://old.reddit.com/r/dailyprogrammer/comments/3vswuc/20151207_challenge_244_intermediate_turn_any/
+---
 
 # Array languages 
 

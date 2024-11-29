@@ -1,4 +1,7 @@
-Title: [29/09/2014] Challenge #182 [Easy] The Column Conundrum
+---
+title: [29/09/2014] Challenge #182 [Easy] The Column Conundrum
+url: https://old.reddit.com/r/dailyprogrammer/comments/2hssx6/29092014_challenge_182_easy_the_column_conundrum/
+---
 
 # [](#EasyIcon) **(Easy)**: The Column Conundrum
 Text formatting is big business. Every day we read information in one of several formats. Scientific publications often have their text split into [two columns, like this](https://isotropic.org/papers/chicken.pdf). Websites are often bearing one major column and a sidebar column, such as Reddit itself. Newspapers very often have three to five columns. You've been commisioned by some bloke you met in Asda to write a program which, given some input text and some numbers, will split the data into the appropriate number of columns.

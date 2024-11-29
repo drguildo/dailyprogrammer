@@ -1,4 +1,7 @@
-Title: [2020-03-09] Challenge #383 [Easy] Necklace matching
+---
+title: [2020-03-09] Challenge #383 [Easy] Necklace matching
+url: https://old.reddit.com/r/dailyprogrammer/comments/ffxabb/20200309_challenge_383_easy_necklace_matching/
+---
 
 # Challenge
 

@@ -1,4 +1,7 @@
-Title: [2015-07-08] Challenge #222 [Intermediate] Simple Stream Cipher
+---
+title: [2015-07-08] Challenge #222 [Intermediate] Simple Stream Cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/3chvxy/20150708_challenge_222_intermediate_simple_stream/
+---
 
 # Description
 

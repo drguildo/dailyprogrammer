@@ -1,4 +1,7 @@
-Title: [2017-11-17] Challenge #340 [Hard] Write a Web Crawler
+---
+title: [2017-11-17] Challenge #340 [Hard] Write a Web Crawler
+url: https://old.reddit.com/r/dailyprogrammer/comments/7dlaeq/20171117_challenge_340_hard_write_a_web_crawler/
+---
 
 # Description 
 

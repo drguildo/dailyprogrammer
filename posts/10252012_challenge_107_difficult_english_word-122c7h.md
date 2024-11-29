@@ -1,4 +1,7 @@
-Title: [10/25/2012] Challenge #107 [Difficult] (English Word Identifier)
+---
+title: [10/25/2012] Challenge #107 [Difficult] (English Word Identifier)
+url: https://old.reddit.com/r/dailyprogrammer/comments/122c7h/10252012_challenge_107_difficult_english_word/
+---
 
 Given as input this [list of 20,000 twelve-character strings](http://pastebin.com/eJFn49vp), which contains 10,000 actual English words, and 10,000 random strings of characters, write a program that filters out the English words, with no false positives or negatives. [Your output must match this list exactly.](http://pastebin.com/trMz6nWQ)
 

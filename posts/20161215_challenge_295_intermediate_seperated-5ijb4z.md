@@ -1,4 +1,7 @@
-Title: [2016-12-15] Challenge #295 [Intermediate] Seperated Spouses
+---
+title: [2016-12-15] Challenge #295 [Intermediate] Seperated Spouses
+url: https://old.reddit.com/r/dailyprogrammer/comments/5ijb4z/20161215_challenge_295_intermediate_seperated/
+---
 
 **Description**
 

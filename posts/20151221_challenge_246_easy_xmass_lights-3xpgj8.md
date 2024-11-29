@@ -1,4 +1,7 @@
-Title: [2015-12-21] Challenge # 246 [Easy] X-mass lights
+---
+title: [2015-12-21] Challenge # 246 [Easy] X-mass lights
+url: https://old.reddit.com/r/dailyprogrammer/comments/3xpgj8/20151221_challenge_246_easy_xmass_lights/
+---
 
 **Description**
 

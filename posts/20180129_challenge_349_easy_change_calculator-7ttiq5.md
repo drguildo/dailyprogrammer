@@ -1,4 +1,7 @@
-Title: [2018-01-29] Challenge #349 [Easy] Change Calculator
+---
+title: [2018-01-29] Challenge #349 [Easy] Change Calculator
+url: https://old.reddit.com/r/dailyprogrammer/comments/7ttiq5/20180129_challenge_349_easy_change_calculator/
+---
 
 # Description
 

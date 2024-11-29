@@ -1,4 +1,7 @@
-Title: [2015-06-08] Challenge #218 [Easy] Making numbers palindromic
+---
+title: [2015-06-08] Challenge #218 [Easy] Making numbers palindromic
+url: https://old.reddit.com/r/dailyprogrammer/comments/38yy9s/20150608_challenge_218_easy_making_numbers/
+---
 
 
 # Description

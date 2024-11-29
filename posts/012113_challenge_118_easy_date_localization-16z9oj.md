@@ -1,4 +1,7 @@
-Title: [01/21/13] Challenge #118 [Easy] Date Localization
+---
+title: [01/21/13] Challenge #118 [Easy] Date Localization
+url: https://old.reddit.com/r/dailyprogrammer/comments/16z9oj/012113_challenge_118_easy_date_localization/
+---
 
 
 # [](#EasyIcon) *(Easy)*: Date Localization

@@ -1,4 +1,7 @@
-Title: [7/6/2012] Challenge #73 [difficult]
+---
+title: [7/6/2012] Challenge #73 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/w4m1r/762012_challenge_73_difficult/
+---
 
 [Huffman coding](http://en.wikipedia.org/wiki/Huffman_coding) is a compression algorithm. Implementing it is a good occasion to work with queues, trees and bits.
 

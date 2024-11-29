@@ -1,4 +1,7 @@
-Title: [8/18/2014] Challenge #176 [Easy] Spreadsheet Developer pt. 1: Cell Selection
+---
+title: [8/18/2014] Challenge #176 [Easy] Spreadsheet Developer pt. 1: Cell Selection
+url: https://old.reddit.com/r/dailyprogrammer/comments/2dvc81/8182014_challenge_176_easy_spreadsheet_developer/
+---
 
 # [](#EasyIcon) _(Easy)_: Spreadsheet Developer pt. 1: Cell Selection
 

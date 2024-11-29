@@ -1,4 +1,7 @@
-Title: [Request] The Ultimate Wordlist
+---
+title: [Request] The Ultimate Wordlist
+url: https://old.reddit.com/r/dailyprogrammer/comments/2nluof/request_the_ultimate_wordlist/
+---
 
 So quite often, there are challenges that will involve manipulating a large list of words. For this we usually use one of several txt files that are available on the web.
 

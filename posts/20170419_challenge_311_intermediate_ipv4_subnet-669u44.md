@@ -1,4 +1,7 @@
-Title: [2017-04-19] Challenge #311 [Intermediate] IPv4 Subnet Calculator
+---
+title: [2017-04-19] Challenge #311 [Intermediate] IPv4 Subnet Calculator
+url: https://old.reddit.com/r/dailyprogrammer/comments/669u44/20170419_challenge_311_intermediate_ipv4_subnet/
+---
 
 # Description
 

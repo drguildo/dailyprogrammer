@@ -1,4 +1,7 @@
-Title: [PSA] Developer Health Study
+---
+title: [PSA] Developer Health Study
+url: https://old.reddit.com/r/dailyprogrammer/comments/3a0p8x/psa_developer_health_study/
+---
 
 Hello,
 

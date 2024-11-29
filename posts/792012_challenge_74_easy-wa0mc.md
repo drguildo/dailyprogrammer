@@ -1,5 +1,8 @@
-Title: [7/9/2012] Challenge #74 [easy]
+---
+title: [7/9/2012] Challenge #74 [easy]
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/wa0mc/792012_challenge_74_easy/
+---
 
 The Fibonacci numbers, which we are all familiar with, start like this:
 

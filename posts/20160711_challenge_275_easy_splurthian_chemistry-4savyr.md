@@ -1,4 +1,7 @@
-Title: [2016-07-11] Challenge #275 [Easy] Splurthian Chemistry 101
+---
+title: [2016-07-11] Challenge #275 [Easy] Splurthian Chemistry 101
+url: https://old.reddit.com/r/dailyprogrammer/comments/4savyr/20160711_challenge_275_easy_splurthian_chemistry/
+---
 
 # Description
 

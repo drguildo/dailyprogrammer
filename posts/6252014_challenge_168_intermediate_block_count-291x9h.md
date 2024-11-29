@@ -1,4 +1,7 @@
-Title: [6/25/2014] Challenge #168 [Intermediate] Block Count, Length &amp; Area
+---
+title: [6/25/2014] Challenge #168 [Intermediate] Block Count, Length &amp; Area
+url: https://old.reddit.com/r/dailyprogrammer/comments/291x9h/6252014_challenge_168_intermediate_block_count/
+---
 
 #Description:
 

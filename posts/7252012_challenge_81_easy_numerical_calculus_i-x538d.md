@@ -1,4 +1,7 @@
-Title: [7/25/2012] Challenge #81 [easy] (Numerical Calculus I)
+---
+title: [7/25/2012] Challenge #81 [easy] (Numerical Calculus I)
+url: https://old.reddit.com/r/dailyprogrammer/comments/x538d/7252012_challenge_81_easy_numerical_calculus_i/
+---
 
 For a lot of the questions today we are going to be doing some simple numerical calculus.  Don't worry, its not too terrifying.
 

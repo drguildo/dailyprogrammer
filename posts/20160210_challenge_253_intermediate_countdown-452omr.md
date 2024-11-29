@@ -1,4 +1,7 @@
-Title: [2016-02-10] Challenge #253 [Intermediate] Countdown (numbers game)
+---
+title: [2016-02-10] Challenge #253 [Intermediate] Countdown (numbers game)
+url: https://old.reddit.com/r/dailyprogrammer/comments/452omr/20160210_challenge_253_intermediate_countdown/
+---
 
 Countdown is a British ripoff of a French TV show where given 6 starting numbers, the 4 basic arithmetic operators are used to manipulate the given 6 numbers to arrive at a given total.
 

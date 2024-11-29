@@ -1,4 +1,7 @@
-Title: [2017-01-04] Challenge #298 [Intermediate] Too many or too few Parentheses
+---
+title: [2017-01-04] Challenge #298 [Intermediate] Too many or too few Parentheses
+url: https://old.reddit.com/r/dailyprogrammer/comments/5m034l/20170104_challenge_298_intermediate_too_many_or/
+---
 
 this challenge is about spotting where parentheses are unbalanced.
 

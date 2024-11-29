@@ -1,4 +1,7 @@
-Title: [2015-03-06] Challenge #204 [Hard] Addition chains
+---
+title: [2015-03-06] Challenge #204 [Hard] Addition chains
+url: https://old.reddit.com/r/dailyprogrammer/comments/2y5ziw/20150306_challenge_204_hard_addition_chains/
+---
 
 #Description
 

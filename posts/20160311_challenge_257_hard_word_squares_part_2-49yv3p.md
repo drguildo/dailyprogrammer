@@ -1,4 +1,7 @@
-Title: [2016-03-11] Challenge #257 [Hard] Word Squares Part 2
+---
+title: [2016-03-11] Challenge #257 [Hard] Word Squares Part 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/49yv3p/20160311_challenge_257_hard_word_squares_part_2/
+---
 
 # Description
 

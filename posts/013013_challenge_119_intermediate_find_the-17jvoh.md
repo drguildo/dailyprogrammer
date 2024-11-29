@@ -1,4 +1,7 @@
-Title: [01/30/13] Challenge #119 [Intermediate] Find the shortest path
+---
+title: [01/30/13] Challenge #119 [Intermediate] Find the shortest path
+url: https://old.reddit.com/r/dailyprogrammer/comments/17jvoh/013013_challenge_119_intermediate_find_the/
+---
 
 
 # [](#IntermediateIcon) *(Intermediate)*: Find the shortest path

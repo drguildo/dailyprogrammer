@@ -1,4 +1,7 @@
-Title: [9/03/2012] Challenge #95 [easy] (Reversing text in file)
+---
+title: [9/03/2012] Challenge #95 [easy] (Reversing text in file)
+url: https://old.reddit.com/r/dailyprogrammer/comments/za9op/9032012_challenge_95_easy_reversing_text_in_file/
+---
 
 Write a program that reads text from a file, and then outputs the text to another file but with all the lines reversed and all the words in each line reversed. 
 

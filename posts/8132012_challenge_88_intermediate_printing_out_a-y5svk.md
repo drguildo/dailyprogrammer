@@ -1,4 +1,7 @@
-Title: [8/13/2012] Challenge #88 [intermediate] (Printing out a calendar)
+---
+title: [8/13/2012] Challenge #88 [intermediate] (Printing out a calendar)
+url: https://old.reddit.com/r/dailyprogrammer/comments/y5svk/8132012_challenge_88_intermediate_printing_out_a/
+---
 
 Make a program that given a certain month in a certain year, it prints out a calendar for that month in a nice calendar format. 
 

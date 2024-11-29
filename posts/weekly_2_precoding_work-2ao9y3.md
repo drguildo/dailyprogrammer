@@ -1,4 +1,7 @@
-Title: [Weekly #2] Pre-coding Work
+---
+title: [Weekly #2] Pre-coding Work
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ao9y3/weekly_2_precoding_work/
+---
 
 #Weekly Topic #2:
 

@@ -1,4 +1,7 @@
-Title: [7/27/2012] Challenge #82 [difficult] (Bowling scores)
+---
+title: [7/27/2012] Challenge #82 [difficult] (Bowling scores)
+url: https://old.reddit.com/r/dailyprogrammer/comments/x8r90/7272012_challenge_82_difficult_bowling_scores/
+---
 
 Write a program that reads a series of space-separated bowling rolls from input, like this one:
 

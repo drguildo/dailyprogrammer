@@ -1,4 +1,7 @@
-Title: [26/3/2014] Challenge #155 [Intermediate] We're about to score!
+---
+title: [26/3/2014] Challenge #155 [Intermediate] We're about to score!
+url: https://old.reddit.com/r/dailyprogrammer/comments/21ejqz/2632014_challenge_155_intermediate_were_about_to/
+---
 
 # **Description**
 

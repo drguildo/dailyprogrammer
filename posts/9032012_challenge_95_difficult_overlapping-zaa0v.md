@@ -1,4 +1,7 @@
-Title: [9/03/2012] Challenge #95 [difficult] (Overlapping rectangles)
+---
+title: [9/03/2012] Challenge #95 [difficult] (Overlapping rectangles)
+url: https://old.reddit.com/r/dailyprogrammer/comments/zaa0v/9032012_challenge_95_difficult_overlapping/
+---
 
 Let the four values (x, y, w, h) define a rectangle. Let the bottom left corner be located at (x, y) and let (w, h) be the width and height. Then the rectangles (0,0,4,3), (4,3,3,4) and (7,0,3,3) would look something like this:
 

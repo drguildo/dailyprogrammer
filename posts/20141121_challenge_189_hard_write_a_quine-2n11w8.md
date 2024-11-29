@@ -1,4 +1,7 @@
-Title: [2014-11-21] Challenge #189 [Hard] Write a Quine
+---
+title: [2014-11-21] Challenge #189 [Hard] Write a Quine
+url: https://old.reddit.com/r/dailyprogrammer/comments/2n11w8/20141121_challenge_189_hard_write_a_quine/
+---
 
 #Description:
 

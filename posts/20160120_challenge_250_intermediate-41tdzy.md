@@ -1,4 +1,7 @@
-Title: [2016-01-20] Challenge #250 [Intermediate] Self-descriptive numbers
+---
+title: [2016-01-20] Challenge #250 [Intermediate] Self-descriptive numbers
+url: https://old.reddit.com/r/dailyprogrammer/comments/41tdzy/20160120_challenge_250_intermediate/
+---
 
 #Description
 

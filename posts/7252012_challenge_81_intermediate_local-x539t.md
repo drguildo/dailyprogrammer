@@ -1,4 +1,7 @@
-Title: [7/25/2012] Challenge #81 [intermediate] (Local Minimization)
+---
+title: [7/25/2012] Challenge #81 [intermediate] (Local Minimization)
+url: https://old.reddit.com/r/dailyprogrammer/comments/x539t/7252012_challenge_81_intermediate_local/
+---
 
 For a lot of the questions today we are going to be doing some simple numerical calculus.  Don't worry, its not too terrifying.
 

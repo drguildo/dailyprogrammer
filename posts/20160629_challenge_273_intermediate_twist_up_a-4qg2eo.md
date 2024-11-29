@@ -1,4 +1,7 @@
-Title: [2016-06-29] Challenge #273 [Intermediate] Twist up a message
+---
+title: [2016-06-29] Challenge #273 [Intermediate] Twist up a message
+url: https://old.reddit.com/r/dailyprogrammer/comments/4qg2eo/20160629_challenge_273_intermediate_twist_up_a/
+---
 
 ##**Description**
 

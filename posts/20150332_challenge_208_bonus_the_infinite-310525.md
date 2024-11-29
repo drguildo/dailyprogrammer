@@ -1,4 +1,7 @@
-Title: [2015-03-32] Challenge 208 [Bonus] The Infinite Stallman Theorem
+---
+title: [2015-03-32] Challenge 208 [Bonus] The Infinite Stallman Theorem
+url: https://old.reddit.com/r/dailyprogrammer/comments/310525/20150332_challenge_208_bonus_the_infinite/
+---
 
 # [](#BonusIcon) _(Bonus)_: The Infinite Stallman Theorem
 

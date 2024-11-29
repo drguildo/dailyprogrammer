@@ -1,4 +1,7 @@
-Title: [Weekly #20] Paradigms
+---
+title: [Weekly #20] Paradigms
+url: https://old.reddit.com/r/dailyprogrammer/comments/2sx7nn/weekly_20_paradigms/
+---
 
 So recently there has been a massive surge in the interest of functional programming, but let's not forget the other paradigms too!
 

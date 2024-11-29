@@ -1,4 +1,7 @@
-Title: [9/19/2014] Challenge #180 [Hard] Sorting Visualisation
+---
+title: [9/19/2014] Challenge #180 [Hard] Sorting Visualisation
+url: https://old.reddit.com/r/dailyprogrammer/comments/2gsqfd/9192014_challenge_180_hard_sorting_visualisation/
+---
 
 # [](#HardIcon) _(Hard)_: Sorting Visualisation
 

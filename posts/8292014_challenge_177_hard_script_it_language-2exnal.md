@@ -1,4 +1,7 @@
-Title: [8/29/2014] Challenge #177 [Hard] SCRIPT it Language
+---
+title: [8/29/2014] Challenge #177 [Hard] SCRIPT it Language
+url: https://old.reddit.com/r/dailyprogrammer/comments/2exnal/8292014_challenge_177_hard_script_it_language/
+---
 
 #Description:
 

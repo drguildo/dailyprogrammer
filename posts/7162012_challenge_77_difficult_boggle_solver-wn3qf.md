@@ -1,4 +1,7 @@
-Title: [7/16/2012] Challenge #77 [difficult] (Boggle solver)
+---
+title: [7/16/2012] Challenge #77 [difficult] (Boggle solver)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wn3qf/7162012_challenge_77_difficult_boggle_solver/
+---
 
 Write a program that is able to find all words in a [Boggle](http://en.wikipedia.org/wiki/Boggle) board. For a word list, you can [use this file](http://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt).
 

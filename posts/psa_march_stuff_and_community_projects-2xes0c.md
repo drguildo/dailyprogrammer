@@ -1,4 +1,7 @@
-Title: [PSA] March stuff, and Community Projects
+---
+title: [PSA] March stuff, and Community Projects
+url: https://old.reddit.com/r/dailyprogrammer/comments/2xes0c/psa_march_stuff_and_community_projects/
+---
 
 Hey folks - two quick updates.
 

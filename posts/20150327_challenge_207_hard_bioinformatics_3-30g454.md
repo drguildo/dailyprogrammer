@@ -1,4 +1,7 @@
-Title: [2015-03-27] Challenge #207 [Hard] Bioinformatics 3: Predicting Protein Secondary Structures
+---
+title: [2015-03-27] Challenge #207 [Hard] Bioinformatics 3: Predicting Protein Secondary Structures
+url: https://old.reddit.com/r/dailyprogrammer/comments/30g454/20150327_challenge_207_hard_bioinformatics_3/
+---
 
 Wrapping up our bioinformatics theme with the third and final installment today. If you like these sorts of problems, I encourage you to check out Project Rosalind (their site seems back up): http://rosalind.info/
 

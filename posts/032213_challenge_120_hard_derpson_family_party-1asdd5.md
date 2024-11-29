@@ -1,4 +1,7 @@
-Title: [03/22/13] Challenge #120 [Hard] Derpson Family Party
+---
+title: [03/22/13] Challenge #120 [Hard] Derpson Family Party
+url: https://old.reddit.com/r/dailyprogrammer/comments/1asdd5/032213_challenge_120_hard_derpson_family_party/
+---
 
 
 # [](#HardIcon) *(Hard)*: Derpson Family Party

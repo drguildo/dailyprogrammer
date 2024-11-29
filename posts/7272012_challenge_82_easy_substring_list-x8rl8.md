@@ -1,4 +1,7 @@
-Title: [7/27/2012] Challenge #82 [easy] (Substring list)
+---
+title: [7/27/2012] Challenge #82 [easy] (Substring list)
+url: https://old.reddit.com/r/dailyprogrammer/comments/x8rl8/7272012_challenge_82_easy_substring_list/
+---
 
 Write a function that takes a number *n* as an argument and returns (or outputs) every possible unique substrings (not counting "") of the first *n* letters of the alphabet (in any order you like). For example, `substrings(5)` could be:
 

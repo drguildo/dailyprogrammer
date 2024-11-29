@@ -1,4 +1,7 @@
-Title: [05/13/13] Challenge #125 [Easy] Word Analytics
+---
+title: [05/13/13] Challenge #125 [Easy] Word Analytics
+url: https://old.reddit.com/r/dailyprogrammer/comments/1e97ob/051313_challenge_125_easy_word_analytics/
+---
 
 # [](#EasyIcon) *(Easy)*: Word Analytics
 

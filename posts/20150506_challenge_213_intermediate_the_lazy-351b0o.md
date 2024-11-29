@@ -1,4 +1,7 @@
-Title: [2015-05-06] Challenge #213 [Intermediate] The Lazy Typist
+---
+title: [2015-05-06] Challenge #213 [Intermediate] The Lazy Typist
+url: https://old.reddit.com/r/dailyprogrammer/comments/351b0o/20150506_challenge_213_intermediate_the_lazy/
+---
 
 # [](#IntermediateIcon) _(Intermediate)_: The Lazy Typist
 

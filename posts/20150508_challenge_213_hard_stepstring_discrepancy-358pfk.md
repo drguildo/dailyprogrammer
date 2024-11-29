@@ -1,4 +1,7 @@
-Title: [2015-05-08] Challenge #213 [Hard] Stepstring discrepancy
+---
+title: [2015-05-08] Challenge #213 [Hard] Stepstring discrepancy
+url: https://old.reddit.com/r/dailyprogrammer/comments/358pfk/20150508_challenge_213_hard_stepstring_discrepancy/
+---
 
 # Description
 

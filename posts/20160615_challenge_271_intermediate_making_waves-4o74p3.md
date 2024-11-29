@@ -1,4 +1,7 @@
-Title: [2016-06-15] Challenge #271 [Intermediate] Making Waves
+---
+title: [2016-06-15] Challenge #271 [Intermediate] Making Waves
+url: https://old.reddit.com/r/dailyprogrammer/comments/4o74p3/20160615_challenge_271_intermediate_making_waves/
+---
 
 This challenge is a bit uncoventional, so I apologize in advance to anyone who
 may feel excluded due to language or other constraints. Also, I couldn't think

@@ -1,4 +1,7 @@
-Title: [2015-08-07] Challenge #226 [Hard] Kakuro Solver
+---
+title: [2015-08-07] Challenge #226 [Hard] Kakuro Solver
+url: https://old.reddit.com/r/dailyprogrammer/comments/3g2tby/20150807_challenge_226_hard_kakuro_solver/
+---
 
 # Description
 

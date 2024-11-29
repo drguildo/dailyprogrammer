@@ -1,4 +1,7 @@
-Title: [06/09/13] Challenge #127 [Intermediate] Call Forwarding
+---
+title: [06/09/13] Challenge #127 [Intermediate] Call Forwarding
+url: https://old.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Call Forwarding
 

@@ -1,4 +1,7 @@
-Title: [5/28/2014] Challenge #164 [Intermediate] Part 3 - Protect The Bunkers
+---
+title: [5/28/2014] Challenge #164 [Intermediate] Part 3 - Protect The Bunkers
+url: https://old.reddit.com/r/dailyprogrammer/comments/26oop1/5282014_challenge_164_intermediate_part_3_protect/
+---
 
 ##Description
 Most of the residential buildings have been destroyed by the termites due to a bug in /u/1337C0D3R's code. All of the civilians in our far-future society now live in bunkers of a curious design - the bunkers were poorly designed using the ASCII Architect and are thus not secure. If the bunkers are breached by a hostile force, it is almost certain that all the civilians will die.

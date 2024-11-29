@@ -1,4 +1,7 @@
-Title: [2017-04-10] Challenge #310 [Easy] Kids Lotto
+---
+title: [2017-04-10] Challenge #310 [Easy] Kids Lotto
+url: https://old.reddit.com/r/dailyprogrammer/comments/64jesw/20170410_challenge_310_easy_kids_lotto/
+---
 
 #Introduction
 Anna is a teacher, kids can sit where they want in her classroom every morning. She noticed that they always sit next to their closest firends but she would like to introduce mixity.

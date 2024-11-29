@@ -1,4 +1,7 @@
-Title: [2016-01-25] Challenge #251 [Easy] Create Nonogram description
+---
+title: [2016-01-25] Challenge #251 [Easy] Create Nonogram description
+url: https://old.reddit.com/r/dailyprogrammer/comments/42lhem/20160125_challenge_251_easy_create_nonogram/
+---
 
 #Description
 

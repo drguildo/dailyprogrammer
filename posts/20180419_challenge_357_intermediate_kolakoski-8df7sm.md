@@ -1,4 +1,7 @@
-Title: [2018-04-19] Challenge #357 [Intermediate] Kolakoski Sequences
+---
+title: [2018-04-19] Challenge #357 [Intermediate] Kolakoski Sequences
+url: https://old.reddit.com/r/dailyprogrammer/comments/8df7sm/20180419_challenge_357_intermediate_kolakoski/
+---
 
 
 

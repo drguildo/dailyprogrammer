@@ -1,4 +1,7 @@
-Title: [5/25/2012] Challenge #57 [difficult]
+---
+title: [5/25/2012] Challenge #57 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/u4mkr/5252012_challenge_57_difficult/
+---
 
 Lets play some games shall we! .. for many of the next challenges i will be giving old classic games to be programmed. 
 

@@ -1,4 +1,7 @@
-Title: [2015-04-13] Challenge #210 [Easy] intHarmony.com
+---
+title: [2015-04-13] Challenge #210 [Easy] intHarmony.com
+url: https://old.reddit.com/r/dailyprogrammer/comments/32goj8/20150413_challenge_210_easy_intharmonycom/
+---
 
 #Description:
 

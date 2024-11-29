@@ -1,4 +1,7 @@
-Title: [2017-12-01] Challenge #342 [Hard] Snake in a Box
+---
+title: [2017-12-01] Challenge #342 [Hard] Snake in a Box
+url: https://old.reddit.com/r/dailyprogrammer/comments/7gvned/20171201_challenge_342_hard_snake_in_a_box/
+---
 
 # Description
 

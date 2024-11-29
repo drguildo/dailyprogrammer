@@ -1,4 +1,7 @@
-Title: [2016-02-24] Challenge #255 [Intermediate] Ambiguous Bases
+---
+title: [2016-02-24] Challenge #255 [Intermediate] Ambiguous Bases
+url: https://old.reddit.com/r/dailyprogrammer/comments/47docs/20160224_challenge_255_intermediate_ambiguous/
+---
 
 #Description:
 

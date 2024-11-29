@@ -1,4 +1,7 @@
-Title: [2019-01-30] Challenge #374 [Intermediate] The Game of Blobs
+---
+title: [2019-01-30] Challenge #374 [Intermediate] The Game of Blobs
+url: https://old.reddit.com/r/dailyprogrammer/comments/aldexk/20190130_challenge_374_intermediate_the_game_of/
+---
 
 # Description
 

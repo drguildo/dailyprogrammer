@@ -1,4 +1,7 @@
-Title: [2017-07-10] Challenge #323 [Easy] 3SUM
+---
+title: [2017-07-10] Challenge #323 [Easy] 3SUM
+url: https://old.reddit.com/r/dailyprogrammer/comments/6melen/20170710_challenge_323_easy_3sum/
+---
 
 # Description
 

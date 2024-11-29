@@ -1,4 +1,7 @@
-Title: [2018-06-20] Challenge #364 [Intermediate] The Ducci Sequence
+---
+title: [2018-06-20] Challenge #364 [Intermediate] The Ducci Sequence
+url: https://old.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_intermediate_the_ducci/
+---
 
 # Description
 

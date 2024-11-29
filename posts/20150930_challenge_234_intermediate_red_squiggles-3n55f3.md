@@ -1,4 +1,7 @@
-Title: [2015-09-30] Challenge #234 [Intermediate] Red Squiggles
+---
+title: [2015-09-30] Challenge #234 [Intermediate] Red Squiggles
+url: https://old.reddit.com/r/dailyprogrammer/comments/3n55f3/20150930_challenge_234_intermediate_red_squiggles/
+---
 
 It looks like the moderators fell down on the job! I'll send in an emergency challenge. 
 

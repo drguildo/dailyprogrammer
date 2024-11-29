@@ -1,4 +1,7 @@
-Title: [2015-07-29] Challenge #225 [Intermediate] Estimating pi from images of circles
+---
+title: [2015-07-29] Challenge #225 [Intermediate] Estimating pi from images of circles
+url: https://old.reddit.com/r/dailyprogrammer/comments/3f0hzk/20150729_challenge_225_intermediate_estimating_pi/
+---
 
 #Description
 

@@ -1,4 +1,7 @@
-Title: [2015-10-19] Challenge #237 [Easy] Broken Keyboard
+---
+title: [2015-10-19] Challenge #237 [Easy] Broken Keyboard
+url: https://old.reddit.com/r/dailyprogrammer/comments/3pcb3i/20151019_challenge_237_easy_broken_keyboard/
+---
 
 # Description
 

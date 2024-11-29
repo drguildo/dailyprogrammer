@@ -1,4 +1,7 @@
-Title: [05/30/13] Challenge #126 [Intermediate] Perfect P'th Powers
+---
+title: [05/30/13] Challenge #126 [Intermediate] Perfect P'th Powers
+url: https://old.reddit.com/r/dailyprogrammer/comments/1fcpnx/053013_challenge_126_intermediate_perfect_pth/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Perfect P'th Powers
 

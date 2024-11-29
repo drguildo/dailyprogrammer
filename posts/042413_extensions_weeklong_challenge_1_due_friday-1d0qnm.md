@@ -1,4 +1,7 @@
-Title: [04/24/13] EXTENSIONS: Week-Long Challenge #1 due FRIDAY!
+---
+title: [04/24/13] EXTENSIONS: Week-Long Challenge #1 due FRIDAY!
+url: https://old.reddit.com/r/dailyprogrammer/comments/1d0qnm/042413_extensions_weeklong_challenge_1_due_friday/
+---
 
 Hey r/DailyProgrammers,
 

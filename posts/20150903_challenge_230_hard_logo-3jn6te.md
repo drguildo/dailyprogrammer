@@ -1,4 +1,7 @@
-Title: [2015-09-03] Challenge #230 [Hard] Logo De-compactification
+---
+title: [2015-09-03] Challenge #230 [Hard] Logo De-compactification
+url: https://old.reddit.com/r/dailyprogrammer/comments/3jn6te/20150903_challenge_230_hard_logo/
+---
 
 # [](#HardIcon) _(Hard)_: Logo De-compactification
 

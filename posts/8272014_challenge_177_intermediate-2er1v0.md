@@ -1,4 +1,7 @@
-Title: [8/27/2014] Challenge #177 [Intermediate] .- ..- -.. .. ---
+---
+title: [8/27/2014] Challenge #177 [Intermediate] .- ..- -.. .. ---
+url: https://old.reddit.com/r/dailyprogrammer/comments/2er1v0/8272014_challenge_177_intermediate/
+---
 
 #Description
 

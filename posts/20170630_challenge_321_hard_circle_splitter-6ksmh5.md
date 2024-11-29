@@ -1,4 +1,7 @@
-Title: [2017-06-30] Challenge #321 [Hard] Circle Splitter
+---
+title: [2017-06-30] Challenge #321 [Hard] Circle Splitter
+url: https://old.reddit.com/r/dailyprogrammer/comments/6ksmh5/20170630_challenge_321_hard_circle_splitter/
+---
 
 # [](#HardIcon) _(Hard)_: Circle Splitter
 

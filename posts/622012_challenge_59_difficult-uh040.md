@@ -1,4 +1,7 @@
-Title: [6/2/2012] Challenge #59 [difficult]
+---
+title: [6/2/2012] Challenge #59 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/uh040/622012_challenge_59_difficult/
+---
 
 Two strings A and B are said to have a *common substring* called C, if C is embedded somewhere in both A and B. For instance, "ble" is a common substring for "Dou**ble**, double, toil and trouble" and "Fire burn and cauldron bub**ble**" (because, as you can see, "ble" is part of both "Double" and "Bubble"). It is, however, not the longest common substring, the longest common substring is " and " (5 characters long for vs. 3 characters long for "ble").
 

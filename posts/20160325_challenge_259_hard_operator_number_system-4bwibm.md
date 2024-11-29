@@ -1,4 +1,7 @@
-Title: [2016-03-25] Challenge #259 [Hard] Operator number system
+---
+title: [2016-03-25] Challenge #259 [Hard] Operator number system
+url: https://old.reddit.com/r/dailyprogrammer/comments/4bwibm/20160325_challenge_259_hard_operator_number_system/
+---
 
 In most cases, humans use a decimal system. Scientists have suggested that this way to count things has been defined by our hands with 5 fingers each (total of 10 fingers). When the computer was developed, the binary system was implemented because of the two options that electricity allows (current or no current). Today, we’ll throw practical sensibilities in the garbage and define a system to write all the integers that is based on operators and the static natural number sequence (integers 0 or higher).  Call it NOS (Natural Operator Sequence) base.
 

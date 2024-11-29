@@ -1,4 +1,7 @@
-Title: [10/27/2012] Challenge #108 [Easy] (Scientific Notation Translator)
+---
+title: [10/27/2012] Challenge #108 [Easy] (Scientific Notation Translator)
+url: https://old.reddit.com/r/dailyprogrammer/comments/1268t4/10272012_challenge_108_easy_scientific_notation/
+---
 
 If you haven't gathered from the title, the challenge here is to go from decimal notation -> scientific notation.  For those that don't know, scientific notation allows for a decimal less than ten, greater than zero, and a power of ten to be multiplied.
 

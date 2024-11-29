@@ -1,4 +1,7 @@
-Title: [9/15/2014] Challenge#180 [Easy] Look'n'Say
+---
+title: [9/15/2014] Challenge#180 [Easy] Look'n'Say
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/
+---
 
 #Description
 

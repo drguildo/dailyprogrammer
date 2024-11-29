@@ -1,4 +1,7 @@
-Title: [12/23/13] Challenge #130 [Hard] Coloring France's Departments
+---
+title: [12/23/13] Challenge #130 [Hard] Coloring France's Departments
+url: https://old.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/
+---
 
 # [](#HardIcon) *(Hard)*: Coloring France's Departments
 

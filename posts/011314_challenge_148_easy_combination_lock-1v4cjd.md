@@ -1,4 +1,7 @@
-Title: [01/13/14] Challenge #148 [Easy] Combination Lock
+---
+title: [01/13/14] Challenge #148 [Easy] Combination Lock
+url: https://old.reddit.com/r/dailyprogrammer/comments/1v4cjd/011314_challenge_148_easy_combination_lock/
+---
 
 # [](#EasyIcon) *(Easy)*: Combination Lock
 

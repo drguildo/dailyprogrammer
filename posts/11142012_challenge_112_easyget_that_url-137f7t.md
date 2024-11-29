@@ -1,4 +1,7 @@
-Title: [11/14/2012] Challenge #112 [Easy]Get that URL!
+---
+title: [11/14/2012] Challenge #112 [Easy]Get that URL!
+url: https://old.reddit.com/r/dailyprogrammer/comments/137f7t/11142012_challenge_112_easyget_that_url/
+---
 
 **Description:**
 

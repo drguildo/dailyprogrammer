@@ -1,4 +1,7 @@
-Title: [2017-11-08] Challenge #339 [Intermediate] A car renting problem
+---
+title: [2017-11-08] Challenge #339 [Intermediate] A car renting problem
+url: https://old.reddit.com/r/dailyprogrammer/comments/7btzrw/20171108_challenge_339_intermediate_a_car_renting/
+---
 
 # Description
 

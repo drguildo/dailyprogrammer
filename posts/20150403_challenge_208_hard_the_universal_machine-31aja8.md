@@ -1,4 +1,7 @@
-Title: [2015-04-03] Challenge #208 [Hard] The Universal Machine
+---
+title: [2015-04-03] Challenge #208 [Hard] The Universal Machine
+url: https://old.reddit.com/r/dailyprogrammer/comments/31aja8/20150403_challenge_208_hard_the_universal_machine/
+---
 
 # [](#HardIcon) _(Hard)_: The Universal Machine
 

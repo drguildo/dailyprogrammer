@@ -1,4 +1,7 @@
-Title: [4/3/2012] Challenge #35 [easy]
+---
+title: [4/3/2012] Challenge #35 [easy]
+url: https://old.reddit.com/r/dailyprogrammer/comments/rr4y2/432012_challenge_35_easy/
+---
 
 Write a program that will take a number and print a right triangle attempting to use all numbers from 1 to that number.
 

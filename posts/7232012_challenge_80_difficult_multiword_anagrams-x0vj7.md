@@ -1,4 +1,7 @@
-Title: [7/23/2012] Challenge #80 [difficult] (Multi-word anagrams)
+---
+title: [7/23/2012] Challenge #80 [difficult] (Multi-word anagrams)
+url: https://old.reddit.com/r/dailyprogrammer/comments/x0vj7/7232012_challenge_80_difficult_multiword_anagrams/
+---
 
 In [today's easy problem](http://www.reddit.com/r/dailyprogrammer/comments/x0v3e/7232012_challenge_80_easy_anagrams/), we investigated anagrams that were single words. However, as is clear in the "I am Lord Voldemort" and "Tom Marvolo Riddle" example, anagrams can also be several words long. 
 

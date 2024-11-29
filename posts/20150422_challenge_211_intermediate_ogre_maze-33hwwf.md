@@ -1,4 +1,7 @@
-Title: [2015-04-22] Challenge #211 [Intermediate] Ogre Maze
+---
+title: [2015-04-22] Challenge #211 [Intermediate] Ogre Maze
+url: https://old.reddit.com/r/dailyprogrammer/comments/33hwwf/20150422_challenge_211_intermediate_ogre_maze/
+---
 
 #Description: 
 

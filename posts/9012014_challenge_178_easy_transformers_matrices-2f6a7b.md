@@ -1,4 +1,7 @@
-Title: [9/01/2014] Challenge #178 [Easy] Transformers: Matrices in Disguise, pt. 1
+---
+title: [9/01/2014] Challenge #178 [Easy] Transformers: Matrices in Disguise, pt. 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/2f6a7b/9012014_challenge_178_easy_transformers_matrices/
+---
 
 # [](#EasyIcon) *(Easy)*: Transformers: Matrices in Disguise, pt. 1
 

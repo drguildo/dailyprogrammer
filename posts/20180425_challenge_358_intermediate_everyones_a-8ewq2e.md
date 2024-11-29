@@ -1,4 +1,7 @@
-Title: [2018-04-25] Challenge #358 [Intermediate] Everyone's A Winner!
+---
+title: [2018-04-25] Challenge #358 [Intermediate] Everyone's A Winner!
+url: https://old.reddit.com/r/dailyprogrammer/comments/8ewq2e/20180425_challenge_358_intermediate_everyones_a/
+---
 
 # Description
 Today's challenge comes from the website fivethirtyeight.com, which runs a weekly [Riddler](https://fivethirtyeight.com/tag/the-riddler/) column.  Today's dailyprogrammer challenge was the riddler on [2018-04-06](https://fivethirtyeight.com/features/when-will-the-arithmetic-anarchists-attack/).

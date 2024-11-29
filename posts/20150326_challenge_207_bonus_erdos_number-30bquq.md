@@ -1,4 +1,7 @@
-Title: [2015-03-26] Challenge #207 [Bonus] Erdos Number Calculator
+---
+title: [2015-03-26] Challenge #207 [Bonus] Erdos Number Calculator
+url: https://old.reddit.com/r/dailyprogrammer/comments/30bquq/20150326_challenge_207_bonus_erdos_number/
+---
 
 In honor of the 102nd birthday of the famous mathematician, a problem named after him. 
 

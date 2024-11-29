@@ -1,4 +1,7 @@
-Title: [2014-12-8] Challenge #192 [Easy] Carry Adding
+---
+title: [2014-12-8] Challenge #192 [Easy] Carry Adding
+url: https://old.reddit.com/r/dailyprogrammer/comments/2onyoq/2014128_challenge_192_easy_carry_adding/
+---
 
 # [](#EasyIcon) **(Easy)**: Carry Adding
 

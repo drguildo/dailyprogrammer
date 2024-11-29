@@ -1,4 +1,7 @@
-Title: [2017-06-21] Challenge #320 [Intermediate] War (card game)
+---
+title: [2017-06-21] Challenge #320 [Intermediate] War (card game)
+url: https://old.reddit.com/r/dailyprogrammer/comments/6ilyfi/20170621_challenge_320_intermediate_war_card_game/
+---
 
 # Description
 You will be implementing the classic card game [War](https://en.wikipedia.org/wiki/War_(card_game\)).

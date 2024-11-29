@@ -1,4 +1,7 @@
-Title: [2018-04-11] Challenge #356 [Intermediate] Goldbach's Weak Conjecture
+---
+title: [2018-04-11] Challenge #356 [Intermediate] Goldbach's Weak Conjecture
+url: https://old.reddit.com/r/dailyprogrammer/comments/8bh8dh/20180411_challenge_356_intermediate_goldbachs/
+---
 
 # Description
 

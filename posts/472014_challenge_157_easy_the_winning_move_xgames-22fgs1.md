@@ -1,4 +1,7 @@
-Title: [4/7/2014] Challenge #157 [Easy] The Winning Move X-Games edition
+---
+title: [4/7/2014] Challenge #157 [Easy] The Winning Move X-Games edition
+url: https://old.reddit.com/r/dailyprogrammer/comments/22fgs1/472014_challenge_157_easy_the_winning_move_xgames/
+---
 
 #Description:
 

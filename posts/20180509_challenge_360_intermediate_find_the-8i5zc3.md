@@ -1,4 +1,7 @@
-Title: [2018-05-09] Challenge #360 [Intermediate] Find the Nearest Aeroplane
+---
+title: [2018-05-09] Challenge #360 [Intermediate] Find the Nearest Aeroplane
+url: https://old.reddit.com/r/dailyprogrammer/comments/8i5zc3/20180509_challenge_360_intermediate_find_the/
+---
 
 #Description
 

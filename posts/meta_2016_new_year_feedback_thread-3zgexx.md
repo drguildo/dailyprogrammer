@@ -1,4 +1,7 @@
-Title: [Meta] 2016 New Year Feedback Thread
+---
+title: [Meta] 2016 New Year Feedback Thread
+url: https://old.reddit.com/r/dailyprogrammer/comments/3zgexx/meta_2016_new_year_feedback_thread/
+---
 
 Hey folks! As 2016 is starting and we're gearing up for more interesting challenges, we (the mods of /r/dailyprogramming) would like to hear from you! How are we doing?
 

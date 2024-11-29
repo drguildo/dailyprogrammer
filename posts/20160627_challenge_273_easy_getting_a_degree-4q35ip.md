@@ -1,4 +1,7 @@
-Title: [2016-06-27] Challenge #273 [Easy] Getting a degree
+---
+title: [2016-06-27] Challenge #273 [Easy] Getting a degree
+url: https://old.reddit.com/r/dailyprogrammer/comments/4q35ip/20160627_challenge_273_easy_getting_a_degree/
+---
 
 # Description
 

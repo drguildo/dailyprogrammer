@@ -1,4 +1,7 @@
-Title: [2016-10-14] Challenge #287 [Hard] Word Numbers
+---
+title: [2016-10-14] Challenge #287 [Hard] Word Numbers
+url: https://old.reddit.com/r/dailyprogrammer/comments/57fzcv/20161014_challenge_287_hard_word_numbers/
+---
 
 # Description
 

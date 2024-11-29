@@ -1,4 +1,7 @@
-Title: [7/18/2012] Challenge #79 [intermediate] (Plain PGM file viewer)
+---
+title: [7/18/2012] Challenge #79 [intermediate] (Plain PGM file viewer)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wvcv9/7182012_challenge_79_intermediate_plain_pgm_file/
+---
 
 Write a program that converts a ["plain" `.pgm` file](http://netpbm.sourceforge.net/doc/pgm.html) passed from stdin to an ASCII representation easily viewable in a terminal. If you're too lazy to read through the specification, the format should be simple enough to reverse-engineer from an example file:
 

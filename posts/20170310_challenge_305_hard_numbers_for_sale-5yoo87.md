@@ -1,4 +1,7 @@
-Title: [2017-03-10] Challenge #305 [Hard] Numbers for Sale
+---
+title: [2017-03-10] Challenge #305 [Hard] Numbers for Sale
+url: https://old.reddit.com/r/dailyprogrammer/comments/5yoo87/20170310_challenge_305_hard_numbers_for_sale/
+---
 
 # Description
 

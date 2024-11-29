@@ -1,4 +1,7 @@
-Title: [MOD POST] Feedback for future changes; we want to hear from you!
+---
+title: [MOD POST] Feedback for future changes; we want to hear from you!
+url: https://old.reddit.com/r/dailyprogrammer/comments/14t057/mod_post_feedback_for_future_changes_we_want_to/
+---
 
 Hey r/DailyProgrammer,
 

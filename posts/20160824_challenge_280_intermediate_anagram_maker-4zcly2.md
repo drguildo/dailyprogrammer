@@ -1,4 +1,7 @@
-Title: [2016-08-24] Challenge #280 [Intermediate] Anagram Maker
+---
+title: [2016-08-24] Challenge #280 [Intermediate] Anagram Maker
+url: https://old.reddit.com/r/dailyprogrammer/comments/4zcly2/20160824_challenge_280_intermediate_anagram_maker/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [10/17/14] Challenge #184 [Hard] Classification Algorithms and intro to Machine Learning
+---
+title: [10/17/14] Challenge #184 [Hard] Classification Algorithms and intro to Machine Learning
+url: https://old.reddit.com/r/dailyprogrammer/comments/2jkxli/101714_challenge_184_hard_classification/
+---
 
 Hi everyone! This challenge is gonna be a special one. There will be no challenge! Well there will be research! Not very interesting huh ? Lets try shall we ? I just want to spread some awareness of a versatile concept in computer science.
 

@@ -1,4 +1,7 @@
-Title: [2015-05-11] Challenge #214 [Easy] Calculating the standard deviation
+---
+title: [2015-05-11] Challenge #214 [Easy] Calculating the standard deviation
+url: https://old.reddit.com/r/dailyprogrammer/comments/35l5eo/20150511_challenge_214_easy_calculating_the/
+---
 
 # Description
 

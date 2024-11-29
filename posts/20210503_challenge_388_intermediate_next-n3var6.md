@@ -1,4 +1,7 @@
-Title: [2021-05-03] Challenge #388 [Intermediate] Next palindrome
+---
+title: [2021-05-03] Challenge #388 [Intermediate] Next palindrome
+url: https://old.reddit.com/r/dailyprogrammer/comments/n3var6/20210503_challenge_388_intermediate_next/
+---
 
 A palindrome is a whole number that's the same when read backward in base 10, such as 12321 or 9449.
 

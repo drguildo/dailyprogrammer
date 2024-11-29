@@ -1,4 +1,7 @@
-Title: [2017-07-07] Challenge #322 [Hard] Static HTTP Server
+---
+title: [2017-07-07] Challenge #322 [Hard] Static HTTP Server
+url: https://old.reddit.com/r/dailyprogrammer/comments/6lti17/20170707_challenge_322_hard_static_http_server/
+---
 
 # Description
 

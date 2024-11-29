@@ -1,4 +1,7 @@
-Title: [2015-07-10] Challenge #222 [Hard] Customer Unit Delivery Scheduling
+---
+title: [2015-07-10] Challenge #222 [Hard] Customer Unit Delivery Scheduling
+url: https://old.reddit.com/r/dailyprogrammer/comments/3cqxuh/20150710_challenge_222_hard_customer_unit/
+---
 
 # Description
 

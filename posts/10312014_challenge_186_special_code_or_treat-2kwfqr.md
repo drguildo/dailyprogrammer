@@ -1,4 +1,7 @@
-Title: [10/31/2014] Challenge #186 [Special] Code or Treat - Halloween 2014
+---
+title: [10/31/2014] Challenge #186 [Special] Code or Treat - Halloween 2014
+url: https://old.reddit.com/r/dailyprogrammer/comments/2kwfqr/10312014_challenge_186_special_code_or_treat/
+---
 
 #Description:
 

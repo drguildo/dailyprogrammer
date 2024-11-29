@@ -1,4 +1,7 @@
-Title: [4/14/2014] Challenge #158 [Easy] The Torn Number
+---
+title: [4/14/2014] Challenge #158 [Easy] The Torn Number
+url: https://old.reddit.com/r/dailyprogrammer/comments/230m05/4142014_challenge_158_easy_the_torn_number/
+---
 
 #Description:
 

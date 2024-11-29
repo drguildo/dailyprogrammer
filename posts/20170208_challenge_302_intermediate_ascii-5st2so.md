@@ -1,4 +1,7 @@
-Title: [2017-02-08] Challenge #302 [Intermediate] ASCII Histogram Maker: Part 1 - The Simple Bar Chart
+---
+title: [2017-02-08] Challenge #302 [Intermediate] ASCII Histogram Maker: Part 1 - The Simple Bar Chart
+url: https://old.reddit.com/r/dailyprogrammer/comments/5st2so/20170208_challenge_302_intermediate_ascii/
+---
 
 # Description
 

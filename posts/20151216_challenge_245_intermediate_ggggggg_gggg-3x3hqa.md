@@ -1,4 +1,7 @@
-Title: [2015-12-16] Challenge #245 [Intermediate] Ggggggg gggg Ggggg-ggggg!
+---
+title: [2015-12-16] Challenge #245 [Intermediate] Ggggggg gggg Ggggg-ggggg!
+url: https://old.reddit.com/r/dailyprogrammer/comments/3x3hqa/20151216_challenge_245_intermediate_ggggggg_gggg/
+---
 
 We have discovered a new species of aliens! They look like [this](https://www.redditstatic.com/about/assets/reddit-alien.png) and are trying to communicate with us using the /r/ggggg subreddit! As you might have been able to tell, though, it is awfully hard to understand what they're saying since their super-advanced alphabet only makes use of two letters: "g" and "G". Fortunately, their numbers, spacing and punctuation are the same.
 

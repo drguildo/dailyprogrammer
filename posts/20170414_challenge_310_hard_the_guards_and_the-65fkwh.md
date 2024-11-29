@@ -1,4 +1,7 @@
-Title: [2017-04-14] Challenge #310 [Hard] The Guards and the Mansion
+---
+title: [2017-04-14] Challenge #310 [Hard] The Guards and the Mansion
+url: https://old.reddit.com/r/dailyprogrammer/comments/65fkwh/20170414_challenge_310_hard_the_guards_and_the/
+---
 
 # Description
 

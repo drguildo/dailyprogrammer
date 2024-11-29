@@ -1,4 +1,7 @@
-Title: [2018-05-16] Challenge #361 [Intermediate] ElsieFour low-tech cipher
+---
+title: [2018-05-16] Challenge #361 [Intermediate] ElsieFour low-tech cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/8jvbzg/20180516_challenge_361_intermediate_elsiefour/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [2017-12-22] Challenge #345 [Hard] 2D Triangle Mesh Generator
+---
+title: [2017-12-22] Challenge #345 [Hard] 2D Triangle Mesh Generator
+url: https://old.reddit.com/r/dailyprogrammer/comments/7ljqhl/20171222_challenge_345_hard_2d_triangle_mesh/
+---
 
 
 #Description

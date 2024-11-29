@@ -1,4 +1,7 @@
-Title: [11/11/13] Challenge #141 [Easy] Checksums
+---
+title: [11/11/13] Challenge #141 [Easy] Checksums
+url: https://old.reddit.com/r/dailyprogrammer/comments/1qwkdz/111113_challenge_141_easy_checksums/
+---
 
 # [](#EasyIcon) *(Easy)*: Checksums
 

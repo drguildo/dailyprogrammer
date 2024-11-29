@@ -1,4 +1,7 @@
-Title: [4/04/2014] Challenge #156 [Hard] uʍop ǝpᴉsd∩ ƃuᴉɥʇǝɯos ɹoɟ ʍoN
+---
+title: [4/04/2014] Challenge #156 [Hard] uʍop ǝpᴉsd∩ ƃuᴉɥʇǝɯos ɹoɟ ʍoN
+url: https://old.reddit.com/r/dailyprogrammer/comments/226zqp/4042014_challenge_156_hard_uʍop_ǝpᴉsd_ƃuᴉɥʇǝɯos/
+---
 
 #Title: Now for Something Upside down
 

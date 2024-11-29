@@ -1,4 +1,7 @@
-Title: [05/06/13] Challenge #124 [Easy] Edge Sorting
+---
+title: [05/06/13] Challenge #124 [Easy] Edge Sorting
+url: https://old.reddit.com/r/dailyprogrammer/comments/1dsyrk/050613_challenge_124_easy_edge_sorting/
+---
 
 # [](#EasyIcon) *(Easy)*: Edge Sorting
 In [graph theory](http://en.wikipedia.org/wiki/Graph_theory), an "edge" is defined as the connection between two vertices. For example, if we look at the [sample graph](http://en.wikipedia.org/wiki/File:6n-graf.svg) on the Wikipedia article, we would define the relationship between vertex 4 and 6 as having an edge, but vertices 5 and 3 have no edge (though they are connected, through {5,4,3} or {5,2,3,} and a few others)

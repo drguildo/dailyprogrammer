@@ -1,4 +1,7 @@
-Title: [8/20/2012] Challenge #89 [difficult] (Coloring the United States of America)
+---
+title: [8/20/2012] Challenge #89 [difficult] (Coloring the United States of America)
+url: https://old.reddit.com/r/dailyprogrammer/comments/yj38u/8202012_challenge_89_difficult_coloring_the/
+---
 
 On wikipedia, you can find [this lovely blank map](http://en.wikipedia.org/wiki/File:Blank_US_Map.svg) of the United States. What makes it so lovely? Well, first off all, it's in the [SVG format](http://en.wikipedia.org/wiki/File:Blank_US_Map.svg), which means that you can download it and edit it quite easily, even with a computer program you write yourself (SVG is nothing but XML, after all).
 

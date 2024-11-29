@@ -1,4 +1,7 @@
-Title: [2015-07-03] Challenge #221 [Hard] Poetry in a haystack
+---
+title: [2015-07-03] Challenge #221 [Hard] Poetry in a haystack
+url: https://old.reddit.com/r/dailyprogrammer/comments/3bzipa/20150703_challenge_221_hard_poetry_in_a_haystack/
+---
 
 #Description
 

@@ -1,4 +1,7 @@
-Title: [5/7/2012] Challenge #49 [difficult]
+---
+title: [5/7/2012] Challenge #49 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/tb2h7/572012_challenge_49_difficult/
+---
 
 When you roll two regular six-sided dice, the total number of pips that can come up ranges from 2 (if both dice show 1) to 12 (if both dice show 6), but as all experienced gamblers know, some numbers are more likely than others. In fact, the most likely number to come up is 7, with a probability of 1/6. By contrast, the probability of 12 showing is only 1/36, so it is six times more likely that the dice will show 7 than it is that they will show 12. 
 

@@ -1,4 +1,7 @@
-Title: [2019-02-13] Challenge #375 [Intermediate] A Card Flipping Game
+---
+title: [2019-02-13] Challenge #375 [Intermediate] A Card Flipping Game
+url: https://old.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/
+---
 
 
 # Description

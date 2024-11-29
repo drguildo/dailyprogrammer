@@ -1,4 +1,7 @@
-Title: [01/25/13] Challenge #118 [Hard] Alphabetizing cipher
+---
+title: [01/25/13] Challenge #118 [Hard] Alphabetizing cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/178vsz/012513_challenge_118_hard_alphabetizing_cipher/
+---
 
 
 # [](#HardIcon) *(Hard)*: Alphabetizing cipher

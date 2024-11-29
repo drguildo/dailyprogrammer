@@ -1,4 +1,7 @@
-Title: [2015-10-23] Challenge #237 [Hard] Takuzu Solver
+---
+title: [2015-10-23] Challenge #237 [Hard] Takuzu Solver
+url: https://old.reddit.com/r/dailyprogrammer/comments/3pwf17/20151023_challenge_237_hard_takuzu_solver/
+---
 
 # Description
 

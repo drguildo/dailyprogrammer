@@ -1,4 +1,7 @@
-Title: [2016-06-01] Challenge #269 [Intermediate] Mirror encryption
+---
+title: [2016-06-01] Challenge #269 [Intermediate] Mirror encryption
+url: https://old.reddit.com/r/dailyprogrammer/comments/4m3ddb/20160601_challenge_269_intermediate_mirror/
+---
 
 #Description
 

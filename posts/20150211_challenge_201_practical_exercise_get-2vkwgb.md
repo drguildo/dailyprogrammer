@@ -1,4 +1,7 @@
-Title: [2015-02-11] Challenge #201 [Practical Exercise] Get Your Priorities Right!
+---
+title: [2015-02-11] Challenge #201 [Practical Exercise] Get Your Priorities Right!
+url: https://old.reddit.com/r/dailyprogrammer/comments/2vkwgb/20150211_challenge_201_practical_exercise_get/
+---
 
 # [](#PEIcon) **(Practical Exercise)**: Get Your Priorities Right!
 

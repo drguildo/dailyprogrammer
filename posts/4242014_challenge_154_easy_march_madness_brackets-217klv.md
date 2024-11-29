@@ -1,4 +1,7 @@
-Title: [4/24/2014] Challenge #154 [Easy] March Madness Brackets
+---
+title: [4/24/2014] Challenge #154 [Easy] March Madness Brackets
+url: https://old.reddit.com/r/dailyprogrammer/comments/217klv/4242014_challenge_154_easy_march_madness_brackets/
+---
 
 # **Description:**
 It is that time of year again when across some of the lands you hear about March Madness and NCAA Basketball. People ask about your brackets and how you are doing in your predictions. Of course to those of us who perform the art of coding we always get a bit confused by this. 

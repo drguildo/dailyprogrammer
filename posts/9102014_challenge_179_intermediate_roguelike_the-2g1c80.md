@@ -1,4 +1,7 @@
-Title: [9/10/2014] Challenge #179 [Intermediate] Roguelike - The traveller Game
+---
+title: [9/10/2014] Challenge #179 [Intermediate] Roguelike - The traveller Game
+url: https://old.reddit.com/r/dailyprogrammer/comments/2g1c80/9102014_challenge_179_intermediate_roguelike_the/
+---
 
 #Description:
 

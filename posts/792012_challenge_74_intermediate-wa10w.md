@@ -1,4 +1,7 @@
-Title: [7/9/2012] Challenge #74 [intermediate]
+---
+title: [7/9/2012] Challenge #74 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/wa10w/792012_challenge_74_intermediate/
+---
 
 In [his paper describing the so-called "Dancing Links" algorithm](http://arxiv.org/abs/cs/0011047) for solving exact cover problems (press the PDF link to see the full paper), Donald Knuth describes a rather fascinating data-structure, basically a [sparse binary matrix](http://en.wikipedia.org/wiki/Sparse_matrix) implemented using [doubly linked lists](http://en.wikipedia.org/wiki/Linked_list#Singly.2C_doubly.2C_and_multiply_linked_lists). The linked lists are two-dimensional, so instead of just having "left" and "right" links, it has "up" and "down" links as well). 
 

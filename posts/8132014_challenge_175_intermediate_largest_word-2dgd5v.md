@@ -1,4 +1,7 @@
-Title: [8/13/2014] Challenge #175 [Intermediate] Largest Word from Characters
+---
+title: [8/13/2014] Challenge #175 [Intermediate] Largest Word from Characters
+url: https://old.reddit.com/r/dailyprogrammer/comments/2dgd5v/8132014_challenge_175_intermediate_largest_word/
+---
 
 #Description:
 

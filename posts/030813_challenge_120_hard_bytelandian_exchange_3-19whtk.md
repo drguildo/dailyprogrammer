@@ -1,4 +1,7 @@
-Title: [03/08/13] Challenge #120 [Hard] Bytelandian Exchange 3
+---
+title: [03/08/13] Challenge #120 [Hard] Bytelandian Exchange 3
+url: https://old.reddit.com/r/dailyprogrammer/comments/19whtk/030813_challenge_120_hard_bytelandian_exchange_3/
+---
 
 
 # [](#HardIcon) *(Hard)*: Bytelandian Exchange 3

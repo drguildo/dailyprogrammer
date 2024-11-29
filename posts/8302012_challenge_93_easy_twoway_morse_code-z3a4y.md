@@ -1,5 +1,8 @@
-Title: [8/30/2012] Challenge #93 [easy] (Two-Way Morse Code Translator)
+---
+title: [8/30/2012] Challenge #93 [easy] (Two-Way Morse Code Translator)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/z3a4y/8302012_challenge_93_easy_twoway_morse_code/
+---
 
 This challenge courtesy of user [nagasgura](http://www.reddit.com/user/nagasgura)
 

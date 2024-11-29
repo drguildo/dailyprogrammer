@@ -1,4 +1,7 @@
-Title: [2018-07-13] Challenge #365 [Hard] Tessellations and Tilings
+---
+title: [2018-07-13] Challenge #365 [Hard] Tessellations and Tilings
+url: https://old.reddit.com/r/dailyprogrammer/comments/8ylltu/20180713_challenge_365_hard_tessellations_and/
+---
 
 # Description
 

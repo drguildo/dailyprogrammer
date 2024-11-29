@@ -1,4 +1,7 @@
-Title: [2016-09-28] Challenge #285 [Intermediate] Cross Platform/Language Data Encoding part 2
+---
+title: [2016-09-28] Challenge #285 [Intermediate] Cross Platform/Language Data Encoding part 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/54wihd/20160928_challenge_285_intermediate_cross/
+---
 
 The goal of this challenge is to encode and decode records in a compact and/or efficient self contained manner.  Because the more I type, the more confusing the challenge is interpreted, I will avoid discussing process as much as I can.
 

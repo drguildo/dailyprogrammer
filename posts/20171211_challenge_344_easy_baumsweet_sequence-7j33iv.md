@@ -1,4 +1,7 @@
-Title: [2017-12-11] Challenge #344 [Easy] Baum-Sweet Sequence
+---
+title: [2017-12-11] Challenge #344 [Easy] Baum-Sweet Sequence
+url: https://old.reddit.com/r/dailyprogrammer/comments/7j33iv/20171211_challenge_344_easy_baumsweet_sequence/
+---
 
 # Description
 

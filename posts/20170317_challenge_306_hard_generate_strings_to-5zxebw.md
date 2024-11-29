@@ -1,4 +1,7 @@
-Title: [2017-03-17] Challenge #306 [Hard] Generate Strings to Match a Regular Expression
+---
+title: [2017-03-17] Challenge #306 [Hard] Generate Strings to Match a Regular Expression
+url: https://old.reddit.com/r/dailyprogrammer/comments/5zxebw/20170317_challenge_306_hard_generate_strings_to/
+---
 
 # Description
 

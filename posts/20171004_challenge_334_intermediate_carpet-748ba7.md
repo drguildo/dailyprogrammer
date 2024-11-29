@@ -1,4 +1,7 @@
-Title: [2017-10-04] Challenge #334 [Intermediate] Carpet Fractals
+---
+title: [2017-10-04] Challenge #334 [Intermediate] Carpet Fractals
+url: https://old.reddit.com/r/dailyprogrammer/comments/748ba7/20171004_challenge_334_intermediate_carpet/
+---
 
 # Description
 

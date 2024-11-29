@@ -1,4 +1,7 @@
-Title: [Weekly #15] Architectural Patterns
+---
+title: [Weekly #15] Architectural Patterns
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ki6mt/weekly_15_architectural_patterns/
+---
 
 Let's say you're taking on a larger project than usual. It spans multiple files/namespaces and requires a large variety of different components to all slot in together. What approach do you take?
 

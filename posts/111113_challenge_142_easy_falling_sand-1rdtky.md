@@ -1,4 +1,7 @@
-Title: [11/11/13] Challenge #142 [Easy] Falling Sand
+---
+title: [11/11/13] Challenge #142 [Easy] Falling Sand
+url: https://old.reddit.com/r/dailyprogrammer/comments/1rdtky/111113_challenge_142_easy_falling_sand/
+---
 
 # [](#EasyIcon) *(Easy)*: Falling Sand
 

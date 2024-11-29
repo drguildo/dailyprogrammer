@@ -1,4 +1,7 @@
-Title: [2015-06-17] Challenge #219 [Intermediate] To-do list (Part 2)
+---
+title: [2015-06-17] Challenge #219 [Intermediate] To-do list (Part 2)
+url: https://old.reddit.com/r/dailyprogrammer/comments/3a64hq/20150617_challenge_219_intermediate_todo_list/
+---
 
 #Description
 

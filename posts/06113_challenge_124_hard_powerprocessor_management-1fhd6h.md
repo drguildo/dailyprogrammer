@@ -1,4 +1,7 @@
-Title: [06/1/13] Challenge #124 [Hard] Power-Processor Management
+---
+title: [06/1/13] Challenge #124 [Hard] Power-Processor Management
+url: https://old.reddit.com/r/dailyprogrammer/comments/1fhd6h/06113_challenge_124_hard_powerprocessor_management/
+---
 
 # [](#HardIcon) *(Hard)*: Power-Processor Management
 

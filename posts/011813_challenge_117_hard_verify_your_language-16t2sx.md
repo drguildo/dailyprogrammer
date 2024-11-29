@@ -1,4 +1,7 @@
-Title: [01/18/13] Challenge #117 [Hard] Verify Your Language!
+---
+title: [01/18/13] Challenge #117 [Hard] Verify Your Language!
+url: https://old.reddit.com/r/dailyprogrammer/comments/16t2sx/011813_challenge_117_hard_verify_your_language/
+---
 
 # [](#HardIcon) *(Hard)*: Verify Your Language!
 [Context-free grammar](http://en.wikipedia.org/wiki/Context-free_grammar) is a tool heavily used in programming language design, verification, compiling, and execution. It is, essentially, a formal language used to define a grammar (i.e. another language). CFG are "more powerful" (in that they can verify more complex languages) than other grammars, such as regular-expressions.

@@ -1,4 +1,7 @@
-Title: [6/2/2014] Challenge #165 [Easy] ASCII Game of Life
+---
+title: [6/2/2014] Challenge #165 [Easy] ASCII Game of Life
+url: https://old.reddit.com/r/dailyprogrammer/comments/271xyp/622014_challenge_165_easy_ascii_game_of_life/
+---
 
 # [](#EasyIcon) _(Easy)_: ASCII Game of Life
 

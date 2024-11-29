@@ -1,4 +1,7 @@
-Title: [2018-06-15] Challenge #363 [Hard] Anagram Slices
+---
+title: [2018-06-15] Challenge #363 [Hard] Anagram Slices
+url: https://old.reddit.com/r/dailyprogrammer/comments/8rcjx0/20180615_challenge_363_hard_anagram_slices/
+---
 
 (Warning: I have not tried this myself and I have no idea if it's any fun.)
 

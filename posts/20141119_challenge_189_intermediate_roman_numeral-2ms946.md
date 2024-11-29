@@ -1,4 +1,7 @@
-Title: [2014-11-19] Challenge #189 [Intermediate] Roman Numeral Conversion
+---
+title: [2014-11-19] Challenge #189 [Intermediate] Roman Numeral Conversion
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ms946/20141119_challenge_189_intermediate_roman_numeral/
+---
 
 Your friend is an anthropology major who is studying roman history. They have never been able to quite get a handle for roman numerals and how to read them, so they've asked you to come up with a simple program that will let them input some numbers and return roman numerals, as well as the opposite, to input roman numerals and return base-10 numbers. They are bribing you with Indiana Jones memorabilia, so you are totally up for the challenge!
 

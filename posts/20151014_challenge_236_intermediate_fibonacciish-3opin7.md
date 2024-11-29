@@ -1,4 +1,7 @@
-Title: [2015-10-14] Challenge #236 [Intermediate] Fibonacci-ish Sequence
+---
+title: [2015-10-14] Challenge #236 [Intermediate] Fibonacci-ish Sequence
+url: https://old.reddit.com/r/dailyprogrammer/comments/3opin7/20151014_challenge_236_intermediate_fibonacciish/
+---
 
 # Description
 

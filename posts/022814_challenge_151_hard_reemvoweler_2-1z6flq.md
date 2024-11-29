@@ -1,4 +1,7 @@
-Title: [02/28/14] Challenge #151 [Hard] Re-emvoweler 2
+---
+title: [02/28/14] Challenge #151 [Hard] Re-emvoweler 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/1z6flq/022814_challenge_151_hard_reemvoweler_2/
+---
 
 # _(Hard)_: Re-emvoweler 2
 

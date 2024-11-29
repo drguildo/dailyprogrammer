@@ -1,4 +1,7 @@
-Title: [11/14/2012] Challenge #112 [Intermediate]Date Sorting
+---
+title: [11/14/2012] Challenge #112 [Intermediate]Date Sorting
+url: https://old.reddit.com/r/dailyprogrammer/comments/137f87/11142012_challenge_112_intermediatedate_sorting/
+---
 
 **Description:**
 

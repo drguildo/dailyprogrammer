@@ -1,4 +1,7 @@
-Title: [2021-07-12] Challenge #398 [Difficult] Matrix Sum
+---
+title: [2021-07-12] Challenge #398 [Difficult] Matrix Sum
+url: https://old.reddit.com/r/dailyprogrammer/comments/oirb5v/20210712_challenge_398_difficult_matrix_sum/
+---
 
 # Example
 

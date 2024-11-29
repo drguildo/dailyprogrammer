@@ -1,4 +1,7 @@
-Title: [2021-05-17] Challenge #390 [Difficult] Number of 1's
+---
+title: [2021-05-17] Challenge #390 [Difficult] Number of 1's
+url: https://old.reddit.com/r/dailyprogrammer/comments/neg49j/20210517_challenge_390_difficult_number_of_1s/
+---
 
 # Warmup
 

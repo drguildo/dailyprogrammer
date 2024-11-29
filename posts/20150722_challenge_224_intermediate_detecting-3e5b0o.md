@@ -1,4 +1,7 @@
-Title: [2015-07-22] Challenge #224 [Intermediate] Detecting Four Sided Figures
+---
+title: [2015-07-22] Challenge #224 [Intermediate] Detecting Four Sided Figures
+url: https://old.reddit.com/r/dailyprogrammer/comments/3e5b0o/20150722_challenge_224_intermediate_detecting/
+---
 
 # Description
 

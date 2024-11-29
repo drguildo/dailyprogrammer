@@ -1,4 +1,7 @@
-Title: [9/03/2012] Challenge #95 [intermediate] (Filler text)
+---
+title: [9/03/2012] Challenge #95 [intermediate] (Filler text)
+url: https://old.reddit.com/r/dailyprogrammer/comments/za9tu/9032012_challenge_95_intermediate_filler_text/
+---
 
 Your intermediate task today is to write a function that can create "filler text", i.e. text that doesn't actually mean anything, but from a distance could plausibly look like a real language. This is very useful, for instance, if you're a designer and want to see what a design would look like with text in it, but you don't actually want to write the text yourself. 
 

@@ -1,4 +1,7 @@
-Title: [2015-02-02] Challenge #200 [Easy] Flood-Fill
+---
+title: [2015-02-02] Challenge #200 [Easy] Flood-Fill
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ug3hx/20150202_challenge_200_easy_floodfill/
+---
 
 # [](#EasyIcon) _(Easy)_: Flood-Fill
 

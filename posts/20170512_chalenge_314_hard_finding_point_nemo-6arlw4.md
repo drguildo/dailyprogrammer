@@ -1,4 +1,7 @@
-Title: [2017-05-12] Chalenge #314 [Hard] Finding Point Nemo
+---
+title: [2017-05-12] Chalenge #314 [Hard] Finding Point Nemo
+url: https://old.reddit.com/r/dailyprogrammer/comments/6arlw4/20170512_chalenge_314_hard_finding_point_nemo/
+---
 
 # Description
 

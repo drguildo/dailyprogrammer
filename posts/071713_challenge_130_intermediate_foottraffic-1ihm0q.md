@@ -1,4 +1,7 @@
-Title: [07/17/13] Challenge #130 [Intermediate] Foot-Traffic Generator
+---
+title: [07/17/13] Challenge #130 [Intermediate] Foot-Traffic Generator
+url: https://old.reddit.com/r/dailyprogrammer/comments/1ihm0q/071713_challenge_130_intermediate_foottraffic/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Foot-Traffic Generator
 

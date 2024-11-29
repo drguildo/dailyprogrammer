@@ -1,4 +1,7 @@
-Title: [2015-02-06] Challenge #200 [Hard] Box in a Box
+---
+title: [2015-02-06] Challenge #200 [Hard] Box in a Box
+url: https://old.reddit.com/r/dailyprogrammer/comments/2v0tx4/20150206_challenge_200_hard_box_in_a_box/
+---
 
 #Description:
 

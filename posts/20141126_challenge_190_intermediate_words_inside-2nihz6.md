@@ -1,4 +1,7 @@
-Title: [2014-11-26] Challenge #190 [Intermediate] Words inside of words
+---
+title: [2014-11-26] Challenge #190 [Intermediate] Words inside of words
+url: https://old.reddit.com/r/dailyprogrammer/comments/2nihz6/20141126_challenge_190_intermediate_words_inside/
+---
 
 #Description
 

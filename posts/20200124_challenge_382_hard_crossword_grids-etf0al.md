@@ -1,4 +1,7 @@
-Title: [2020-01-24] Challenge #382 [Hard] Crossword grids
+---
+title: [2020-01-24] Challenge #382 [Hard] Crossword grids
+url: https://old.reddit.com/r/dailyprogrammer/comments/etf0al/20200124_challenge_382_hard_crossword_grids/
+---
 
 Given the numbering of a crossword puzzle's clues, find its grid.
 

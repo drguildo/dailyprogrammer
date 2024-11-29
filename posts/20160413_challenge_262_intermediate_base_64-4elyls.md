@@ -1,4 +1,7 @@
-Title: [2016-04-13] Challenge #262 [Intermediate] Base 64 compression
+---
+title: [2016-04-13] Challenge #262 [Intermediate] Base 64 compression
+url: https://old.reddit.com/r/dailyprogrammer/comments/4elyls/20160413_challenge_262_intermediate_base_64/
+---
 
 You have probably heard of base 64 encoding.  Bytes (256 range of values) are encoded in 6 bits (but not compressed), where the primary aim is to encode data over a text (non-binary) channel.
 

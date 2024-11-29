@@ -1,4 +1,7 @@
-Title: [12/1/13] Challenge #139 [Intermediate] Telephone Keypads
+---
+title: [12/1/13] Challenge #139 [Intermediate] Telephone Keypads
+url: https://old.reddit.com/r/dailyprogrammer/comments/1sody4/12113_challenge_139_intermediate_telephone_keypads/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Telephone Keypads
 

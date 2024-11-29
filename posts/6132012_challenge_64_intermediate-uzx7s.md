@@ -1,4 +1,7 @@
-Title: [6/13/2012] Challenge #64 [intermediate]
+---
+title: [6/13/2012] Challenge #64 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/uzx7s/6132012_challenge_64_intermediate/
+---
 
 Find the longest palindrome in the following 1169-character string:
 

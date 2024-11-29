@@ -1,4 +1,7 @@
-Title: [Weekly #23] Computational Complexity and Algorithm Design
+---
+title: [Weekly #23] Computational Complexity and Algorithm Design
+url: https://old.reddit.com/r/dailyprogrammer/comments/36iufn/weekly_23_computational_complexity_and_algorithm/
+---
 
 # [](#WeeklyIcon) Dynamic Programming and Algorithm Design
 

@@ -1,4 +1,7 @@
-Title: [2017-05-22] Challenge #316 [Easy] Knight's Metric
+---
+title: [2017-05-22] Challenge #316 [Easy] Knight's Metric
+url: https://old.reddit.com/r/dailyprogrammer/comments/6coqwk/20170522_challenge_316_easy_knights_metric/
+---
 
 # Description
 

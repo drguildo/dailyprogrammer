@@ -1,4 +1,7 @@
-Title: [08/13/13] Challenge #137 [Easy] String Transposition
+---
+title: [08/13/13] Challenge #137 [Easy] String Transposition
+url: https://old.reddit.com/r/dailyprogrammer/comments/1m1jam/081313_challenge_137_easy_string_transposition/
+---
 
 # [](#EasyIcon) *(Easy)*: String Transposition
 

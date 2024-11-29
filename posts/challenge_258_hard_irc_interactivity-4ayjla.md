@@ -1,4 +1,7 @@
-Title: Challenge #258 [Hard] IRC: Interactivity
+---
+title: Challenge #258 [Hard] IRC: Interactivity
+url: https://old.reddit.com/r/dailyprogrammer/comments/4ayjla/challenge_258_hard_irc_interactivity/
+---
 
 # Description
 

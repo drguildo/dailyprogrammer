@@ -1,4 +1,7 @@
-Title: [2018-11-26] Challenge #369 [Easy] Hex colors
+---
+title: [2018-11-26] Challenge #369 [Easy] Hex colors
+url: https://old.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/
+---
 
 # Background
 

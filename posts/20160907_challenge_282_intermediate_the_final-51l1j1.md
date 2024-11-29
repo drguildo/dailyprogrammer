@@ -1,4 +1,7 @@
-Title: [2016-09-07] Challenge #282 [Intermediate] The final Quixo move
+---
+title: [2016-09-07] Challenge #282 [Intermediate] The final Quixo move
+url: https://old.reddit.com/r/dailyprogrammer/comments/51l1j1/20160907_challenge_282_intermediate_the_final/
+---
 
 #Description
 

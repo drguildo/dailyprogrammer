@@ -1,4 +1,7 @@
-Title: [2016-10-24] Challenge #289 [Easy] It's super effective!
+---
+title: [2016-10-24] Challenge #289 [Easy] It's super effective!
+url: https://old.reddit.com/r/dailyprogrammer/comments/5961a5/20161024_challenge_289_easy_its_super_effective/
+---
 
 # Description
 In the popular Pokémon games all moves and Pokémons have types that determine how effective certain moves are against certain Pokémons.

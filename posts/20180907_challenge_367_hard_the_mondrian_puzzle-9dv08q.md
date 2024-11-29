@@ -1,4 +1,7 @@
-Title: [2018-09-07] Challenge #367 [Hard] The Mondrian Puzzle
+---
+title: [2018-09-07] Challenge #367 [Hard] The Mondrian Puzzle
+url: https://old.reddit.com/r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/
+---
 
 # Description
 

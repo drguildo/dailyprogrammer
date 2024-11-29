@@ -1,4 +1,7 @@
-Title: [4/9/2014] Challenge #157 [Intermediate] Puzzle Cube Simulator
+---
+title: [4/9/2014] Challenge #157 [Intermediate] Puzzle Cube Simulator
+url: https://old.reddit.com/r/dailyprogrammer/comments/22k8hu/492014_challenge_157_intermediate_puzzle_cube/
+---
 
 # [](#IntermediateIcon) _(Intermediate)_: Puzzle Cube Simulator
 

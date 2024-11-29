@@ -1,4 +1,7 @@
-Title: [5/23/2014] Challenge #163 [Hard] Intersecting Lines in 2-D space
+---
+title: [5/23/2014] Challenge #163 [Hard] Intersecting Lines in 2-D space
+url: https://old.reddit.com/r/dailyprogrammer/comments/26b42x/5232014_challenge_163_hard_intersecting_lines_in/
+---
 
 #Descripton:
 

@@ -1,4 +1,7 @@
-Title: [7/14/2014] Challenge #171 [Easy] Hex to 8x8 Bitmap
+---
+title: [7/14/2014] Challenge #171 [Easy] Hex to 8x8 Bitmap
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/
+---
 
 #Description:
 

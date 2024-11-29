@@ -1,4 +1,7 @@
-Title: [2016-07-18] Challenge #276 [Easy] Recktangles
+---
+title: [2016-07-18] Challenge #276 [Easy] Recktangles
+url: https://old.reddit.com/r/dailyprogrammer/comments/4tetif/20160718_challenge_276_easy_recktangles/
+---
 
 #Description
 

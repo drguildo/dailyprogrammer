@@ -1,4 +1,7 @@
-Title: [8/20/2012] Challenge #89 [intermediate] (Printing strings in Brainf***)'
+---
+title: [8/20/2012] Challenge #89 [intermediate] (Printing strings in Brainf***)'
+url: https://old.reddit.com/r/dailyprogrammer/comments/yj32c/8202012_challenge_89_intermediate_printing/
+---
 
 [A while ago](http://www.reddit.com/r/dailyprogrammer/comments/ti5ji/5112012_challenge_51_intermediate/) we had some fun with the very peculiar [Brainfuck programming language](http://en.wikipedia.org/wiki/Brainfuck), which (despite its limited set of commands and character set) is actually Turing complete, meaning that any computation you can do in any other programming language, you can do in Brainfuck.
 

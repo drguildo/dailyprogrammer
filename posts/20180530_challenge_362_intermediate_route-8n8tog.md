@@ -1,4 +1,7 @@
-Title: [2018-05-30] Challenge #362 [Intermediate] "Route" Transposition Cipher
+---
+title: [2018-05-30] Challenge #362 [Intermediate] "Route" Transposition Cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/8n8tog/20180530_challenge_362_intermediate_route/
+---
 
 
 # Description

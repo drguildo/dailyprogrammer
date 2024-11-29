@@ -1,4 +1,7 @@
-Title: [12/18/13] Challenge #140 [Intermediate] Adjacency Matrix
+---
+title: [12/18/13] Challenge #140 [Intermediate] Adjacency Matrix
+url: https://old.reddit.com/r/dailyprogrammer/comments/1t6dlf/121813_challenge_140_intermediate_adjacency_matrix/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Adjacency Matrix
 

@@ -1,4 +1,7 @@
-Title: [2016-04-22] Challenge #263 [Hard] Hashiwokakero
+---
+title: [2016-04-22] Challenge #263 [Hard] Hashiwokakero
+url: https://old.reddit.com/r/dailyprogrammer/comments/4fyjlu/20160422_challenge_263_hard_hashiwokakero/
+---
 
 # Description
 

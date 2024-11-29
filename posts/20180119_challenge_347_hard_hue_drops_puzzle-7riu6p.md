@@ -1,4 +1,7 @@
-Title: [2018-01-19] Challenge #347 [Hard] Hue Drops Puzzle
+---
+title: [2018-01-19] Challenge #347 [Hard] Hue Drops Puzzle
+url: https://old.reddit.com/r/dailyprogrammer/comments/7riu6p/20180119_challenge_347_hard_hue_drops_puzzle/
+---
 
 # Description
 

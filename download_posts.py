@@ -35,6 +35,7 @@ def main():
             post_data = post['data']
             post_id = post_data['id']
             post_title = post_data['title']
+            post_url = post_data['url']
             post_body = post_data['selftext']
             post_permalink = post_data['permalink'].split('/')[-2]
 
@@ -43,7 +44,10 @@ def main():
             # Create a file for each post
             post_filename = f'{post_permalink}-{post_id}.md'
             with open(f'{dir_name}/{post_filename}', 'w', encoding='utf-8') as file:
-                file.write(f"Title: {post_title}\n\n")
+                file.write(f"---\n")
+                file.write(f"title: {post_title}\n")
+                file.write(f"url: {post_url}\n")
+                file.write(f"---\n\n")
                 file.write(html.unescape(post_body))
 
         after = data['after']

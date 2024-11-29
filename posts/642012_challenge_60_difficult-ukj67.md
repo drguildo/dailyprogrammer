@@ -1,4 +1,7 @@
-Title: [6/4/2012] Challenge #60 [difficult]
+---
+title: [6/4/2012] Challenge #60 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/ukj67/642012_challenge_60_difficult/
+---
 
 The basic idea of RSA starts with two large prime numbers of equal bit-length, p and q; their product n becomes the modulus of the cryptosystem. The totient of n is computed as φ(pq) = (p−1) × (q−1). Then two keys are chosen, the encryption key e and the decryption key d, such that de ≡ 1 (mod φ(pq)) and gcd(e, φ(pq)) = 1. Then, given a message m, an integer on the range 0 < m <n, the message is encrypted by computing m^e (mod n) and the resulting cipher-text c is decrypted by computing c^d (mod n).
 

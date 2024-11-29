@@ -1,4 +1,7 @@
-Title: [11/6/2012] Challenge #111 [Easy] Star delete
+---
+title: [11/6/2012] Challenge #111 [Easy] Star delete
+url: https://old.reddit.com/r/dailyprogrammer/comments/12qi5b/1162012_challenge_111_easy_star_delete/
+---
 
 Write a function that, given a string, removes from the string any `*` character, or any character that's one to the left or one to the right of a `*` character. Examples:
 

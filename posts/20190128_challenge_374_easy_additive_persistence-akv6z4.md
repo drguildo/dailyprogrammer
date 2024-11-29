@@ -1,4 +1,7 @@
-Title: [2019-01-28] Challenge #374 [Easy] Additive Persistence
+---
+title: [2019-01-28] Challenge #374 [Easy] Additive Persistence
+url: https://old.reddit.com/r/dailyprogrammer/comments/akv6z4/20190128_challenge_374_easy_additive_persistence/
+---
 
 # Description
 

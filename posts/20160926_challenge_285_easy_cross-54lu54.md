@@ -1,4 +1,7 @@
-Title: [2016-09-26] Challenge #285 [Easy] Cross Platform/Language Data Encoding part 1
+---
+title: [2016-09-26] Challenge #285 [Easy] Cross Platform/Language Data Encoding part 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/54lu54/20160926_challenge_285_easy_cross/
+---
 
 We will make a binary byte oriented encoding of data that is self describing and extensible, and aims to solve the following problems:
 

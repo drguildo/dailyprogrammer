@@ -1,4 +1,7 @@
-Title: [5/26/2014] Challenge #164 [Easy] Assemble this Scheme into Python
+---
+title: [5/26/2014] Challenge #164 [Easy] Assemble this Scheme into Python
+url: https://old.reddit.com/r/dailyprogrammer/comments/26ijiu/5262014_challenge_164_easy_assemble_this_scheme/
+---
 
 ##Description
 

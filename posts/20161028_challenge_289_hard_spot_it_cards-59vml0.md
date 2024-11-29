@@ -1,4 +1,7 @@
-Title: [2016-10-28] Challenge #289 [Hard] "Spot it!" cards generator
+---
+title: [2016-10-28] Challenge #289 [Hard] "Spot it!" cards generator
+url: https://old.reddit.com/r/dailyprogrammer/comments/59vml0/20161028_challenge_289_hard_spot_it_cards/
+---
 
 **Description**
 

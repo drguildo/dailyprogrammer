@@ -1,4 +1,7 @@
-Title: [7/30/2012] Challenge #83 [easy] (Long scale and short scale)
+---
+title: [7/30/2012] Challenge #83 [easy] (Long scale and short scale)
+url: https://old.reddit.com/r/dailyprogrammer/comments/xdwyb/7302012_challenge_83_easy_long_scale_and_short/
+---
 
 One of the most annoying and confusing differences between English and basically every other language in the world is that English uses a weird way to name very large numbers. 
 

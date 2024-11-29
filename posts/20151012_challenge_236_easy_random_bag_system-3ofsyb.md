@@ -1,4 +1,7 @@
-Title: [2015-10-12] Challenge #236 [Easy] Random Bag System
+---
+title: [2015-10-12] Challenge #236 [Easy] Random Bag System
+url: https://old.reddit.com/r/dailyprogrammer/comments/3ofsyb/20151012_challenge_236_easy_random_bag_system/
+---
 
 # Description  
 

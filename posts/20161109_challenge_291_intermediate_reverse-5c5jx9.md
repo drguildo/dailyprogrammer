@@ -1,4 +1,7 @@
-Title: [2016-11-09] Challenge #291 [Intermediate] Reverse Polish Notation Calculator
+---
+title: [2016-11-09] Challenge #291 [Intermediate] Reverse Polish Notation Calculator
+url: https://old.reddit.com/r/dailyprogrammer/comments/5c5jx9/20161109_challenge_291_intermediate_reverse/
+---
 
 A little while back we had a programming [challenge](https://www.reddit.com/r/dailyprogrammer/comments/2yquvm/20150311_challenge_205_intermediate_rpn/) to convert an infix expression (also known as "normal" math) to a postfix expression (also known as [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)). Today we'll do something a little different: We will write a calculator that takes RPN input, and outputs the result.
 

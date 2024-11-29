@@ -1,4 +1,7 @@
-Title: [5/28/2012] Challenge #58 [easy]
+---
+title: [5/28/2012] Challenge #58 [easy]
+url: https://old.reddit.com/r/dailyprogrammer/comments/u8jmi/5282012_challenge_58_easy/
+---
 
 As computer programmers are well aware, it can be very useful to write numbers using numerical bases other than the familiar base 10 notation we use in everyday life. In computer programming, [base 2](http://en.wikipedia.org/wiki/Binary_number) and [base 16](http://en.wikipedia.org/wiki/Hexadecimal) are especially handy. In base 2, the number 1234 becomes 10011010010 and in base 16 it becomes 4D2. 
 

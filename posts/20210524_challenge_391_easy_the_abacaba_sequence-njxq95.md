@@ -1,4 +1,7 @@
-Title: [2021-05-24] Challenge #391 [Easy] The ABACABA sequence
+---
+title: [2021-05-24] Challenge #391 [Easy] The ABACABA sequence
+url: https://old.reddit.com/r/dailyprogrammer/comments/njxq95/20210524_challenge_391_easy_the_abacaba_sequence/
+---
 
 # Background
 

@@ -1,4 +1,7 @@
-Title: [2015-03-02] Challenge #204 [Easy] Remembering your lines
+---
+title: [2015-03-02] Challenge #204 [Easy] Remembering your lines
+url: https://old.reddit.com/r/dailyprogrammer/comments/2xoxum/20150302_challenge_204_easy_remembering_your_lines/
+---
 
 #Description
 

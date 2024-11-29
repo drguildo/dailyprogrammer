@@ -1,4 +1,7 @@
-Title: [2017-10-26] Challenge #337 [Intermediate] Scrambled images
+---
+title: [2017-10-26] Challenge #337 [Intermediate] Scrambled images
+url: https://old.reddit.com/r/dailyprogrammer/comments/78twyd/20171026_challenge_337_intermediate_scrambled/
+---
 
 #Description
 

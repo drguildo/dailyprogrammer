@@ -1,4 +1,7 @@
-Title: [2015-12-14] Challenge # 245 [Easy] Date Dilemma
+---
+title: [2015-12-14] Challenge # 245 [Easy] Date Dilemma
+url: https://old.reddit.com/r/dailyprogrammer/comments/3wshp7/20151214_challenge_245_easy_date_dilemma/
+---
 
 # Description
 

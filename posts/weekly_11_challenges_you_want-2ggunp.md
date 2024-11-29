@@ -1,4 +1,7 @@
-Title: [Weekly #11] Challenges you want
+---
+title: [Weekly #11] Challenges you want
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ggunp/weekly_11_challenges_you_want/
+---
 
 #Weekly 11:
 

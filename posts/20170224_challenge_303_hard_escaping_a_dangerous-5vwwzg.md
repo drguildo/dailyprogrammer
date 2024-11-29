@@ -1,4 +1,7 @@
-Title: [2017-02-24] Challenge #303 [Hard] Escaping a dangerous maze
+---
+title: [2017-02-24] Challenge #303 [Hard] Escaping a dangerous maze
+url: https://old.reddit.com/r/dailyprogrammer/comments/5vwwzg/20170224_challenge_303_hard_escaping_a_dangerous/
+---
 
 **Description**
 

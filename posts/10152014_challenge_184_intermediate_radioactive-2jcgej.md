@@ -1,4 +1,7 @@
-Title: [10/15/2014] Challenge #184 [Intermediate] Radioactive Decay
+---
+title: [10/15/2014] Challenge #184 [Intermediate] Radioactive Decay
+url: https://old.reddit.com/r/dailyprogrammer/comments/2jcgej/10152014_challenge_184_intermediate_radioactive/
+---
 
 # [](#IntermediateIcon) **(Intermediate)**: Radioactive Decay
 

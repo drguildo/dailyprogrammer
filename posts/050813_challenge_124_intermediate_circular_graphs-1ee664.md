@@ -1,4 +1,7 @@
-Title: [05/08/13] Challenge #124 [Intermediate] Circular Graphs
+---
+title: [05/08/13] Challenge #124 [Intermediate] Circular Graphs
+url: https://old.reddit.com/r/dailyprogrammer/comments/1ee664/050813_challenge_124_intermediate_circular_graphs/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Circular Graphs
 

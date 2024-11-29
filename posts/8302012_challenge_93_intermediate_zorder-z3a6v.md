@@ -1,5 +1,8 @@
-Title: [8/30/2012] Challenge #93 [intermediate] (Z-Order Encryption)
+---
+title: [8/30/2012] Challenge #93 [intermediate] (Z-Order Encryption)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/z3a6v/8302012_challenge_93_intermediate_zorder/
+---
 
 Write a program that implements the following encryption scheme:
 

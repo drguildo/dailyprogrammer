@@ -1,5 +1,8 @@
-Title: [9/20/2012] Challenge #100 [intermediate] ("Bad" Word Filter)
+---
+title: [9/20/2012] Challenge #100 [intermediate] ("Bad" Word Filter)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/106gse/9202012_challenge_100_intermediate_bad_word_filter/
+---
 
 Write a program called 'censor' that takes in one argument on the command line.  This argument is the filename of a newline-separated wordlist of profanity such as
 

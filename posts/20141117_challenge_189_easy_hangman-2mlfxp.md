@@ -1,4 +1,7 @@
-Title: [2014-11-17] Challenge #189 [Easy] Hangman!
+---
+title: [2014-11-17] Challenge #189 [Easy] Hangman!
+url: https://old.reddit.com/r/dailyprogrammer/comments/2mlfxp/20141117_challenge_189_easy_hangman/
+---
 
 We all know the classic game hangman, today we'll be making it. With the wonderful bonus that we are programmers and we can make it as hard or as easy as we want. [here](http://www.joereynoldsaudio.com/wordlist.txt) is a wordlist to use if you don't already have one. That wordlist comprises of words spanning 3 - 15+ letter words in length so there is plenty of scope to make this interesting!
 

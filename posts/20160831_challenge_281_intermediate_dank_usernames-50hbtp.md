@@ -1,4 +1,7 @@
-Title: [2016-08-31] Challenge #281 [Intermediate] Dank usernames
+---
+title: [2016-08-31] Challenge #281 [Intermediate] Dank usernames
+url: https://old.reddit.com/r/dailyprogrammer/comments/50hbtp/20160831_challenge_281_intermediate_dank_usernames/
+---
 
 # Description
 

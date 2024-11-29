@@ -1,4 +1,7 @@
-Title: [2018-02-20] Challenge #352 [Easy] Making Imgur-style Links
+---
+title: [2018-02-20] Challenge #352 [Easy] Making Imgur-style Links
+url: https://old.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/
+---
 
 # Description
 

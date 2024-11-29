@@ -1,4 +1,7 @@
-Title: [2017-09-20] Challenge #332 [Intermediate] Training for Summiting Everest
+---
+title: [2017-09-20] Challenge #332 [Intermediate] Training for Summiting Everest
+url: https://old.reddit.com/r/dailyprogrammer/comments/71gbqj/20170920_challenge_332_intermediate_training_for/
+---
 
 # Description
 

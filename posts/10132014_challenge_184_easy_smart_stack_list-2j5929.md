@@ -1,4 +1,7 @@
-Title: [10/13/2014] Challenge #184 [Easy] Smart Stack List
+---
+title: [10/13/2014] Challenge #184 [Easy] Smart Stack List
+url: https://old.reddit.com/r/dailyprogrammer/comments/2j5929/10132014_challenge_184_easy_smart_stack_list/
+---
 
 #Description:
 

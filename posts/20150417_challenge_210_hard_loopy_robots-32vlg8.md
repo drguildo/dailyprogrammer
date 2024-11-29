@@ -1,4 +1,7 @@
-Title: [2015-04-17] Challenge #210 [Hard] Loopy Robots
+---
+title: [2015-04-17] Challenge #210 [Hard] Loopy Robots
+url: https://old.reddit.com/r/dailyprogrammer/comments/32vlg8/20150417_challenge_210_hard_loopy_robots/
+---
 
 
 # Description

@@ -1,4 +1,7 @@
-Title: [2017-12-08] Challenge #343 [Hard] Procedural music generation
+---
+title: [2017-12-08] Challenge #343 [Hard] Procedural music generation
+url: https://old.reddit.com/r/dailyprogrammer/comments/7ifbd5/20171208_challenge_343_hard_procedural_music/
+---
 
 Today we have an open-ended challenge: write a program to generate music. The goal, like [this week's Intermediate challenge](https://www.reddit.com/r/dailyprogrammer/comments/7i1ib1/20171206_challenge_343_intermediate_mozarts), is to create a piece of music that has never been written down or heard before, but taking it to the next level. Knowledge of music theory can be applied to this challenge, but it is not required.
 

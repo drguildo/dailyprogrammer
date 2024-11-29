@@ -1,4 +1,7 @@
-Title: [2019-02-01] Challenge #374 [Hard] Nonogram Solver
+---
+title: [2019-02-01] Challenge #374 [Hard] Nonogram Solver
+url: https://old.reddit.com/r/dailyprogrammer/comments/am1x6o/20190201_challenge_374_hard_nonogram_solver/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [2021-04-26] Challenge #387 [Easy] Caesar cipher
+---
+title: [2021-04-26] Challenge #387 [Easy] Caesar cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/myx3wn/20210426_challenge_387_easy_caesar_cipher/
+---
 
 # Warmup
 

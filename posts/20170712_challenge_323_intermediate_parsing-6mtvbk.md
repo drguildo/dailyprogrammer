@@ -1,4 +1,7 @@
-Title: [2017-07-12] Challenge #323 [Intermediate] Parsing Postal Addresses
+---
+title: [2017-07-12] Challenge #323 [Intermediate] Parsing Postal Addresses
+url: https://old.reddit.com/r/dailyprogrammer/comments/6mtvbk/20170712_challenge_323_intermediate_parsing/
+---
 
 # Description
 

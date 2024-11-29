@@ -1,4 +1,7 @@
-Title: [2017-05-01] Challenge #313 [Easy] Subset sum
+---
+title: [2017-05-01] Challenge #313 [Easy] Subset sum
+url: https://old.reddit.com/r/dailyprogrammer/comments/68oda5/20170501_challenge_313_easy_subset_sum/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [10/08/2014] Challenge #183 [Intermediate] Edge Matching Tile Puzzle
+---
+title: [10/08/2014] Challenge #183 [Intermediate] Edge Matching Tile Puzzle
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ip1gj/10082014_challenge_183_intermediate_edge_matching/
+---
 
 #Credit:
 

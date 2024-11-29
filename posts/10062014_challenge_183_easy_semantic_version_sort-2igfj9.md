@@ -1,4 +1,7 @@
-Title: [10/06/2014] Challenge #183 [Easy] Semantic Version Sort
+---
+title: [10/06/2014] Challenge #183 [Easy] Semantic Version Sort
+url: https://old.reddit.com/r/dailyprogrammer/comments/2igfj9/10062014_challenge_183_easy_semantic_version_sort/
+---
 
 # [](#EasyIcon) __(Easy)__: Semantic Version Sort
 

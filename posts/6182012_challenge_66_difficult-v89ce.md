@@ -1,4 +1,7 @@
-Title: [6/18/2012] Challenge #66 [difficult]
+---
+title: [6/18/2012] Challenge #66 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/v89ce/6182012_challenge_66_difficult/
+---
 
 Today's difficult problem is similar to challenge #64's difficult problem
 

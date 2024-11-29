@@ -1,4 +1,7 @@
-Title: [2016-12-07] Challenge #294 [Intermediate] Rack management 2
+---
+title: [2016-12-07] Challenge #294 [Intermediate] Rack management 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/5h40ml/20161207_challenge_294_intermediate_rack/
+---
 
 # Description
 

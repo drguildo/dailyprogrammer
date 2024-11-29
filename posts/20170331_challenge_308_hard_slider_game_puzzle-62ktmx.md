@@ -1,4 +1,7 @@
-Title: [2017-03-31] Challenge #308 [Hard] Slider Game Puzzle
+---
+title: [2017-03-31] Challenge #308 [Hard] Slider Game Puzzle
+url: https://old.reddit.com/r/dailyprogrammer/comments/62ktmx/20170331_challenge_308_hard_slider_game_puzzle/
+---
 
 **DISCIRPTION**
 

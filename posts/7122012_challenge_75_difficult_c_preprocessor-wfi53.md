@@ -1,4 +1,7 @@
-Title: [7/12/2012] Challenge #75 [difficult] (C Preprocessor)
+---
+title: [7/12/2012] Challenge #75 [difficult] (C Preprocessor)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wfi53/7122012_challenge_75_difficult_c_preprocessor/
+---
 
 First off, I'd like to apologize for posting this 12 hours late, I'm a little new to my mod responsibilities.  However, with your forgiveness, we can go onward!
 

@@ -1,4 +1,7 @@
-Title: [2016-03-14] Challenge #258 [Easy] IRC: Making a Connection
+---
+title: [2016-03-14] Challenge #258 [Easy] IRC: Making a Connection
+url: https://old.reddit.com/r/dailyprogrammer/comments/4ad23z/20160314_challenge_258_easy_irc_making_a/
+---
 
 # Description
 

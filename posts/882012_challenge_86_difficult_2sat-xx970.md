@@ -1,4 +1,7 @@
-Title: [8/8/2012] Challenge #86 [difficult] (2-SAT)
+---
+title: [8/8/2012] Challenge #86 [difficult] (2-SAT)
+url: https://old.reddit.com/r/dailyprogrammer/comments/xx970/882012_challenge_86_difficult_2sat/
+---
 
 Boolean Satisfiability problems are problems where we wish to find solutions to boolean equations such as 
 

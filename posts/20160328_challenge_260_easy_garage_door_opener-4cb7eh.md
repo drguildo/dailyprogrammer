@@ -1,4 +1,7 @@
-Title: [2016-03-28] Challenge #260 [Easy] Garage Door Opener
+---
+title: [2016-03-28] Challenge #260 [Easy] Garage Door Opener
+url: https://old.reddit.com/r/dailyprogrammer/comments/4cb7eh/20160328_challenge_260_easy_garage_door_opener/
+---
 
 #Description
 

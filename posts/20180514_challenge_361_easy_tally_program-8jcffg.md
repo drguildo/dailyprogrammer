@@ -1,4 +1,7 @@
-Title: [2018-05-14] Challenge #361 [Easy] Tally Program
+---
+title: [2018-05-14] Challenge #361 [Easy] Tally Program
+url: https://old.reddit.com/r/dailyprogrammer/comments/8jcffg/20180514_challenge_361_easy_tally_program/
+---
 
 # Description
 

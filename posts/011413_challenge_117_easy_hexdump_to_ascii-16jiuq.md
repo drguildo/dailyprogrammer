@@ -1,4 +1,7 @@
-Title: [01/14/13] Challenge #117 [Easy] Hexdump to ASCII
+---
+title: [01/14/13] Challenge #117 [Easy] Hexdump to ASCII
+url: https://old.reddit.com/r/dailyprogrammer/comments/16jiuq/011413_challenge_117_easy_hexdump_to_ascii/
+---
 
 # [](#EasyIcon) *(Easy)*: Hexdump to ASCII
 Hexadecimal is a base-16 representation of a number. A single byte of information, as an unsigned integer, can have a value of 0 to 255 in decimal. This byte can be represented in hexadecimal, from a range of 0x0 to 0xFF in hexadecimal.

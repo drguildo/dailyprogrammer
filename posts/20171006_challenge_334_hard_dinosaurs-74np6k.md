@@ -1,4 +1,7 @@
-Title: [2017-10-06] Challenge #334 [Hard] Dinosaurs
+---
+title: [2017-10-06] Challenge #334 [Hard] Dinosaurs
+url: https://old.reddit.com/r/dailyprogrammer/comments/74np6k/20171006_challenge_334_hard_dinosaurs/
+---
 
 #Description
 

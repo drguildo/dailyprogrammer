@@ -1,4 +1,7 @@
-Title: [2021-06-21] Challenge #395 [Easy] Nonogram row
+---
+title: [2021-06-21] Challenge #395 [Easy] Nonogram row
+url: https://old.reddit.com/r/dailyprogrammer/comments/o4uyzl/20210621_challenge_395_easy_nonogram_row/
+---
 
 This challenge is inspired by [nonogram puzzles](https://en.wikipedia.org/wiki/Nonogram#Example), but you don't need to be familiar with these puzzles in order to complete the challenge.
 

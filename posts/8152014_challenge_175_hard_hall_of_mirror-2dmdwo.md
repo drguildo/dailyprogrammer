@@ -1,4 +1,7 @@
-Title: [8/15/2014] Challenge #175 [Hard] Hall of Mirror[]
+---
+title: [8/15/2014] Challenge #175 [Hard] Hall of Mirror[]
+url: https://old.reddit.com/r/dailyprogrammer/comments/2dmdwo/8152014_challenge_175_hard_hall_of_mirror/
+---
 
 # [](#HardIcon) _(Hard)_: Hall of `Mirror[]`
 

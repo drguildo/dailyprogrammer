@@ -1,4 +1,7 @@
-Title: [7/30/2014] Challenge #173 [Intermediate] Advanced Langton's Ant
+---
+title: [7/30/2014] Challenge #173 [Intermediate] Advanced Langton's Ant
+url: https://old.reddit.com/r/dailyprogrammer/comments/2c4ka3/7302014_challenge_173_intermediate_advanced/
+---
 
 # [](#IntermediateIcon) _(Intermediate)_: Advanced Langton's Ant
 

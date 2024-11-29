@@ -1,4 +1,7 @@
-Title: [5/16/2014] Challenge #162 [Hard] Novel Compression, pt. 3: Putting it all together
+---
+title: [5/16/2014] Challenge #162 [Hard] Novel Compression, pt. 3: Putting it all together
+url: https://old.reddit.com/r/dailyprogrammer/comments/25o2bd/5162014_challenge_162_hard_novel_compression_pt_3/
+---
 
 # [](#HardIcon) _(Hard)_: Novel Compression, pt. 3: Putting it all together
 

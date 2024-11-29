@@ -1,4 +1,7 @@
-Title: [2017-01-23] Challenge #300 [Easy] Let's make some noise
+---
+title: [2017-01-23] Challenge #300 [Easy] Let's make some noise
+url: https://old.reddit.com/r/dailyprogrammer/comments/5prdgb/20170123_challenge_300_easy_lets_make_some_noise/
+---
 
 #Description
 

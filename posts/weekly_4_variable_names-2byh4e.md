@@ -1,4 +1,7 @@
-Title: [Weekly #4] Variable Names
+---
+title: [Weekly #4] Variable Names
+url: https://old.reddit.com/r/dailyprogrammer/comments/2byh4e/weekly_4_variable_names/
+---
 
 # Variable Names:
 

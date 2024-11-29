@@ -1,4 +1,7 @@
-Title: [2016-11-11] Challenge #291 [Hard] Spaghetti Wiring
+---
+title: [2016-11-11] Challenge #291 [Hard] Spaghetti Wiring
+url: https://old.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challenge_291_hard_spaghetti_wiring/
+---
 
 > **Note:** As has been [pointed out](https://www.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challenge_291_hard_spaghetti_wiring/d9wd9h1/), this problem is a duplicate of a previous one, resulting from my being clueless after returning from a hiatus from moderation. Sorry. :(
 

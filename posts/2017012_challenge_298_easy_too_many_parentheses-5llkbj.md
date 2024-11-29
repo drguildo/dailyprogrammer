@@ -1,4 +1,7 @@
-Title: [2017-01-2] Challenge #298 [Easy] Too many Parentheses
+---
+title: [2017-01-2] Challenge #298 [Easy] Too many Parentheses
+url: https://old.reddit.com/r/dailyprogrammer/comments/5llkbj/2017012_challenge_298_easy_too_many_parentheses/
+---
 
 Difficulty may be higher than easy,
 

@@ -1,4 +1,7 @@
-Title: [7/4/2012] Challenge #72 [difficult]
+---
+title: [7/4/2012] Challenge #72 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/w1f4o/742012_challenge_72_difficult/
+---
 
 The singular value decomposition (SVD) is an extremely useful algorithm in linear algebra.  Some people have called it 
 a 'master algorithm' because if you are able to perform the SVD you can perform almost every other useful linear algebraic operation.

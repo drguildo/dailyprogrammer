@@ -1,4 +1,7 @@
-Title: [2018-02-06] Challenge #350 [Easy] Bookshelf problem
+---
+title: [2018-02-06] Challenge #350 [Easy] Bookshelf problem
+url: https://old.reddit.com/r/dailyprogrammer/comments/7vm223/20180206_challenge_350_easy_bookshelf_problem/
+---
 
 #Description
 

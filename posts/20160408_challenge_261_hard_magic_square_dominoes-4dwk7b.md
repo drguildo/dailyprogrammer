@@ -1,4 +1,7 @@
-Title: [2016-04-08] Challenge #261 [Hard] magic square dominoes
+---
+title: [2016-04-08] Challenge #261 [Hard] magic square dominoes
+url: https://old.reddit.com/r/dailyprogrammer/comments/4dwk7b/20160408_challenge_261_hard_magic_square_dominoes/
+---
 
 # Description
 

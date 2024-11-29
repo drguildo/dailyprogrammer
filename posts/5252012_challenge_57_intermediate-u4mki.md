@@ -1,4 +1,7 @@
-Title: [5/25/2012] Challenge #57 [intermediate]
+---
+title: [5/25/2012] Challenge #57 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/u4mki/5252012_challenge_57_intermediate/
+---
 
  Given a 3x3 table where 1 represents on and 0 represents off:
 

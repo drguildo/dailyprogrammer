@@ -1,4 +1,7 @@
-Title: [2016-04-25] Challenge #264 [Easy] Sort my code
+---
+title: [2016-04-25] Challenge #264 [Easy] Sort my code
+url: https://old.reddit.com/r/dailyprogrammer/comments/4gc24w/20160425_challenge_264_easy_sort_my_code/
+---
 
 # Description
 

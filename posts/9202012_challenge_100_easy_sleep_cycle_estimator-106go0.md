@@ -1,5 +1,8 @@
-Title: [9/20/2012] Challenge #100 [easy] (Sleep Cycle Estimator)
+---
+title: [9/20/2012] Challenge #100 [easy] (Sleep Cycle Estimator)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/106go0/9202012_challenge_100_easy_sleep_cycle_estimator/
+---
 
 This challenge comes to us from nagasgura
 

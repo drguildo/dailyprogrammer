@@ -1,4 +1,7 @@
-Title: [2017-08-11] Challenge #326 [Hard] Multifaceted alphabet blocks
+---
+title: [2017-08-11] Challenge #326 [Hard] Multifaceted alphabet blocks
+url: https://old.reddit.com/r/dailyprogrammer/comments/6t0zua/20170811_challenge_326_hard_multifaceted_alphabet/
+---
 
 # Description
 

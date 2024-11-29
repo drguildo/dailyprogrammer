@@ -1,5 +1,8 @@
-Title: [9/20/2012] Challenge #100 [difficult] (Min-Max of N-Dimensional Quadratic)
+---
+title: [9/20/2012] Challenge #100 [difficult] (Min-Max of N-Dimensional Quadratic)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/106hps/9202012_challenge_100_difficult_minmax_of/
+---
 
 A quadratic form in mathematics is any polynomial in N-Dimensions which has no exponent greater than 2.  For example, the equations
 

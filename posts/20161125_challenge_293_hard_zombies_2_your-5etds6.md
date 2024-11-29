@@ -1,4 +1,7 @@
-Title: [2016-11-25] Challenge #293 [Hard] Zombies 2 - Your Princess is in Another Castle!
+---
+title: [2016-11-25] Challenge #293 [Hard] Zombies 2 - Your Princess is in Another Castle!
+url: https://old.reddit.com/r/dailyprogrammer/comments/5etds6/20161125_challenge_293_hard_zombies_2_your/
+---
 
 **Description**
 

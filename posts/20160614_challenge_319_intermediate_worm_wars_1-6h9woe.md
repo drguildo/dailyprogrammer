@@ -1,4 +1,7 @@
-Title: [2016-06-14] Challenge #319 [Intermediate] Worm Wars 1 - Basic Epidemiology
+---
+title: [2016-06-14] Challenge #319 [Intermediate] Worm Wars 1 - Basic Epidemiology
+url: https://old.reddit.com/r/dailyprogrammer/comments/6h9woe/20160614_challenge_319_intermediate_worm_wars_1/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [10/23/2014] Challenge #185 [Intermediate] Syntax Highlighting
+---
+title: [10/23/2014] Challenge #185 [Intermediate] Syntax Highlighting
+url: https://old.reddit.com/r/dailyprogrammer/comments/2k2zdv/10232014_challenge_185_intermediate_syntax/
+---
 
 # [](#IntermediateIcon) **(Intermediate)**: Syntax Highlighting
 

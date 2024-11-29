@@ -1,4 +1,7 @@
-Title: [10/01/2014] Challenge #182 [Intermediate] The Data Collator from Jamaica
+---
+title: [10/01/2014] Challenge #182 [Intermediate] The Data Collator from Jamaica
+url: https://old.reddit.com/r/dailyprogrammer/comments/2i13a4/10012014_challenge_182_intermediate_the_data/
+---
 
 # [](/IntermediateIcon) **(Intermediate)**: The Data Collator from Jamaica
 

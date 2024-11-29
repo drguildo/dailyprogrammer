@@ -1,4 +1,7 @@
-Title: [05/20/13] Challenge #126 [Easy] Real-World Merge Sort
+---
+title: [05/20/13] Challenge #126 [Easy] Real-World Merge Sort
+url: https://old.reddit.com/r/dailyprogrammer/comments/1epasu/052013_challenge_126_easy_realworld_merge_sort/
+---
 
 # [](#EasyIcon) *(Easy)*: Real-World Merge Sort
 

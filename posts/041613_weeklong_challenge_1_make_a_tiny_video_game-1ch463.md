@@ -1,4 +1,7 @@
-Title: [04/16/13] Week-Long Challenge #1: Make a (tiny) video game!
+---
+title: [04/16/13] Week-Long Challenge #1: Make a (tiny) video game!
+url: https://old.reddit.com/r/dailyprogrammer/comments/1ch463/041613_weeklong_challenge_1_make_a_tiny_video_game/
+---
 
 # [](#EasyIcon) *(Easy)*: Make a tiny video game!
 

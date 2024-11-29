@@ -1,4 +1,7 @@
-Title: [03/01/13] Challenge #119 [Hard] Polygon diagonals
+---
+title: [03/01/13] Challenge #119 [Hard] Polygon diagonals
+url: https://old.reddit.com/r/dailyprogrammer/comments/19gbdq/030113_challenge_119_hard_polygon_diagonals/
+---
 
 
 # [](#HardIcon) *(Hard)*: Polygon diagonals

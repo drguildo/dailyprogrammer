@@ -1,4 +1,7 @@
-Title: [7/2/2012] Challenge #71 [intermediate]
+---
+title: [7/2/2012] Challenge #71 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/vx3db/722012_challenge_71_intermediate/
+---
 
 Before I get to today's problem, I'd just like to give a warm welcome to our two new moderators, [nooodl](http://www.reddit.com/user/nooodl) and [Steve132](http://www.reddit.com/user/Steve132)! We decided to appoint two new moderators instead of just one, because rya11111 has decided to a bit of a break for a while.
 

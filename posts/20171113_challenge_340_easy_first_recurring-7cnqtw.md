@@ -1,4 +1,7 @@
-Title: [2017-11-13] Challenge #340 [Easy] First Recurring Character
+---
+title: [2017-11-13] Challenge #340 [Easy] First Recurring Character
+url: https://old.reddit.com/r/dailyprogrammer/comments/7cnqtw/20171113_challenge_340_easy_first_recurring/
+---
 
 # Description
 

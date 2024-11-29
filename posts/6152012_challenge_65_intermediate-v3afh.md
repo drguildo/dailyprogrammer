@@ -1,5 +1,8 @@
-Title: [6/15/2012] Challenge #65 [intermediate]
+---
+title: [6/15/2012] Challenge #65 [intermediate]
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/v3afh/6152012_challenge_65_intermediate/
+---
 
 Anyone who've tried to get through the *A Song of Ice and Fire* books written by George R.R. Martin (the basis for the HBO show Game of Thrones) knows that while the books are generally excellent, there are *a lot* of characters. A staggering number, in fact, and it can be very hard to remember who's who and who is related to who and who had an incestual relationship with what sister or brother.
 

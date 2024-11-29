@@ -1,4 +1,7 @@
-Title: [2016-01-29] Challenge #251 [Hard] ASCII Nonogram
+---
+title: [2016-01-29] Challenge #251 [Hard] ASCII Nonogram
+url: https://old.reddit.com/r/dailyprogrammer/comments/438zse/20160129_challenge_251_hard_ascii_nonogram/
+---
 
 
 #Description

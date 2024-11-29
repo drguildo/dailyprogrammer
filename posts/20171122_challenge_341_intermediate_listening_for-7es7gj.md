@@ -1,4 +1,7 @@
-Title: [2017-11-22] Challenge #341 [Intermediate] Listening for Incoming Aircraft
+---
+title: [2017-11-22] Challenge #341 [Intermediate] Listening for Incoming Aircraft
+url: https://old.reddit.com/r/dailyprogrammer/comments/7es7gj/20171122_challenge_341_intermediate_listening_for/
+---
 
 # Description
 

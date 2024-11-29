@@ -1,4 +1,7 @@
-Title: [2017-08-25] Challenge #328 [Hard] Subset Sum Automata
+---
+title: [2017-08-25] Challenge #328 [Hard] Subset Sum Automata
+url: https://old.reddit.com/r/dailyprogrammer/comments/6vyihu/20170825_challenge_328_hard_subset_sum_automata/
+---
 
 # Description
 

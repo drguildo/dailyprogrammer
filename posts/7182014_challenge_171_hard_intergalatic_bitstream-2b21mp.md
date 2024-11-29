@@ -1,4 +1,7 @@
-Title: [7/18/2014] Challenge #171 [Hard] Intergalatic Bitstream
+---
+title: [7/18/2014] Challenge #171 [Hard] Intergalatic Bitstream
+url: https://old.reddit.com/r/dailyprogrammer/comments/2b21mp/7182014_challenge_171_hard_intergalatic_bitstream/
+---
 
 #Description:
 

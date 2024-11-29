@@ -1,4 +1,7 @@
-Title: [2019-04-08] Challenge #377 [Easy] Axis-aligned crate packing
+---
+title: [2019-04-08] Challenge #377 [Easy] Axis-aligned crate packing
+url: https://old.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/
+---
 
 # Description
 

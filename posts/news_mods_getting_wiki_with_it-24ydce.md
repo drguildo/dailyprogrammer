@@ -1,4 +1,7 @@
-Title: News, Mods, getting Wiki with it
+---
+title: News, Mods, getting Wiki with it
+url: https://old.reddit.com/r/dailyprogrammer/comments/24ydce/news_mods_getting_wiki_with_it/
+---
 
 Hi all! 
 

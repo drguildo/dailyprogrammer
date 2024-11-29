@@ -1,4 +1,7 @@
-Title: [2017-01-26] Challenge #300 [Easy/Intermediate] Let's make some noise part 2
+---
+title: [2017-01-26] Challenge #300 [Easy/Intermediate] Let's make some noise part 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/5q9cll/20170126_challenge_300_easyintermediate_lets_make/
+---
 
 #Description
 

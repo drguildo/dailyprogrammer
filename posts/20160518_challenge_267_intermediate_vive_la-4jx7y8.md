@@ -1,4 +1,7 @@
-Title: [2016-05-18] Challenge #267 [Intermediate] Vive la résistance!
+---
+title: [2016-05-18] Challenge #267 [Intermediate] Vive la résistance!
+url: https://old.reddit.com/r/dailyprogrammer/comments/4jx7y8/20160518_challenge_267_intermediate_vive_la/
+---
 
 Description
 -----------

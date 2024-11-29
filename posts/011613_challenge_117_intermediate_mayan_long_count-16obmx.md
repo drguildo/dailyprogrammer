@@ -1,4 +1,7 @@
-Title: [01/16/13] Challenge #117 [Intermediate] Mayan Long Count
+---
+title: [01/16/13] Challenge #117 [Intermediate] Mayan Long Count
+url: https://old.reddit.com/r/dailyprogrammer/comments/16obmx/011613_challenge_117_intermediate_mayan_long_count/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Mayan Long Count
 The [Mayan Long Count](http://en.wikipedia.org/wiki/Maya_calendar#Long_Count) calendar is a counting of days with these units: "* The Maya name for a day was k'in. Twenty of these k'ins are known as a winal or uinal. Eighteen winals make one tun. Twenty tuns are known as a k'atun. Twenty k'atuns make a b'ak'tun.*". Essentially, we have this pattern:

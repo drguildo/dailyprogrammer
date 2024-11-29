@@ -1,4 +1,7 @@
-Title: [2017-11-24] Challenge #341 [Hard] Finding a Map Subsection
+---
+title: [2017-11-24] Challenge #341 [Hard] Finding a Map Subsection
+url: https://old.reddit.com/r/dailyprogrammer/comments/7f5uyg/20171124_challenge_341_hard_finding_a_map/
+---
 
 # Description
 Imagine that you're working on an application to track boats as they travel across the ocean.  For this application, you're given a square map with a fixed size (i.e. 2000x2000), and a set of coordinates that represent the ship's path across the map.  You can assume the ship's path will be entirely within the bounds of the map.  The path *can* include the very edge of the map.

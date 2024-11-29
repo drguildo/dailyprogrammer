@@ -1,4 +1,7 @@
-Title: [2017-07-05] Challenge #322 [Intermediate] Largest Palindrome
+---
+title: [2017-07-05] Challenge #322 [Intermediate] Largest Palindrome
+url: https://old.reddit.com/r/dailyprogrammer/comments/6ldv3m/20170705_challenge_322_intermediate_largest/
+---
 
 # Description
 

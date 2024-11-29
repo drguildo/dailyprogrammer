@@ -1,4 +1,7 @@
-Title: [2018-05-04] Challenge #359 [Hard] Primes in Grids
+---
+title: [2018-05-04] Challenge #359 [Hard] Primes in Grids
+url: https://old.reddit.com/r/dailyprogrammer/comments/8gzaz5/20180504_challenge_359_hard_primes_in_grids/
+---
 
 # Description
 

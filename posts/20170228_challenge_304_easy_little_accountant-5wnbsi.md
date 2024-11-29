@@ -1,4 +1,7 @@
-Title: [2017-02-28] Challenge #304 [Easy] Little Accountant
+---
+title: [2017-02-28] Challenge #304 [Easy] Little Accountant
+url: https://old.reddit.com/r/dailyprogrammer/comments/5wnbsi/20170228_challenge_304_easy_little_accountant/
+---
 
 #Description
 

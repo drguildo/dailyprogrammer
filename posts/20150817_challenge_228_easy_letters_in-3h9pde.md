@@ -1,4 +1,7 @@
-Title: [2015-08-17] Challenge #228 [Easy] Letters in Alphabetical Order
+---
+title: [2015-08-17] Challenge #228 [Easy] Letters in Alphabetical Order
+url: https://old.reddit.com/r/dailyprogrammer/comments/3h9pde/20150817_challenge_228_easy_letters_in/
+---
 
 # Description
 

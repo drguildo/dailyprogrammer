@@ -1,4 +1,7 @@
-Title: [04/27/13] WINNERS: Week-Long Challenge #1
+---
+title: [04/27/13] WINNERS: Week-Long Challenge #1
+url: https://old.reddit.com/r/dailyprogrammer/comments/1d9a8t/042713_winners_weeklong_challenge_1/
+---
 
 Hey r/DailyProgrammers,
 

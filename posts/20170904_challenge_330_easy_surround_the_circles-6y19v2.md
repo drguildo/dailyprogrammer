@@ -1,4 +1,7 @@
-Title: [2017-09-04] Challenge #330 [Easy] Surround the circles
+---
+title: [2017-09-04] Challenge #330 [Easy] Surround the circles
+url: https://old.reddit.com/r/dailyprogrammer/comments/6y19v2/20170904_challenge_330_easy_surround_the_circles/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [2014-12-19] Challenge #193 [Easy] Acronym Expander
+---
+title: [2014-12-19] Challenge #193 [Easy] Acronym Expander
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ptrmp/20141219_challenge_193_easy_acronym_expander/
+---
 
 #Description
 

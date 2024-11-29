@@ -1,4 +1,7 @@
-Title: [2015-09-01] Challenge #230 [Intermediate] Word Compactification
+---
+title: [2015-09-01] Challenge #230 [Intermediate] Word Compactification
+url: https://old.reddit.com/r/dailyprogrammer/comments/3jd72z/20150901_challenge_230_intermediate_word/
+---
 
 # [](#IntermediateIcon) _(Intermediate)_: Word Compactification
 

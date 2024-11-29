@@ -1,4 +1,7 @@
-Title: [2015-06-03] Challenge #217 [Intermediate] Space Code Breaking
+---
+title: [2015-06-03] Challenge #217 [Intermediate] Space Code Breaking
+url: https://old.reddit.com/r/dailyprogrammer/comments/38fjll/20150603_challenge_217_intermediate_space_code/
+---
 
 #Description:
 

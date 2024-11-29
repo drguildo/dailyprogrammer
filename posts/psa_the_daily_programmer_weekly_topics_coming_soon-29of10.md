@@ -1,4 +1,7 @@
-Title: [PSA] The Daily Programmer weekly topics coming soon
+---
+title: [PSA] The Daily Programmer weekly topics coming soon
+url: https://old.reddit.com/r/dailyprogrammer/comments/29of10/psa_the_daily_programmer_weekly_topics_coming_soon/
+---
 
 As an experiment I will be posting on Sundays-Mondays a sticky thread with a topic for discussion. The main focus of the subreddit is about solving challenges. The weekly topic will focus around how to solve problems or related to the process of solving problems with programs. It could also relate to "how to" like "how to make gifs" of your data. For example.
 

@@ -1,4 +1,7 @@
-Title: [7/18/2012] Challenge #78 [easy] (Keyboard Locale Simulator)
+---
+title: [7/18/2012] Challenge #78 [easy] (Keyboard Locale Simulator)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wrqbr/7182012_challenge_78_easy_keyboard_locale/
+---
 
 This one is inspired by an actual problem my friend had to deal with recently.  Unfortunately, its a little bit
 keyboard-locale specific, so if you don't happen to use a us-EN layout keyboard you might want to get a picture of one.

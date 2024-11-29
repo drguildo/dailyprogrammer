@@ -1,4 +1,7 @@
-Title: [1/2/2013] Challenge #115 [Easy] Guess-that-number game!
+---
+title: [1/2/2013] Challenge #115 [Easy] Guess-that-number game!
+url: https://old.reddit.com/r/dailyprogrammer/comments/15ul7q/122013_challenge_115_easy_guessthatnumber_game/
+---
 
 # [](#EasyIcon) *(Easy)*: Guess-that-number game!
 

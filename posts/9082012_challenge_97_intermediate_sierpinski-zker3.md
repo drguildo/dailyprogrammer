@@ -1,4 +1,7 @@
-Title: [9/08/2012] Challenge #97 [intermediate] (Sierpinski carpet)
+---
+title: [9/08/2012] Challenge #97 [intermediate] (Sierpinski carpet)
+url: https://old.reddit.com/r/dailyprogrammer/comments/zker3/9082012_challenge_97_intermediate_sierpinski/
+---
 
 Write a function that accepts an integer *n* and returns a (3^*n* × 3^n ) boolean matrix containing a *n*th-iteration [Sierpinski carpet](http://en.wikipedia.org/wiki/Sierpinski_carpet) fractal.
 

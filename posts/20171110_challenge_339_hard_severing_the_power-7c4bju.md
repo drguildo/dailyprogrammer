@@ -1,4 +1,7 @@
-Title: [2017-11-10] Challenge #339 [Hard] Severing the Power Grid
+---
+title: [2017-11-10] Challenge #339 [Hard] Severing the Power Grid
+url: https://old.reddit.com/r/dailyprogrammer/comments/7c4bju/20171110_challenge_339_hard_severing_the_power/
+---
 
 # Description
 

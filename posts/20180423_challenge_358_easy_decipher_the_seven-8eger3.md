@@ -1,4 +1,7 @@
-Title: [2018-04-23] Challenge #358 [Easy] Decipher The Seven Segments
+---
+title: [2018-04-23] Challenge #358 [Easy] Decipher The Seven Segments
+url: https://old.reddit.com/r/dailyprogrammer/comments/8eger3/20180423_challenge_358_easy_decipher_the_seven/
+---
 
 # Description
 Today's challenge will be to create a program to decipher a seven segment display, commonly seen on many older electronic devices.

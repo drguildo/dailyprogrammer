@@ -1,4 +1,7 @@
-Title: [04/22/13] REMINDER: Week-Long Challenge #1 due today!
+---
+title: [04/22/13] REMINDER: Week-Long Challenge #1 due today!
+url: https://old.reddit.com/r/dailyprogrammer/comments/1cv8oo/042213_reminder_weeklong_challenge_1_due_today/
+---
 
 Hey r/DailyProgrammers,
 

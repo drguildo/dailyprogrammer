@@ -1,4 +1,7 @@
-Title: [2015-03-23] Challenge #207 [Easy] Bioinformatics 1: DNA Replication
+---
+title: [2015-03-23] Challenge #207 [Easy] Bioinformatics 1: DNA Replication
+url: https://old.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/
+---
 
 For this week my theme is bioinformatics, I hope you enjoy the taste of the field through these challenges. 
 

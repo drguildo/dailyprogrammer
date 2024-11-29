@@ -1,4 +1,7 @@
-Title: [4/1/2014] Challenge #156 [Easy] Simple Decoder
+---
+title: [4/1/2014] Challenge #156 [Easy] Simple Decoder
+url: https://old.reddit.com/r/dailyprogrammer/comments/21w3lb/412014_challenge_156_easy_simple_decoder/
+---
 
 #Oops:
 

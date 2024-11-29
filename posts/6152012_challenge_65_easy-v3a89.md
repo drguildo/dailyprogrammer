@@ -1,5 +1,8 @@
-Title: [6/15/2012] Challenge #65 [easy]
+---
+title: [6/15/2012] Challenge #65 [easy]
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/v3a89/6152012_challenge_65_easy/
+---
 
 Write a program that given a floating point number, gives the number of American dollar coins and bills needed to represent that number (rounded to the nearest 1/100, i.e. the nearest penny). For instance, if the float is 12.33, the result would be 1 ten-dollar bill, 2 one-dollar bills, 1 quarter, 1 nickel and 3 pennies.
 

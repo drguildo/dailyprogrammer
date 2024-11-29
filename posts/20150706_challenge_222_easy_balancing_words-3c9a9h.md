@@ -1,4 +1,7 @@
-Title: [2015-07-06] Challenge #222 [Easy] Balancing Words
+---
+title: [2015-07-06] Challenge #222 [Easy] Balancing Words
+url: https://old.reddit.com/r/dailyprogrammer/comments/3c9a9h/20150706_challenge_222_easy_balancing_words/
+---
 
 # Description
 

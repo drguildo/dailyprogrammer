@@ -1,4 +1,7 @@
-Title: [5/12/2014] Challenge #162 [Easy] Novel Compression, pt. 1: Unpacking the Data
+---
+title: [5/12/2014] Challenge #162 [Easy] Novel Compression, pt. 1: Unpacking the Data
+url: https://old.reddit.com/r/dailyprogrammer/comments/25clki/5122014_challenge_162_easy_novel_compression_pt_1/
+---
 
 # [](#EasyIcon) _(Easy)_: Novel Compression, pt. 1: Unpacking the Data
 

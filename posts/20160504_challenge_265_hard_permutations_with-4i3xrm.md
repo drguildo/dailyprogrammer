@@ -1,4 +1,7 @@
-Title: [2016-05-04] Challenge #265 [Hard] Permutations with repeat
+---
+title: [2016-05-04] Challenge #265 [Hard] Permutations with repeat
+url: https://old.reddit.com/r/dailyprogrammer/comments/4i3xrm/20160504_challenge_265_hard_permutations_with/
+---
 
 The number of permutations of a list that includes repeats is `(factorial of list length) / (product of factorials of each items repeat frequency)
 

@@ -1,4 +1,7 @@
-Title: [10/10/2014] Challenge #183 [Hard] Dimensionality Reduction
+---
+title: [10/10/2014] Challenge #183 [Hard] Dimensionality Reduction
+url: https://old.reddit.com/r/dailyprogrammer/comments/2iy7xl/10102014_challenge_183_hard_dimensionality/
+---
 
 # [](#HardIcon) _(Hard)_: Dimensionality Reduction
 

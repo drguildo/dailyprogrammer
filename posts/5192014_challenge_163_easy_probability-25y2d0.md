@@ -1,4 +1,7 @@
-Title: [5/19/2014] Challenge #163 [Easy] Probability Distribution of a 6 Sided Di
+---
+title: [5/19/2014] Challenge #163 [Easy] Probability Distribution of a 6 Sided Di
+url: https://old.reddit.com/r/dailyprogrammer/comments/25y2d0/5192014_challenge_163_easy_probability/
+---
 
 #Description: 
 

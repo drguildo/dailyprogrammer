@@ -1,4 +1,7 @@
-Title: [2017-04-26] Challenge #312 [Intermediate] Next largest number
+---
+title: [2017-04-26] Challenge #312 [Intermediate] Next largest number
+url: https://old.reddit.com/r/dailyprogrammer/comments/67q3s6/20170426_challenge_312_intermediate_next_largest/
+---
 
 # Description
 Given an integer, find the *next largest* integer using **ONLY** the digits from the given integer.

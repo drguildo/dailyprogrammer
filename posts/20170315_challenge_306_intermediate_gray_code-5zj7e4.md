@@ -1,4 +1,7 @@
-Title: [2017-03-15] Challenge #306 [Intermediate] Gray Code
+---
+title: [2017-03-15] Challenge #306 [Intermediate] Gray Code
+url: https://old.reddit.com/r/dailyprogrammer/comments/5zj7e4/20170315_challenge_306_intermediate_gray_code/
+---
 
 # Description
 

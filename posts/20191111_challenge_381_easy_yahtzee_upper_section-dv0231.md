@@ -1,4 +1,7 @@
-Title: [2019-11-11] Challenge #381 [Easy] Yahtzee Upper Section Scoring
+---
+title: [2019-11-11] Challenge #381 [Easy] Yahtzee Upper Section Scoring
+url: https://old.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/
+---
 
 # Description
 

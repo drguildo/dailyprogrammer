@@ -1,4 +1,7 @@
-Title: [2015-09-14] Challenge #232 [Easy] Palindromes
+---
+title: [2015-09-14] Challenge #232 [Easy] Palindromes
+url: https://old.reddit.com/r/dailyprogrammer/comments/3kx6oh/20150914_challenge_232_easy_palindromes/
+---
 
 #Description
 

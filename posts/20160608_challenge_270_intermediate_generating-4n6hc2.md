@@ -1,4 +1,7 @@
-Title: [2016-06-08] Challenge #270 [Intermediate] Generating Text with Markov Processes
+---
+title: [2016-06-08] Challenge #270 [Intermediate] Generating Text with Markov Processes
+url: https://old.reddit.com/r/dailyprogrammer/comments/4n6hc2/20160608_challenge_270_intermediate_generating/
+---
 
 # Description
 

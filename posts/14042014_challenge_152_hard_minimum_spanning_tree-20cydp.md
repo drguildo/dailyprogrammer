@@ -1,4 +1,7 @@
-Title: [14/04/2014] Challenge #152 [Hard] Minimum Spanning Tree
+---
+title: [14/04/2014] Challenge #152 [Hard] Minimum Spanning Tree
+url: https://old.reddit.com/r/dailyprogrammer/comments/20cydp/14042014_challenge_152_hard_minimum_spanning_tree/
+---
 
 # [](#HardIcon) _(Hard)_: Minimum Spanning Tree
 

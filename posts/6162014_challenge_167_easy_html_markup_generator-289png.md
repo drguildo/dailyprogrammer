@@ -1,4 +1,7 @@
-Title: [6/16/2014] Challenge #167 [Easy] HTML markup generator
+---
+title: [6/16/2014] Challenge #167 [Easy] HTML markup generator
+url: https://old.reddit.com/r/dailyprogrammer/comments/289png/6162014_challenge_167_easy_html_markup_generator/
+---
 
 #Description
 You're a well known web-dev with far too much confidence, you mistakingly agreed to complete too many projects in too little a timeframe. In order to fix this, you devise a program that will automatically write all of the HTML for you!

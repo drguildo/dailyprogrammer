@@ -1,4 +1,7 @@
-Title: [2014-03-20] Challenge #206 [Hard] Recurrence Relations, part 2
+---
+title: [2014-03-20] Challenge #206 [Hard] Recurrence Relations, part 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/2zna5q/20140320_challenge_206_hard_recurrence_relations/
+---
 
 # [](#HardIcon) _(Hard)_: Recurrence Relations, part 2
 

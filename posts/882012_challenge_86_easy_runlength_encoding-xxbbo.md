@@ -1,4 +1,7 @@
-Title: [8/8/2012] Challenge #86 [easy] (run-length encoding)
+---
+title: [8/8/2012] Challenge #86 [easy] (run-length encoding)
+url: https://old.reddit.com/r/dailyprogrammer/comments/xxbbo/882012_challenge_86_easy_runlength_encoding/
+---
 
 Run-Length encoding is a simple form of compression that detects 'runs' of repeated instances of a symbol in a string and compresses them to a list of pairs of 'symbol' 'length'.  For example, the string
 

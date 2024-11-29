@@ -1,4 +1,7 @@
-Title: [10/20/2012] Challenge #105 [Intermediate] (Boolean logic calculator)
+---
+title: [10/20/2012] Challenge #105 [Intermediate] (Boolean logic calculator)
+url: https://old.reddit.com/r/dailyprogrammer/comments/11shtj/10202012_challenge_105_intermediate_boolean_logic/
+---
 
 [Boolean logic](http://en.wikipedia.org/wiki/Boolean_algebra) is something all programmers have to deal with, whether we like it or not. Why not automate the task to make it easier?
 

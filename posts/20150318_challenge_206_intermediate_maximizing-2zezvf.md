@@ -1,4 +1,7 @@
-Title: [2015-03-18] Challenge #206 [Intermediate] Maximizing Crop Irrigation
+---
+title: [2015-03-18] Challenge #206 [Intermediate] Maximizing Crop Irrigation
+url: https://old.reddit.com/r/dailyprogrammer/comments/2zezvf/20150318_challenge_206_intermediate_maximizing/
+---
 
 # Description
 

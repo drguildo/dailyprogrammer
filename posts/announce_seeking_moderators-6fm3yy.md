@@ -1,4 +1,7 @@
-Title: [ANNOUNCE] Seeking Moderators
+---
+title: [ANNOUNCE] Seeking Moderators
+url: https://old.reddit.com/r/dailyprogrammer/comments/6fm3yy/announce_seeking_moderators/
+---
 
 # We're Growing the Moderator Team
 

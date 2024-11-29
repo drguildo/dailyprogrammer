@@ -1,4 +1,7 @@
-Title: ANNOUNCEMENT - We're Hiring
+---
+title: ANNOUNCEMENT - We're Hiring
+url: https://old.reddit.com/r/dailyprogrammer/comments/3nhxk8/announcement_were_hiring/
+---
 
 **UPDATE**
 

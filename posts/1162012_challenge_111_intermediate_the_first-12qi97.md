@@ -1,4 +1,7 @@
-Title: [11/6/2012] Challenge #111 [Intermediate] The First Sudoku
+---
+title: [11/6/2012] Challenge #111 [Intermediate] The First Sudoku
+url: https://old.reddit.com/r/dailyprogrammer/comments/12qi97/1162012_challenge_111_intermediate_the_first/
+---
 
 Find the lexicographically first valid sudoku. A valid sudoku consists of a 9x9 grid of the numbers 1-9 such that no number appears twice in any row or column, or in any of the 9 major 3x3 sub-grids. Two sudokus can be compared to determine which is lexicographically first like this: append the rows for each of the two sudokus together. Find the _first_ number where they differ. Whichever sudoku has a smaller number in that position is lexicographically first.
 

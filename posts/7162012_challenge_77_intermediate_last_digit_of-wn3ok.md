@@ -1,4 +1,7 @@
-Title: [7/16/2012] Challenge #77 [intermediate] (Last digit of factorial)
+---
+title: [7/16/2012] Challenge #77 [intermediate] (Last digit of factorial)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wn3ok/7162012_challenge_77_intermediate_last_digit_of/
+---
 
 The factorial of 10 is 3628800. The last non-zero digit of that factorial is 8.
 

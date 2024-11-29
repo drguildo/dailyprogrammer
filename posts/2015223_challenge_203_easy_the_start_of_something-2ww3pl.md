@@ -1,4 +1,7 @@
-Title: [2015-2-23] Challenge #203 [Easy] The Start of Something Big
+---
+title: [2015-2-23] Challenge #203 [Easy] The Start of Something Big
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ww3pl/2015223_challenge_203_easy_the_start_of_something/
+---
 
 #Description
 All great things start with something small. Sometimes people [don't even realise what goes into making a 'small' thing](http://rampantgames.com/blog/?p=7745).

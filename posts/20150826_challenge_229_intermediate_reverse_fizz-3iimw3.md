@@ -1,4 +1,7 @@
-Title: [2015-08-26] Challenge #229 [Intermediate] Reverse Fizz Buzz
+---
+title: [2015-08-26] Challenge #229 [Intermediate] Reverse Fizz Buzz
+url: https://old.reddit.com/r/dailyprogrammer/comments/3iimw3/20150826_challenge_229_intermediate_reverse_fizz/
+---
 
 # Description
 

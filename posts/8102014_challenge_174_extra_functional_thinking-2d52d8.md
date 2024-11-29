@@ -1,4 +1,7 @@
-Title: [8/10/2014] Challenge #174 [Extra] Functional Thinking
+---
+title: [8/10/2014] Challenge #174 [Extra] Functional Thinking
+url: https://old.reddit.com/r/dailyprogrammer/comments/2d52d8/8102014_challenge_174_extra_functional_thinking/
+---
 
 # *(Extra)*: Functional Thinking
 

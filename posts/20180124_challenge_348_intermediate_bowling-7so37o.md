@@ -1,4 +1,7 @@
-Title: [2018-01-24] Challenge #348 [Intermediate] Bowling Frames Display
+---
+title: [2018-01-24] Challenge #348 [Intermediate] Bowling Frames Display
+url: https://old.reddit.com/r/dailyprogrammer/comments/7so37o/20180124_challenge_348_intermediate_bowling/
+---
 
 # Description
 Today's challenge will be a variation on a popular introductory programming task, scoring a game of bowling.  However, in this challenge, we won't even actually have to calculate the score.  Today's challenge is to produce the display for the individual frames, given a list of the number of pins knocked down on each frame.

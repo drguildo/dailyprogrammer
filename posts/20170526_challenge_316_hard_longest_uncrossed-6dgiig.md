@@ -1,4 +1,7 @@
-Title: [2017-05-26] Challenge #316 [Hard] Longest Uncrossed Knight's Path
+---
+title: [2017-05-26] Challenge #316 [Hard] Longest Uncrossed Knight's Path
+url: https://old.reddit.com/r/dailyprogrammer/comments/6dgiig/20170526_challenge_316_hard_longest_uncrossed/
+---
 
 # Description
 

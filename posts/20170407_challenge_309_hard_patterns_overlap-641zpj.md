@@ -1,4 +1,7 @@
-Title: [2017-04-07] Challenge #309 [Hard] Patterns overlap
+---
+title: [2017-04-07] Challenge #309 [Hard] Patterns overlap
+url: https://old.reddit.com/r/dailyprogrammer/comments/641zpj/20170407_challenge_309_hard_patterns_overlap/
+---
 
 Taken from practice problem for google code jam (which starts tonight)
 

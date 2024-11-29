@@ -1,4 +1,7 @@
-Title: [2016-07-29] Challenge #277 [Hard] Trippy Julia fractals
+---
+title: [2016-07-29] Challenge #277 [Hard] Trippy Julia fractals
+url: https://old.reddit.com/r/dailyprogrammer/comments/4v5h3u/20160729_challenge_277_hard_trippy_julia_fractals/
+---
 
 #Description
 

@@ -1,4 +1,7 @@
-Title: [2021-06-28] Challenge #395 [Intermediate] Phone drop
+---
+title: [2021-06-28] Challenge #395 [Intermediate] Phone drop
+url: https://old.reddit.com/r/dailyprogrammer/comments/o9k0p0/20210628_challenge_395_intermediate_phone_drop/
+---
 
 # Scenario
 

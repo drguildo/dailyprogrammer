@@ -1,4 +1,7 @@
-Title: [2017-06-09] Challenge #318 [Hard] Ladder Logic
+---
+title: [2017-06-09] Challenge #318 [Hard] Ladder Logic
+url: https://old.reddit.com/r/dailyprogrammer/comments/6g8ey0/20170609_challenge_318_hard_ladder_logic/
+---
 
 #Description
 Most industrial equipment is ran on Programmable Logic Controllers (PLCs).  To this day, the most common programming language for these systems (in the US) is a graphical language called "Ladder Logic".  

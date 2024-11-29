@@ -1,4 +1,7 @@
-Title: [8/1/2012] Challenge #84 [difficult] (City-Block TSP)
+---
+title: [8/1/2012] Challenge #84 [difficult] (City-Block TSP)
+url: https://old.reddit.com/r/dailyprogrammer/comments/xilkr/812012_challenge_84_difficult_cityblock_tsp/
+---
 
 Like many people who program, I got started doing this because I wanted to learn how to make video games.  
 

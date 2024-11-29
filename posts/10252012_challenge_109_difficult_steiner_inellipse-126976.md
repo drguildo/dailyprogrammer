@@ -1,4 +1,7 @@
-Title: [10/25/2012] Challenge #109 [Difficult] (Steiner Inellipse)
+---
+title: [10/25/2012] Challenge #109 [Difficult] (Steiner Inellipse)
+url: https://old.reddit.com/r/dailyprogrammer/comments/126976/10252012_challenge_109_difficult_steiner_inellipse/
+---
 
 For the difficult challenge, you must find the [Steiner Inellipse](http://en.wikipedia.org/wiki/Steiner_inellipse) of a triangle.  The Steiner Inellipse is the ellipse within a triangle that has the maximum area, without exceeding the bounds of the triangle.
 

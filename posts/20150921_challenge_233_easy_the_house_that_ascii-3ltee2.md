@@ -1,4 +1,7 @@
-Title: [2015-09-21] Challenge #233 [Easy] The house that ASCII built
+---
+title: [2015-09-21] Challenge #233 [Easy] The house that ASCII built
+url: https://old.reddit.com/r/dailyprogrammer/comments/3ltee2/20150921_challenge_233_easy_the_house_that_ascii/
+---
 
 #Description
 

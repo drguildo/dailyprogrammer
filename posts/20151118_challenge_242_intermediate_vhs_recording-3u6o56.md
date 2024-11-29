@@ -1,4 +1,7 @@
-Title: [2015-11-18] Challenge # 242 [Intermediate] VHS recording problem
+---
+title: [2015-11-18] Challenge # 242 [Intermediate] VHS recording problem
+url: https://old.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
+---
 
 **Description**
 

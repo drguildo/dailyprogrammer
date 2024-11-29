@@ -1,4 +1,7 @@
-Title: [2015-07-01] Challenge #221 [Intermediate] Unravelling a word snake
+---
+title: [2015-07-01] Challenge #221 [Intermediate] Unravelling a word snake
+url: https://old.reddit.com/r/dailyprogrammer/comments/3bqq7p/20150701_challenge_221_intermediate_unravelling_a/
+---
 
 #Description
 

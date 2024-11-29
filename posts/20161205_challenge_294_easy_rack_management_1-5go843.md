@@ -1,4 +1,7 @@
-Title: [2016-12-05] Challenge #294 [Easy] Rack management 1
+---
+title: [2016-12-05] Challenge #294 [Easy] Rack management 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/5go843/20161205_challenge_294_easy_rack_management_1/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [2014-12-31] Challenge #195 [Intermediate] Math Dice
+---
+title: [2014-12-31] Challenge #195 [Intermediate] Math Dice
+url: https://old.reddit.com/r/dailyprogrammer/comments/2qxrtk/20141231_challenge_195_intermediate_math_dice/
+---
 
 #Description:
 

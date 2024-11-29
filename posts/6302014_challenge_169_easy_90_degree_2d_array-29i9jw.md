@@ -1,4 +1,7 @@
-Title: [6/30/2014] Challenge #169 [Easy] 90 Degree 2D Array Rotate
+---
+title: [6/30/2014] Challenge #169 [Easy] 90 Degree 2D Array Rotate
+url: https://old.reddit.com/r/dailyprogrammer/comments/29i9jw/6302014_challenge_169_easy_90_degree_2d_array/
+---
 
 #Description:
 

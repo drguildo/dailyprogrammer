@@ -1,5 +1,8 @@
-Title: [9/06/2012] Challenge #96 [difficult] (Water Droplets)
+---
+title: [9/06/2012] Challenge #96 [difficult] (Water Droplets)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/zff9o/9062012_challenge_96_difficult_water_droplets/
+---
 
 Your wet dog rand across your hardwood floor.  It drops a series of water droplets randomly across the floor.  The water droplets each land at particular positions on your infinite floor, and they each create a wet circle of a given radius across the floor.
 

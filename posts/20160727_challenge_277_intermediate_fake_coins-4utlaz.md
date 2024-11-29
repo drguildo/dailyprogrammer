@@ -1,4 +1,7 @@
-Title: [2016-07-27] Challenge #277 [Intermediate] Fake coins
+---
+title: [2016-07-27] Challenge #277 [Intermediate] Fake coins
+url: https://old.reddit.com/r/dailyprogrammer/comments/4utlaz/20160727_challenge_277_intermediate_fake_coins/
+---
 
 #Description
 

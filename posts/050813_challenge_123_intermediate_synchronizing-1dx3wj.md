@@ -1,4 +1,7 @@
-Title: [05/08/13] Challenge #123 [Intermediate] Synchronizing Calendars
+---
+title: [05/08/13] Challenge #123 [Intermediate] Synchronizing Calendars
+url: https://old.reddit.com/r/dailyprogrammer/comments/1dx3wj/050813_challenge_123_intermediate_synchronizing/
+---
 
 
 # [](#IntermediateIcon) *(Intermediate)*: Synchronizing Calendars

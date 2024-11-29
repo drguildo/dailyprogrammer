@@ -1,4 +1,7 @@
-Title: [2016-01-08] Challenge #248 [Hard] NotClick game
+---
+title: [2016-01-08] Challenge #248 [Hard] NotClick game
+url: https://old.reddit.com/r/dailyprogrammer/comments/40035o/20160108_challenge_248_hard_notclick_game/
+---
 
 Click games such as http://orteil.dashnet.org/cookieclicker/ are resource games where, part of the game, is obtaining free resources limited by how  fast you can repeatedly click for them.
 

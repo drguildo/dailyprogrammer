@@ -1,4 +1,7 @@
-Title: [9/05/2014] Challenge #178 [Hard] Regular Expression Fractals
+---
+title: [9/05/2014] Challenge #178 [Hard] Regular Expression Fractals
+url: https://old.reddit.com/r/dailyprogrammer/comments/2fkh8u/9052014_challenge_178_hard_regular_expression/
+---
 
 #Description:
 For today's challenge you will be generating fractal images from regular expressions. This album describes visually how it works:

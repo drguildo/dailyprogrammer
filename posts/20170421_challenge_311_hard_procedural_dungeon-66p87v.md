@@ -1,4 +1,7 @@
-Title: [2017-04-21] Challenge #311 [Hard] Procedural Dungeon Generation
+---
+title: [2017-04-21] Challenge #311 [Hard] Procedural Dungeon Generation
+url: https://old.reddit.com/r/dailyprogrammer/comments/66p87v/20170421_challenge_311_hard_procedural_dungeon/
+---
 
 # Description
 

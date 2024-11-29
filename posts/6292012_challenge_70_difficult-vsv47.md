@@ -1,4 +1,7 @@
-Title: [6/29/2012] Challenge #70 [difficult]
+---
+title: [6/29/2012] Challenge #70 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/vsv47/6292012_challenge_70_difficult/
+---
 
 In today's challenge we will be touching the topics:
 

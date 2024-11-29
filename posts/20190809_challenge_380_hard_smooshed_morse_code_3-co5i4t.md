@@ -1,4 +1,7 @@
-Title: [2019-08-09] Challenge #380 [Hard] Smooshed Morse Code 3
+---
+title: [2019-08-09] Challenge #380 [Hard] Smooshed Morse Code 3
+url: https://old.reddit.com/r/dailyprogrammer/comments/co5i4t/20190809_challenge_380_hard_smooshed_morse_code_3/
+---
 
 *Smooshed Morse code* means Morse code with the spaces between encoded letters left out. [See this week's Easy challenge for more detail.](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/) We'll also be stripping all punctuation, capitalization, and spacing, so the only encoded characters are the letters a-z.
 

@@ -1,4 +1,7 @@
-Title: [2018-03-12] Challenge #354 [Easy] Integer Complexity 1
+---
+title: [2018-03-12] Challenge #354 [Easy] Integer Complexity 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/
+---
 
 # Challenge
 

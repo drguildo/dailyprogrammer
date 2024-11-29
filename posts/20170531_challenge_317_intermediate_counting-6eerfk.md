@@ -1,4 +1,7 @@
-Title: [2017-05-31] Challenge #317 [Intermediate] Counting Elements
+---
+title: [2017-05-31] Challenge #317 [Intermediate] Counting Elements
+url: https://old.reddit.com/r/dailyprogrammer/comments/6eerfk/20170531_challenge_317_intermediate_counting/
+---
 
 #Description
 

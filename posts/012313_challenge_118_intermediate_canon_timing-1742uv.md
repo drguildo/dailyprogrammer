@@ -1,4 +1,7 @@
-Title: [01/23/13] Challenge #118 [Intermediate] Canon Timing
+---
+title: [01/23/13] Challenge #118 [Intermediate] Canon Timing
+url: https://old.reddit.com/r/dailyprogrammer/comments/1742uv/012313_challenge_118_intermediate_canon_timing/
+---
 
 
 # [](#IntermediateIcon) *(Intermediate)*: Canon Timing

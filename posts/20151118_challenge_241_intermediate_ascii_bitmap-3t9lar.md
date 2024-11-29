@@ -1,4 +1,7 @@
-Title: [2015-11-18] Challenge # 241 [intermediate] ascii Bitmap Chess
+---
+title: [2015-11-18] Challenge # 241 [intermediate] ascii Bitmap Chess
+url: https://old.reddit.com/r/dailyprogrammer/comments/3t9lar/20151118_challenge_241_intermediate_ascii_bitmap/
+---
 
 # 1. unicode sucks
 

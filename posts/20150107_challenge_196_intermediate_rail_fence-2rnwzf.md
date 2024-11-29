@@ -1,4 +1,7 @@
-Title: [2015-01-07] Challenge #196 [Intermediate] Rail Fence Cipher
+---
+title: [2015-01-07] Challenge #196 [Intermediate] Rail Fence Cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/2rnwzf/20150107_challenge_196_intermediate_rail_fence/
+---
 
 # [](#IntermediateIcon) **(Intermediate)**: Rail Fence Cipher
 

@@ -1,4 +1,7 @@
-Title: [2/11/2012] Challenge #3 [easy]
+---
+title: [2/11/2012] Challenge #3 [easy]
+url: https://old.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/
+---
 
 Welcome to cipher day!
 

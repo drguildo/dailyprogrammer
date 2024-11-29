@@ -1,4 +1,7 @@
-Title: [2016-07-04] Challenge #274 [Easy] Gold and Treasure: The Beale Cipher
+---
+title: [2016-07-04] Challenge #274 [Easy] Gold and Treasure: The Beale Cipher
+url: https://old.reddit.com/r/dailyprogrammer/comments/4r8fod/20160704_challenge_274_easy_gold_and_treasure_the/
+---
 
 Today's challenge was specially chosen for the US Fourth of July holiday. 
 

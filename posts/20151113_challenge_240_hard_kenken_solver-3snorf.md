@@ -1,4 +1,7 @@
-Title: [2015-11-13] Challenge #240 [Hard] KenKen Solver
+---
+title: [2015-11-13] Challenge #240 [Hard] KenKen Solver
+url: https://old.reddit.com/r/dailyprogrammer/comments/3snorf/20151113_challenge_240_hard_kenken_solver/
+---
 
 # Description
 

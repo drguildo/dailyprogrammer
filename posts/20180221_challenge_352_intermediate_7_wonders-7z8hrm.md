@@ -1,4 +1,7 @@
-Title: [2018-02-21] Challenge #352 [Intermediate] 7 Wonders Resource Allocation
+---
+title: [2018-02-21] Challenge #352 [Intermediate] 7 Wonders Resource Allocation
+url: https://old.reddit.com/r/dailyprogrammer/comments/7z8hrm/20180221_challenge_352_intermediate_7_wonders/
+---
 
 # Description
 

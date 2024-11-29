@@ -1,4 +1,7 @@
-Title: [10/30/2012] Challenge #109 [Difficult] Death Mountains
+---
+title: [10/30/2012] Challenge #109 [Difficult] Death Mountains
+url: https://old.reddit.com/r/dailyprogrammer/comments/12csl5/10302012_challenge_109_difficult_death_mountains/
+---
 
 **Description:**
 

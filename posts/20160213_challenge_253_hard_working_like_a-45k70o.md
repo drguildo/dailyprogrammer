@@ -1,4 +1,7 @@
-Title: [2016-02-13] Challenge #253 [Hard] Working like a terminal
+---
+title: [2016-02-13] Challenge #253 [Hard] Working like a terminal
+url: https://old.reddit.com/r/dailyprogrammer/comments/45k70o/20160213_challenge_253_hard_working_like_a/
+---
 
 First of, sorry for the late upload. I had a bit of an hold up
 

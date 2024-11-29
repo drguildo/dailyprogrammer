@@ -1,4 +1,7 @@
-Title: [5/9/2012] Challenge #50 [intermediate]
+---
+title: [5/9/2012] Challenge #50 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/teu9p/592012_challenge_50_intermediate/
+---
 
 Given an absolute path, write a program that outputs an ASCII tree of that directory.
 

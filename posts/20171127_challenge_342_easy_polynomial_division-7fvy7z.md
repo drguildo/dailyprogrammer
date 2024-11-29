@@ -1,4 +1,7 @@
-Title: [2017-11-27] Challenge #342 [Easy] Polynomial Division
+---
+title: [2017-11-27] Challenge #342 [Easy] Polynomial Division
+url: https://old.reddit.com/r/dailyprogrammer/comments/7fvy7z/20171127_challenge_342_easy_polynomial_division/
+---
 
 #Description
 

@@ -1,4 +1,7 @@
-Title: [2016-02-17] Challenge #254 [Intermediate] Finding Legal Reversi Moves
+---
+title: [2016-02-17] Challenge #254 [Intermediate] Finding Legal Reversi Moves
+url: https://old.reddit.com/r/dailyprogrammer/comments/468pvf/20160217_challenge_254_intermediate_finding_legal/
+---
 
 # Description
 

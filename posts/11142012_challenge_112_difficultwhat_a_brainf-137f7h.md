@@ -1,4 +1,7 @@
-Title: [11/14/2012] Challenge #112 [Difficult]What a Brainf***
+---
+title: [11/14/2012] Challenge #112 [Difficult]What a Brainf***
+url: https://old.reddit.com/r/dailyprogrammer/comments/137f7h/11142012_challenge_112_difficultwhat_a_brainf/
+---
 
 **Description:**
 

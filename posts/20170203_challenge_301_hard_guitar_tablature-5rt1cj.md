@@ -1,4 +1,7 @@
-Title: [2017-02-03] Challenge #301 [Hard] Guitar Tablature
+---
+title: [2017-02-03] Challenge #301 [Hard] Guitar Tablature
+url: https://old.reddit.com/r/dailyprogrammer/comments/5rt1cj/20170203_challenge_301_hard_guitar_tablature/
+---
 
 # Description
 

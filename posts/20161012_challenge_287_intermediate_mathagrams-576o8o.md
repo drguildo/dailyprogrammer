@@ -1,4 +1,7 @@
-Title: [2016-10-12] Challenge #287 [Intermediate] Mathagrams
+---
+title: [2016-10-12] Challenge #287 [Intermediate] Mathagrams
+url: https://old.reddit.com/r/dailyprogrammer/comments/576o8o/20161012_challenge_287_intermediate_mathagrams/
+---
 
 # Description
 

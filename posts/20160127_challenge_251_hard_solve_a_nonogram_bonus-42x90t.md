@@ -1,4 +1,7 @@
-Title: [2016-01-27] Challenge #251 [Hard] Solve a Nonogram + Bonus
+---
+title: [2016-01-27] Challenge #251 [Hard] Solve a Nonogram + Bonus
+url: https://old.reddit.com/r/dailyprogrammer/comments/42x90t/20160127_challenge_251_hard_solve_a_nonogram_bonus/
+---
 
 #Description
 

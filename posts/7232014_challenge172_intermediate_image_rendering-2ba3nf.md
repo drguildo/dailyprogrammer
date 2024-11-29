@@ -1,4 +1,7 @@
-Title: [7/23/2014] Challenge#172 [Intermediate] Image Rendering 101...010101000101
+---
+title: [7/23/2014] Challenge#172 [Intermediate] Image Rendering 101...010101000101
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ba3nf/7232014_challenge172_intermediate_image_rendering/
+---
 
 #Description
 

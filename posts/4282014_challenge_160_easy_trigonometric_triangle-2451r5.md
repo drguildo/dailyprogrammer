@@ -1,4 +1,7 @@
-Title: [4/28/2014] Challenge #160 [Easy] Trigonometric Triangle Trouble, pt. 1
+---
+title: [4/28/2014] Challenge #160 [Easy] Trigonometric Triangle Trouble, pt. 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/2451r5/4282014_challenge_160_easy_trigonometric_triangle/
+---
 
 # [](#EasyIcon) _(Easy)_: Trigonometric Triangle Trouble, pt. 1
 

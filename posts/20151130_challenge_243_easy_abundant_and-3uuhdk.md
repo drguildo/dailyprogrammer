@@ -1,4 +1,7 @@
-Title: [2015-11-30] Challenge #243 [Easy] Abundant and Deficient Numbers
+---
+title: [2015-11-30] Challenge #243 [Easy] Abundant and Deficient Numbers
+url: https://old.reddit.com/r/dailyprogrammer/comments/3uuhdk/20151130_challenge_243_easy_abundant_and/
+---
 
 # Description
 

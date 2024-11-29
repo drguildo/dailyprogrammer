@@ -1,4 +1,7 @@
-Title: [4/11/2014] Challenge #157 [Hard] ASCII Bird
+---
+title: [4/11/2014] Challenge #157 [Hard] ASCII Bird
+url: https://old.reddit.com/r/dailyprogrammer/comments/22slvn/4112014_challenge_157_hard_ascii_bird/
+---
 
 #Description:
 

@@ -1,4 +1,7 @@
-Title: [6/11/2012] Challenge #63 [easy]
+---
+title: [6/11/2012] Challenge #63 [easy]
+url: https://old.reddit.com/r/dailyprogrammer/comments/uw14f/6112012_challenge_63_easy/
+---
 
 Write a procedure called reverse(N, A), where N is an integer and A is an array which reverses the N first items in the array and leaves the rest intact. 
 

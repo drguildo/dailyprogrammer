@@ -1,4 +1,7 @@
-Title: [2016-10-27] Challenge #289 [Intermediate] Metro trip planner
+---
+title: [2016-10-27] Challenge #289 [Intermediate] Metro trip planner
+url: https://old.reddit.com/r/dailyprogrammer/comments/59mnxa/20161027_challenge_289_intermediate_metro_trip/
+---
 
 #Description
 

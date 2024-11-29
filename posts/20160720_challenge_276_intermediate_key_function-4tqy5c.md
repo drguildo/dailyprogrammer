@@ -1,4 +1,7 @@
-Title: [2016-07-20] Challenge #276 [Intermediate] Key function
+---
+title: [2016-07-20] Challenge #276 [Intermediate] Key function
+url: https://old.reddit.com/r/dailyprogrammer/comments/4tqy5c/20160720_challenge_276_intermediate_key_function/
+---
 
 The key function is a higher order array function modelled in sql as `group by` and in J as `/.`  For each key, apply a passed function to the entire subarray of items that share the same key.
 

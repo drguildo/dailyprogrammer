@@ -1,4 +1,7 @@
-Title: [Weekly #21] Recap and Updates
+---
+title: [Weekly #21] Recap and Updates
+url: https://old.reddit.com/r/dailyprogrammer/comments/30ww1a/weekly_21_recap_and_updates/
+---
 
 # [](#WeeklyIcon) The long tail of \/r/DailyProgrammer...
 

@@ -1,4 +1,7 @@
-Title: [5/23/2012] Challenge #56 [intermediate]
+---
+title: [5/23/2012] Challenge #56 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/u0tdu/5232012_challenge_56_intermediate/
+---
 
 
 

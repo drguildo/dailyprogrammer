@@ -1,4 +1,7 @@
-Title: [2018-07-09] Challenge #365 [Easy] Up-arrow Notation
+---
+title: [2018-07-09] Challenge #365 [Easy] Up-arrow Notation
+url: https://old.reddit.com/r/dailyprogrammer/comments/8xbxi9/20180709_challenge_365_easy_uparrow_notation/
+---
 
 # Description
 

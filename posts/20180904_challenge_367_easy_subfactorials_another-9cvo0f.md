@@ -1,4 +1,7 @@
-Title: [2018-09-04] Challenge #367 [Easy] Subfactorials - Another Twist on Factorials
+---
+title: [2018-09-04] Challenge #367 [Easy] Subfactorials - Another Twist on Factorials
+url: https://old.reddit.com/r/dailyprogrammer/comments/9cvo0f/20180904_challenge_367_easy_subfactorials_another/
+---
 
 # Description
 

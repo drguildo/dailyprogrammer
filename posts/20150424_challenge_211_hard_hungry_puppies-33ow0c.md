@@ -1,4 +1,7 @@
-Title: [2015-04-24] Challenge #211 [Hard] Hungry puppies
+---
+title: [2015-04-24] Challenge #211 [Hard] Hungry puppies
+url: https://old.reddit.com/r/dailyprogrammer/comments/33ow0c/20150424_challenge_211_hard_hungry_puppies/
+---
 
 #Description
 

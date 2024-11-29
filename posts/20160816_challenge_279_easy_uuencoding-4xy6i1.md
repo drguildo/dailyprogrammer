@@ -1,4 +1,7 @@
-Title: [2016-08-16] Challenge #279 [Easy] Uuencoding
+---
+title: [2016-08-16] Challenge #279 [Easy] Uuencoding
+url: https://old.reddit.com/r/dailyprogrammer/comments/4xy6i1/20160816_challenge_279_easy_uuencoding/
+---
 
 You are trapped at uninhabited island only with your laptop. Still you don't want your significant other to worry about you, so you are going to send a message in a bottle with your picture or at least a couple of words from you (sure, you could just write down the words, but that would be less fun). You're going to use uuencoding for that.
 

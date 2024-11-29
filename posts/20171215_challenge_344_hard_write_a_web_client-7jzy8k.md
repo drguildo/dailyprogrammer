@@ -1,4 +1,7 @@
-Title: [2017-12-15] Challenge #344 [Hard] Write a Web Client
+---
+title: [2017-12-15] Challenge #344 [Hard] Write a Web Client
+url: https://old.reddit.com/r/dailyprogrammer/comments/7jzy8k/20171215_challenge_344_hard_write_a_web_client/
+---
 
 # Description 
 

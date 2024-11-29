@@ -1,4 +1,7 @@
-Title: [2016-07-13] Challenge #275 [Intermediate] Splurthian Chemistry 102
+---
+title: [2016-07-13] Challenge #275 [Intermediate] Splurthian Chemistry 102
+url: https://old.reddit.com/r/dailyprogrammer/comments/4so25w/20160713_challenge_275_intermediate_splurthian/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [10/18/2012] Challenge #104 [Easy] (Powerplant Simulation)
+---
+title: [10/18/2012] Challenge #104 [Easy] (Powerplant Simulation)
+url: https://old.reddit.com/r/dailyprogrammer/comments/11paok/10182012_challenge_104_easy_powerplant_simulation/
+---
 
 **Description:**
 

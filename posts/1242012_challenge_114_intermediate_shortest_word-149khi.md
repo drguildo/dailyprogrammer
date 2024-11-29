@@ -1,4 +1,7 @@
-Title: [12/4/2012] Challenge #114 [Intermediate] Shortest word ladder
+---
+title: [12/4/2012] Challenge #114 [Intermediate] Shortest word ladder
+url: https://old.reddit.com/r/dailyprogrammer/comments/149khi/1242012_challenge_114_intermediate_shortest_word/
+---
 
 Given any two words from [this list of 3,807 four-letter words](http://pastebin.com/zY4Xt7iB), output a [word ladder](http://www.reddit.com/r/dailyprogrammer/comments/149kec/1242012_challenge_114_easy_word_ladder_steps/) between them that's as short as possible, using words from the list. (Note that the word list was chosen so that it's possible to form a ladder between any pair of words in the list.) Sample input:
 

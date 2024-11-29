@@ -1,4 +1,7 @@
-Title: [2017-08-09] Challenge #326 [Intermediate] Scrabble in Reverse
+---
+title: [2017-08-09] Challenge #326 [Intermediate] Scrabble in Reverse
+url: https://old.reddit.com/r/dailyprogrammer/comments/6sld01/20170809_challenge_326_intermediate_scrabble_in/
+---
 
 # Description
 

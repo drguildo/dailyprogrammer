@@ -1,4 +1,7 @@
-Title: [2015-08-10] Challenge #227 [Easy] Square Spirals
+---
+title: [2015-08-10] Challenge #227 [Easy] Square Spirals
+url: https://old.reddit.com/r/dailyprogrammer/comments/3ggli3/20150810_challenge_227_easy_square_spirals/
+---
 
 # [](#EasyIcon) __(Easy)__: Square Spirals
 

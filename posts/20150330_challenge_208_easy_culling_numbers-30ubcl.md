@@ -1,4 +1,7 @@
-Title: [2015-03-30] Challenge #208 [Easy] Culling Numbers
+---
+title: [2015-03-30] Challenge #208 [Easy] Culling Numbers
+url: https://old.reddit.com/r/dailyprogrammer/comments/30ubcl/20150330_challenge_208_easy_culling_numbers/
+---
 
 #Description:
 

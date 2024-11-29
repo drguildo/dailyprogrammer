@@ -1,4 +1,7 @@
-Title: [7/12/2012] Challenge #75 [easy] (Function Transformation)
+---
+title: [7/12/2012] Challenge #75 [easy] (Function Transformation)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wfhua/7122012_challenge_75_easy_function_transformation/
+---
 
 First off, I'd like to apologize for posting this 12 hours late, I'm a little new to my mod responsibilities.  However, with your forgiveness, we can go onward!
 

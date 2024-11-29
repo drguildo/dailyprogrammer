@@ -1,4 +1,7 @@
-Title: [12/23/13] Challenge #140 [Intermediate] Graph Radius
+---
+title: [12/23/13] Challenge #140 [Intermediate] Graph Radius
+url: https://old.reddit.com/r/dailyprogrammer/comments/1tiz4z/122313_challenge_140_intermediate_graph_radius/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Graph Radius
 

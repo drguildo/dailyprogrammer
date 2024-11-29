@@ -1,4 +1,7 @@
-Title: [2017-04-05] Challenge #309 [Intermediate] Sequential/Finite state machines
+---
+title: [2017-04-05] Challenge #309 [Intermediate] Sequential/Finite state machines
+url: https://old.reddit.com/r/dailyprogrammer/comments/63n40x/20170405_challenge_309_intermediate/
+---
 
 A sequential machines is a form of finite state machine that is (probably) used in regular expression implementations, tokenizing inputs, or just plain splitting/cutting input.
 

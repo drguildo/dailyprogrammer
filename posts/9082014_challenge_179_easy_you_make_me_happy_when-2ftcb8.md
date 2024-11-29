@@ -1,4 +1,7 @@
-Title: [9/08/2014] Challenge #179 [Easy] You make me happy when clouds are gray...scale
+---
+title: [9/08/2014] Challenge #179 [Easy] You make me happy when clouds are gray...scale
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ftcb8/9082014_challenge_179_easy_you_make_me_happy_when/
+---
 
 #Description
 

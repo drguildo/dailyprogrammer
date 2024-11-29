@@ -1,4 +1,7 @@
-Title: [2016-09-21] Challenge #284 [Intermediate] Punch Card Creator
+---
+title: [2016-09-21] Challenge #284 [Intermediate] Punch Card Creator
+url: https://old.reddit.com/r/dailyprogrammer/comments/53sw7z/20160921_challenge_284_intermediate_punch_card/
+---
 
 # Description
 

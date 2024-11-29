@@ -1,4 +1,7 @@
-Title: [2017-04-17] Challenge #311 [Easy] Jolly Jumper
+---
+title: [2017-04-17] Challenge #311 [Easy] Jolly Jumper
+url: https://old.reddit.com/r/dailyprogrammer/comments/65vgkh/20170417_challenge_311_easy_jolly_jumper/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [11/20/2012] Challenge #113 [Intermediate] Text Markup
+---
+title: [11/20/2012] Challenge #113 [Intermediate] Text Markup
+url: https://old.reddit.com/r/dailyprogrammer/comments/13hmz5/11202012_challenge_113_intermediate_text_markup/
+---
 
 **Description:**
 

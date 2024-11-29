@@ -1,4 +1,7 @@
-Title: [2018-01-10] Challenge #346 [Intermediate] Fermat's little theorem
+---
+title: [2018-01-10] Challenge #346 [Intermediate] Fermat's little theorem
+url: https://old.reddit.com/r/dailyprogrammer/comments/7pmt9c/20180110_challenge_346_intermediate_fermats/
+---
 
 #Description
 

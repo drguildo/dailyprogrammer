@@ -1,4 +1,7 @@
-Title: [26/09/2014] Challenge #181 [Hard] Deconstructing Audio
+---
+title: [26/09/2014] Challenge #181 [Hard] Deconstructing Audio
+url: https://old.reddit.com/r/dailyprogrammer/comments/2hjw45/26092014_challenge_181_hard_deconstructing_audio/
+---
 
 #Description
 

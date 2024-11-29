@@ -1,4 +1,7 @@
-Title: [6/23/2014] Challenge #168 [Easy] Final Grades - Test Data
+---
+title: [6/23/2014] Challenge #168 [Easy] Final Grades - Test Data
+url: https://old.reddit.com/r/dailyprogrammer/comments/28vgej/6232014_challenge_168_easy_final_grades_test_data/
+---
 
 #Description:
 

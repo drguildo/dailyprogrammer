@@ -1,4 +1,7 @@
-Title: [2016-04-27] Challenge #264 [Intermediate] Gossiping bus drivers
+---
+title: [2016-04-27] Challenge #264 [Intermediate] Gossiping bus drivers
+url: https://old.reddit.com/r/dailyprogrammer/comments/4gqm90/20160427_challenge_264_intermediate_gossiping_bus/
+---
 
 # Description
 

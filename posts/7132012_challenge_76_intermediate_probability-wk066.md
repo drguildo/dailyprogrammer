@@ -1,4 +1,7 @@
-Title: [7/13/2012] Challenge #76 [intermediate] (Probability graph)
+---
+title: [7/13/2012] Challenge #76 [intermediate] (Probability graph)
+url: https://old.reddit.com/r/dailyprogrammer/comments/wk066/7132012_challenge_76_intermediate_probability/
+---
 
 Write a function `graph(f, low, high, tests)` that outputs a probability graph of the function `f` from range `low` to `high` (inclusive) over `tests` tests (i.e., counting the frequencies of `f()` outputs). `f` takes no arguments and returns an integer, `low`, `high` and `tests` are all integer values. For example, a function `f` that simulates two-dice rolls:
 

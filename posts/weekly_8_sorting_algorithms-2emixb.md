@@ -1,4 +1,7 @@
-Title: [Weekly #8] Sorting algorithms
+---
+title: [Weekly #8] Sorting algorithms
+url: https://old.reddit.com/r/dailyprogrammer/comments/2emixb/weekly_8_sorting_algorithms/
+---
 
 #Weekly Topic:
 

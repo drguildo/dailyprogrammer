@@ -1,4 +1,7 @@
-Title: [2018-01-15] Challenge #347 [Easy] How long has the light been on?
+---
+title: [2018-01-15] Challenge #347 [Easy] How long has the light been on?
+url: https://old.reddit.com/r/dailyprogrammer/comments/7qn07r/20180115_challenge_347_easy_how_long_has_the/
+---
 
 
 

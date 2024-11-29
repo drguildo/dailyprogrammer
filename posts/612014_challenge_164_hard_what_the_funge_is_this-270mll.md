@@ -1,4 +1,7 @@
-Title: [6/1/2014] Challenge #164 [Hard] What the Funge is this!?
+---
+title: [6/1/2014] Challenge #164 [Hard] What the Funge is this!?
+url: https://old.reddit.com/r/dailyprogrammer/comments/270mll/612014_challenge_164_hard_what_the_funge_is_this/
+---
 
 #Description
 

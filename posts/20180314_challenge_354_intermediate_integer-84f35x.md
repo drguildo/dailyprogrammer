@@ -1,4 +1,7 @@
-Title: [2018-03-14] Challenge #354 [Intermediate] Integer Complexity 2
+---
+title: [2018-03-14] Challenge #354 [Intermediate] Integer Complexity 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/84f35x/20180314_challenge_354_intermediate_integer/
+---
 
 # Background
 

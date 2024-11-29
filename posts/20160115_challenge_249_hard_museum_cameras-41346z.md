@@ -1,4 +1,7 @@
-Title: [2016-01-15] Challenge #249 [Hard] Museum Cameras
+---
+title: [2016-01-15] Challenge #249 [Hard] Museum Cameras
+url: https://old.reddit.com/r/dailyprogrammer/comments/41346z/20160115_challenge_249_hard_museum_cameras/
+---
 
 # Description
 

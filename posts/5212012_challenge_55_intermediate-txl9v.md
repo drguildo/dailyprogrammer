@@ -1,4 +1,7 @@
-Title: [5/21/2012] Challenge #55 [intermediate]
+---
+title: [5/21/2012] Challenge #55 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/txl9v/5212012_challenge_55_intermediate/
+---
 
 Write a program that will allow the user to enter two characters. The program will validate the characters to make sure they are in the range '0' to '9'. The program will display their sum. The output should look like this.
 

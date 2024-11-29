@@ -1,4 +1,7 @@
-Title: [ANN] Only one challenge this week
+---
+title: [ANN] Only one challenge this week
+url: https://old.reddit.com/r/dailyprogrammer/comments/4vr831/ann_only_one_challenge_this_week/
+---
 
 #Announcement
 

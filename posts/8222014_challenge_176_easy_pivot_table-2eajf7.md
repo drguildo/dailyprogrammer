@@ -1,4 +1,7 @@
-Title: [8/22/2014] Challenge #176 [Easy] Pivot Table
+---
+title: [8/22/2014] Challenge #176 [Easy] Pivot Table
+url: https://old.reddit.com/r/dailyprogrammer/comments/2eajf7/8222014_challenge_176_easy_pivot_table/
+---
 
 #Description:
 

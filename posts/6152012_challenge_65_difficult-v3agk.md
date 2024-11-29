@@ -1,4 +1,7 @@
-Title: [6/15/2012] Challenge #65 [difficult]
+---
+title: [6/15/2012] Challenge #65 [difficult]
+url: https://old.reddit.com/r/dailyprogrammer/comments/v3agk/6152012_challenge_65_difficult/
+---
 
 A magic square is a square of size NxN with the numbers 1 through n^2 put in so that all rows, all columns and both diagonals sum to the same number. For instance, this is a 3x3 magic square:
 

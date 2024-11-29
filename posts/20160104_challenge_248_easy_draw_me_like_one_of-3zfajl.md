@@ -1,4 +1,7 @@
-Title: [2016-01-04] Challenge #248 [Easy] Draw Me Like One Of Your Bitmaps
+---
+title: [2016-01-04] Challenge #248 [Easy] Draw Me Like One Of Your Bitmaps
+url: https://old.reddit.com/r/dailyprogrammer/comments/3zfajl/20160104_challenge_248_easy_draw_me_like_one_of/
+---
 
 Let's build a basic paint program! Your task for today will be to create a basic paint program that can draw points, lines, and filled rectangles, then output an image file that many image viewers can read. But first, some background:
 

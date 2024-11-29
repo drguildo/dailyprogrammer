@@ -1,4 +1,7 @@
-Title: [2015-10-02] Challenge #234 [Hard] Kanoodle Solver
+---
+title: [2015-10-02] Challenge #234 [Hard] Kanoodle Solver
+url: https://old.reddit.com/r/dailyprogrammer/comments/3n7xau/20151002_challenge_234_hard_kanoodle_solver/
+---
 
 Getting back on track today.
 

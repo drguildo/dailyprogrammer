@@ -1,4 +1,7 @@
-Title: [10/20/2012] Challenge #104 [hard] (Image color analyzer)
+---
+title: [10/20/2012] Challenge #104 [hard] (Image color analyzer)
+url: https://old.reddit.com/r/dailyprogrammer/comments/11ss0k/10202012_challenge_104_hard_image_color_analyzer/
+---
 
 Sorry for taking the last challenge down but it seems it was already done. I had searched for "slide puzzle" -- what they're usually called -- but not "15 puzzle."
 

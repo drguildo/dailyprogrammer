@@ -1,4 +1,7 @@
-Title: [11/15/13] Challenge #129 [Hard] Baking Pi
+---
+title: [11/15/13] Challenge #129 [Hard] Baking Pi
+url: https://old.reddit.com/r/dailyprogrammer/comments/1qply1/111513_challenge_129_hard_baking_pi/
+---
 
 # [](#HardIcon) *(Hard)*: Baking Pi
 

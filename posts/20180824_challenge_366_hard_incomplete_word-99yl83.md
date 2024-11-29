@@ -1,4 +1,7 @@
-Title: [2018-08-24] Challenge #366 [Hard] Incomplete word ladders
+---
+title: [2018-08-24] Challenge #366 [Hard] Incomplete word ladders
+url: https://old.reddit.com/r/dailyprogrammer/comments/99yl83/20180824_challenge_366_hard_incomplete_word/
+---
 
 # Definitions
 

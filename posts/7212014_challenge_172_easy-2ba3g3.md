@@ -1,4 +1,7 @@
-Title: [7/21/2014] Challenge #172 [Easy] ■■□□□▦■□
+---
+title: [7/21/2014] Challenge #172 [Easy] ■■□□□▦■□
+url: https://old.reddit.com/r/dailyprogrammer/comments/2ba3g3/7212014_challenge_172_easy/
+---
 
 #Description
 

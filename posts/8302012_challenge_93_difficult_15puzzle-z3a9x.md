@@ -1,5 +1,8 @@
-Title: [8/30/2012] Challenge #93 [difficult] (15-puzzle)
+---
+title: [8/30/2012] Challenge #93 [difficult] (15-puzzle)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/z3a9x/8302012_challenge_93_difficult_15puzzle/
+---
 
 Write a program that can solve a standard ['15-puzzle'](http://en.wikipedia.org/wiki/Fifteen_puzzle).
 

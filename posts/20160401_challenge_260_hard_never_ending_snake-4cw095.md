@@ -1,4 +1,7 @@
-Title: [2016-04-01] Challenge #260 [Hard] Never Ending Snake
+---
+title: [2016-04-01] Challenge #260 [Hard] Never Ending Snake
+url: https://old.reddit.com/r/dailyprogrammer/comments/4cw095/20160401_challenge_260_hard_never_ending_snake/
+---
 
 # Description
 Sleether Yn is a neverending snake, and like all neverending snakes, she loves drinking neverending soda and eating baloney. She also hates walking (err, creeping) -- which probably has to do with the fact that her body **grows whenever she moves**. Your goal is give Yn instructions to **eat all the food** on the map, while **moving as little as possible**. On map 1, for instance, you could just tell her: "**r2d2**", for "move right twice and down twice" (she can't move diagonally). You might also say "rrdd", if you prefer.

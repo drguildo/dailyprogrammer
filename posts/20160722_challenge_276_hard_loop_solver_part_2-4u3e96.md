@@ -1,4 +1,7 @@
-Title: [2016-07-22] Challenge #276 [Hard] ∞ Loop solver part 2
+---
+title: [2016-07-22] Challenge #276 [Hard] ∞ Loop solver part 2
+url: https://old.reddit.com/r/dailyprogrammer/comments/4u3e96/20160722_challenge_276_hard_loop_solver_part_2/
+---
 
 This is the same challenge as /u/jnazario's excellent [∞ Loop solver](https://www.reddit.com/r/dailyprogrammer/comments/4rug59/20160708_challenge_274_hard_loop_solver/) but for larger inputs.
 

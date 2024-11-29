@@ -1,5 +1,8 @@
-Title: [9/06/2012] Challenge #96 [intermediate] (Parsing English Values)
+---
+title: [9/06/2012] Challenge #96 [intermediate] (Parsing English Values)
 
+url: https://old.reddit.com/r/dailyprogrammer/comments/zfeb2/9062012_challenge_96_intermediate_parsing_english/
+---
 
 In intermediate problem #8 we did a number to english converter.  Your task this time is to write a function that 
 can take in a string like "One-Hundred and Ninety-Seven" or "Seven-Hundred and Forty-Four Million", parse it, and

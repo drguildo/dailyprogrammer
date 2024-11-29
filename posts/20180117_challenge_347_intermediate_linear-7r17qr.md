@@ -1,4 +1,7 @@
-Title: [2018-01-17] Challenge #347 [Intermediate] Linear Feedback Shift Register
+---
+title: [2018-01-17] Challenge #347 [Intermediate] Linear Feedback Shift Register
+url: https://old.reddit.com/r/dailyprogrammer/comments/7r17qr/20180117_challenge_347_intermediate_linear/
+---
 
 # Description
 

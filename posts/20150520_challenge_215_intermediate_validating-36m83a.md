@@ -1,4 +1,7 @@
-Title: [2015-05-20] Challenge #215 [Intermediate] Validating sorting networks
+---
+title: [2015-05-20] Challenge #215 [Intermediate] Validating sorting networks
+url: https://old.reddit.com/r/dailyprogrammer/comments/36m83a/20150520_challenge_215_intermediate_validating/
+---
 
 #Description
 

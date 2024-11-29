@@ -1,4 +1,7 @@
-Title: [2015-1-26] Challenge #199 Bank Number Banners Pt 1
+---
+title: [2015-1-26] Challenge #199 Bank Number Banners Pt 1
+url: https://old.reddit.com/r/dailyprogrammer/comments/2tr6yn/2015126_challenge_199_bank_number_banners_pt_1/
+---
 
 # Description
 

@@ -1,4 +1,7 @@
-Title: [11/28/13] Challenge #137 [Intermediate / Hard] Banquet Planning
+---
+title: [11/28/13] Challenge #137 [Intermediate / Hard] Banquet Planning
+url: https://old.reddit.com/r/dailyprogrammer/comments/1rnrs2/112813_challenge_137_intermediate_hard_banquet/
+---
 
 # [](#IntermediateIcon) *(Intermediate)*: Banquet Planning
 

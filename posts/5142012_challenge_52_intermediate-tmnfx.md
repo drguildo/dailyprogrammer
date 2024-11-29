@@ -1,4 +1,7 @@
-Title: [5/14/2012] Challenge #52 [intermediate]
+---
+title: [5/14/2012] Challenge #52 [intermediate]
+url: https://old.reddit.com/r/dailyprogrammer/comments/tmnfx/5142012_challenge_52_intermediate/
+---
 
 After years of study, scientists have discovered an alien language transmitted from a faraway planet. The alien language is very unique in that every word consists of exactly L lowercase letters. Also, there are exactly D words in this language.
 

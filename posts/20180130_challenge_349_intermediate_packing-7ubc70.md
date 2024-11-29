@@ -1,4 +1,7 @@
-Title: [2018-01-30] Challenge #349 [Intermediate] Packing Stacks of Boxes
+---
+title: [2018-01-30] Challenge #349 [Intermediate] Packing Stacks of Boxes
+url: https://old.reddit.com/r/dailyprogrammer/comments/7ubc70/20180130_challenge_349_intermediate_packing/
+---
 
 # Description
 

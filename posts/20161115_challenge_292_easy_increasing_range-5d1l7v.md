@@ -1,4 +1,7 @@
-Title: [2016-11-15] Challenge #292 [Easy] Increasing range parsing
+---
+title: [2016-11-15] Challenge #292 [Easy] Increasing range parsing
+url: https://old.reddit.com/r/dailyprogrammer/comments/5d1l7v/20161115_challenge_292_easy_increasing_range/
+---
 
 # **Description:**
 

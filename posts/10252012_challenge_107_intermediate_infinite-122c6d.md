@@ -1,4 +1,7 @@
-Title: 10/25/2012] Challenge #107 [Intermediate] (Infinite Monkey Theorem)
+---
+title: 10/25/2012] Challenge #107 [Intermediate] (Infinite Monkey Theorem)
+url: https://old.reddit.com/r/dailyprogrammer/comments/122c6d/10252012_challenge_107_intermediate_infinite/
+---
 
 Verify the [Infinite Monkey Theorem](http://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 

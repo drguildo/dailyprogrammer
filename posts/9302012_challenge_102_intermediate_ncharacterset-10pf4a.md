@@ -1,4 +1,7 @@
-Title: [9/30/2012] Challenge #102 [intermediate] (n-character-set strings)
+---
+title: [9/30/2012] Challenge #102 [intermediate] (n-character-set strings)
+url: https://old.reddit.com/r/dailyprogrammer/comments/10pf4a/9302012_challenge_102_intermediate_ncharacterset/
+---
 
 Write a function that takes a string *s* and an integer *n*, and returns whether or not the string *s* contains **at most** *n* different characters.
 

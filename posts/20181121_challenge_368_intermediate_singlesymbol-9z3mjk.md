@@ -1,4 +1,7 @@
-Title: [2018-11-21] Challenge #368 [Intermediate] Single-symbol squares
+---
+title: [2018-11-21] Challenge #368 [Intermediate] Single-symbol squares
+url: https://old.reddit.com/r/dailyprogrammer/comments/9z3mjk/20181121_challenge_368_intermediate_singlesymbol/
+---
 
 # Description
 

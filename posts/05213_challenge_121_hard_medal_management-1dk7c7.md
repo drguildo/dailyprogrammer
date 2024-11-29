@@ -1,4 +1,7 @@
-Title: [05/2/13] Challenge #121 [Hard] Medal Management
+---
+title: [05/2/13] Challenge #121 [Hard] Medal Management
+url: https://old.reddit.com/r/dailyprogrammer/comments/1dk7c7/05213_challenge_121_hard_medal_management/
+---
 
 # [](#HardIcon) *(Hard)*: Medal Management
 

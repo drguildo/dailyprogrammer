@@ -1,4 +1,7 @@
-Title: [6/18/2012] Challenge #66 [easy]
+---
+title: [6/18/2012] Challenge #66 [easy]
+url: https://old.reddit.com/r/dailyprogrammer/comments/v89c4/6182012_challenge_66_easy/
+---
 
 Write a function that takes two arguments, x and y, which are two strings containing Roman Numerals without prefix subtraction (so for instance, 14 is represented as XIIII, not XIV). The function must return true if and only if the number represented by x is less than the number represented by y. Do it without actually converting the Roman numerals into regular numbers.
 

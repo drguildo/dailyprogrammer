@@ -1,4 +1,7 @@
-Title: [2017-07-03] Challenge #322 [Easy] All Pairs Test Generator
+---
+title: [2017-07-03] Challenge #322 [Easy] All Pairs Test Generator
+url: https://old.reddit.com/r/dailyprogrammer/comments/6l3hd8/20170703_challenge_322_easy_all_pairs_test/
+---
 
 # Description
 

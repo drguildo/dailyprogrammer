@@ -1,4 +1,7 @@
-Title: [2015-12-23] Challenge # 246 [Intermediate] Letter Splits
+---
+title: [2015-12-23] Challenge # 246 [Intermediate] Letter Splits
+url: https://old.reddit.com/r/dailyprogrammer/comments/3xye4g/20151223_challenge_246_intermediate_letter_splits/
+---
 
 This problem is a simplified version of Text Segmentation in Natural Language Processing.
 

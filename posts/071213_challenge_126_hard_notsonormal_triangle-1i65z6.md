@@ -1,4 +1,7 @@
-Title: [07/12/13] Challenge #126 [Hard] Not-So-Normal Triangle Search
+---
+title: [07/12/13] Challenge #126 [Hard] Not-So-Normal Triangle Search
+url: https://old.reddit.com/r/dailyprogrammer/comments/1i65z6/071213_challenge_126_hard_notsonormal_triangle/
+---
 
 # [](#HardIcon) *(Hard)*: Not-So-Normal  Triangle Search
 

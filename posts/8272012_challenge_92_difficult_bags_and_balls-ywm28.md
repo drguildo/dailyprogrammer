@@ -1,4 +1,7 @@
-Title: [8/27/2012] Challenge #92 [difficult] (Bags and balls)
+---
+title: [8/27/2012] Challenge #92 [difficult] (Bags and balls)
+url: https://old.reddit.com/r/dailyprogrammer/comments/ywm28/8272012_challenge_92_difficult_bags_and_balls/
+---
 
 Compute all the permutations of placing 9 balls into 4 bags such that each bag contains an odd number of balls.
 

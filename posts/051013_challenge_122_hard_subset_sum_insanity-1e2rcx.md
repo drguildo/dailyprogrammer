@@ -1,4 +1,7 @@
-Title: [05/10/13] Challenge #122 [Hard] Subset Sum Insanity
+---
+title: [05/10/13] Challenge #122 [Hard] Subset Sum Insanity
+url: https://old.reddit.com/r/dailyprogrammer/comments/1e2rcx/051013_challenge_122_hard_subset_sum_insanity/
+---
 
 # [](#HardIcon) *(Hard)*: Subset Sum 
 
