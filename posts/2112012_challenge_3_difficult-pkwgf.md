@@ -1,6 +1,6 @@
 ---
-title: [2/11/2012] challenge #3 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/pkwgf/2112012_challenge_3_difficult/
+title: "[2/11/2012] challenge #3 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/pkwgf/2112012_challenge_3_difficult/"
 ---
 
 Welcome to cipher day!

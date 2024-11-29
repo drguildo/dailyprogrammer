@@ -1,6 +1,6 @@
 ---
-title: [4/2/2014] Challenge #156 [Intermediate] Managing Workers
-url: https://old.reddit.com/r/dailyprogrammer/comments/21yuep/422014_challenge_156_intermediate_managing_workers/
+title: "[4/2/2014] Challenge #156 [Intermediate] Managing Workers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/21yuep/422014_challenge_156_intermediate_managing_workers/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Managing Workers

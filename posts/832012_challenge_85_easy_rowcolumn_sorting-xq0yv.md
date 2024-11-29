@@ -1,6 +1,6 @@
 ---
-title: [8/3/2012] Challenge #85 [easy] (Row/column sorting)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xq0yv/832012_challenge_85_easy_rowcolumn_sorting/
+title: "[8/3/2012] Challenge #85 [easy] (Row/column sorting)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xq0yv/832012_challenge_85_easy_rowcolumn_sorting/"
 ---
 
 Write a program that reads a matrix of numbers separated by newlines and whitespace, like this:

@@ -1,6 +1,6 @@
 ---
-title: [10/13/2012] Challenge #103 [easy-difficult] (Text transformations)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11erhd/10132012_challenge_103_easydifficult_text/
+title: "[10/13/2012] Challenge #103 [easy-difficult] (Text transformations)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11erhd/10132012_challenge_103_easydifficult_text/"
 ---
 
 ###Easy

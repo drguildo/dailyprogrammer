@@ -1,6 +1,6 @@
 ---
-title: [2015-08-14] Challenge #227 [Hard] Adjacency Matrix Generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/
+title: "[2015-08-14] Challenge #227 [Hard] Adjacency Matrix Generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/"
 ---
 
 # [](#HardIcon) _(Hard)_: Adjacency Matrix Generator

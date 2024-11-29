@@ -1,6 +1,6 @@
 ---
-title: [2016-01-13] Challenge #249 [Intermediate] Hello World Genetic or Evolutionary Algorithm
-url: https://old.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
+title: "[2016-01-13] Challenge #249 [Intermediate] Hello World Genetic or Evolutionary Algorithm"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/"
 ---
 
 # Description

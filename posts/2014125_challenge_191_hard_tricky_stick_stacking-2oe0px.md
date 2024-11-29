@@ -1,6 +1,6 @@
 ---
-title: [2014-12-5] Challenge #191 [Hard] Tricky Stick Stacking
-url: https://old.reddit.com/r/dailyprogrammer/comments/2oe0px/2014125_challenge_191_hard_tricky_stick_stacking/
+title: "[2014-12-5] Challenge #191 [Hard] Tricky Stick Stacking"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2oe0px/2014125_challenge_191_hard_tricky_stick_stacking/"
 ---
 
 # [](#HardIcon) **(Hard)**: Tricky Stick Stacking

@@ -1,6 +1,6 @@
 ---
-title: [3/9/2012] Challenge #21 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/qp3ub/392012_challenge_21_easy/
+title: "[3/9/2012] Challenge #21 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/qp3ub/392012_challenge_21_easy/"
 ---
 
 Input: a number

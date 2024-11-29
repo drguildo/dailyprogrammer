@@ -1,6 +1,6 @@
 ---
-title: [5/5/2014] #161 [Easy] Blackjack!
-url: https://old.reddit.com/r/dailyprogrammer/comments/24r50l/552014_161_easy_blackjack/
+title: "[5/5/2014] #161 [Easy] Blackjack!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/24r50l/552014_161_easy_blackjack/"
 ---
 
 #Description:

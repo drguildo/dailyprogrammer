@@ -1,6 +1,6 @@
 ---
-title: [Weekly #6] Python Tips and Tricks
-url: https://old.reddit.com/r/dailyprogrammer/comments/2d957i/weekly_6_python_tips_and_tricks/
+title: "[Weekly #6] Python Tips and Tricks"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2d957i/weekly_6_python_tips_and_tricks/"
 ---
 
 #Weekly #6: Python Tips and Tricks

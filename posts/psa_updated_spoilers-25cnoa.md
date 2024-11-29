@@ -1,6 +1,6 @@
 ---
-title: [PSA] Updated Spoilers
-url: https://old.reddit.com/r/dailyprogrammer/comments/25cnoa/psa_updated_spoilers/
+title: "[PSA] Updated Spoilers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/25cnoa/psa_updated_spoilers/"
 ---
 
 Hey folks.

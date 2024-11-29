@@ -1,6 +1,6 @@
 ---
-title: [11/20/2012] Challenge #113 [Difficult] Memory Allocation Insanity!
-url: https://old.reddit.com/r/dailyprogrammer/comments/13hmzb/11202012_challenge_113_difficult_memory/
+title: "[11/20/2012] Challenge #113 [Difficult] Memory Allocation Insanity!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/13hmzb/11202012_challenge_113_difficult_memory/"
 ---
 
 **Description:**

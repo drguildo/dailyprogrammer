@@ -1,6 +1,6 @@
 ---
-title: [Weekly #22] Machine Learning
-url: https://old.reddit.com/r/dailyprogrammer/comments/3206mk/weekly_22_machine_learning/
+title: "[Weekly #22] Machine Learning"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3206mk/weekly_22_machine_learning/"
 ---
 
 # [](#WeeklyIcon) Asimov would be proud!

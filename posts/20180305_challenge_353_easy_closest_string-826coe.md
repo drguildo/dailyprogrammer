@@ -1,6 +1,6 @@
 ---
-title: [2018-03-05] Challenge #353 [Easy] Closest String
-url: https://old.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/
+title: "[2018-03-05] Challenge #353 [Easy] Closest String"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/"
 ---
 
 # Description

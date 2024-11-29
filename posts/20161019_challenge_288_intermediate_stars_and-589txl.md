@@ -1,6 +1,6 @@
 ---
-title: [2016-10-19] Challenge #288 [Intermediate] Stars and Stripes and Vertices
-url: https://old.reddit.com/r/dailyprogrammer/comments/589txl/20161019_challenge_288_intermediate_stars_and/
+title: "[2016-10-19] Challenge #288 [Intermediate] Stars and Stripes and Vertices"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/589txl/20161019_challenge_288_intermediate_stars_and/"
 ---
 
 # Description

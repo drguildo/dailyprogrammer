@@ -1,6 +1,6 @@
 ---
-title: [PSA] Wednesday's Challenge has been postponed.
-url: https://old.reddit.com/r/dailyprogrammer/comments/27wibp/psa_wednesdays_challenge_has_been_postponed/
+title: "[PSA] Wednesday's Challenge has been postponed."
+url: "https://old.reddit.com/r/dailyprogrammer/comments/27wibp/psa_wednesdays_challenge_has_been_postponed/"
 ---
 
 Hey programmers.

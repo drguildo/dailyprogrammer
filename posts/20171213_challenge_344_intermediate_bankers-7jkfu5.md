@@ -1,6 +1,6 @@
 ---
-title: [2017-12-13] Challenge #344 [Intermediate] Banker's Algorithm
-url: https://old.reddit.com/r/dailyprogrammer/comments/7jkfu5/20171213_challenge_344_intermediate_bankers/
+title: "[2017-12-13] Challenge #344 [Intermediate] Banker's Algorithm"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7jkfu5/20171213_challenge_344_intermediate_bankers/"
 ---
 
 # Description:

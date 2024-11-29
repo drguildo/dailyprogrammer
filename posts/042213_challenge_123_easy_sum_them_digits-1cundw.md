@@ -1,6 +1,6 @@
 ---
-title: [04/22/13] Challenge #123 [Easy] Sum Them Digits
-url: https://old.reddit.com/r/dailyprogrammer/comments/1cundw/042213_challenge_123_easy_sum_them_digits/
+title: "[04/22/13] Challenge #123 [Easy] Sum Them Digits"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1cundw/042213_challenge_123_easy_sum_them_digits/"
 ---
 
 

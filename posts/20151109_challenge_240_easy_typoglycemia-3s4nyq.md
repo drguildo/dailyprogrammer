@@ -1,6 +1,6 @@
 ---
-title: [2015-11-09] Challenge #240 [Easy] Typoglycemia
-url: https://old.reddit.com/r/dailyprogrammer/comments/3s4nyq/20151109_challenge_240_easy_typoglycemia/
+title: "[2015-11-09] Challenge #240 [Easy] Typoglycemia"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3s4nyq/20151109_challenge_240_easy_typoglycemia/"
 ---
 
 #Description

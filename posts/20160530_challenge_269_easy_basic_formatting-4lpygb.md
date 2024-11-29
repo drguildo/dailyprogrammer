@@ -1,6 +1,6 @@
 ---
-title: [2016-05-30] Challenge #269 [Easy] BASIC Formatting
-url: https://old.reddit.com/r/dailyprogrammer/comments/4lpygb/20160530_challenge_269_easy_basic_formatting/
+title: "[2016-05-30] Challenge #269 [Easy] BASIC Formatting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4lpygb/20160530_challenge_269_easy_basic_formatting/"
 ---
 
 #Description

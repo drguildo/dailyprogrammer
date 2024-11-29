@@ -1,6 +1,6 @@
 ---
-title: [PSA] Ludum Dare game competition starts later, at 9PM Eastern Time (2AM British Summer Time) - get your game dev boots on and write a game in 48 hours!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2e9mqr/psa_ludum_dare_game_competition_starts_later_at/
+title: "[PSA] Ludum Dare game competition starts later, at 9PM Eastern Time (2AM British Summer Time) - get your game dev boots on and write a game in 48 hours!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2e9mqr/psa_ludum_dare_game_competition_starts_later_at/"
 ---
 
 # [Go here](http://www.ludumdare.com/compo/) to see the Ludum Dare home page.

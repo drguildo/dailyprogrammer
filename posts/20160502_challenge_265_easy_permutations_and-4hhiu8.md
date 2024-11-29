@@ -1,6 +1,6 @@
 ---
-title: [2016-05-02] Challenge #265 [Easy] Permutations and combinations part 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/4hhiu8/20160502_challenge_265_easy_permutations_and/
+title: "[2016-05-02] Challenge #265 [Easy] Permutations and combinations part 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4hhiu8/20160502_challenge_265_easy_permutations_and/"
 ---
 
 # Permutations

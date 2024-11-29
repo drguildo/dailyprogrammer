@@ -1,6 +1,6 @@
 ---
-title: [2016-11-04] Challenge #290 [Hard] Gophers and Robot Dogs
-url: https://old.reddit.com/r/dailyprogrammer/comments/5b5fc8/20161104_challenge_290_hard_gophers_and_robot_dogs/
+title: "[2016-11-04] Challenge #290 [Hard] Gophers and Robot Dogs"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5b5fc8/20161104_challenge_290_hard_gophers_and_robot_dogs/"
 ---
 
 # Description

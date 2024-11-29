@@ -1,6 +1,6 @@
 ---
-title: [05/14/13] WINNERS: Week-Long Challenge #2
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ebu5l/051413_winners_weeklong_challenge_2/
+title: "[05/14/13] WINNERS: Week-Long Challenge #2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ebu5l/051413_winners_weeklong_challenge_2/"
 ---
 
 Hey r/DailyProgrammers,

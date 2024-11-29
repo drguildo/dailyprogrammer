@@ -1,6 +1,6 @@
 ---
-title: [2017-08-18] Challenge #327 [Hard] Calculating Costas Arrays
-url: https://old.reddit.com/r/dailyprogrammer/comments/6uifb0/20170818_challenge_327_hard_calculating_costas/
+title: "[2017-08-18] Challenge #327 [Hard] Calculating Costas Arrays"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6uifb0/20170818_challenge_327_hard_calculating_costas/"
 ---
 
 # Description

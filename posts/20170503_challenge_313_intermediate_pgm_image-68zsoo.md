@@ -1,6 +1,6 @@
 ---
-title: [2017-05-03] Challenge #313 [Intermediate] PGM image manipulation
-url: https://old.reddit.com/r/dailyprogrammer/comments/68zsoo/20170503_challenge_313_intermediate_pgm_image/
+title: "[2017-05-03] Challenge #313 [Intermediate] PGM image manipulation"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/68zsoo/20170503_challenge_313_intermediate_pgm_image/"
 ---
 
 # Description

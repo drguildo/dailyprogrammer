@@ -1,6 +1,6 @@
 ---
-title: [2015-11-23] Challenge # 242 [easy] Funny plant
-url: https://old.reddit.com/r/dailyprogrammer/comments/3twuwf/20151123_challenge_242_easy_funny_plant/
+title: "[2015-11-23] Challenge # 242 [easy] Funny plant"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3twuwf/20151123_challenge_242_easy_funny_plant/"
 ---
 
 **Description**

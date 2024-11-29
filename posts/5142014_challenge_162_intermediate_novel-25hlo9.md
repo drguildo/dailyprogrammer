@@ -1,6 +1,6 @@
 ---
-title: [5/14/2014] Challenge #162 [Intermediate] Novel Compression, pt. 2: Compressing the Data
-url: https://old.reddit.com/r/dailyprogrammer/comments/25hlo9/5142014_challenge_162_intermediate_novel/
+title: "[5/14/2014] Challenge #162 [Intermediate] Novel Compression, pt. 2: Compressing the Data"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/25hlo9/5142014_challenge_162_intermediate_novel/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Novel Compression, pt. 2: Compressing the Data

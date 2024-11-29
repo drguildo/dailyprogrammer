@@ -1,6 +1,6 @@
 ---
-title: [2016-12-09] Challenge #294 [Hard] Rack management 3
-url: https://old.reddit.com/r/dailyprogrammer/comments/5hcd0x/20161209_challenge_294_hard_rack_management_3/
+title: "[2016-12-09] Challenge #294 [Hard] Rack management 3"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5hcd0x/20161209_challenge_294_hard_rack_management_3/"
 ---
 
 # Description

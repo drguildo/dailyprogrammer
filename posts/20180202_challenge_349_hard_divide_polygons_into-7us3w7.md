@@ -1,6 +1,6 @@
 ---
-title: [2018-02-02] Challenge #349 [Hard] Divide Polygons into Equal Regions
-url: https://old.reddit.com/r/dailyprogrammer/comments/7us3w7/20180202_challenge_349_hard_divide_polygons_into/
+title: "[2018-02-02] Challenge #349 [Hard] Divide Polygons into Equal Regions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7us3w7/20180202_challenge_349_hard_divide_polygons_into/"
 ---
 
 

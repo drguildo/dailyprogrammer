@@ -1,6 +1,6 @@
 ---
-title: [5/28/2012] Challenge #58 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/u8jn9/5282012_challenge_58_intermediate/
+title: "[5/28/2012] Challenge #58 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/u8jn9/5282012_challenge_58_intermediate/"
 ---
 
 For the easy part of today's challenge, we considered numbers that are palindromes in different bases. For this problem, lets only concern ourselves with numbers that are palindromes in base 10.

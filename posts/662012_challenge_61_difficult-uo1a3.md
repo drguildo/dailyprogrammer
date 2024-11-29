@@ -1,6 +1,6 @@
 ---
-title: [6/6/2012] Challenge #61 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uo1a3/662012_challenge_61_difficult/
+title: "[6/6/2012] Challenge #61 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uo1a3/662012_challenge_61_difficult/"
 ---
 
 As is well known, the decimal expansion of sqrt(N) when N is not a perfect square, goes on forever and does not repeat. For instance, sqrt(8) starts out 2.82842712... and never starts repeating itself. This is because when N is not a perfect square, [sqrt(N) is irrational](http://en.wikipedia.org/wiki/Infinite_descent#Irrationality_of_.E2.88.9Ak_if_it_is_not_an_integer) and [all numbers with repeating decimals are rational](http://en.wikipedia.org/wiki/Repeating_decimal#Every_repeating_or_terminating_decimal_is_a_rational_number). 

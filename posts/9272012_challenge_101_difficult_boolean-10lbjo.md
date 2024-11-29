@@ -1,7 +1,7 @@
 ---
-title: [9/27/2012] Challenge #101 [difficult] (Boolean Minimization)
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/10lbjo/9272012_challenge_101_difficult_boolean/
+title: "[9/27/2012] Challenge #101 [difficult] (Boolean Minimization)
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/10lbjo/9272012_challenge_101_difficult_boolean/"
 ---
 
 For difficult 101, I thought I'd do something with binary in it.

@@ -1,6 +1,6 @@
 ---
-title: [Weekly #14] High &amp; Low Level
-url: https://old.reddit.com/r/dailyprogrammer/comments/2jt5mv/weekly_14_high_low_level/
+title: "[Weekly #14] High &amp; Low Level"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2jt5mv/weekly_14_high_low_level/"
 ---
 
 What's your preference towards languages?

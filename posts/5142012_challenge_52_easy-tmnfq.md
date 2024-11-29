@@ -1,6 +1,6 @@
 ---
-title: [5/14/2012] Challenge #52 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tmnfq/5142012_challenge_52_easy/
+title: "[5/14/2012] Challenge #52 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tmnfq/5142012_challenge_52_easy/"
 ---
 
 Imagine each letter and its position within the alphabet. Now assign each letter its corresponding value ie a=1, b=2,... z=26. When given a list of words, order the words by the sum of the values of the letters in their names.

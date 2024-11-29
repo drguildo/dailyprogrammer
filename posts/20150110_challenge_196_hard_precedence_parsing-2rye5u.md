@@ -1,6 +1,6 @@
 ---
-title: [2015-01-10] Challenge #196 [Hard] Precedence Parsing
-url: https://old.reddit.com/r/dailyprogrammer/comments/2rye5u/20150110_challenge_196_hard_precedence_parsing/
+title: "[2015-01-10] Challenge #196 [Hard] Precedence Parsing"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2rye5u/20150110_challenge_196_hard_precedence_parsing/"
 ---
 
 # [](#HardIcon) **(Hard)**: Precedence Parsing

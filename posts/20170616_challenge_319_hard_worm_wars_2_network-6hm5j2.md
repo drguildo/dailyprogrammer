@@ -1,6 +1,6 @@
 ---
-title: [2017-06-16] Challenge #319 [Hard] Worm Wars 2 - Network Epidemiology
-url: https://old.reddit.com/r/dailyprogrammer/comments/6hm5j2/20170616_challenge_319_hard_worm_wars_2_network/
+title: "[2017-06-16] Challenge #319 [Hard] Worm Wars 2 - Network Epidemiology"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6hm5j2/20170616_challenge_319_hard_worm_wars_2_network/"
 ---
 
 # Description

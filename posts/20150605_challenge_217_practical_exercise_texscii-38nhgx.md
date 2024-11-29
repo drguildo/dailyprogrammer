@@ -1,6 +1,6 @@
 ---
-title: [2015-06-05] Challenge #217 [Practical Exercise] TeXSCII
-url: https://old.reddit.com/r/dailyprogrammer/comments/38nhgx/20150605_challenge_217_practical_exercise_texscii/
+title: "[2015-06-05] Challenge #217 [Practical Exercise] TeXSCII"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/38nhgx/20150605_challenge_217_practical_exercise_texscii/"
 ---
 
 # [](#PEIcon) _(Practical Exercise)_: TeXSCII

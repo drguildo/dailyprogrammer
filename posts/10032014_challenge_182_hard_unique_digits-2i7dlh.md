@@ -1,6 +1,6 @@
 ---
-title: [10/03/2014] Challenge #182 [Hard] Unique Digits
-url: https://old.reddit.com/r/dailyprogrammer/comments/2i7dlh/10032014_challenge_182_hard_unique_digits/
+title: "[10/03/2014] Challenge #182 [Hard] Unique Digits"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2i7dlh/10032014_challenge_182_hard_unique_digits/"
 ---
 
 #Description:

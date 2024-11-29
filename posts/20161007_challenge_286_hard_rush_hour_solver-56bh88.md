@@ -1,6 +1,6 @@
 ---
-title: [2016-10-07] Challenge #286 [Hard] Rush Hour Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/56bh88/20161007_challenge_286_hard_rush_hour_solver/
+title: "[2016-10-07] Challenge #286 [Hard] Rush Hour Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/56bh88/20161007_challenge_286_hard_rush_hour_solver/"
 ---
 
 *Note* The one I had posted earlier turns out to be a [repeat one one earlier this year](https://www.reddit.com/r/dailyprogrammer/comments/42x90t/20160127_challenge_251_hard_solve_a_nonogram_bonus/), so here's a fresh one. 

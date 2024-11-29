@@ -1,6 +1,6 @@
 ---
-title: [08-21-2015] Challenge #228 [Hard] Golomb Rulers
-url: https://old.reddit.com/r/dailyprogrammer/comments/3hsgr0/08212015_challenge_228_hard_golomb_rulers/
+title: "[08-21-2015] Challenge #228 [Hard] Golomb Rulers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3hsgr0/08212015_challenge_228_hard_golomb_rulers/"
 ---
 
 # Description

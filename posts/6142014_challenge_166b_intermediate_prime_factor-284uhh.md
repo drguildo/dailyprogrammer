@@ -1,6 +1,6 @@
 ---
-title: [6/14/2014] Challenge #166b [Intermediate] Prime Factor Trees
-url: https://old.reddit.com/r/dailyprogrammer/comments/284uhh/6142014_challenge_166b_intermediate_prime_factor/
+title: "[6/14/2014] Challenge #166b [Intermediate] Prime Factor Trees"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/284uhh/6142014_challenge_166b_intermediate_prime_factor/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Prime Factor Trees

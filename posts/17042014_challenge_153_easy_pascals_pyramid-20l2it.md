@@ -1,6 +1,6 @@
 ---
-title: [17/04/2014] Challenge #153 [Easy] Pascal's Pyramid
-url: https://old.reddit.com/r/dailyprogrammer/comments/20l2it/17042014_challenge_153_easy_pascals_pyramid/
+title: "[17/04/2014] Challenge #153 [Easy] Pascal's Pyramid"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/20l2it/17042014_challenge_153_easy_pascals_pyramid/"
 ---
 
 # [](#EasyIcon) _(Easy)_: Pascal's Pyramid

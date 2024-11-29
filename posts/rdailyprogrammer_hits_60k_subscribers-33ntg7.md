@@ -1,6 +1,6 @@
 ---
-title: /r/dailyprogrammer hits 60K subscribers
-url: https://old.reddit.com/r/dailyprogrammer/comments/33ntg7/rdailyprogrammer_hits_60k_subscribers/
+title: "/r/dailyprogrammer hits 60K subscribers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/33ntg7/rdailyprogrammer_hits_60k_subscribers/"
 ---
 
 **/r/dailyprogrammer metrics:**

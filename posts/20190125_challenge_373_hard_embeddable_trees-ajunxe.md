@@ -1,6 +1,6 @@
 ---
-title: [2019-01-25] Challenge #373 [Hard] Embeddable trees
-url: https://old.reddit.com/r/dailyprogrammer/comments/ajunxe/20190125_challenge_373_hard_embeddable_trees/
+title: "[2019-01-25] Challenge #373 [Hard] Embeddable trees"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ajunxe/20190125_challenge_373_hard_embeddable_trees/"
 ---
 
 Today's challenge requires an understanding of trees in the sense of graph theory. If you're not familiar with the concept, [read up on Wikipedia](https://en.wikipedia.org/wiki/Tree_%28graph_theory%29) or some other resource before diving in.

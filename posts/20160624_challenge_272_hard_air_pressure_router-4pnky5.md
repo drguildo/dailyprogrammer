@@ -1,6 +1,6 @@
 ---
-title: [2016-06-24] Challenge #272 [Hard] Air Pressure router valve - Part 1.
-url: https://old.reddit.com/r/dailyprogrammer/comments/4pnky5/20160624_challenge_272_hard_air_pressure_router/
+title: "[2016-06-24] Challenge #272 [Hard] Air Pressure router valve - Part 1."
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4pnky5/20160624_challenge_272_hard_air_pressure_router/"
 ---
 
 Consider an air pressure system with a high pressure, and optionally, low pressure tanks. Air (or any fluid) will move from high pressure zone to low pressure if there is an open pathway.

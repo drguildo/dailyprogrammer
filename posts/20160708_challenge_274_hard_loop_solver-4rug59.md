@@ -1,6 +1,6 @@
 ---
-title: [2016-07-08] Challenge #274 [Hard] ∞ Loop solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/4rug59/20160708_challenge_274_hard_loop_solver/
+title: "[2016-07-08] Challenge #274 [Hard] ∞ Loop solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4rug59/20160708_challenge_274_hard_loop_solver/"
 ---
 
 #Description

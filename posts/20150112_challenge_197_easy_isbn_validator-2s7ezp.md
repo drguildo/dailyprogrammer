@@ -1,6 +1,6 @@
 ---
-title: [2015-01-12] Challenge #197 [Easy] ISBN Validator
-url: https://old.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/
+title: "[2015-01-12] Challenge #197 [Easy] ISBN Validator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2017-09-13] Challenge #331 [Intermediate] Sum of digits of x raised to n
-url: https://old.reddit.com/r/dailyprogrammer/comments/6zvjre/20170913_challenge_331_intermediate_sum_of_digits/
+title: "[2017-09-13] Challenge #331 [Intermediate] Sum of digits of x raised to n"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6zvjre/20170913_challenge_331_intermediate_sum_of_digits/"
 ---
 
 #Description

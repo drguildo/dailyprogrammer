@@ -1,6 +1,6 @@
 ---
-title: [2015-10-05] Challenge #235 [Easy] Ruth-Aaron Pairs
-url: https://old.reddit.com/r/dailyprogrammer/comments/3nkanm/20151005_challenge_235_easy_ruthaaron_pairs/
+title: "[2015-10-05] Challenge #235 [Easy] Ruth-Aaron Pairs"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3nkanm/20151005_challenge_235_easy_ruthaaron_pairs/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [2015-10-21] Challenge #237 [Intermediate] Heighmap of Boxes
-url: https://old.reddit.com/r/dailyprogrammer/comments/3pnd3t/20151021_challenge_237_intermediate_heighmap_of/
+title: "[2015-10-21] Challenge #237 [Intermediate] Heighmap of Boxes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3pnd3t/20151021_challenge_237_intermediate_heighmap_of/"
 ---
 
 #Description

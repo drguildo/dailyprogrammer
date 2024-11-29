@@ -1,6 +1,6 @@
 ---
-title: [8/22/2012] Challenge #90 [intermediate] (Scientific Units Calculator)
-url: https://old.reddit.com/r/dailyprogrammer/comments/ynw65/8222012_challenge_90_intermediate_scientific/
+title: "[8/22/2012] Challenge #90 [intermediate] (Scientific Units Calculator)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ynw65/8222012_challenge_90_intermediate_scientific/"
 ---
 
 In the SI system, measurements of scientific quantities are expressed in terms of 7 standard 'base' units for various quantities:

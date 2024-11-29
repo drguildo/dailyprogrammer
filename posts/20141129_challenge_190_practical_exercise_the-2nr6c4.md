@@ -1,6 +1,6 @@
 ---
-title: [2014-11-29] Challenge #190 [Practical Exercise] The Complex Number
-url: https://old.reddit.com/r/dailyprogrammer/comments/2nr6c4/20141129_challenge_190_practical_exercise_the/
+title: "[2014-11-29] Challenge #190 [Practical Exercise] The Complex Number"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2nr6c4/20141129_challenge_190_practical_exercise_the/"
 ---
 
 # [](#PEIcon) **(Practical Exercise)**: The Complex Number

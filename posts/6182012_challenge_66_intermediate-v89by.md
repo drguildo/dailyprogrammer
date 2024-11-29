@@ -1,6 +1,6 @@
 ---
-title: [6/18/2012] Challenge #66 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/v89by/6182012_challenge_66_intermediate/
+title: "[6/18/2012] Challenge #66 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/v89by/6182012_challenge_66_intermediate/"
 ---
 
 Maxiphobic heaps are a variant of leftist heaps. Like leftist heaps, maxiphobic heaps are represented as binary trees arranged according to the heap property that every element is less than or equal to its two children. Find-min looks at the root of the tree, delete-min discards the root and merges its two children, and insert merges the existing tree with a singleton tree containing the new element.

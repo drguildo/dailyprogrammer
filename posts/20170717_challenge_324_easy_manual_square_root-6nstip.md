@@ -1,6 +1,6 @@
 ---
-title: [2017-07-17] Challenge #324 [Easy] "manual" square root procedure (intermediate)
-url: https://old.reddit.com/r/dailyprogrammer/comments/6nstip/20170717_challenge_324_easy_manual_square_root/
+title: "[2017-07-17] Challenge #324 [Easy] "manual" square root procedure (intermediate)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6nstip/20170717_challenge_324_easy_manual_square_root/"
 ---
 
 Write a program that outputs the highest number that is lower or equal than the square root of the given number, with the given number of decimal fraction digits.

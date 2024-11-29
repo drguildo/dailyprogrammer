@@ -1,6 +1,6 @@
 ---
-title: [17-08-21] Challenge #328 [Easy] Latin Squares
-url: https://old.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/
+title: "[17-08-21] Challenge #328 [Easy] Latin Squares"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/"
 ---
 
 #**Description**

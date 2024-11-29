@@ -1,7 +1,7 @@
 ---
-title: [9/01/2012] Challenge #94 [difficult] (Simple Lisp interpreter)
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/z6o5o/9012012_challenge_94_difficult_simple_lisp/
+title: "[9/01/2012] Challenge #94 [difficult] (Simple Lisp interpreter)
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/z6o5o/9012012_challenge_94_difficult_simple_lisp/"
 ---
 
 Lisp is a family of programming languages, known for its extremely simple notation (called S-expressions) in which programs are defined as lists and code can be modified as data. Your task is to write an interpreter for a simple subset of Lisp.

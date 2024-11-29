@@ -1,6 +1,6 @@
 ---
-title: [2015-11-27] Challenge # 242 [Hard] Start to Rummikub
-url: https://old.reddit.com/r/dailyprogrammer/comments/3ufwyf/20151127_challenge_242_hard_start_to_rummikub/
+title: "[2015-11-27] Challenge # 242 [Hard] Start to Rummikub"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3ufwyf/20151127_challenge_242_hard_start_to_rummikub/"
 ---
 
 **Description**

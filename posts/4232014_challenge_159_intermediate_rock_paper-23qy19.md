@@ -1,6 +1,6 @@
 ---
-title: [4/23/2014] Challenge #159 [Intermediate] Rock Paper Scissors Lizard Spock - Part 2 Enhancement
-url: https://old.reddit.com/r/dailyprogrammer/comments/23qy19/4232014_challenge_159_intermediate_rock_paper/
+title: "[4/23/2014] Challenge #159 [Intermediate] Rock Paper Scissors Lizard Spock - Part 2 Enhancement"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/23qy19/4232014_challenge_159_intermediate_rock_paper/"
 ---
 
 #Theme Week:

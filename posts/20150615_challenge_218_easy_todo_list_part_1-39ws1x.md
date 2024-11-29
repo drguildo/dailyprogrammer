@@ -1,6 +1,6 @@
 ---
-title: [2015-06-15] Challenge #218 [Easy] To-do list (Part 1)
-url: https://old.reddit.com/r/dailyprogrammer/comments/39ws1x/20150615_challenge_218_easy_todo_list_part_1/
+title: "[2015-06-15] Challenge #218 [Easy] To-do list (Part 1)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/39ws1x/20150615_challenge_218_easy_todo_list_part_1/"
 ---
 
 #Description

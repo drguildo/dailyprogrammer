@@ -1,6 +1,6 @@
 ---
-title: [2015-03-25] Challenge #207 [Intermediate] Bioinformatics 2: DNA Restriction Enzymes
-url: https://old.reddit.com/r/dailyprogrammer/comments/307m27/20150325_challenge_207_intermediate/
+title: "[2015-03-25] Challenge #207 [Intermediate] Bioinformatics 2: DNA Restriction Enzymes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/307m27/20150325_challenge_207_intermediate/"
 ---
 
 Continuing with our bioinformatics theme today. If you like these sorts of problems, I encourage you to check out Project Rosalind (their site seems back up): http://rosalind.info/

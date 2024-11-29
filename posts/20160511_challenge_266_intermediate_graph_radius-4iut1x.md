@@ -1,6 +1,6 @@
 ---
-title: [2016-05-11] Challenge #266 [Intermediate] Graph Radius and Diameter
-url: https://old.reddit.com/r/dailyprogrammer/comments/4iut1x/20160511_challenge_266_intermediate_graph_radius/
+title: "[2016-05-11] Challenge #266 [Intermediate] Graph Radius and Diameter"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4iut1x/20160511_challenge_266_intermediate_graph_radius/"
 ---
 
 This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful.

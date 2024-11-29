@@ -1,6 +1,6 @@
 ---
-title: [6/26/2012] Challenge #69 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vmbq0/6262012_challenge_69_difficult/
+title: "[6/26/2012] Challenge #69 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vmbq0/6262012_challenge_69_difficult/"
 ---
 
 The ADFGVX cipher described in [today's intermediate problem](http://www.reddit.com/r/dailyprogrammer/comments/vmbnb/6262012_challenge_69_intermediate/) turned out to be quite a challenge for the Allied powers, but it was finally cracked by the French cryptanalyst Georges Painvin. It is said that the work was so difficult and involved such complex techniques that it made him physically break down from the fatigue. His method required lots of similar messages encrypted during periods of high traffic. 

@@ -1,6 +1,6 @@
 ---
-title: [2017-12-04] Challenge #343 [Easy] Major scales
-url: https://old.reddit.com/r/dailyprogrammer/comments/7hhyin/20171204_challenge_343_easy_major_scales/
+title: "[2017-12-04] Challenge #343 [Easy] Major scales"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7hhyin/20171204_challenge_343_easy_major_scales/"
 ---
 
 # Background

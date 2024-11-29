@@ -1,6 +1,6 @@
 ---
-title: [2017-02-06] Challenge #302 [Easy] Spelling with Chemistry
-url: https://old.reddit.com/r/dailyprogrammer/comments/5seexn/20170206_challenge_302_easy_spelling_with/
+title: "[2017-02-06] Challenge #302 [Easy] Spelling with Chemistry"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5seexn/20170206_challenge_302_easy_spelling_with/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [Mod Post] Do you want a 4-hour, 24-hour, or 48-hour programming challenge set?
-url: https://old.reddit.com/r/dailyprogrammer/comments/1iclcr/mod_post_do_you_want_a_4hour_24hour_or_48hour/
+title: "[Mod Post] Do you want a 4-hour, 24-hour, or 48-hour programming challenge set?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1iclcr/mod_post_do_you_want_a_4hour_24hour_or_48hour/"
 ---
 
 Hey r/DailyProgrammers!

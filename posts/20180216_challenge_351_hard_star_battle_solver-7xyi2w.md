@@ -1,6 +1,6 @@
 ---
-title: [2018-02-16] Challenge #351 [Hard] Star Battle solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/
+title: "[2018-02-16] Challenge #351 [Hard] Star Battle solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7xyi2w/20180216_challenge_351_hard_star_battle_solver/"
 ---
 
 # Background

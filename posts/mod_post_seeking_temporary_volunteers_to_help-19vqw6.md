@@ -1,6 +1,6 @@
 ---
-title: [mod post] Seeking temporary volunteers to help with submissions
-url: https://old.reddit.com/r/dailyprogrammer/comments/19vqw6/mod_post_seeking_temporary_volunteers_to_help/
+title: "[mod post] Seeking temporary volunteers to help with submissions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/19vqw6/mod_post_seeking_temporary_volunteers_to_help/"
 ---
 
 I haven't heard from any of the other /r/dailyprogrammer_ideas moderators in weeks, so I'm looking at keeping things going until they come back. The challenge submission queue will be empty after Friday. I'm looking for 1-3 experienced members of /r/dailyprogrammer to help feed it until that happens.

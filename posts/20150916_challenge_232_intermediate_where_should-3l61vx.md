@@ -1,6 +1,6 @@
 ---
-title: [2015-09-16] Challenge #232 [Intermediate] Where Should Grandma's House Go?
-url: https://old.reddit.com/r/dailyprogrammer/comments/3l61vx/20150916_challenge_232_intermediate_where_should/
+title: "[2015-09-16] Challenge #232 [Intermediate] Where Should Grandma's House Go?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3l61vx/20150916_challenge_232_intermediate_where_should/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [2018-03-16] Challenge #354 [Hard] Integer Complexity 3
-url: https://old.reddit.com/r/dailyprogrammer/comments/84uk5v/20180316_challenge_354_hard_integer_complexity_3/
+title: "[2018-03-16] Challenge #354 [Hard] Integer Complexity 3"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/84uk5v/20180316_challenge_354_hard_integer_complexity_3/"
 ---
 
 # Background

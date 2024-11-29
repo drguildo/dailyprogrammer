@@ -1,6 +1,6 @@
 ---
-title: [7/27/2012] Challenge #82 [intermediate] (Broken Roman Numerals)
-url: https://old.reddit.com/r/dailyprogrammer/comments/x8t42/7272012_challenge_82_intermediate_broken_roman/
+title: "[7/27/2012] Challenge #82 [intermediate] (Broken Roman Numerals)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/x8t42/7272012_challenge_82_intermediate_broken_roman/"
 ---
 
 Many ancient buildings and scriptures use [Roman numerals](http://en.wikipedia.org/wiki/Roman_numerals) to express numbers or years. Let's say you discover a bunch of formulas using these numerals, but some of the letters used in them are unreadable, like this:

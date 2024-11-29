@@ -1,6 +1,6 @@
 ---
-title: [5/16/2012] Challenge #53 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tpxqh/5162012_challenge_53_difficult/
+title: "[5/16/2012] Challenge #53 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tpxqh/5162012_challenge_53_difficult/"
 ---
 
 The set {2,3,5,7,11} has 32 subsets, and if you multiply the elements of each subset together, you get the "product" of that specific subset. So for instance, {2,5,7} is a subset of {2,3,5,7,11} and it has the product 70 (i.e. 2\*5\*7).

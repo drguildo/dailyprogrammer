@@ -1,6 +1,6 @@
 ---
-title: [6/6/2012] Challenge #61 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uo14v/662012_challenge_61_intermediate/
+title: "[6/6/2012] Challenge #61 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uo14v/662012_challenge_61_intermediate/"
 ---
 
 Today you should implement a function that all of us programmers depend heavily on, but most never give a second thought as to how it's actually coded: the square root function. 

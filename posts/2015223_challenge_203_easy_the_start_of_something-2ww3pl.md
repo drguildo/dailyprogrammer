@@ -1,6 +1,6 @@
 ---
-title: [2015-2-23] Challenge #203 [Easy] The Start of Something Big
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ww3pl/2015223_challenge_203_easy_the_start_of_something/
+title: "[2015-2-23] Challenge #203 [Easy] The Start of Something Big"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ww3pl/2015223_challenge_203_easy_the_start_of_something/"
 ---
 
 #Description

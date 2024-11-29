@@ -1,6 +1,6 @@
 ---
-title: [8/3/2012] Challenge #85 [difficult] (Bitwise arithmetic)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xq385/832012_challenge_85_difficult_bitwise_arithmetic/
+title: "[8/3/2012] Challenge #85 [difficult] (Bitwise arithmetic)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xq385/832012_challenge_85_difficult_bitwise_arithmetic/"
 ---
 
 While basic arithmetic operations like addition, subtraction, multiplication, etc. seem 'natural' to us, computers think on a very different level: under the hood, computations work with [bitwise operations](http://en.wikipedia.org/wiki/Bitwise_operation), using operators like `~`, `&`, `|`, `^`, and `<<`. Your task is to implement functions for (integer) **addition**, **subtraction**, **negation**, **multiplication**, **division**, **modulo**, and **exponentiation**, without using any "high-level" operators like `+` and `*`. Other statements like "if" and "while", or recursion for functional languages, are fine.

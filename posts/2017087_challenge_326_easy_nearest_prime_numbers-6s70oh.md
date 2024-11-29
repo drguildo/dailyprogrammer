@@ -1,6 +1,6 @@
 ---
-title: [2017-08-7] Challenge #326 [Easy] Nearest Prime Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/6s70oh/2017087_challenge_326_easy_nearest_prime_numbers/
+title: "[2017-08-7] Challenge #326 [Easy] Nearest Prime Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6s70oh/2017087_challenge_326_easy_nearest_prime_numbers/"
 ---
 
 

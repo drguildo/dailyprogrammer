@@ -1,6 +1,6 @@
 ---
-title: [2018-02-09] Challenge #350 [Hard] Which Number Recurs First
-url: https://old.reddit.com/r/dailyprogrammer/comments/7wfd0n/20180209_challenge_350_hard_which_number_recurs/
+title: "[2018-02-09] Challenge #350 [Hard] Which Number Recurs First"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7wfd0n/20180209_challenge_350_hard_which_number_recurs/"
 ---
 
 # Description

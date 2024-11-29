@@ -1,6 +1,6 @@
 ---
-title: [11/05/2014] Challenge #187 [Hard] Lumberjack Floating Log Problem
-url: https://old.reddit.com/r/dailyprogrammer/comments/2lljyq/11052014_challenge_187_hard_lumberjack_floating/
+title: "[11/05/2014] Challenge #187 [Hard] Lumberjack Floating Log Problem"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2lljyq/11052014_challenge_187_hard_lumberjack_floating/"
 ---
 
 #Description:

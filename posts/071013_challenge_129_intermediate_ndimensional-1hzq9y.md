@@ -1,6 +1,6 @@
 ---
-title: [07/10/13] Challenge #129 [Intermediate] N-Dimensional Vectors
-url: https://old.reddit.com/r/dailyprogrammer/comments/1hzq9y/071013_challenge_129_intermediate_ndimensional/
+title: "[07/10/13] Challenge #129 [Intermediate] N-Dimensional Vectors"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1hzq9y/071013_challenge_129_intermediate_ndimensional/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: N-Dimensional Vectors

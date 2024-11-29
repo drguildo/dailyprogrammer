@@ -1,6 +1,6 @@
 ---
-title: [8/24/2012] Challenge #91 [difficult] (Chess move validation)
-url: https://old.reddit.com/r/dailyprogrammer/comments/yqyrs/8242012_challenge_91_difficult_chess_move/
+title: "[8/24/2012] Challenge #91 [difficult] (Chess move validation)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/yqyrs/8242012_challenge_91_difficult_chess_move/"
 ---
 
 [Forsyth-Edwards notation](http://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) is a is a notation used by chess players for describing a particular board position of a chess game. It contains information about the pieces, whose turn it is, who can castle, and how many turns have passed, among others. Write a program that reads a FEN file and two coordinates from input, like this:

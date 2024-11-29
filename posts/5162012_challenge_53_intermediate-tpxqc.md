@@ -1,6 +1,6 @@
 ---
-title: [5/16/2012] Challenge #53 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tpxqc/5162012_challenge_53_intermediate/
+title: "[5/16/2012] Challenge #53 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tpxqc/5162012_challenge_53_intermediate/"
 ---
 
 A simple pseudo-random number generator looks like this: 

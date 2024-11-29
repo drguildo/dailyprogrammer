@@ -1,6 +1,6 @@
 ---
-title: [2015-05-15] Challenge #214 [Hard] Chester, the greedy Pomeranian
-url: https://old.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/
+title: "[2015-05-15] Challenge #214 [Hard] Chester, the greedy Pomeranian"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/"
 ---
 
 # Description

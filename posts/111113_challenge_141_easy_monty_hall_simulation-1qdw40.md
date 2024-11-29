@@ -1,6 +1,6 @@
 ---
-title: [11/11/13] Challenge #141 [Easy] Monty Hall Simulation
-url: https://old.reddit.com/r/dailyprogrammer/comments/1qdw40/111113_challenge_141_easy_monty_hall_simulation/
+title: "[11/11/13] Challenge #141 [Easy] Monty Hall Simulation"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1qdw40/111113_challenge_141_easy_monty_hall_simulation/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Monty Hall Simulation

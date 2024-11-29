@@ -1,6 +1,6 @@
 ---
-title: [2018-02-13] Challenge #351 [Easy] Cricket Scoring
-url: https://old.reddit.com/r/dailyprogrammer/comments/7x81yg/20180213_challenge_351_easy_cricket_scoring/
+title: "[2018-02-13] Challenge #351 [Easy] Cricket Scoring"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7x81yg/20180213_challenge_351_easy_cricket_scoring/"
 ---
 
 #Description

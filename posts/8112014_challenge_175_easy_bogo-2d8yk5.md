@@ -1,6 +1,6 @@
 ---
-title: [8/11/2014] Challenge #175 [Easy] Bogo!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2d8yk5/8112014_challenge_175_easy_bogo/
+title: "[8/11/2014] Challenge #175 [Easy] Bogo!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2d8yk5/8112014_challenge_175_easy_bogo/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2014-12-1] Challenge #191 [Easy] Word Counting
-url: https://old.reddit.com/r/dailyprogrammer/comments/2nynip/2014121_challenge_191_easy_word_counting/
+title: "[2014-12-1] Challenge #191 [Easy] Word Counting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2nynip/2014121_challenge_191_easy_word_counting/"
 ---
 
 You've recently taken an internship at an up and coming lingustic and natural language centre. Unfortunately, as with real life, the professors have allocated you the mundane task of counting every single word in a book and finding out how many occurences of each word there are. 

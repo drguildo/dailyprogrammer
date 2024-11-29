@@ -1,6 +1,6 @@
 ---
-title: [9/17/2012] Challenge #99 [intermediate] (Unemployment map of the United States)
-url: https://old.reddit.com/r/dailyprogrammer/comments/101mi5/9172012_challenge_99_intermediate_unemployment/
+title: "[9/17/2012] Challenge #99 [intermediate] (Unemployment map of the United States)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/101mi5/9172012_challenge_99_intermediate_unemployment/"
 ---
 
 [A little while ago](http://www.reddit.com/r/dailyprogrammer/comments/yj38u/8202012_challenge_89_difficult_coloring_the/) we took advantage of a [very useful blank map](http://en.wikipedia.org/wiki/File:Blank_US_Map.svg) hosted at Wikipedia. The advantage of this map is that it is very easy to assign different colors to each state (for details on how to do this, [see the previous problem](http://www.reddit.com/r/dailyprogrammer/comments/yj38u/8202012_challenge_89_difficult_coloring_the/)). We only had some silly fun with it, but it can also obviously be very useful in visualizing information about the country. 

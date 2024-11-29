@@ -1,6 +1,6 @@
 ---
-title: [5/2/2014] Challenge #160 [Hard] Trigonometric Triangle Trouble, pt. 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/24hr25/522014_challenge_160_hard_trigonometric_triangle/
+title: "[5/2/2014] Challenge #160 [Hard] Trigonometric Triangle Trouble, pt. 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/24hr25/522014_challenge_160_hard_trigonometric_triangle/"
 ---
 
 # [](#HardIcon) _(Hard)_: Trigonometric Triangle Trouble, pt. 2

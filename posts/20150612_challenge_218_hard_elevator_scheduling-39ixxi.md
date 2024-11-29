@@ -1,6 +1,6 @@
 ---
-title: [2015-06-12] Challenge #218 [Hard] Elevator Scheduling
-url: https://old.reddit.com/r/dailyprogrammer/comments/39ixxi/20150612_challenge_218_hard_elevator_scheduling/
+title: "[2015-06-12] Challenge #218 [Hard] Elevator Scheduling"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/39ixxi/20150612_challenge_218_hard_elevator_scheduling/"
 ---
 
 While this one is a hard challenge, it's also open ended - be creative in how you solve the problem. I encourage you to compare notes, think about the challenge before you write code, and explore your algorithms. See the bonus questions below for some additional questions.

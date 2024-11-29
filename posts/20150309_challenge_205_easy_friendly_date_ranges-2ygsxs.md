@@ -1,6 +1,6 @@
 ---
-title: [2015-03-09] Challenge #205 [Easy] Friendly Date Ranges
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ygsxs/20150309_challenge_205_easy_friendly_date_ranges/
+title: "[2015-03-09] Challenge #205 [Easy] Friendly Date Ranges"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ygsxs/20150309_challenge_205_easy_friendly_date_ranges/"
 ---
 
 # [](#EasyIcon) _(Easy)_: Friendly Date Ranges

@@ -1,6 +1,6 @@
 ---
-title: [2017-04-28] Challenge #312 [Hard] Text Summarizer
-url: https://old.reddit.com/r/dailyprogrammer/comments/683w4s/20170428_challenge_312_hard_text_summarizer/
+title: "[2017-04-28] Challenge #312 [Hard] Text Summarizer"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/683w4s/20170428_challenge_312_hard_text_summarizer/"
 ---
 
 # Description

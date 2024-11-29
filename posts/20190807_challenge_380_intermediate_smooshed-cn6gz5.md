@@ -1,6 +1,6 @@
 ---
-title: [2019-08-07] Challenge #380 [Intermediate] Smooshed Morse Code 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/
+title: "[2019-08-07] Challenge #380 [Intermediate] Smooshed Morse Code 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/cn6gz5/20190807_challenge_380_intermediate_smooshed/"
 ---
 
 *Smooshed Morse code* means Morse code with the spaces or other delimiters between encoded letters left out. [See this week's Easy challenge for more detail.](https://www.reddit.com/r/dailyprogrammer/comments/cmd1hb/20190805_challenge_380_easy_smooshed_morse_code_1/)

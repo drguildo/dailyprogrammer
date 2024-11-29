@@ -1,6 +1,6 @@
 ---
-title: [2016-09-09] Challenge #282 [Hard] Hidato
-url: https://old.reddit.com/r/dailyprogrammer/comments/51wg0j/20160909_challenge_282_hard_hidato/
+title: "[2016-09-09] Challenge #282 [Hard] Hidato"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/51wg0j/20160909_challenge_282_hard_hidato/"
 ---
 
 #Description

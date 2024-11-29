@@ -1,6 +1,6 @@
 ---
-title: [2016-02-01] Challenge #252 [Easy] Sailors and monkeys and coconuts, oh my!
-url: https://old.reddit.com/r/dailyprogrammer/comments/43ouxy/20160201_challenge_252_easy_sailors_and_monkeys/
+title: "[2016-02-01] Challenge #252 [Easy] Sailors and monkeys and coconuts, oh my!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/43ouxy/20160201_challenge_252_easy_sailors_and_monkeys/"
 ---
 
 This exercise is inspired by a [Numberphile video](https://www.youtube.com/watch?v=U9qU20VmvaU&feature=youtu.be&t=47) (no need to watch past 2:00).

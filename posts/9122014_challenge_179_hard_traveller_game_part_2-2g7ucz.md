@@ -1,6 +1,6 @@
 ---
-title: [9/12/2014] Challenge #179 [Hard] Traveller Game Part 2 (Torchlight)
-url: https://old.reddit.com/r/dailyprogrammer/comments/2g7ucz/9122014_challenge_179_hard_traveller_game_part_2/
+title: "[9/12/2014] Challenge #179 [Hard] Traveller Game Part 2 (Torchlight)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2g7ucz/9122014_challenge_179_hard_traveller_game_part_2/"
 ---
 
 #Description:

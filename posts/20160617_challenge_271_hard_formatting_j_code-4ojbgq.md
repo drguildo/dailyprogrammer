@@ -1,6 +1,6 @@
 ---
-title: [2016-06-17] Challenge #271 [Hard] Formatting J code
-url: https://old.reddit.com/r/dailyprogrammer/comments/4ojbgq/20160617_challenge_271_hard_formatting_j_code/
+title: "[2016-06-17] Challenge #271 [Hard] Formatting J code"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4ojbgq/20160617_challenge_271_hard_formatting_j_code/"
 ---
 
 J code can be written like basic/pascal/fortran.

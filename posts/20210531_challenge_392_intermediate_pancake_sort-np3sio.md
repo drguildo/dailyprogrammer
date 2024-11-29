@@ -1,6 +1,6 @@
 ---
-title: [2021-05-31] Challenge #392 [Intermediate] Pancake sort
-url: https://old.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/
+title: "[2021-05-31] Challenge #392 [Intermediate] Pancake sort"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/np3sio/20210531_challenge_392_intermediate_pancake_sort/"
 ---
 
 # Warmup

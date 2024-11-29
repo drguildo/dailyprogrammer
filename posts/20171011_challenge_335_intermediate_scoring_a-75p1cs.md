@@ -1,6 +1,6 @@
 ---
-title: [2017-10-11] Challenge #335 [Intermediate] Scoring a Cribbage Hand
-url: https://old.reddit.com/r/dailyprogrammer/comments/75p1cs/20171011_challenge_335_intermediate_scoring_a/
+title: "[2017-10-11] Challenge #335 [Intermediate] Scoring a Cribbage Hand"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/75p1cs/20171011_challenge_335_intermediate_scoring_a/"
 ---
 
 # Description

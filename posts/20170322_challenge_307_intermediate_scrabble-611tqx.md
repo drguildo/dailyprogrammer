@@ -1,6 +1,6 @@
 ---
-title: [2017-03-22] Challenge #307 [Intermediate] Scrabble problem
-url: https://old.reddit.com/r/dailyprogrammer/comments/611tqx/20170322_challenge_307_intermediate_scrabble/
+title: "[2017-03-22] Challenge #307 [Intermediate] Scrabble problem"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/611tqx/20170322_challenge_307_intermediate_scrabble/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [2015-06-17] Challenge #219 [Hard] The Cave of Prosperity
-url: https://old.reddit.com/r/dailyprogrammer/comments/3aewlg/20150617_challenge_219_hard_the_cave_of_prosperity/
+title: "[2015-06-17] Challenge #219 [Hard] The Cave of Prosperity"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3aewlg/20150617_challenge_219_hard_the_cave_of_prosperity/"
 ---
 
 #Description

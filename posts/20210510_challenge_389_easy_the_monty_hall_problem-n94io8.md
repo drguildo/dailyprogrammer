@@ -1,6 +1,6 @@
 ---
-title: [2021-05-10] Challenge #389 [Easy] The Monty Hall problem
-url: https://old.reddit.com/r/dailyprogrammer/comments/n94io8/20210510_challenge_389_easy_the_monty_hall_problem/
+title: "[2021-05-10] Challenge #389 [Easy] The Monty Hall problem"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/n94io8/20210510_challenge_389_easy_the_monty_hall_problem/"
 ---
 
 # Background

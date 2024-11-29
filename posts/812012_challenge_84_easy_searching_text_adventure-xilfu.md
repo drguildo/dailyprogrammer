@@ -1,6 +1,6 @@
 ---
-title: [8/1/2012] Challenge #84 [easy] (Searching Text Adventure)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xilfu/812012_challenge_84_easy_searching_text_adventure/
+title: "[8/1/2012] Challenge #84 [easy] (Searching Text Adventure)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xilfu/812012_challenge_84_easy_searching_text_adventure/"
 ---
 
 Like many people who program, I got started doing this because I wanted to learn how to make video games.  

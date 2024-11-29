@@ -1,6 +1,6 @@
 ---
-title: [2017-04-10] Challenge #310 [Easy] Kids Lotto
-url: https://old.reddit.com/r/dailyprogrammer/comments/64jesw/20170410_challenge_310_easy_kids_lotto/
+title: "[2017-04-10] Challenge #310 [Easy] Kids Lotto"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/64jesw/20170410_challenge_310_easy_kids_lotto/"
 ---
 
 #Introduction

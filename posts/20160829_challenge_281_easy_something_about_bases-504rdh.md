@@ -1,6 +1,6 @@
 ---
-title: [2016-08-29] Challenge #281 [Easy] Something about bases
-url: https://old.reddit.com/r/dailyprogrammer/comments/504rdh/20160829_challenge_281_easy_something_about_bases/
+title: "[2016-08-29] Challenge #281 [Easy] Something about bases"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/504rdh/20160829_challenge_281_easy_something_about_bases/"
 ---
 
 #Description

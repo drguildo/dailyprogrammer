@@ -1,6 +1,6 @@
 ---
-title: [08/08/13] Challenge #131 [Intermediate] Simple Ray-Casting
-url: https://old.reddit.com/r/dailyprogrammer/comments/1jz2os/080813_challenge_131_intermediate_simple/
+title: "[08/08/13] Challenge #131 [Intermediate] Simple Ray-Casting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1jz2os/080813_challenge_131_intermediate_simple/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Simple Ray-Casting

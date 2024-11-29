@@ -1,6 +1,6 @@
 ---
-title: [8/04/2014] Challenge #174 [Easy] Thue-Morse Sequences
-url: https://old.reddit.com/r/dailyprogrammer/comments/2cld8m/8042014_challenge_174_easy_thuemorse_sequences/
+title: "[8/04/2014] Challenge #174 [Easy] Thue-Morse Sequences"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2cld8m/8042014_challenge_174_easy_thuemorse_sequences/"
 ---
 
 #Description:

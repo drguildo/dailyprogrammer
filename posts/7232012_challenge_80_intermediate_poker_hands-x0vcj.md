@@ -1,6 +1,6 @@
 ---
-title: [7/23/2012] Challenge #80 [intermediate] (Poker hands)
-url: https://old.reddit.com/r/dailyprogrammer/comments/x0vcj/7232012_challenge_80_intermediate_poker_hands/
+title: "[7/23/2012] Challenge #80 [intermediate] (Poker hands)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/x0vcj/7232012_challenge_80_intermediate_poker_hands/"
 ---
 
 Your intermediate task today is to write a program that can identify a hand in poker. 

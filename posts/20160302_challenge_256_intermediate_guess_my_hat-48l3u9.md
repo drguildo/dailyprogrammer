@@ -1,6 +1,6 @@
 ---
-title: [2016-03-02] Challenge #256 [Intermediate] Guess my hat color
-url: https://old.reddit.com/r/dailyprogrammer/comments/48l3u9/20160302_challenge_256_intermediate_guess_my_hat/
+title: "[2016-03-02] Challenge #256 [Intermediate] Guess my hat color"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/48l3u9/20160302_challenge_256_intermediate_guess_my_hat/"
 ---
 
 #Description

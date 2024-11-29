@@ -1,6 +1,6 @@
 ---
-title: [2015-05-18] Challenge #215 [Easy] Sad Cycles
-url: https://old.reddit.com/r/dailyprogrammer/comments/36cyxf/20150518_challenge_215_easy_sad_cycles/
+title: "[2015-05-18] Challenge #215 [Easy] Sad Cycles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/36cyxf/20150518_challenge_215_easy_sad_cycles/"
 ---
 
 # [](#EasyIcon) _(Easy)_: Sad Cycles

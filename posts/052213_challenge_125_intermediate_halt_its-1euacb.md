@@ -1,6 +1,6 @@
 ---
-title: [05/22/13] Challenge #125 [Intermediate] Halt! It's simulation time!
-url: https://old.reddit.com/r/dailyprogrammer/comments/1euacb/052213_challenge_125_intermediate_halt_its/
+title: "[05/22/13] Challenge #125 [Intermediate] Halt! It's simulation time!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1euacb/052213_challenge_125_intermediate_halt_its/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Halt! It's simulation time!

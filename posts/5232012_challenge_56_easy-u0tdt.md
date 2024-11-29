@@ -1,6 +1,6 @@
 ---
-title: [5/23/2012] Challenge #56 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/u0tdt/5232012_challenge_56_easy/
+title: "[5/23/2012] Challenge #56 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/u0tdt/5232012_challenge_56_easy/"
 ---
 
 The ABACABA sequence is defined as follows: start with the first letter of the alphabet ("a"). This is the first iteration. The second iteration, you take the second letter ("b") and surround it with all of the first iteration (just "a" in this case). Do this for each iteration, i.e. take two copies of the previous iteration and sandwich them around the next letter of the alphabet. 

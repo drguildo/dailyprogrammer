@@ -1,6 +1,6 @@
 ---
-title: [2016-10-21] Challenge #288 [Hard] Adjacent Numbers problems
-url: https://old.reddit.com/r/dailyprogrammer/comments/58n2ca/20161021_challenge_288_hard_adjacent_numbers/
+title: "[2016-10-21] Challenge #288 [Hard] Adjacent Numbers problems"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/58n2ca/20161021_challenge_288_hard_adjacent_numbers/"
 ---
 
 # Description

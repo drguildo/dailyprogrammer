@@ -1,6 +1,6 @@
 ---
-title: [5/25/2012] Challenge #57 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/u4mk4/5252012_challenge_57_easy/
+title: "[5/25/2012] Challenge #57 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/u4mk4/5252012_challenge_57_easy/"
 ---
 
 ~~Your task is to implement [Ackermann Function](http://en.wikipedia.org/wiki/Ackermann_function) in the most efficient way possible.~~

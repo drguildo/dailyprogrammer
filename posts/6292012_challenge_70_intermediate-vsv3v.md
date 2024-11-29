@@ -1,6 +1,6 @@
 ---
-title: [6/29/2012] Challenge #70 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vsv3v/6292012_challenge_70_intermediate/
+title: "[6/29/2012] Challenge #70 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vsv3v/6292012_challenge_70_intermediate/"
 ---
 
 Implement the [hyperoperator](http://en.wikipedia.org/wiki/Hyperoperation#Definition) as a function hyper(n, a, b), for non-negative integers n, a, b.

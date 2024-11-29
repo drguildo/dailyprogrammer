@@ -1,6 +1,6 @@
 ---
-title: [5/23/2012] Challenge #56 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/u0tdy/5232012_challenge_56_difficult/
+title: "[5/23/2012] Challenge #56 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/u0tdy/5232012_challenge_56_difficult/"
 ---
 
 Arguably the worlds most famous fractal is the so-called [Mandelbrot set](http://en.wikipedia.org/wiki/Mandelbrot_set), but even though many people have seen it, very few know the actual definition. Which is a shame, since the definition is actually quite simple.

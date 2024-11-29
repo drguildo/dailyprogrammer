@@ -1,6 +1,6 @@
 ---
-title: [05/28/13] Challenge #127 [Easy] McCarthy 91 Function
-url: https://old.reddit.com/r/dailyprogrammer/comments/1f7qp5/052813_challenge_127_easy_mccarthy_91_function/
+title: "[05/28/13] Challenge #127 [Easy] McCarthy 91 Function"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1f7qp5/052813_challenge_127_easy_mccarthy_91_function/"
 ---
 
 # [](#EasyIcon) *(Easy)*: McCarthy 91 Function

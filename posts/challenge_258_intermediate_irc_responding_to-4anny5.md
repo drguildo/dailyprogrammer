@@ -1,6 +1,6 @@
 ---
-title: Challenge #258 [Intermediate] IRC: Responding to commands
-url: https://old.reddit.com/r/dailyprogrammer/comments/4anny5/challenge_258_intermediate_irc_responding_to/
+title: "Challenge #258 [Intermediate] IRC: Responding to commands"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4anny5/challenge_258_intermediate_irc_responding_to/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [7/18/2012] Challenge #78 [intermediate] (Dependency Planner)
-url: https://old.reddit.com/r/dailyprogrammer/comments/wrqit/7182012_challenge_78_intermediate_dependency/
+title: "[7/18/2012] Challenge #78 [intermediate] (Dependency Planner)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/wrqit/7182012_challenge_78_intermediate_dependency/"
 ---
 
 Working on planning a large event (like a wedding or graduation) is often really difficult, and requires a large

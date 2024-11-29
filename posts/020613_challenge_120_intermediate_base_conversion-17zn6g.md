@@ -1,6 +1,6 @@
 ---
-title: [02/06/13] Challenge #120 [Intermediate] Base Conversion Words
-url: https://old.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/
+title: "[02/06/13] Challenge #120 [Intermediate] Base Conversion Words"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/"
 ---
 
 

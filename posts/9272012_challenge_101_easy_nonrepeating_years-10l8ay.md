@@ -1,7 +1,7 @@
 ---
-title: [9/27/2012] Challenge #101 [easy] (Non-repeating years) 
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/10l8ay/9272012_challenge_101_easy_nonrepeating_years/
+title: "[9/27/2012] Challenge #101 [easy] (Non-repeating years) 
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/10l8ay/9272012_challenge_101_easy_nonrepeating_years/"
 ---
 
 This challenge comes to us from user [skeeto](/u/skeeto)

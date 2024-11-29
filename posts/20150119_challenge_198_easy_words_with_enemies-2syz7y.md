@@ -1,6 +1,6 @@
 ---
-title: [2015-01-19] Challenge #198 [Easy] Words with Enemies
-url: https://old.reddit.com/r/dailyprogrammer/comments/2syz7y/20150119_challenge_198_easy_words_with_enemies/
+title: "[2015-01-19] Challenge #198 [Easy] Words with Enemies"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2syz7y/20150119_challenge_198_easy_words_with_enemies/"
 ---
 
 #Description:

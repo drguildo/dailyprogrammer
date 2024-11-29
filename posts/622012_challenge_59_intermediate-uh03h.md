@@ -1,6 +1,6 @@
 ---
-title: [6/2/2012] Challenge #59 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uh03h/622012_challenge_59_intermediate/
+title: "[6/2/2012] Challenge #59 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uh03h/622012_challenge_59_intermediate/"
 ---
 
 Given a binary matrix like this:

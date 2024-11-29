@@ -1,6 +1,6 @@
 ---
-title: [09/11/13] Challenge #133 [Intermediate] Chain Reaction
-url: https://old.reddit.com/r/dailyprogrammer/comments/1m71k9/091113_challenge_133_intermediate_chain_reaction/
+title: "[09/11/13] Challenge #133 [Intermediate] Chain Reaction"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1m71k9/091113_challenge_133_intermediate_chain_reaction/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Chain Reaction

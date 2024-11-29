@@ -1,6 +1,6 @@
 ---
-title: [5/7/2012] Challenge #49 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tb2h0/572012_challenge_49_easy/
+title: "[5/7/2012] Challenge #49 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tb2h0/572012_challenge_49_easy/"
 ---
 
 The [Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) is a probability brain teaser that has a rather unintuitive solution. 

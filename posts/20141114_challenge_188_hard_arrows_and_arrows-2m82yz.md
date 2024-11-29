@@ -1,6 +1,6 @@
 ---
-title: [2014-11-14] Challenge #188 [Hard] Arrows and Arrows, part 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/2m82yz/20141114_challenge_188_hard_arrows_and_arrows/
+title: "[2014-11-14] Challenge #188 [Hard] Arrows and Arrows, part 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2m82yz/20141114_challenge_188_hard_arrows_and_arrows/"
 ---
 
 # [](#HardIcon) **(Hard)**: Arrows and Arrows, part 1

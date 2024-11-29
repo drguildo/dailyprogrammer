@@ -1,6 +1,6 @@
 ---
-title: [2017-08-31] Challenge #329 [Intermediate] Solve the Water Bucket Riddle
-url: https://old.reddit.com/r/dailyprogrammer/comments/6x77p1/20170831_challenge_329_intermediate_solve_the/
+title: "[2017-08-31] Challenge #329 [Intermediate] Solve the Water Bucket Riddle"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6x77p1/20170831_challenge_329_intermediate_solve_the/"
 ---
 
 

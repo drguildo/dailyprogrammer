@@ -1,6 +1,6 @@
 ---
-title: [8/22/2012] Challenge #90 [easy] (Walkaround Rasterizer)
-url: https://old.reddit.com/r/dailyprogrammer/comments/ynw53/8222012_challenge_90_easy_walkaround_rasterizer/
+title: "[8/22/2012] Challenge #90 [easy] (Walkaround Rasterizer)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ynw53/8222012_challenge_90_easy_walkaround_rasterizer/"
 ---
 
 In this challenge, we propose a simple image file format for binary (2 color) black-and-white images.  

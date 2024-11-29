@@ -1,6 +1,6 @@
 ---
-title: [01/11/13] Challenge #116 [Hard] Maximum Random Walk
-url: https://old.reddit.com/r/dailyprogrammer/comments/16dbyh/011113_challenge_116_hard_maximum_random_walk/
+title: "[01/11/13] Challenge #116 [Hard] Maximum Random Walk"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/16dbyh/011113_challenge_116_hard_maximum_random_walk/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [2017-09-06] Challenge #330 [Intermediate] Check Writer
-url: https://old.reddit.com/r/dailyprogrammer/comments/6yep7x/20170906_challenge_330_intermediate_check_writer/
+title: "[2017-09-06] Challenge #330 [Intermediate] Check Writer"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6yep7x/20170906_challenge_330_intermediate_check_writer/"
 ---
 
 # Description:

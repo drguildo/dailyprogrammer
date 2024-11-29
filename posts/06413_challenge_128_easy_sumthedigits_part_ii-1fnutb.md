@@ -1,6 +1,6 @@
 ---
-title: [06/4/13] Challenge #128 [Easy] Sum-the-Digits, Part II
-url: https://old.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/
+title: "[06/4/13] Challenge #128 [Easy] Sum-the-Digits, Part II"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Sum-the-Digits, Part II

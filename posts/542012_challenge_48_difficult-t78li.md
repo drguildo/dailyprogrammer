@@ -1,6 +1,6 @@
 ---
-title: [5/4/2012] Challenge #48 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/t78li/542012_challenge_48_difficult/
+title: "[5/4/2012] Challenge #48 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/t78li/542012_challenge_48_difficult/"
 ---
 
 Inspired by the divide and conquer problem posted on 4/16/12, here's another problem that can be solved using divide and conquer. You are given a grid of vertices/nodes connected by adjacent nodes in a checkerboard manner (basically think of the intersection points of the grids on a piece of graphing paper) and each of these nodes is marked with a positive number. Assuming that these numbers are distinct, give an algorithm that can find a single local minimum.

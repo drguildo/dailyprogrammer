@@ -1,6 +1,6 @@
 ---
-title: [2016-11-24] Challenge #293 [Intermediate] Defusing the second bomb
-url: https://old.reddit.com/r/dailyprogrammer/comments/5emuuy/20161124_challenge_293_intermediate_defusing_the/
+title: "[2016-11-24] Challenge #293 [Intermediate] Defusing the second bomb"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5emuuy/20161124_challenge_293_intermediate_defusing_the/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [11/3/2012] Challenge #110 [Intermediate] Creepy Crawlies
-url: https://old.reddit.com/r/dailyprogrammer/comments/12k3xt/1132012_challenge_110_intermediate_creepy_crawlies/
+title: "[11/3/2012] Challenge #110 [Intermediate] Creepy Crawlies"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/12k3xt/1132012_challenge_110_intermediate_creepy_crawlies/"
 ---
 
 **Description:**

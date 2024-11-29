@@ -1,6 +1,6 @@
 ---
-title: [2015-08-05] Challenge #226 [Intermediate] Connect Four
-url: https://old.reddit.com/r/dailyprogrammer/comments/3fva66/20150805_challenge_226_intermediate_connect_four/
+title: "[2015-08-05] Challenge #226 [Intermediate] Connect Four"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3fva66/20150805_challenge_226_intermediate_connect_four/"
 ---
 
 ** EDITED ** Corrected the challenge output (my bad), verified with solutions from /u/Hells_Bell10 and /u/mdskrzypczyk

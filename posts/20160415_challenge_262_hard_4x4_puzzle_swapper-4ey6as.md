@@ -1,6 +1,6 @@
 ---
-title: [2016-04-15] Challenge #262 [Hard] 4x4 puzzle swapper
-url: https://old.reddit.com/r/dailyprogrammer/comments/4ey6as/20160415_challenge_262_hard_4x4_puzzle_swapper/
+title: "[2016-04-15] Challenge #262 [Hard] 4x4 puzzle swapper"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4ey6as/20160415_challenge_262_hard_4x4_puzzle_swapper/"
 ---
 
 # Description

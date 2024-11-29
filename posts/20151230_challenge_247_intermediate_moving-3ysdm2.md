@@ -1,6 +1,6 @@
 ---
-title: [2015-12-30] Challenge #247 [Intermediate] Moving (diagonally) Up in Life
-url: https://old.reddit.com/r/dailyprogrammer/comments/3ysdm2/20151230_challenge_247_intermediate_moving/
+title: "[2015-12-30] Challenge #247 [Intermediate] Moving (diagonally) Up in Life"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3ysdm2/20151230_challenge_247_intermediate_moving/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Moving (diagonally) Up in Life

@@ -1,6 +1,6 @@
 ---
-title: [2015-08-28] Challenge #229 [Hard] Divisible by 7
-url: https://old.reddit.com/r/dailyprogrammer/comments/3irzsi/20150828_challenge_229_hard_divisible_by_7/
+title: "[2015-08-28] Challenge #229 [Hard] Divisible by 7"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3irzsi/20150828_challenge_229_hard_divisible_by_7/"
 ---
 
 # Description

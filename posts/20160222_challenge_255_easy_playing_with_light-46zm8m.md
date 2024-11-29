@@ -1,6 +1,6 @@
 ---
-title: [2016-02-22] Challenge #255 [Easy] Playing with light switches
-url: https://old.reddit.com/r/dailyprogrammer/comments/46zm8m/20160222_challenge_255_easy_playing_with_light/
+title: "[2016-02-22] Challenge #255 [Easy] Playing with light switches"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/46zm8m/20160222_challenge_255_easy_playing_with_light/"
 ---
 
 # Problem description

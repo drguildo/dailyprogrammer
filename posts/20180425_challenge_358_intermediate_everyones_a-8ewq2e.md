@@ -1,6 +1,6 @@
 ---
-title: [2018-04-25] Challenge #358 [Intermediate] Everyone's A Winner!
-url: https://old.reddit.com/r/dailyprogrammer/comments/8ewq2e/20180425_challenge_358_intermediate_everyones_a/
+title: "[2018-04-25] Challenge #358 [Intermediate] Everyone's A Winner!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8ewq2e/20180425_challenge_358_intermediate_everyones_a/"
 ---
 
 # Description

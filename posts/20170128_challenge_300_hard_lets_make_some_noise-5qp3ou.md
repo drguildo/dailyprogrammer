@@ -1,6 +1,6 @@
 ---
-title: [2017-01-28] Challenge #300 [Hard] Let's make some noise part 3
-url: https://old.reddit.com/r/dailyprogrammer/comments/5qp3ou/20170128_challenge_300_hard_lets_make_some_noise/
+title: "[2017-01-28] Challenge #300 [Hard] Let's make some noise part 3"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5qp3ou/20170128_challenge_300_hard_lets_make_some_noise/"
 ---
 
 #Description

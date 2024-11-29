@@ -1,6 +1,6 @@
 ---
-title: [easy] challenge #1
-url: https://old.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
+title: "[easy] challenge #1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/"
 ---
 
 create a program that will ask the users name, age, and reddit username. have it tell them the information back, in the format:

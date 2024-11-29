@@ -1,6 +1,6 @@
 ---
-title: [2015-05-01] Challenge #212 [Hard] Reverse Maze Pathfinding
-url: https://old.reddit.com/r/dailyprogrammer/comments/34izkl/20150501_challenge_212_hard_reverse_maze/
+title: "[2015-05-01] Challenge #212 [Hard] Reverse Maze Pathfinding"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/34izkl/20150501_challenge_212_hard_reverse_maze/"
 ---
 
 # [](#HardIcon) _(Hard)_: Reverse Maze Pathfinding 

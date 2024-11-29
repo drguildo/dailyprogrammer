@@ -1,6 +1,6 @@
 ---
-title: [2016-05-27] Challenge #268 [Hard] Network and Cards: Part 3, The cheaters
-url: https://old.reddit.com/r/dailyprogrammer/comments/4lavv6/20160527_challenge_268_hard_network_and_cards/
+title: "[2016-05-27] Challenge #268 [Hard] Network and Cards: Part 3, The cheaters"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4lavv6/20160527_challenge_268_hard_network_and_cards/"
 ---
 
 #Description

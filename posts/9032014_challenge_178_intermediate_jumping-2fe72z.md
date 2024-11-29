@@ -1,6 +1,6 @@
 ---
-title: [9/03/2014] Challenge #178 [Intermediate] Jumping through Hyperspace ain't like dusting Crops
-url: https://old.reddit.com/r/dailyprogrammer/comments/2fe72z/9032014_challenge_178_intermediate_jumping/
+title: "[9/03/2014] Challenge #178 [Intermediate] Jumping through Hyperspace ain't like dusting Crops"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2fe72z/9032014_challenge_178_intermediate_jumping/"
 ---
 
 #Description:

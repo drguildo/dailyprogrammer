@@ -1,6 +1,6 @@
 ---
-title: [2015-10-16] Challenge #236 [Hard] Balancing chemical equations
-url: https://old.reddit.com/r/dailyprogrammer/comments/3oz82g/20151016_challenge_236_hard_balancing_chemical/
+title: "[2015-10-16] Challenge #236 [Hard] Balancing chemical equations"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3oz82g/20151016_challenge_236_hard_balancing_chemical/"
 ---
 
 # Description

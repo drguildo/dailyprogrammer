@@ -1,6 +1,6 @@
 ---
-title: [2015-01-05] Challenge #196 [Practical Exercise] Ready... set... set!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2rfae0/20150105_challenge_196_practical_exercise_ready/
+title: "[2015-01-05] Challenge #196 [Practical Exercise] Ready... set... set!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2rfae0/20150105_challenge_196_practical_exercise_ready/"
 ---
 
 # [](#PEIcon) **(Practical Exercise)**: Ready... set... Set!

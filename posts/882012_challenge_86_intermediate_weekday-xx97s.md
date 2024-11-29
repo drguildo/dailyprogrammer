@@ -1,6 +1,6 @@
 ---
-title: [8/8/2012] Challenge #86 [intermediate] (Weekday calculations)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xx97s/882012_challenge_86_intermediate_weekday/
+title: "[8/8/2012] Challenge #86 [intermediate] (Weekday calculations)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xx97s/882012_challenge_86_intermediate_weekday/"
 ---
 
 Today's intermediate challenge comes from user [nagasgura](http://www.reddit.com/r/dailyprogrammer_ideas/comments/xx3cq/intermediate_calculate_the_day_of_the_week_on_any/)

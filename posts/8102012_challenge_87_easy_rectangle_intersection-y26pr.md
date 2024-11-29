@@ -1,6 +1,6 @@
 ---
-title: [8/10/2012] Challenge #87 [easy] (Rectangle intersection)
-url: https://old.reddit.com/r/dailyprogrammer/comments/y26pr/8102012_challenge_87_easy_rectangle_intersection/
+title: "[8/10/2012] Challenge #87 [easy] (Rectangle intersection)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/y26pr/8102012_challenge_87_easy_rectangle_intersection/"
 ---
 
 Write a function that calculates the [intersection](http://en.wikipedia.org/wiki/Intersection_(set_theory\)) of two rectangles, returning either a new rectangle or some kind of null value. 

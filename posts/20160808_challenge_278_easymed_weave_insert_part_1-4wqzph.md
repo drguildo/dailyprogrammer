@@ -1,6 +1,6 @@
 ---
-title: [2016-08-08] Challenge #278 [Easy/Med] Weave insert Part 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/4wqzph/20160808_challenge_278_easymed_weave_insert_part_1/
+title: "[2016-08-08] Challenge #278 [Easy/Med] Weave insert Part 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4wqzph/20160808_challenge_278_easymed_weave_insert_part_1/"
 ---
 
 This week's challenges are functional approaches to data interleaving.  This is usually done in the context of data being code or other machine (xml) representation.  Part 2 bonuses will be posted later in the week.

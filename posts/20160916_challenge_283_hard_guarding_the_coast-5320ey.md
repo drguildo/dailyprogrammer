@@ -1,6 +1,6 @@
 ---
-title: [2016-09-16] Challenge #283 [Hard] Guarding the Coast
-url: https://old.reddit.com/r/dailyprogrammer/comments/5320ey/20160916_challenge_283_hard_guarding_the_coast/
+title: "[2016-09-16] Challenge #283 [Hard] Guarding the Coast"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5320ey/20160916_challenge_283_hard_guarding_the_coast/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [2015-09-09] Challenge #231 [Intermediate] Set Game Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/3ke4l6/20150909_challenge_231_intermediate_set_game/
+title: "[2015-09-09] Challenge #231 [Intermediate] Set Game Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3ke4l6/20150909_challenge_231_intermediate_set_game/"
 ---
 
 Our apologies for the delay in getting this posted, there was some technical difficulties behind the scenes. 

@@ -1,6 +1,6 @@
 ---
-title: [2023-05-19] Challenge #400 [Intermediate] Practical Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/13m4bz1/20230519_challenge_400_intermediate_practical/
+title: "[2023-05-19] Challenge #400 [Intermediate] Practical Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/13m4bz1/20230519_challenge_400_intermediate_practical/"
 ---
 
 # Background

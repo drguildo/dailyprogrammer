@@ -1,6 +1,6 @@
 ---
-title: [2017-08-01] Challenge #325 [Easy] Color maze
-url: https://old.reddit.com/r/dailyprogrammer/comments/6qutez/20170801_challenge_325_easy_color_maze/
+title: "[2017-08-01] Challenge #325 [Easy] Color maze"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6qutez/20170801_challenge_325_easy_color_maze/"
 ---
 
 #Description

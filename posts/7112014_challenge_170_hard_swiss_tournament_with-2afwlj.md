@@ -1,6 +1,6 @@
 ---
-title: [7/11/2014] Challenge #170 [Hard] Swiss Tournament with a Danish Twist
-url: https://old.reddit.com/r/dailyprogrammer/comments/2afwlj/7112014_challenge_170_hard_swiss_tournament_with/
+title: "[7/11/2014] Challenge #170 [Hard] Swiss Tournament with a Danish Twist"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2afwlj/7112014_challenge_170_hard_swiss_tournament_with/"
 ---
 
 #Description:

@@ -1,6 +1,6 @@
 ---
-title: [09/17/13] Challenge #138 [Easy] Repulsion-Force
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ml669/091713_challenge_138_easy_repulsionforce/
+title: "[09/17/13] Challenge #138 [Easy] Repulsion-Force"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ml669/091713_challenge_138_easy_repulsionforce/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Repulsion-Force

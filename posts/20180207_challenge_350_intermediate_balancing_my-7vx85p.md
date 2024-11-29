@@ -1,6 +1,6 @@
 ---
-title: [2018-02-07] Challenge #350 [Intermediate] Balancing My Spending
-url: https://old.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/
+title: "[2018-02-07] Challenge #350 [Intermediate] Balancing My Spending"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/"
 ---
 
 # Description

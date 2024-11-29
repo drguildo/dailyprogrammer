@@ -1,6 +1,6 @@
 ---
-title: [10/29/2014] Challenge #186 [Intermediate] Syzygyfication
-url: https://old.reddit.com/r/dailyprogrammer/comments/2kpnky/10292014_challenge_186_intermediate_syzygyfication/
+title: "[10/29/2014] Challenge #186 [Intermediate] Syzygyfication"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2kpnky/10292014_challenge_186_intermediate_syzygyfication/"
 ---
 
 # [](#IntermediateIcon) **(Intermediate)**: Syzygyfication

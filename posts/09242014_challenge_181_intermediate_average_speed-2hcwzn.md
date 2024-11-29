@@ -1,6 +1,6 @@
 ---
-title: [09/24/2014] Challenge #181 [Intermediate] Average Speed Cameras
-url: https://old.reddit.com/r/dailyprogrammer/comments/2hcwzn/09242014_challenge_181_intermediate_average_speed/
+title: "[09/24/2014] Challenge #181 [Intermediate] Average Speed Cameras"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2hcwzn/09242014_challenge_181_intermediate_average_speed/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Average Speed Cameras

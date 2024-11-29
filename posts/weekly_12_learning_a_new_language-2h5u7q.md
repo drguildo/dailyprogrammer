@@ -1,6 +1,6 @@
 ---
-title: [Weekly #12] Learning a new language
-url: https://old.reddit.com/r/dailyprogrammer/comments/2h5u7q/weekly_12_learning_a_new_language/
+title: "[Weekly #12] Learning a new language"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2h5u7q/weekly_12_learning_a_new_language/"
 ---
 
 There are many ways to learn a new language. Books. Online videos. Classes. Virtual online Classes. In addition there are many supports to learning the language. Google searching questions you have to find answers (lot of them list hits on stackoverflow.com)

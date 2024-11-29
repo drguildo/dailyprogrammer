@@ -1,6 +1,6 @@
 ---
-title: [Weekly #7] Programming Tools -- The Editors
-url: https://old.reddit.com/r/dailyprogrammer/comments/2dwc2p/weekly_7_programming_tools_the_editors/
+title: "[Weekly #7] Programming Tools -- The Editors"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2dwc2p/weekly_7_programming_tools_the_editors/"
 ---
 
 # Weekly 7:

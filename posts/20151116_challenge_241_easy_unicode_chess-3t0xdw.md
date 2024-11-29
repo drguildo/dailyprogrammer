@@ -1,6 +1,6 @@
 ---
-title: [2015-11-16] Challenge # 241 [easy] Unicode Chess
-url: https://old.reddit.com/r/dailyprogrammer/comments/3t0xdw/20151116_challenge_241_easy_unicode_chess/
+title: "[2015-11-16] Challenge # 241 [easy] Unicode Chess"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3t0xdw/20151116_challenge_241_easy_unicode_chess/"
 ---
 
 # 1. generate a chessboard

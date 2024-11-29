@@ -1,6 +1,6 @@
 ---
-title: [2015-12-09] Challenge #244 [Easy]er - Array language (part 3) - J Forks
-url: https://old.reddit.com/r/dailyprogrammer/comments/3wdm0w/20151209_challenge_244_easyer_array_language_part/
+title: "[2015-12-09] Challenge #244 [Easy]er - Array language (part 3) - J Forks"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3wdm0w/20151209_challenge_244_easyer_array_language_part/"
 ---
 
 This challenge does not require doing the previous 2 parts.  If you want something harder, the rank conjunction from Wednesday's challenge requires concentration.

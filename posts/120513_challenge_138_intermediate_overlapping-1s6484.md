@@ -1,6 +1,6 @@
 ---
-title: [12/05/13] Challenge #138 [Intermediate] Overlapping Circles
-url: https://old.reddit.com/r/dailyprogrammer/comments/1s6484/120513_challenge_138_intermediate_overlapping/
+title: "[12/05/13] Challenge #138 [Intermediate] Overlapping Circles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1s6484/120513_challenge_138_intermediate_overlapping/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Overlapping Circles

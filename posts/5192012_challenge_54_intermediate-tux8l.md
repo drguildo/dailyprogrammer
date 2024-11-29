@@ -1,6 +1,6 @@
 ---
-title: [5/19/2012] Challenge #54 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tux8l/5192012_challenge_54_intermediate/
+title: "[5/19/2012] Challenge #54 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tux8l/5192012_challenge_54_intermediate/"
 ---
 
 For this challenge, create the worlds simplest IM client. It should work like this: if Alice on computer A wants to talk to Bob on computer B, she should start the IM program as a server listening to some port. Bob should then start the program on his end, punch in computer A's IP address with the right port. The two computers should now be connected to each other and Alice and Bob should be able to communicate by sending short strings to each other. Example conversation seen on Alice's computer:

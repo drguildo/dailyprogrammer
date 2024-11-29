@@ -1,6 +1,6 @@
 ---
-title: [2015-12-18] Challenge #245 [Hard] Guess Who(is)?
-url: https://old.reddit.com/r/dailyprogrammer/comments/3xdmtw/20151218_challenge_245_hard_guess_whois/
+title: "[2015-12-18] Challenge #245 [Hard] Guess Who(is)?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3xdmtw/20151218_challenge_245_hard_guess_whois/"
 ---
 
 Guess Who(is)?

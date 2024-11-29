@@ -1,6 +1,6 @@
 ---
-title: [Extra] Poetic Justice
-url: https://old.reddit.com/r/dailyprogrammer/comments/2gs0nq/extra_poetic_justice/
+title: "[Extra] Poetic Justice"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2gs0nq/extra_poetic_justice/"
 ---
 
 Code poetry is the act of producing code that reads like poetry. Here are a few examples from some finalists in a code poetry competition;

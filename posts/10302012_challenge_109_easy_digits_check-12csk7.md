@@ -1,6 +1,6 @@
 ---
-title: [10/30/2012] Challenge #109 [Easy] Digits Check
-url: https://old.reddit.com/r/dailyprogrammer/comments/12csk7/10302012_challenge_109_easy_digits_check/
+title: "[10/30/2012] Challenge #109 [Easy] Digits Check"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/12csk7/10302012_challenge_109_easy_digits_check/"
 ---
 
 **Description:**

@@ -1,6 +1,6 @@
 ---
-title: [4-19-2014] Challenge #154 [Intermediate] Gorellian Alphabet Sort
-url: https://old.reddit.com/r/dailyprogrammer/comments/20sjif/4192014_challenge_154_intermediate_gorellian/
+title: "[4-19-2014] Challenge #154 [Intermediate] Gorellian Alphabet Sort"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/20sjif/4192014_challenge_154_intermediate_gorellian/"
 ---
 
 #**Description:**

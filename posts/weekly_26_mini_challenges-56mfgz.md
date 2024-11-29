@@ -1,6 +1,6 @@
 ---
-title: Weekly #26 - Mini Challenges
-url: https://old.reddit.com/r/dailyprogrammer/comments/56mfgz/weekly_26_mini_challenges/
+title: "Weekly #26 - Mini Challenges"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/56mfgz/weekly_26_mini_challenges/"
 ---
 
 So this week, let's do some mini challenges. Too small for an easy but great for a mini challenge. Here is your chance to post some good warm up mini challenges. How it works. Start a new main thread in here. 

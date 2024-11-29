@@ -1,6 +1,6 @@
 ---
-title: [5/11/2012] Challenge #51 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/ti5jn/5112012_challenge_51_difficult/
+title: "[5/11/2012] Challenge #51 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ti5jn/5112012_challenge_51_difficult/"
 ---
 
 Take a 7x7 grid of cells and remove the central cell (like a chessboard, but slightly smaller and with a hole in the middle), and it would look something [like this](http://i.imgur.com/UXtTA.png). The number of cells is 7*7 - 1 = 48 because we removed the central cell.

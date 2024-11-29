@@ -1,6 +1,6 @@
 ---
-title: [2015-04-15] Challenge #210 [Intermediate] Drawing a gradient
-url: https://old.reddit.com/r/dailyprogrammer/comments/32o5je/20150415_challenge_210_intermediate_drawing_a/
+title: "[2015-04-15] Challenge #210 [Intermediate] Drawing a gradient"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/32o5je/20150415_challenge_210_intermediate_drawing_a/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2017-01-11] Challenge #299 [Intermediate] From Maze to graph
-url: https://old.reddit.com/r/dailyprogrammer/comments/5nciz5/20170111_challenge_299_intermediate_from_maze_to/
+title: "[2017-01-11] Challenge #299 [Intermediate] From Maze to graph"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5nciz5/20170111_challenge_299_intermediate_from_maze_to/"
 ---
 
 An easy and harder challenge using Monday's maze    

@@ -1,6 +1,6 @@
 ---
-title: [06/17/13] Challenge #130 [Easy] Roll the Dies
-url: https://old.reddit.com/r/dailyprogrammer/comments/1givnn/061713_challenge_130_easy_roll_the_dies/
+title: "[06/17/13] Challenge #130 [Easy] Roll the Dies"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1givnn/061713_challenge_130_easy_roll_the_dies/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Roll the Dies

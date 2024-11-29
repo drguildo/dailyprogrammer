@@ -1,6 +1,6 @@
 ---
-title: [2016-11-07] Challenge #291 [Easy] Goldilocks' Bear Necessities
-url: https://old.reddit.com/r/dailyprogrammer/comments/5bn0b7/20161107_challenge_291_easy_goldilocks_bear/
+title: "[2016-11-07] Challenge #291 [Easy] Goldilocks' Bear Necessities"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5bn0b7/20161107_challenge_291_easy_goldilocks_bear/"
 ---
 
 Once upon a time, there lived an adventurous little girl called Goldilocks.

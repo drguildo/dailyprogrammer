@@ -1,6 +1,6 @@
 ---
-title: [2015-03-02] Challenge #204 [Intermediate] It's like regular binary, only way more hype!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2xx86n/20150302_challenge_204_intermediate_its_like/
+title: "[2015-03-02] Challenge #204 [Intermediate] It's like regular binary, only way more hype!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2xx86n/20150302_challenge_204_intermediate_its_like/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2017-05-08] Challenge #314 [Easy] Concatenated Integers
-url: https://old.reddit.com/r/dailyprogrammer/comments/69y21t/20170508_challenge_314_easy_concatenated_integers/
+title: "[2017-05-08] Challenge #314 [Easy] Concatenated Integers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/69y21t/20170508_challenge_314_easy_concatenated_integers/"
 ---
 
 # Description

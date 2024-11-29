@@ -1,6 +1,6 @@
 ---
-title: [2017-05-15] Challenge #315 [Easy] XOR Multiplication
-url: https://old.reddit.com/r/dailyprogrammer/comments/6ba9id/20170515_challenge_315_easy_xor_multiplication/
+title: "[2017-05-15] Challenge #315 [Easy] XOR Multiplication"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6ba9id/20170515_challenge_315_easy_xor_multiplication/"
 ---
 
 # Description

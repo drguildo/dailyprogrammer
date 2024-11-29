@@ -1,6 +1,6 @@
 ---
-title: [12/23/13] Challenge #146 [Easy] Polygon Perimeter
-url: https://old.reddit.com/r/dailyprogrammer/comments/1tixzk/122313_challenge_146_easy_polygon_perimeter/
+title: "[12/23/13] Challenge #146 [Easy] Polygon Perimeter"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1tixzk/122313_challenge_146_easy_polygon_perimeter/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Polygon Perimeter

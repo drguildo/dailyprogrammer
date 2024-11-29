@@ -1,6 +1,6 @@
 ---
-title: [2015-11-06] Challenge #239 [Hard] An Encoding of Threes
-url: https://old.reddit.com/r/dailyprogrammer/comments/3rrtxh/20151106_challenge_239_hard_an_encoding_of_threes/
+title: "[2015-11-06] Challenge #239 [Hard] An Encoding of Threes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3rrtxh/20151106_challenge_239_hard_an_encoding_of_threes/"
 ---
 
 Are you ready to take the [Game of Threes](https://www.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challenge_239_intermediate_a_zerosum/) to the next level? 

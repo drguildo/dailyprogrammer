@@ -1,6 +1,6 @@
 ---
-title: [7/4/2014] Challenge #169 [Hard] Convex Polygon Area
-url: https://old.reddit.com/r/dailyprogrammer/comments/29umz8/742014_challenge_169_hard_convex_polygon_area/
+title: "[7/4/2014] Challenge #169 [Hard] Convex Polygon Area"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/29umz8/742014_challenge_169_hard_convex_polygon_area/"
 ---
 
 # [](#HardIcon) _(Hard)_: Convex Polygon Area

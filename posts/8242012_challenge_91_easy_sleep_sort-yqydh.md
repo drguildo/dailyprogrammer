@@ -1,6 +1,6 @@
 ---
-title: [8/24/2012] Challenge #91 [easy] (Sleep sort)
-url: https://old.reddit.com/r/dailyprogrammer/comments/yqydh/8242012_challenge_91_easy_sleep_sort/
+title: "[8/24/2012] Challenge #91 [easy] (Sleep sort)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/yqydh/8242012_challenge_91_easy_sleep_sort/"
 ---
 
 An anonymous user on world4ch's programming text board posted a thread in early 2011 in which he describes an ingenious *O(n)* sorting algorithm. This means it's, supposedly, more efficient than any sorting algorithm ever invented. Some bloggers picked up on it, and dubbed the algorithm [sleep sort](http://beust.com/weblog/2011/06/15/sleep-sort/):

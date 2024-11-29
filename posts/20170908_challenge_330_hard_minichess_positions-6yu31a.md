@@ -1,6 +1,6 @@
 ---
-title: [2017-09-08] Challenge #330 [Hard] Mini-Chess Positions
-url: https://old.reddit.com/r/dailyprogrammer/comments/6yu31a/20170908_challenge_330_hard_minichess_positions/
+title: "[2017-09-08] Challenge #330 [Hard] Mini-Chess Positions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6yu31a/20170908_challenge_330_hard_minichess_positions/"
 ---
 
 # Description

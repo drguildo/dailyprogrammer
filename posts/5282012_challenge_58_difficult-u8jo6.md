@@ -1,6 +1,6 @@
 ---
-title: [5/28/2012] Challenge #58 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/u8jo6/5282012_challenge_58_difficult/
+title: "[5/28/2012] Challenge #58 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/u8jo6/5282012_challenge_58_difficult/"
 ---
 
 A type of pseudo-random number generator is the so-called [lagged fibonacci generator](http://en.wikipedia.org/wiki/Lagged_fibonacci_generator), which has become somewhat popular because it is very simple to implement, can have an extremely long period, and produces high quality random numbers.

@@ -1,6 +1,6 @@
 ---
-title: [2018-08-22] Challenge #366 [Intermediate] Word funnel 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/99d24u/20180822_challenge_366_intermediate_word_funnel_2/
+title: "[2018-08-22] Challenge #366 [Intermediate] Word funnel 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/99d24u/20180822_challenge_366_intermediate_word_funnel_2/"
 ---
 
 # Challenge

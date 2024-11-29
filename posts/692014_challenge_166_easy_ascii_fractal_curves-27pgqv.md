@@ -1,6 +1,6 @@
 ---
-title: [6/9/2014] Challenge #166 [Easy] ASCII Fractal Curves
-url: https://old.reddit.com/r/dailyprogrammer/comments/27pgqv/692014_challenge_166_easy_ascii_fractal_curves/
+title: "[6/9/2014] Challenge #166 [Easy] ASCII Fractal Curves"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/27pgqv/692014_challenge_166_easy_ascii_fractal_curves/"
 ---
 
 # [](#EasyIcon) _(Easy)_: ASCII Fractal Curves

@@ -1,6 +1,6 @@
 ---
-title: [6/16/2014] Challenge #167 [Easy] HTML markup generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/289png/6162014_challenge_167_easy_html_markup_generator/
+title: "[6/16/2014] Challenge #167 [Easy] HTML markup generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/289png/6162014_challenge_167_easy_html_markup_generator/"
 ---
 
 #Description

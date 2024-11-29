@@ -1,7 +1,7 @@
 ---
-title: [9/27/2012] Challenge #101 [intermediate] (Image Stenography)
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/10l8cq/9272012_challenge_101_intermediate_image/
+title: "[9/27/2012] Challenge #101 [intermediate] (Image Stenography)
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/10l8cq/9272012_challenge_101_intermediate_image/"
 ---
 
 This challenge is loosely inspired by user [skeeto](/u/skeeto)

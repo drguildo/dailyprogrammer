@@ -1,6 +1,6 @@
 ---
-title: [2015-07-31] Challenge #225 [Intermediate] Diagonal Maze
-url: https://old.reddit.com/r/dailyprogrammer/comments/3f9o7k/20150731_challenge_225_intermediate_diagonal_maze/
+title: "[2015-07-31] Challenge #225 [Intermediate] Diagonal Maze"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3f9o7k/20150731_challenge_225_intermediate_diagonal_maze/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Diagonal Maze

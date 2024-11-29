@@ -1,6 +1,6 @@
 ---
-title: [2018-04-30] Challenge #359 [Easy] Regular Paperfold Sequence Generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/8g0iil/20180430_challenge_359_easy_regular_paperfold/
+title: "[2018-04-30] Challenge #359 [Easy] Regular Paperfold Sequence Generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8g0iil/20180430_challenge_359_easy_regular_paperfold/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [2017-06-12] Challenge #319 [Easy] Condensing Sentences
-url: https://old.reddit.com/r/dailyprogrammer/comments/6grwny/20170612_challenge_319_easy_condensing_sentences/
+title: "[2017-06-12] Challenge #319 [Easy] Condensing Sentences"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6grwny/20170612_challenge_319_easy_condensing_sentences/"
 ---
 
 # Description

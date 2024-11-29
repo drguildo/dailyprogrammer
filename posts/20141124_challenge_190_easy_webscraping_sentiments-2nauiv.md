@@ -1,6 +1,6 @@
 ---
-title: [2014-11-24] Challenge #190 [Easy] Webscraping sentiments
-url: https://old.reddit.com/r/dailyprogrammer/comments/2nauiv/20141124_challenge_190_easy_webscraping_sentiments/
+title: "[2014-11-24] Challenge #190 [Easy] Webscraping sentiments"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2nauiv/20141124_challenge_190_easy_webscraping_sentiments/"
 ---
 
 #Description

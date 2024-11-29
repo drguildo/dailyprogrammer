@@ -1,6 +1,6 @@
 ---
-title: [2016-06-13] Challenge #271 [Easy] Critical Hit
-url: https://old.reddit.com/r/dailyprogrammer/comments/4nvrnx/20160613_challenge_271_easy_critical_hit/
+title: "[2016-06-13] Challenge #271 [Easy] Critical Hit"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4nvrnx/20160613_challenge_271_easy_critical_hit/"
 ---
 
 # Description

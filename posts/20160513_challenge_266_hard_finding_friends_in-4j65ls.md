@@ -1,6 +1,6 @@
 ---
-title: [2016-05-13] Challenge #266 [Hard] Finding Friends in the Social Graph
-url: https://old.reddit.com/r/dailyprogrammer/comments/4j65ls/20160513_challenge_266_hard_finding_friends_in/
+title: "[2016-05-13] Challenge #266 [Hard] Finding Friends in the Social Graph"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4j65ls/20160513_challenge_266_hard_finding_friends_in/"
 ---
 
 This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful.

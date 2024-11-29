@@ -1,6 +1,6 @@
 ---
-title: [2015-08-19] Challenge #228 [Intermediate] Use a Web Service to Find Bitcoin Prices
-url: https://old.reddit.com/r/dailyprogrammer/comments/3hj4o2/20150819_challenge_228_intermediate_use_a_web/
+title: "[2015-08-19] Challenge #228 [Intermediate] Use a Web Service to Find Bitcoin Prices"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3hj4o2/20150819_challenge_228_intermediate_use_a_web/"
 ---
 
 # Desciption

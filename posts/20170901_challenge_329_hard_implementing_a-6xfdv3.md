@@ -1,6 +1,6 @@
 ---
-title: [2017-09-01] Challenge #329 [Hard] Implementing a Templating Engine
-url: https://old.reddit.com/r/dailyprogrammer/comments/6xfdv3/20170901_challenge_329_hard_implementing_a/
+title: "[2017-09-01] Challenge #329 [Hard] Implementing a Templating Engine"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6xfdv3/20170901_challenge_329_hard_implementing_a/"
 ---
 
 # Description

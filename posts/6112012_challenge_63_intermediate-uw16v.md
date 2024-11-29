@@ -1,6 +1,6 @@
 ---
-title: [6/11/2012] Challenge #63 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uw16v/6112012_challenge_63_intermediate/
+title: "[6/11/2012] Challenge #63 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uw16v/6112012_challenge_63_intermediate/"
 ---
 
 You can use the reverse(N, A) procedure defined in [today's easy problem](http://www.reddit.com/r/dailyprogrammer/comments/uw14f/6112012_challenge_63_easy/) to completely sort a list. For instance, if we wanted to sort the list [2,5,4,3,1], you could execute the following series of reversals:

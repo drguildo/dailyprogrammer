@@ -1,6 +1,6 @@
 ---
-title: [2018-05-02] Challenge #359 [Intermediate] Unwrap Some Text
-url: https://old.reddit.com/r/dailyprogrammer/comments/8gjc3k/20180502_challenge_359_intermediate_unwrap_some/
+title: "[2018-05-02] Challenge #359 [Intermediate] Unwrap Some Text"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8gjc3k/20180502_challenge_359_intermediate_unwrap_some/"
 ---
 
 # Description

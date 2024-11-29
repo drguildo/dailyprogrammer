@@ -1,6 +1,6 @@
 ---
-title: [01/16/13] Challenge #117 [Intermediate] Mayan Long Count
-url: https://old.reddit.com/r/dailyprogrammer/comments/16obmx/011613_challenge_117_intermediate_mayan_long_count/
+title: "[01/16/13] Challenge #117 [Intermediate] Mayan Long Count"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/16obmx/011613_challenge_117_intermediate_mayan_long_count/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Mayan Long Count

@@ -1,6 +1,6 @@
 ---
-title: [2017-04-12] Challenge #310 [Intermediate] Simplifying square roots
-url: https://old.reddit.com/r/dailyprogrammer/comments/64y4cf/20170412_challenge_310_intermediate_simplifying/
+title: "[2017-04-12] Challenge #310 [Intermediate] Simplifying square roots"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/64y4cf/20170412_challenge_310_intermediate_simplifying/"
 ---
 
 #Description

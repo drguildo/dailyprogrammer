@@ -1,6 +1,6 @@
 ---
-title: [4/18/2014] Challenge #158 [Hard] Intersecting Rectangles
-url: https://old.reddit.com/r/dailyprogrammer/comments/23b1pr/4182014_challenge_158_hard_intersecting_rectangles/
+title: "[4/18/2014] Challenge #158 [Hard] Intersecting Rectangles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/23b1pr/4182014_challenge_158_hard_intersecting_rectangles/"
 ---
 
 # [](#HardIcon) _(Hard)_: Intersecting Rectangles

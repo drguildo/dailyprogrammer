@@ -1,6 +1,6 @@
 ---
-title: [2016-08-22] Challenge #280 [Easy] 0 to 100, Real Quick
-url: https://old.reddit.com/r/dailyprogrammer/comments/4z04vj/20160822_challenge_280_easy_0_to_100_real_quick/
+title: "[2016-08-22] Challenge #280 [Easy] 0 to 100, Real Quick"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4z04vj/20160822_challenge_280_easy_0_to_100_real_quick/"
 ---
 
 # Description

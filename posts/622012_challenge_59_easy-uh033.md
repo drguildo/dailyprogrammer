@@ -1,6 +1,6 @@
 ---
-title: [6/2/2012] Challenge #59 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uh033/622012_challenge_59_easy/
+title: "[6/2/2012] Challenge #59 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uh033/622012_challenge_59_easy/"
 ---
 
 Write a program that given two strings, finds out if the second string is contained in the first, and if it is, where it is.

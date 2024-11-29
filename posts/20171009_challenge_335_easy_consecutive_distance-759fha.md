@@ -1,6 +1,6 @@
 ---
-title: [2017-10-09] Challenge #335 [Easy] Consecutive Distance Rating
-url: https://old.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/
+title: "[2017-10-09] Challenge #335 [Easy] Consecutive Distance Rating"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/"
 ---
 
 

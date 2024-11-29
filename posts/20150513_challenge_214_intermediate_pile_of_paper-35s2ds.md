@@ -1,6 +1,6 @@
 ---
-title: [2015-05-13] Challenge #214 [Intermediate] Pile of Paper
-url: https://old.reddit.com/r/dailyprogrammer/comments/35s2ds/20150513_challenge_214_intermediate_pile_of_paper/
+title: "[2015-05-13] Challenge #214 [Intermediate] Pile of Paper"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/35s2ds/20150513_challenge_214_intermediate_pile_of_paper/"
 ---
 
 

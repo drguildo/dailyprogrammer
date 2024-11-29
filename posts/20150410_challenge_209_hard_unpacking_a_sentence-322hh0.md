@@ -1,6 +1,6 @@
 ---
-title: [2015-04-10] Challenge #209 [Hard] Unpacking a Sentence in a Box
-url: https://old.reddit.com/r/dailyprogrammer/comments/322hh0/20150410_challenge_209_hard_unpacking_a_sentence/
+title: "[2015-04-10] Challenge #209 [Hard] Unpacking a Sentence in a Box"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/322hh0/20150410_challenge_209_hard_unpacking_a_sentence/"
 ---
 
 Those of you who took the time to work on a Hamiltonian path generator can build off of that. 

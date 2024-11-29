@@ -1,6 +1,6 @@
 ---
-title: [2016-05-20] Challenge #267 [Hard] IDDQD
-url: https://old.reddit.com/r/dailyprogrammer/comments/4k8m02/20160520_challenge_267_hard_iddqd/
+title: "[2016-05-20] Challenge #267 [Hard] IDDQD"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4k8m02/20160520_challenge_267_hard_iddqd/"
 ---
 
 Description

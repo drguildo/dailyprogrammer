@@ -1,6 +1,6 @@
 ---
-title: [11/8/13] Challenge #128 [Hard] Mon Petit Fourier
-url: https://old.reddit.com/r/dailyprogrammer/comments/1q6t2c/11813_challenge_128_hard_mon_petit_fourier/
+title: "[11/8/13] Challenge #128 [Hard] Mon Petit Fourier"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1q6t2c/11813_challenge_128_hard_mon_petit_fourier/"
 ---
 
 # [](#HardIcon) *(Hard)*: Mon Petit Fourier

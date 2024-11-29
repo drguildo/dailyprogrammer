@@ -1,6 +1,6 @@
 ---
-title: [10/24/2014] Challenge #185 [Intermediate to Hard] Roots of a Polynomial
-url: https://old.reddit.com/r/dailyprogrammer/comments/2k7mnn/10242014_challenge_185_intermediate_to_hard_roots/
+title: "[10/24/2014] Challenge #185 [Intermediate to Hard] Roots of a Polynomial"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2k7mnn/10242014_challenge_185_intermediate_to_hard_roots/"
 ---
 
 # [](#HardIcon) **(Intermediate to Hard)**: Roots of a Polynomial

@@ -1,6 +1,6 @@
 ---
-title: [01/14/13] Challenge #117 [Easy] Hexdump to ASCII
-url: https://old.reddit.com/r/dailyprogrammer/comments/16jiuq/011413_challenge_117_easy_hexdump_to_ascii/
+title: "[01/14/13] Challenge #117 [Easy] Hexdump to ASCII"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/16jiuq/011413_challenge_117_easy_hexdump_to_ascii/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Hexdump to ASCII

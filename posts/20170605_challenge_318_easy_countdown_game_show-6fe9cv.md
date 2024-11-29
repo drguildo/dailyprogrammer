@@ -1,6 +1,6 @@
 ---
-title: [2017-06-05] Challenge #318 [Easy] Countdown Game Show
-url: https://old.reddit.com/r/dailyprogrammer/comments/6fe9cv/20170605_challenge_318_easy_countdown_game_show/
+title: "[2017-06-05] Challenge #318 [Easy] Countdown Game Show"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6fe9cv/20170605_challenge_318_easy_countdown_game_show/"
 ---
 
 # Description

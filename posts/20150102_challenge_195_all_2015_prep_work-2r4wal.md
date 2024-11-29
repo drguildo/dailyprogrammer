@@ -1,6 +1,6 @@
 ---
-title: [2015-01-02] Challenge #195 [All] 2015 Prep Work
-url: https://old.reddit.com/r/dailyprogrammer/comments/2r4wal/20150102_challenge_195_all_2015_prep_work/
+title: "[2015-01-02] Challenge #195 [All] 2015 Prep Work"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2r4wal/20150102_challenge_195_all_2015_prep_work/"
 ---
 
 #Description:

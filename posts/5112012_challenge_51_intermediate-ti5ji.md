@@ -1,6 +1,6 @@
 ---
-title: [5/11/2012] Challenge #51 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/ti5ji/5112012_challenge_51_intermediate/
+title: "[5/11/2012] Challenge #51 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ti5ji/5112012_challenge_51_intermediate/"
 ---
 
 Brainfuck is an extremely minimalistic programming language. The memory consists of a large array of bytes, the "tape", 

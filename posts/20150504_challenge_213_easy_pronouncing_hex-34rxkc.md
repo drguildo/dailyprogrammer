@@ -1,6 +1,6 @@
 ---
-title: [2015-05-04] Challenge #213 [Easy] Pronouncing Hex
-url: https://old.reddit.com/r/dailyprogrammer/comments/34rxkc/20150504_challenge_213_easy_pronouncing_hex/
+title: "[2015-05-04] Challenge #213 [Easy] Pronouncing Hex"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/34rxkc/20150504_challenge_213_easy_pronouncing_hex/"
 ---
 
 # Description

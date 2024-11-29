@@ -1,6 +1,6 @@
 ---
-title: [2016-12-16] Challenge #295 [Hard] Advanced pacman
-url: https://old.reddit.com/r/dailyprogrammer/comments/5iq4ix/20161216_challenge_295_hard_advanced_pacman/
+title: "[2016-12-16] Challenge #295 [Hard] Advanced pacman"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5iq4ix/20161216_challenge_295_hard_advanced_pacman/"
 ---
 
 #Description

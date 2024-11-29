@@ -1,6 +1,6 @@
 ---
-title: [9/30/2012] Challenge #102 [difficult] (Pokémon types)
-url: https://old.reddit.com/r/dailyprogrammer/comments/10pfsf/9302012_challenge_102_difficult_pokémon_types/
+title: "[9/30/2012] Challenge #102 [difficult] (Pokémon types)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/10pfsf/9302012_challenge_102_difficult_pokémon_types/"
 ---
 
 Ah, who doesn't remember the endless hours wasted playing Pokémon games on a Game Boy during long car rides? I sure do. Pokémon had an interesting battle system, and one of the nice mechanics was the type system.

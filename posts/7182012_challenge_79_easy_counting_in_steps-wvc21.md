@@ -1,6 +1,6 @@
 ---
-title: [7/18/2012] Challenge #79 [easy] (Counting in steps)
-url: https://old.reddit.com/r/dailyprogrammer/comments/wvc21/7182012_challenge_79_easy_counting_in_steps/
+title: "[7/18/2012] Challenge #79 [easy] (Counting in steps)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/wvc21/7182012_challenge_79_easy_counting_in_steps/"
 ---
 
 Write a function `step_count(a, b, steps)` that returns a list or array containing `steps` elements, counting from `a` to `b` in steps of an equal size. `steps` is a positive integer greater than or equal to 2, `a` and `b` are floating point numbers.

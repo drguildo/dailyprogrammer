@@ -1,6 +1,6 @@
 ---
-title: [2014-12-10] Challenge #192 [Intermediate] Markov Chain Error Detection
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ovt2i/20141210_challenge_192_intermediate_markov_chain/
+title: "[2014-12-10] Challenge #192 [Intermediate] Markov Chain Error Detection"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ovt2i/20141210_challenge_192_intermediate_markov_chain/"
 ---
 
 # [](#IntermediateIcon) **(Intermediate)**: Markov Chain Error Detection

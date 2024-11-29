@@ -1,6 +1,6 @@
 ---
-title: [2018-05-18] Challenge #361 [Hard] Sudoku knight's tour
-url: https://old.reddit.com/r/dailyprogrammer/comments/8ked11/20180518_challenge_361_hard_sudoku_knights_tour/
+title: "[2018-05-18] Challenge #361 [Hard] Sudoku knight's tour"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8ked11/20180518_challenge_361_hard_sudoku_knights_tour/"
 ---
 
 Today's challenge is an optimization problem. When this post is 7 days old, whoever has submitted the best answer will receive +1 gold medal flair.

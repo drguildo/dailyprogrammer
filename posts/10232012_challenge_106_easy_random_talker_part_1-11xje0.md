@@ -1,6 +1,6 @@
 ---
-title: [10/23/2012] Challenge #106 [Easy] (Random Talker, Part 1)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11xje0/10232012_challenge_106_easy_random_talker_part_1/
+title: "[10/23/2012] Challenge #106 [Easy] (Random Talker, Part 1)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11xje0/10232012_challenge_106_easy_random_talker_part_1/"
 ---
 
 Your program will be responsible for analyzing a small chunk of text, the text of this ***entire*** dailyprogrammer description.  Your task is to output the distinct words in this description, from highest to lowest count with the number of occurrences for each.  Punctuation will be considered as separate words where they are not a part of the word.  

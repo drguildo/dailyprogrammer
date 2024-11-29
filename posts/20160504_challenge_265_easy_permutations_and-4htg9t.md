@@ -1,6 +1,6 @@
 ---
-title: [2016-05-04] Challenge #265 [Easy] Permutations and combinations part 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/4htg9t/20160504_challenge_265_easy_permutations_and/
+title: "[2016-05-04] Challenge #265 [Easy] Permutations and combinations part 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4htg9t/20160504_challenge_265_easy_permutations_and/"
 ---
 
 Basically the same challenge as Monday's, but with much larger numbers and so code that must find permutation and combination numbers without generating the full list.

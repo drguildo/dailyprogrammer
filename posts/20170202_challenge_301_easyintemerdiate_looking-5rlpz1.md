@@ -1,6 +1,6 @@
 ---
-title: [2017-02-02] Challenge #301 [Easy/Intemerdiate] Looking for patterns
-url: https://old.reddit.com/r/dailyprogrammer/comments/5rlpz1/20170202_challenge_301_easyintemerdiate_looking/
+title: "[2017-02-02] Challenge #301 [Easy/Intemerdiate] Looking for patterns"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5rlpz1/20170202_challenge_301_easyintemerdiate_looking/"
 ---
 
 #Description

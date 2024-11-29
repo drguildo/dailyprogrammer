@@ -1,6 +1,6 @@
 ---
-title: [7/16/2014] Challenge #171 [Intermediate] Zoom, Rotate, Invert Hex Picture
-url: https://old.reddit.com/r/dailyprogrammer/comments/2avd5i/7162014_challenge_171_intermediate_zoom_rotate/
+title: "[7/16/2014] Challenge #171 [Intermediate] Zoom, Rotate, Invert Hex Picture"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2avd5i/7162014_challenge_171_intermediate_zoom_rotate/"
 ---
 
 #Description:

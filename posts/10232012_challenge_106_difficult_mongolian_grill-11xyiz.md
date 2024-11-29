@@ -1,6 +1,6 @@
 ---
-title: [10/23/2012] Challenge #106 [Difficult] (Mongolian Grill)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11xyiz/10232012_challenge_106_difficult_mongolian_grill/
+title: "[10/23/2012] Challenge #106 [Difficult] (Mongolian Grill)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11xyiz/10232012_challenge_106_difficult_mongolian_grill/"
 ---
 
 One of my favorite places to eat is HuHot, a Mongolian Grill style restaurant.  At HuHot, you take a bowl and visit any number of vegetable, meat, noodle, and sauce ingredient stations to build your own custom stir fry meal.  Once you have your ingredients picked out, you get in line to have your meal cooked on an open grill before you.  As would be expected, people spend a little time at each station in order to take ingredients.  The cook time takes a few minutes, but the chefs can cook several meals on the grill at the same time.

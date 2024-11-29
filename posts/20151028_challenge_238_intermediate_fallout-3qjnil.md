@@ -1,6 +1,6 @@
 ---
-title: [2015-10-28] Challenge #238 [Intermediate] Fallout Hacking Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/
+title: "[2015-10-28] Challenge #238 [Intermediate] Fallout Hacking Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/"
 ---
 
 # Description

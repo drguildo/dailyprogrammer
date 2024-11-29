@@ -1,6 +1,6 @@
 ---
-title: [1/3/2013] Challenge #115 [Intermediate] Sum-Pairings
-url: https://old.reddit.com/r/dailyprogrammer/comments/15wm48/132013_challenge_115_intermediate_sumpairings/
+title: "[1/3/2013] Challenge #115 [Intermediate] Sum-Pairings"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/15wm48/132013_challenge_115_intermediate_sumpairings/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Sum-Parings

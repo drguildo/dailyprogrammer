@@ -1,6 +1,6 @@
 ---
-title: [07/03/13] Challenge #125 [Hard] Robo Room Service
-url: https://old.reddit.com/r/dailyprogrammer/comments/1hkpwz/070313_challenge_125_hard_robo_room_service/
+title: "[07/03/13] Challenge #125 [Hard] Robo Room Service"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1hkpwz/070313_challenge_125_hard_robo_room_service/"
 ---
 
 # [](#HardIcon) *(Hard)*: Robo Room Service

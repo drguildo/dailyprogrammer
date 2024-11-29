@@ -1,6 +1,6 @@
 ---
-title: [8/22/2012] Challenge #90 [difficult] (Alien P=NP reductions)
-url: https://old.reddit.com/r/dailyprogrammer/comments/ynw9q/8222012_challenge_90_difficult_alien_pnp/
+title: "[8/22/2012] Challenge #90 [difficult] (Alien P=NP reductions)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ynw9q/8222012_challenge_90_difficult_alien_pnp/"
 ---
 
 Ancient aliens have come down from earth and announced that, clearly, P=NP, and they've been trying to explain it to us for years.  Something about it being encoded in the pyramids they helped us build...or...something.

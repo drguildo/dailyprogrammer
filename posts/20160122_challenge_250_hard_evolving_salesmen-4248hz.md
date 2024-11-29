@@ -1,6 +1,6 @@
 ---
-title: [2016-01-22] Challenge #250 [Hard] Evolving salesmen
-url: https://old.reddit.com/r/dailyprogrammer/comments/4248hz/20160122_challenge_250_hard_evolving_salesmen/
+title: "[2016-01-22] Challenge #250 [Hard] Evolving salesmen"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4248hz/20160122_challenge_250_hard_evolving_salesmen/"
 ---
 
 You must plan a route for a salesman to visit each of 26 cities and then return home.  

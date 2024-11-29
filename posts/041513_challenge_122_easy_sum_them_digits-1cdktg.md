@@ -1,6 +1,6 @@
 ---
-title: [04/15/13] Challenge #122 [Easy] Sum Them Digits
-url: https://old.reddit.com/r/dailyprogrammer/comments/1cdktg/041513_challenge_122_easy_sum_them_digits/
+title: "[04/15/13] Challenge #122 [Easy] Sum Them Digits"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1cdktg/041513_challenge_122_easy_sum_them_digits/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [7/7/2014] Challenge #170 [Easy] Blackjack Checker
-url: https://old.reddit.com/r/dailyprogrammer/comments/29zut0/772014_challenge_170_easy_blackjack_checker/
+title: "[7/7/2014] Challenge #170 [Easy] Blackjack Checker"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/29zut0/772014_challenge_170_easy_blackjack_checker/"
 ---
 
 # [](#EasyIcon) _(Easy)_: Blackjack Checker

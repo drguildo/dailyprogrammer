@@ -1,6 +1,6 @@
 ---
-title: [2016-07-06] Challenge #274 [Intermediate] Calculating De Bruijn sequences
-url: https://old.reddit.com/r/dailyprogrammer/comments/4riubi/20160706_challenge_274_intermediate_calculating/
+title: "[2016-07-06] Challenge #274 [Intermediate] Calculating De Bruijn sequences"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4riubi/20160706_challenge_274_intermediate_calculating/"
 ---
 
 # Description

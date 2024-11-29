@@ -1,6 +1,6 @@
 ---
-title: [2020-10-21] Challenge #386 [Intermediate] Partition counts
-url: https://old.reddit.com/r/dailyprogrammer/comments/jfcuz5/20201021_challenge_386_intermediate_partition/
+title: "[2020-10-21] Challenge #386 [Intermediate] Partition counts"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/jfcuz5/20201021_challenge_386_intermediate_partition/"
 ---
 
 Today's challenge comes from [a recent Mathologer video](https://www.youtube.com/watch?v=iJ8pnCO0nTY).

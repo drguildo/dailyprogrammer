@@ -1,6 +1,6 @@
 ---
-title: [8/27/2012] Challenge #92 [easy] (Digital number display)
-url: https://old.reddit.com/r/dailyprogrammer/comments/ywlvf/8272012_challenge_92_easy_digital_number_display/
+title: "[8/27/2012] Challenge #92 [easy] (Digital number display)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ywlvf/8272012_challenge_92_easy_digital_number_display/"
 ---
 
 Today's easy challenge is to write a program that draws a number in the terminal that looks like one of those old school [seven segment displays](http://en.wikipedia.org/wiki/Seven-segment_display) you find in alarm clocks and VCRs. For instance, if you wanted to draw the number 5362, it would look somthing like:

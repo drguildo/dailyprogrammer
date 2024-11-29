@@ -1,6 +1,6 @@
 ---
-title: [PSA] We're hiring!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2uji4v/psa_were_hiring/
+title: "[PSA] We're hiring!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2uji4v/psa_were_hiring/"
 ---
 
 # We're hiring!

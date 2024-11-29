@@ -1,6 +1,6 @@
 ---
-title: [5/11/2012] Challenge #51 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/ti5jc/5112012_challenge_51_easy/
+title: "[5/11/2012] Challenge #51 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ti5jc/5112012_challenge_51_easy/"
 ---
 
 Write a program that given an array A and a number N, generates all combinations of items in A of length N.

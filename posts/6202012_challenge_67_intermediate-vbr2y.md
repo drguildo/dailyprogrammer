@@ -1,6 +1,6 @@
 ---
-title: [6/20/2012] Challenge #67 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vbr2y/6202012_challenge_67_intermediate/
+title: "[6/20/2012] Challenge #67 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vbr2y/6202012_challenge_67_intermediate/"
 ---
 
 You are given a list of 999,998 integers, which include all the integers between 1 and 1,000,000 (inclusive on both ends) in some unknown order, with the exception of two numbers which have been removed. By making only *one pass* through the data and using only a constant amount of memory (i.e. O(1) memory usage), can you figure out what two numbers have been excluded?

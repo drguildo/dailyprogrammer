@@ -1,6 +1,6 @@
 ---
-title: [03/04/13] Challenge #121 [Easy] Bytelandian Exchange 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/19mn2d/030413_challenge_121_easy_bytelandian_exchange_1/
+title: "[03/04/13] Challenge #121 [Easy] Bytelandian Exchange 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/19mn2d/030413_challenge_121_easy_bytelandian_exchange_1/"
 ---
 
 

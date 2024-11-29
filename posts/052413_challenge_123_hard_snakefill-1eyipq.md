@@ -1,6 +1,6 @@
 ---
-title: [05/24/13] Challenge #123 [Hard] Snake-Fill
-url: https://old.reddit.com/r/dailyprogrammer/comments/1eyipq/052413_challenge_123_hard_snakefill/
+title: "[05/24/13] Challenge #123 [Hard] Snake-Fill"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1eyipq/052413_challenge_123_hard_snakefill/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [6/20/2012] Challenge #67 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vbr0z/6202012_challenge_67_easy/
+title: "[6/20/2012] Challenge #67 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vbr0z/6202012_challenge_67_easy/"
 ---
 
 As we all know, when computers do calculations or store numbers, they don't use decimal notation like we do, they use binary notation. So for instance, when a computer stores the number 13, it doesn't store "1" and "3", it stores "1101", which is 13 in binary.

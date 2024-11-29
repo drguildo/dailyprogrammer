@@ -1,6 +1,6 @@
 ---
-title: [6/26/2012] Challenge #69 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vmbnb/6262012_challenge_69_intermediate/
+title: "[6/26/2012] Challenge #69 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vmbnb/6262012_challenge_69_intermediate/"
 ---
 
 During World War I, the German army used a very clever pen and paper cipher called the [ADFGVX cipher](http://en.wikipedia.org/wiki/ADFGVX_cipher), and your task today is to implement functions to both encrypt and decrypt messages using this cipher. What follows is a rather lengthy description of how it works (you can also find a description in that wikipedia link), but in essence it is actually quite simple. 

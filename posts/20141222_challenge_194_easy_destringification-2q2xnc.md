@@ -1,6 +1,6 @@
 ---
-title: [2014-12-22] Challenge #194 [Easy] Destringification
-url: https://old.reddit.com/r/dailyprogrammer/comments/2q2xnc/20141222_challenge_194_easy_destringification/
+title: "[2014-12-22] Challenge #194 [Easy] Destringification"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2q2xnc/20141222_challenge_194_easy_destringification/"
 ---
 
 # [](#EasyIcon) **(Easy)**: Destringification

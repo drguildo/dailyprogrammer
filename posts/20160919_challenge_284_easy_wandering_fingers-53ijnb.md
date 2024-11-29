@@ -1,6 +1,6 @@
 ---
-title: [2016-09-19] Challenge #284 [Easy] Wandering Fingers
-url: https://old.reddit.com/r/dailyprogrammer/comments/53ijnb/20160919_challenge_284_easy_wandering_fingers/
+title: "[2016-09-19] Challenge #284 [Easy] Wandering Fingers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/53ijnb/20160919_challenge_284_easy_wandering_fingers/"
 ---
 
 

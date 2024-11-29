@@ -1,6 +1,6 @@
 ---
-title: [7/6/2012] Challenge #73 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/w4l6e/762012_challenge_73_easy/
+title: "[7/6/2012] Challenge #73 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/w4l6e/762012_challenge_73_easy/"
 ---
 
 During the 70s and 80s, some handheld calculators used a very different notation for arithmetic called [Reverse Polish notation](http://en.wikipedia.org/wiki/Reverse_Polish_notation) (RPN). Instead of putting operators (`+`, `*`, `-`, etc.) between their operands (as in `3 + 4`), they were placed behind them: to calculate `3 + 4`, you first inputted the operands (`3 4`) and then added them together by pressing `+`.

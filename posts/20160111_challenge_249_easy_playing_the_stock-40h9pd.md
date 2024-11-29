@@ -1,6 +1,6 @@
 ---
-title: [2016-01-11] Challenge #249 [Easy] Playing the Stock Market
-url: https://old.reddit.com/r/dailyprogrammer/comments/40h9pd/20160111_challenge_249_easy_playing_the_stock/
+title: "[2016-01-11] Challenge #249 [Easy] Playing the Stock Market"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/40h9pd/20160111_challenge_249_easy_playing_the_stock/"
 ---
 
 # Description

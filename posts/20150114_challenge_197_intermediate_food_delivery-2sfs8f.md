@@ -1,6 +1,6 @@
 ---
-title: [2015-01-14] Challenge #197 [Intermediate] Food Delivery Problem
-url: https://old.reddit.com/r/dailyprogrammer/comments/2sfs8f/20150114_challenge_197_intermediate_food_delivery/
+title: "[2015-01-14] Challenge #197 [Intermediate] Food Delivery Problem"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2sfs8f/20150114_challenge_197_intermediate_food_delivery/"
 ---
 
 #Description:

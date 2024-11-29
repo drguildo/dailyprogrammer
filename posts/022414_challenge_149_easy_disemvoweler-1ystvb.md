@@ -1,6 +1,6 @@
 ---
-title: [02/24/14] Challenge #149 [Easy] Disemvoweler
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/
+title: "[02/24/14] Challenge #149 [Easy] Disemvoweler"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/"
 ---
 
 # _(Easy)_: Disemvoweler

@@ -1,6 +1,6 @@
 ---
-title: [8/13/2012] Challenge #88 [easy] (Vigenère cipher)
-url: https://old.reddit.com/r/dailyprogrammer/comments/y5sox/8132012_challenge_88_easy_vigenère_cipher/
+title: "[8/13/2012] Challenge #88 [easy] (Vigenère cipher)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/y5sox/8132012_challenge_88_easy_vigenère_cipher/"
 ---
 
 The easy challenge today is to implement the famous [Vigenère cipher](http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). The Wikipedia article explains well how it works, but here's a short description anyway:

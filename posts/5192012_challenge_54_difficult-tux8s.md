@@ -1,6 +1,6 @@
 ---
-title: [5/19/2012] Challenge #54 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tux8s/5192012_challenge_54_difficult/
+title: "[5/19/2012] Challenge #54 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tux8s/5192012_challenge_54_difficult/"
 ---
 
 For this challenge, make a program that finds the [determinant of a square matrix](http://en.wikipedia.org/wiki/Determinant#Calculation). You do not need to use any exceedingly complex methods, using expansion by cofactors is entirely sufficient (if you have no idea what that is, the always helpful Khan Academy [here](http://www.khanacademy.org/math/linear-algebra/v/linear-algebra--3x3-determinant) to [help](http://www.khanacademy.org/math/linear-algebra/v/linear-algebra--nxn-determinant). Wikipedia [also](http://en.wikipedia.org/wiki/Laplace_expansion) has you [covered](http://en.wikipedia.org/wiki/Cofactor_(linear_algebra\))).

@@ -1,6 +1,6 @@
 ---
-title: [2017-03-13] Challenge #306 [Easy] Pandigital Roman Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/5z4f3z/20170313_challenge_306_easy_pandigital_roman/
+title: "[2017-03-13] Challenge #306 [Easy] Pandigital Roman Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5z4f3z/20170313_challenge_306_easy_pandigital_roman/"
 ---
 
 # Description

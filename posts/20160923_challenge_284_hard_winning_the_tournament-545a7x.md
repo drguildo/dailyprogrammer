@@ -1,6 +1,6 @@
 ---
-title: [2016-09-23] Challenge #284 [Hard] Winning the Tournament
-url: https://old.reddit.com/r/dailyprogrammer/comments/545a7x/20160923_challenge_284_hard_winning_the_tournament/
+title: "[2016-09-23] Challenge #284 [Hard] Winning the Tournament"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/545a7x/20160923_challenge_284_hard_winning_the_tournament/"
 ---
 
 # Description

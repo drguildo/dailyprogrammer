@@ -1,6 +1,6 @@
 ---
-title: [2017-10-16] Challenge #336 [Easy] Cannibal numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/76qk58/20171016_challenge_336_easy_cannibal_numbers/
+title: "[2017-10-16] Challenge #336 [Easy] Cannibal numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/76qk58/20171016_challenge_336_easy_cannibal_numbers/"
 ---
 
 # Description

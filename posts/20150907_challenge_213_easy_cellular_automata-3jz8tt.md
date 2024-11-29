@@ -1,6 +1,6 @@
 ---
-title: [2015-09-07] Challenge #213 [Easy] Cellular Automata: Rule 90
-url: https://old.reddit.com/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/
+title: "[2015-09-07] Challenge #213 [Easy] Cellular Automata: Rule 90"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/"
 ---
 
 # Description

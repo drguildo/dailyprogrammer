@@ -1,6 +1,6 @@
 ---
-title: [5/16/2012] Challenge #53 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/tpxq9/5162012_challenge_53_easy/
+title: "[5/16/2012] Challenge #53 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/tpxq9/5162012_challenge_53_easy/"
 ---
 
 Write a function that given two sorted lists, returns a list whith the two lists merged together into one sorted list. 

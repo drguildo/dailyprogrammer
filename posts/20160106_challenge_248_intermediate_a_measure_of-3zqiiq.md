@@ -1,6 +1,6 @@
 ---
-title: [2016-01-06] Challenge #248 [Intermediate] A Measure of Edginess
-url: https://old.reddit.com/r/dailyprogrammer/comments/3zqiiq/20160106_challenge_248_intermediate_a_measure_of/
+title: "[2016-01-06] Challenge #248 [Intermediate] A Measure of Edginess"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3zqiiq/20160106_challenge_248_intermediate_a_measure_of/"
 ---
 
 Want to write a program that actually understands images it sees? 

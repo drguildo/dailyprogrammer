@@ -1,7 +1,7 @@
 ---
-title: [7/30/2012] Challenge #83 [intermediate] (Indexed file search)
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/xdx4o/7302012_challenge_83_intermediate_indexed_file/
+title: "[7/30/2012] Challenge #83 [intermediate] (Indexed file search)
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xdx4o/7302012_challenge_83_intermediate_indexed_file/"
 ---
 
 For this challenge, write two programs: 

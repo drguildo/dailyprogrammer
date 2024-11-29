@@ -1,6 +1,6 @@
 ---
-title: [2016-04-06] Challenge #261 [Intermediate] rearranged magic squares
-url: https://old.reddit.com/r/dailyprogrammer/comments/4dmm44/20160406_challenge_261_intermediate_rearranged/
+title: "[2016-04-06] Challenge #261 [Intermediate] rearranged magic squares"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4dmm44/20160406_challenge_261_intermediate_rearranged/"
 ---
 
 # Description

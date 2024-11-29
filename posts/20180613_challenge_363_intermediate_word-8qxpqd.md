@@ -1,6 +1,6 @@
 ---
-title: [2018-06-13] Challenge #363 [Intermediate] Word Hy-phen-a-tion By Com-put-er
-url: https://old.reddit.com/r/dailyprogrammer/comments/8qxpqd/20180613_challenge_363_intermediate_word/
+title: "[2018-06-13] Challenge #363 [Intermediate] Word Hy-phen-a-tion By Com-put-er"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8qxpqd/20180613_challenge_363_intermediate_word/"
 ---
 
 # Background

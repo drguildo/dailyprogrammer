@@ -1,6 +1,6 @@
 ---
-title: [4/30/2014] Challenge #160 Intermediate Part 2 - Damage Control
-url: https://old.reddit.com/r/dailyprogrammer/comments/24da3f/4302014_challenge_160_intermediate_part_2_damage/
+title: "[4/30/2014] Challenge #160 Intermediate Part 2 - Damage Control"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/24da3f/4302014_challenge_160_intermediate_part_2_damage/"
 ---
 
 [Part 1](http://www.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/)

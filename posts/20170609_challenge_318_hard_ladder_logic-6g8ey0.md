@@ -1,6 +1,6 @@
 ---
-title: [2017-06-09] Challenge #318 [Hard] Ladder Logic
-url: https://old.reddit.com/r/dailyprogrammer/comments/6g8ey0/20170609_challenge_318_hard_ladder_logic/
+title: "[2017-06-09] Challenge #318 [Hard] Ladder Logic"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6g8ey0/20170609_challenge_318_hard_ladder_logic/"
 ---
 
 #Description

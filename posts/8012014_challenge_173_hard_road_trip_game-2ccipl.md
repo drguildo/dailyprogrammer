@@ -1,6 +1,6 @@
 ---
-title: [8/01/2014] Challenge #173 [Hard] Road Trip Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ccipl/8012014_challenge_173_hard_road_trip_game/
+title: "[8/01/2014] Challenge #173 [Hard] Road Trip Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ccipl/8012014_challenge_173_hard_road_trip_game/"
 ---
 
 #Description:

@@ -1,6 +1,6 @@
 ---
-title: [2016-07-01] Challenge #273 [Hard] Elggob - Make a Boggle Layout
-url: https://old.reddit.com/r/dailyprogrammer/comments/4qt12j/20160701_challenge_273_hard_elggob_make_a_boggle/
+title: "[2016-07-01] Challenge #273 [Hard] Elggob - Make a Boggle Layout"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4qt12j/20160701_challenge_273_hard_elggob_make_a_boggle/"
 ---
 
 # Description

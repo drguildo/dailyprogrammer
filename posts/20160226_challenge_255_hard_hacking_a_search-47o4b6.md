@@ -1,6 +1,6 @@
 ---
-title: [2016-02-26] Challenge #255 [Hard] Hacking a search engine
-url: https://old.reddit.com/r/dailyprogrammer/comments/47o4b6/20160226_challenge_255_hard_hacking_a_search/
+title: "[2016-02-26] Challenge #255 [Hard] Hacking a search engine"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/47o4b6/20160226_challenge_255_hard_hacking_a_search/"
 ---
 
 # Problem description

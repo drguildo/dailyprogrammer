@@ -1,6 +1,6 @@
 ---
-title: [3/13/2012] Challenge #23 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/quli5/3132012_challenge_23_easy/
+title: "[3/13/2012] Challenge #23 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/quli5/3132012_challenge_23_easy/"
 ---
 
 Input: a list

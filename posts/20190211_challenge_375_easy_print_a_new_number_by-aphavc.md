@@ -1,6 +1,6 @@
 ---
-title: [2019-02-11] Challenge #375 [Easy] Print a new number by adding one to each of its digit
-url: https://old.reddit.com/r/dailyprogrammer/comments/aphavc/20190211_challenge_375_easy_print_a_new_number_by/
+title: "[2019-02-11] Challenge #375 [Easy] Print a new number by adding one to each of its digit"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/aphavc/20190211_challenge_375_easy_print_a_new_number_by/"
 ---
 
 # Description

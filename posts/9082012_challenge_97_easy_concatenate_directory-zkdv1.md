@@ -1,6 +1,6 @@
 ---
-title: [9/08/2012] Challenge #97 [easy] (Concatenate directory)
-url: https://old.reddit.com/r/dailyprogrammer/comments/zkdv1/9082012_challenge_97_easy_concatenate_directory/
+title: "[9/08/2012] Challenge #97 [easy] (Concatenate directory)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/zkdv1/9082012_challenge_97_easy_concatenate_directory/"
 ---
 
 Write a program that concatenates all text files (`*.txt`) in a directory, numbering file names in alphabetical order. Print a header containing some basic information above each file.

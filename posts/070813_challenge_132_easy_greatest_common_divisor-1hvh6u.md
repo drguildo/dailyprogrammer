@@ -1,6 +1,6 @@
 ---
-title: [07/08/13] Challenge #132 [Easy] Greatest Common Divisor
-url: https://old.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/
+title: "[07/08/13] Challenge #132 [Easy] Greatest Common Divisor"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Greatest Common Divisor

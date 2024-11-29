@@ -1,6 +1,6 @@
 ---
-title: [2016-04-01] Challenge #260 [Hard] Never Ending Snake
-url: https://old.reddit.com/r/dailyprogrammer/comments/4cw095/20160401_challenge_260_hard_never_ending_snake/
+title: "[2016-04-01] Challenge #260 [Hard] Never Ending Snake"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4cw095/20160401_challenge_260_hard_never_ending_snake/"
 ---
 
 # Description

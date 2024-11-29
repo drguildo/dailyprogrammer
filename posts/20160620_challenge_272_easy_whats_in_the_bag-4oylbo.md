@@ -1,6 +1,6 @@
 ---
-title: [2016-06-20] Challenge #272 [Easy] What's in the bag?
-url: https://old.reddit.com/r/dailyprogrammer/comments/4oylbo/20160620_challenge_272_easy_whats_in_the_bag/
+title: "[2016-06-20] Challenge #272 [Easy] What's in the bag?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4oylbo/20160620_challenge_272_easy_whats_in_the_bag/"
 ---
 
 # Description

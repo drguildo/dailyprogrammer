@@ -1,6 +1,6 @@
 ---
-title: [2017-02-21] Challenge #303 [Easy] Ricochet
-url: https://old.reddit.com/r/dailyprogrammer/comments/5vb1wf/20170221_challenge_303_easy_ricochet/
+title: "[2017-02-21] Challenge #303 [Easy] Ricochet"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5vb1wf/20170221_challenge_303_easy_ricochet/"
 ---
 
 #Description

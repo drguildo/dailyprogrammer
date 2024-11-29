@@ -1,6 +1,6 @@
 ---
-title: [2015-10-07] Challenge #235 [Intermediate] Scoring a Bowling Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challenge_235_intermediate_scoring_a/
+title: "[2015-10-07] Challenge #235 [Intermediate] Scoring a Bowling Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challenge_235_intermediate_scoring_a/"
 ---
 
 # Description

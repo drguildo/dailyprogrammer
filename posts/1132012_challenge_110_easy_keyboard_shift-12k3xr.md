@@ -1,6 +1,6 @@
 ---
-title: [11/3/2012] Challenge #110 [Easy] Keyboard Shift
-url: https://old.reddit.com/r/dailyprogrammer/comments/12k3xr/1132012_challenge_110_easy_keyboard_shift/
+title: "[11/3/2012] Challenge #110 [Easy] Keyboard Shift"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/12k3xr/1132012_challenge_110_easy_keyboard_shift/"
 ---
 
 **Description:**

@@ -1,6 +1,6 @@
 ---
-title: [2018-04-20] Challenge #357 [Hard] Continued Fractions
-url: https://old.reddit.com/r/dailyprogrammer/comments/8dqzyi/20180420_challenge_357_hard_continued_fractions/
+title: "[2018-04-20] Challenge #357 [Hard] Continued Fractions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8dqzyi/20180420_challenge_357_hard_continued_fractions/"
 ---
 
 # Description

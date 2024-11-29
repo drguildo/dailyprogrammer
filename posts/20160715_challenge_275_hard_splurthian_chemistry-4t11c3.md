@@ -1,6 +1,6 @@
 ---
-title: [2016-07-15] Challenge #275 [Hard] Splurthian Chemistry 103
-url: https://old.reddit.com/r/dailyprogrammer/comments/4t11c3/20160715_challenge_275_hard_splurthian_chemistry/
+title: "[2016-07-15] Challenge #275 [Hard] Splurthian Chemistry 103"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4t11c3/20160715_challenge_275_hard_splurthian_chemistry/"
 ---
 
 # Background

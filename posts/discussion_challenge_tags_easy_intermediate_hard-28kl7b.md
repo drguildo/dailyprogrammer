@@ -1,6 +1,6 @@
 ---
-title: [Discussion] Challenge tags [Easy] [Intermediate] [Hard]
-url: https://old.reddit.com/r/dailyprogrammer/comments/28kl7b/discussion_challenge_tags_easy_intermediate_hard/
+title: "[Discussion] Challenge tags [Easy] [Intermediate] [Hard]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/28kl7b/discussion_challenge_tags_easy_intermediate_hard/"
 ---
 
 Hello Dailyprogrammers. 

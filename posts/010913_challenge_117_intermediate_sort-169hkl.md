@@ -1,6 +1,6 @@
 ---
-title: [01/09/13] Challenge #117 [Intermediate] Sort r/DailyProgrammer!
-url: https://old.reddit.com/r/dailyprogrammer/comments/169hkl/010913_challenge_117_intermediate_sort/
+title: "[01/09/13] Challenge #117 [Intermediate] Sort r/DailyProgrammer!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/169hkl/010913_challenge_117_intermediate_sort/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: Sort r/DailyProgrammer!

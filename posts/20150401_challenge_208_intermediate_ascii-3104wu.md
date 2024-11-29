@@ -1,6 +1,6 @@
 ---
-title: [2015-04-01] Challenge #208 [Intermediate] ASCII Gradient Generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/3104wu/20150401_challenge_208_intermediate_ascii/
+title: "[2015-04-01] Challenge #208 [Intermediate] ASCII Gradient Generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3104wu/20150401_challenge_208_intermediate_ascii/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: ASCII Gradient Generator

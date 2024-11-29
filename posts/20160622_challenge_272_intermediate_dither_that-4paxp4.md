@@ -1,6 +1,6 @@
 ---
-title: [2016-06-22] Challenge #272 [Intermediate] Dither that image
-url: https://old.reddit.com/r/dailyprogrammer/comments/4paxp4/20160622_challenge_272_intermediate_dither_that/
+title: "[2016-06-22] Challenge #272 [Intermediate] Dither that image"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4paxp4/20160622_challenge_272_intermediate_dither_that/"
 ---
 
 # Description

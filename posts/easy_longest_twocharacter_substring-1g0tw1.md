@@ -1,6 +1,6 @@
 ---
-title: [Easy] Longest Two-Character Sub-String
-url: https://old.reddit.com/r/dailyprogrammer/comments/1g0tw1/easy_longest_twocharacter_substring/
+title: "[Easy] Longest Two-Character Sub-String"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1g0tw1/easy_longest_twocharacter_substring/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Longest Two-Character Sub-String

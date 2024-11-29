@@ -1,6 +1,6 @@
 ---
-title: [4/16/2014] Challenge #158 [Intermediate] Part 1 - The ASCII Architect
-url: https://old.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/
+title: "[4/16/2014] Challenge #158 [Intermediate] Part 1 - The ASCII Architect"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/"
 ---
 
 #Description

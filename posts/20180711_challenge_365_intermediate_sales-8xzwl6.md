@@ -1,6 +1,6 @@
 ---
-title: [2018-07-11] Challenge #365 [Intermediate] Sales Commissions
-url: https://old.reddit.com/r/dailyprogrammer/comments/8xzwl6/20180711_challenge_365_intermediate_sales/
+title: "[2018-07-11] Challenge #365 [Intermediate] Sales Commissions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/8xzwl6/20180711_challenge_365_intermediate_sales/"
 ---
 
 # Description

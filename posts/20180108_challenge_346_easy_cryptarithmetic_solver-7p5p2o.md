@@ -1,6 +1,6 @@
 ---
-title: [2018-01-08] Challenge #346 [Easy] Cryptarithmetic Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/7p5p2o/20180108_challenge_346_easy_cryptarithmetic_solver/
+title: "[2018-01-08] Challenge #346 [Easy] Cryptarithmetic Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7p5p2o/20180108_challenge_346_easy_cryptarithmetic_solver/"
 ---
 
 # Description

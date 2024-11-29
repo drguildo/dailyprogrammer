@@ -1,6 +1,6 @@
 ---
-title: [2016-05-09] Challenge #266 [Easy] Basic Graph Statistics: Node Degrees
-url: https://old.reddit.com/r/dailyprogrammer/comments/4ijtrt/20160509_challenge_266_easy_basic_graph/
+title: "[2016-05-09] Challenge #266 [Easy] Basic Graph Statistics: Node Degrees"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4ijtrt/20160509_challenge_266_easy_basic_graph/"
 ---
 
 This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful. 

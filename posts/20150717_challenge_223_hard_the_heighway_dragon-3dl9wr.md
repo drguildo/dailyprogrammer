@@ -1,6 +1,6 @@
 ---
-title: [2015-07-17] Challenge #223 [Hard] The Heighway dragon fractal
-url: https://old.reddit.com/r/dailyprogrammer/comments/3dl9wr/20150717_challenge_223_hard_the_heighway_dragon/
+title: "[2015-07-17] Challenge #223 [Hard] The Heighway dragon fractal"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3dl9wr/20150717_challenge_223_hard_the_heighway_dragon/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [01/07/13] Challenge #116 [Easy] Permutation of a string
-url: https://old.reddit.com/r/dailyprogrammer/comments/164zvs/010713_challenge_116_easy_permutation_of_a_string/
+title: "[01/07/13] Challenge #116 [Easy] Permutation of a string"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/164zvs/010713_challenge_116_easy_permutation_of_a_string/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [2014-11-12] Challenge #188 [Intermediate] Box Plot Generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/2m48nn/20141112_challenge_188_intermediate_box_plot/
+title: "[2014-11-12] Challenge #188 [Intermediate] Box Plot Generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2m48nn/20141112_challenge_188_intermediate_box_plot/"
 ---
 
 # [](#IntermediateIcon) **(Intermediate)**: Box Plot Generator

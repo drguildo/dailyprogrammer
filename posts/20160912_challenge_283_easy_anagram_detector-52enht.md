@@ -1,6 +1,6 @@
 ---
-title: [2016-09-12] Challenge #283 [Easy] Anagram Detector
-url: https://old.reddit.com/r/dailyprogrammer/comments/52enht/20160912_challenge_283_easy_anagram_detector/
+title: "[2016-09-12] Challenge #283 [Easy] Anagram Detector"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/52enht/20160912_challenge_283_easy_anagram_detector/"
 ---
 
 # Description

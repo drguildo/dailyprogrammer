@@ -1,6 +1,6 @@
 ---
-title: [Weekly #5] Comment Blocks
-url: https://old.reddit.com/r/dailyprogrammer/comments/2cle4a/weekly_5_comment_blocks/
+title: "[Weekly #5] Comment Blocks"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2cle4a/weekly_5_comment_blocks/"
 ---
 
 #Description:

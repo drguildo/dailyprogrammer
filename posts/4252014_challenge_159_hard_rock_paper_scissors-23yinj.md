@@ -1,6 +1,6 @@
 ---
-title: [4/25/2014] Challenge #159 [Hard] Rock Paper Scissors Lizard Spock - Part 3 Battle Bots
-url: https://old.reddit.com/r/dailyprogrammer/comments/23yinj/4252014_challenge_159_hard_rock_paper_scissors/
+title: "[4/25/2014] Challenge #159 [Hard] Rock Paper Scissors Lizard Spock - Part 3 Battle Bots"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/23yinj/4252014_challenge_159_hard_rock_paper_scissors/"
 ---
 
 #Theme Week:

@@ -1,6 +1,6 @@
 ---
-title: [03/13/13] Challenge #121 [Intermediate] Bytelandian Exchange 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/1a7ca0/031313_challenge_121_intermediate_bytelandian/
+title: "[03/13/13] Challenge #121 [Intermediate] Bytelandian Exchange 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1a7ca0/031313_challenge_121_intermediate_bytelandian/"
 ---
 
 

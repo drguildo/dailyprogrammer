@@ -1,6 +1,6 @@
 ---
-title: [2016-03-04] Challenge #256 [Hard] RLE Obsession
-url: https://old.reddit.com/r/dailyprogrammer/comments/48w88o/20160304_challenge_256_hard_rle_obsession/
+title: "[2016-03-04] Challenge #256 [Hard] RLE Obsession"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/48w88o/20160304_challenge_256_hard_rle_obsession/"
 ---
 
 run length encoding is a simple and magical data compression technique that I would like to use as a database.  But we will just be experimenting with querying and updating ranges of rle data without "decompressing" the rle data.

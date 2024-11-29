@@ -1,6 +1,6 @@
 ---
-title: [Weekly #10] The Future
-url: https://old.reddit.com/r/dailyprogrammer/comments/2fxtl4/weekly_10_the_future/
+title: "[Weekly #10] The Future"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2fxtl4/weekly_10_the_future/"
 ---
 
 #Weekly Topic:

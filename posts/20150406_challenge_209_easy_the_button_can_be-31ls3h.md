@@ -1,6 +1,6 @@
 ---
-title: [2015-04-06] Challenge #209 [Easy] The Button can be pressed but once...
-url: https://old.reddit.com/r/dailyprogrammer/comments/31ls3h/20150406_challenge_209_easy_the_button_can_be/
+title: "[2015-04-06] Challenge #209 [Easy] The Button can be pressed but once..."
+url: "https://old.reddit.com/r/dailyprogrammer/comments/31ls3h/20150406_challenge_209_easy_the_button_can_be/"
 ---
 
 # [](#EasyIcon) _(Easy)_: The Button can be pressed but once...

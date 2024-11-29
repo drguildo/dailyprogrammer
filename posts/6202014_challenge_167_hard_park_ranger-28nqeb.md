@@ -1,6 +1,6 @@
 ---
-title: [6/20/2014] Challenge #167 [Hard] Park Ranger
-url: https://old.reddit.com/r/dailyprogrammer/comments/28nqeb/6202014_challenge_167_hard_park_ranger/
+title: "[6/20/2014] Challenge #167 [Hard] Park Ranger"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/28nqeb/6202014_challenge_167_hard_park_ranger/"
 ---
 
 # [](#HardIcon) _(Hard)_: Park Ranger

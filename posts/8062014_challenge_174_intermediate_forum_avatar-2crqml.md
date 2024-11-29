@@ -1,6 +1,6 @@
 ---
-title: [8/06/2014] Challenge #174 [Intermediate] Forum Avatar Generator
-url: https://old.reddit.com/r/dailyprogrammer/comments/2crqml/8062014_challenge_174_intermediate_forum_avatar/
+title: "[8/06/2014] Challenge #174 [Intermediate] Forum Avatar Generator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2crqml/8062014_challenge_174_intermediate_forum_avatar/"
 ---
 
 #Description

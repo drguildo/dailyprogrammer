@@ -1,6 +1,6 @@
 ---
-title: [2018-03-09] Challenge #353 [Hard] Create a Simple Stochastic Computing Machine
-url: https://old.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/
+title: "[2018-03-09] Challenge #353 [Hard] Create a Simple Stochastic Computing Machine"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/83754b/20180309_challenge_353_hard_create_a_simple/"
 ---
 
 # Description

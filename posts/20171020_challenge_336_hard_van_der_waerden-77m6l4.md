@@ -1,6 +1,6 @@
 ---
-title: [2017-10-20] Challenge #336 [Hard] Van der Waerden numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/77m6l4/20171020_challenge_336_hard_van_der_waerden/
+title: "[2017-10-20] Challenge #336 [Hard] Van der Waerden numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/77m6l4/20171020_challenge_336_hard_van_der_waerden/"
 ---
 
 # Description

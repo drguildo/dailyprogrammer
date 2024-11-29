@@ -1,6 +1,6 @@
 ---
-title: [7/16/2012] Challenge #77 [easy] (Enumerating Morse code sequences)
-url: https://old.reddit.com/r/dailyprogrammer/comments/wn3ld/7162012_challenge_77_easy_enumerating_morse_code/
+title: "[7/16/2012] Challenge #77 [easy] (Enumerating Morse code sequences)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/wn3ld/7162012_challenge_77_easy_enumerating_morse_code/"
 ---
 
 Morse code, as we are all aware, consists of dots and dashes. Lets define a "Morse code sequence" as simply a series of dots and dashes (and nothing else). So ".--.-.--" would be a morse code sequence, for instance.

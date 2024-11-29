@@ -1,6 +1,6 @@
 ---
-title: [2016-05-25] Challenge #268 [Intermediate] Network and Cards: Part 2, The cards
-url: https://old.reddit.com/r/dailyprogrammer/comments/4kz0e0/20160525_challenge_268_intermediate_network_and/
+title: "[2016-05-25] Challenge #268 [Intermediate] Network and Cards: Part 2, The cards"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4kz0e0/20160525_challenge_268_intermediate_network_and/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2017-05-10] Challenge #314 [Intermediate] Comparing Rotated Words
-url: https://old.reddit.com/r/dailyprogrammer/comments/6aefs1/20170510_challenge_314_intermediate_comparing/
+title: "[2017-05-10] Challenge #314 [Intermediate] Comparing Rotated Words"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6aefs1/20170510_challenge_314_intermediate_comparing/"
 ---
 
 # Description

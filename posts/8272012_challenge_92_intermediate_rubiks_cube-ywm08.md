@@ -1,6 +1,6 @@
 ---
-title: [8/27/2012] Challenge #92 [intermediate] (Rubik's cube simulator)
-url: https://old.reddit.com/r/dailyprogrammer/comments/ywm08/8272012_challenge_92_intermediate_rubiks_cube/
+title: "[8/27/2012] Challenge #92 [intermediate] (Rubik's cube simulator)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ywm08/8272012_challenge_92_intermediate_rubiks_cube/"
 ---
 
 Your intermediate task today is to build a simple simulator of a [Rubik's Cube](http://en.wikipedia.org/wiki/Rubik%27s_Cube). The cube should be represented by some sort of structure, which you can give a list of moves which it will execute and show you how the cube will look as a result.

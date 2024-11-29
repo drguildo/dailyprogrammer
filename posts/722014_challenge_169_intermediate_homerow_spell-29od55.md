@@ -1,6 +1,6 @@
 ---
-title: [7/2/2014] Challenge #169 [Intermediate] Home-row Spell Check
-url: https://old.reddit.com/r/dailyprogrammer/comments/29od55/722014_challenge_169_intermediate_homerow_spell/
+title: "[7/2/2014] Challenge #169 [Intermediate] Home-row Spell Check"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/29od55/722014_challenge_169_intermediate_homerow_spell/"
 ---
 
 #User Challenge:

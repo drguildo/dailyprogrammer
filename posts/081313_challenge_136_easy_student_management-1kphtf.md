@@ -1,6 +1,6 @@
 ---
-title: [08/13/13] Challenge #136 [Easy] Student Management
-url: https://old.reddit.com/r/dailyprogrammer/comments/1kphtf/081313_challenge_136_easy_student_management/
+title: "[08/13/13] Challenge #136 [Easy] Student Management"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1kphtf/081313_challenge_136_easy_student_management/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Student Management

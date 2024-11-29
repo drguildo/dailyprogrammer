@@ -1,6 +1,6 @@
 ---
-title: [2015-02-04] Challenge #200 [Intermediate] Metro Tile Meltdown
-url: https://old.reddit.com/r/dailyprogrammer/comments/2uo3yf/20150204_challenge_200_intermediate_metro_tile/
+title: "[2015-02-04] Challenge #200 [Intermediate] Metro Tile Meltdown"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2uo3yf/20150204_challenge_200_intermediate_metro_tile/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Metro Tile Meltdown

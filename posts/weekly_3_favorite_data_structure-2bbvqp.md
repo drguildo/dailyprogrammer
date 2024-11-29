@@ -1,6 +1,6 @@
 ---
-title: [Weekly #3] Favorite Data Structure
-url: https://old.reddit.com/r/dailyprogrammer/comments/2bbvqp/weekly_3_favorite_data_structure/
+title: "[Weekly #3] Favorite Data Structure"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2bbvqp/weekly_3_favorite_data_structure/"
 ---
 
 #Weekly 3:

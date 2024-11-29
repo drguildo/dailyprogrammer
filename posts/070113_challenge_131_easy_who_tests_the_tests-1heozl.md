@@ -1,6 +1,6 @@
 ---
-title: [07/01/13] Challenge #131 [Easy] Who tests the tests?
-url: https://old.reddit.com/r/dailyprogrammer/comments/1heozl/070113_challenge_131_easy_who_tests_the_tests/
+title: "[07/01/13] Challenge #131 [Easy] Who tests the tests?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1heozl/070113_challenge_131_easy_who_tests_the_tests/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Who tests the tests?

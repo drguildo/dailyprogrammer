@@ -1,6 +1,6 @@
 ---
-title: [4/5/2012] Challenge #36 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/ruiob/452012_challenge_36_easy/
+title: "[4/5/2012] Challenge #36 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ruiob/452012_challenge_36_easy/"
 ---
 
 1000 Lockers Problem.

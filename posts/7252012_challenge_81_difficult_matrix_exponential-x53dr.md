@@ -1,6 +1,6 @@
 ---
-title: [7/25/2012] Challenge #81 [difficult] (Matrix Exponential)
-url: https://old.reddit.com/r/dailyprogrammer/comments/x53dr/7252012_challenge_81_difficult_matrix_exponential/
+title: "[7/25/2012] Challenge #81 [difficult] (Matrix Exponential)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/x53dr/7252012_challenge_81_difficult_matrix_exponential/"
 ---
 
 For a lot of the questions today we are going to be doing some simple numerical calculus.  Don't worry, its not too terrifying.

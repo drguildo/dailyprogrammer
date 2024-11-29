@@ -1,6 +1,6 @@
 ---
-title: [2018-01-24] Challenge #348 [Intermediate] Bowling Frames Display
-url: https://old.reddit.com/r/dailyprogrammer/comments/7so37o/20180124_challenge_348_intermediate_bowling/
+title: "[2018-01-24] Challenge #348 [Intermediate] Bowling Frames Display"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7so37o/20180124_challenge_348_intermediate_bowling/"
 ---
 
 # Description

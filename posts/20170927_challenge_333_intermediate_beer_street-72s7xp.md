@@ -1,6 +1,6 @@
 ---
-title: [2017-09-27] Challenge #333 [Intermediate] Beer Street and Gin Lane
-url: https://old.reddit.com/r/dailyprogrammer/comments/72s7xp/20170927_challenge_333_intermediate_beer_street/
+title: "[2017-09-27] Challenge #333 [Intermediate] Beer Street and Gin Lane"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/72s7xp/20170927_challenge_333_intermediate_beer_street/"
 ---
 
 # Description

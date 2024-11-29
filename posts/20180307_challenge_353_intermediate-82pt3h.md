@@ -1,6 +1,6 @@
 ---
-title: [2018-03-07] Challenge #353 [Intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/
+title: "[2018-03-07] Challenge #353 [Intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/82pt3h/20180307_challenge_353_intermediate/"
 ---
 
 # Description

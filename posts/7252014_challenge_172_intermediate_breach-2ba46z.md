@@ -1,6 +1,6 @@
 ---
-title: [7/25/2014] Challenge #172 [Intermediate] BREACH!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ba46z/7252014_challenge_172_intermediate_breach/
+title: "[7/25/2014] Challenge #172 [Intermediate] BREACH!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ba46z/7252014_challenge_172_intermediate_breach/"
 ---
 
 #Description

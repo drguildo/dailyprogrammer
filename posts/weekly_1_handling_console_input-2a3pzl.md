@@ -1,6 +1,6 @@
 ---
-title: [Weekly] #1 -- Handling Console Input
-url: https://old.reddit.com/r/dailyprogrammer/comments/2a3pzl/weekly_1_handling_console_input/
+title: "[Weekly] #1 -- Handling Console Input"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2a3pzl/weekly_1_handling_console_input/"
 ---
 
 #Weekly Topic #1

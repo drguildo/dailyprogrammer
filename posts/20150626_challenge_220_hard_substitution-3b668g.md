@@ -1,6 +1,6 @@
 ---
-title: [2015-06-26] Challenge #220 [Hard] Substitution Cryptanalysis
-url: https://old.reddit.com/r/dailyprogrammer/comments/3b668g/20150626_challenge_220_hard_substitution/
+title: "[2015-06-26] Challenge #220 [Hard] Substitution Cryptanalysis"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3b668g/20150626_challenge_220_hard_substitution/"
 ---
 
 # [](#HardIcon) _(Hard)_: Substitution Cryptanalysis

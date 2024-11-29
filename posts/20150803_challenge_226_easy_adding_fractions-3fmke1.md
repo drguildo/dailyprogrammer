@@ -1,6 +1,6 @@
 ---
-title: [2015-08-03] Challenge #226 [Easy] Adding fractions
-url: https://old.reddit.com/r/dailyprogrammer/comments/3fmke1/20150803_challenge_226_easy_adding_fractions/
+title: "[2015-08-03] Challenge #226 [Easy] Adding fractions"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3fmke1/20150803_challenge_226_easy_adding_fractions/"
 ---
 
 #Description 

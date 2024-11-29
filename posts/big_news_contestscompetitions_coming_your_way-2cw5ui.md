@@ -1,6 +1,6 @@
 ---
-title: Big News - Contests/Competitions Coming Your Way!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2cw5ui/big_news_contestscompetitions_coming_your_way/
+title: "Big News - Contests/Competitions Coming Your Way!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2cw5ui/big_news_contestscompetitions_coming_your_way/"
 ---
 
 #Introduction

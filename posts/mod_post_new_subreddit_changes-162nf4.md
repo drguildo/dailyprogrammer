@@ -1,6 +1,6 @@
 ---
-title: [MOD POST] New subreddit changes
-url: https://old.reddit.com/r/dailyprogrammer/comments/162nf4/mod_post_new_subreddit_changes/
+title: "[MOD POST] New subreddit changes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/162nf4/mod_post_new_subreddit_changes/"
 ---
 
 **Hey /r/DailyProgrammer,**

@@ -1,6 +1,6 @@
 ---
-title: [2014-12-28] Challenge #195 [Easy] Symbolic Link Resolution
-url: https://old.reddit.com/r/dailyprogrammer/comments/2qmz12/20141228_challenge_195_easy_symbolic_link/
+title: "[2014-12-28] Challenge #195 [Easy] Symbolic Link Resolution"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2qmz12/20141228_challenge_195_easy_symbolic_link/"
 ---
 
 # [](#EasyIcon) **(Easy)**: Symbolic Link Resolution

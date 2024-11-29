@@ -1,6 +1,6 @@
 ---
-title: [2015-08-24] Challenge #229 [Easy] The Dottie Number
-url: https://old.reddit.com/r/dailyprogrammer/comments/3i99w8/20150824_challenge_229_easy_the_dottie_number/
+title: "[2015-08-24] Challenge #229 [Easy] The Dottie Number"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3i99w8/20150824_challenge_229_easy_the_dottie_number/"
 ---
 
 # Description

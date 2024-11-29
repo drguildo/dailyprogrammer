@@ -1,6 +1,6 @@
 ---
-title: [10/18/2012] Challenge #104 [Hard] (Stack Attack)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11pas4/10182012_challenge_104_hard_stack_attack/
+title: "[10/18/2012] Challenge #104 [Hard] (Stack Attack)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11pas4/10182012_challenge_104_hard_stack_attack/"
 ---
 
 **Description:**

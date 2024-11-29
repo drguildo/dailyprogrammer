@@ -1,6 +1,6 @@
 ---
-title: [03/06/13] Challenge #121 [Intermediate] Bytelandian Exchange 2
-url: https://old.reddit.com/r/dailyprogrammer/comments/19rkqr/030613_challenge_121_intermediate_bytelandian/
+title: "[03/06/13] Challenge #121 [Intermediate] Bytelandian Exchange 2"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/19rkqr/030613_challenge_121_intermediate_bytelandian/"
 ---
 
 

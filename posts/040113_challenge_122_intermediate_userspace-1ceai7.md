@@ -1,6 +1,6 @@
 ---
-title: [04/01/13] Challenge #122 [Intermediate] User-Space Threading
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/
+title: "[04/01/13] Challenge #122 [Intermediate] User-Space Threading"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/"
 ---
 
 # [](#IntermediateIcon) *(Intermediate)*: User-Space Threading

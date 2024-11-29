@@ -1,6 +1,6 @@
 ---
-title: [5/9/2012] Challenge #50 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/teua8/592012_challenge_50_easy/
+title: "[5/9/2012] Challenge #50 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/teua8/592012_challenge_50_easy/"
 ---
 
 Hello everyone! As of today, we have finished our 50th challenge and it has been a pleasure giving out these challenges to you all. You have all been amazing with the solutions and seeing you all i hope i become a good programmer like you all one day :D

@@ -1,6 +1,6 @@
 ---
-title: [10/23/2012] Challenge #106 [Intermediate] (Jugs)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11xjfd/10232012_challenge_106_intermediate_jugs/
+title: "[10/23/2012] Challenge #106 [Intermediate] (Jugs)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11xjfd/10232012_challenge_106_intermediate_jugs/"
 ---
 
 There exists a problem for which you must get exactly 4 gallons of liquid, using only a 3 gallon jug and a 5 gallon jug. You must fill, empty, and/or transfer liquid from either of the jugs to acquire exactly 4 gallons. 

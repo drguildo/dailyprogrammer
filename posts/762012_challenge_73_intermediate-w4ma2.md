@@ -1,6 +1,6 @@
 ---
-title: [7/6/2012] Challenge #73 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/w4ma2/762012_challenge_73_intermediate/
+title: "[7/6/2012] Challenge #73 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/w4ma2/762012_challenge_73_intermediate/"
 ---
 
 Write a program that, given an ASCII binary matrix of 0's and 1's like this:

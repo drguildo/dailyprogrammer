@@ -1,6 +1,6 @@
 ---
-title: [2017-8-28] Challenge #329 [Easy] Nearest Lucky Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/
+title: "[2017-8-28] Challenge #329 [Easy] Nearest Lucky Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/"
 ---
 
 #Description

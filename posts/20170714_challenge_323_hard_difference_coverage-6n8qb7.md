@@ -1,6 +1,6 @@
 ---
-title: [2017-07-14] Challenge #323 [Hard] Difference coverage
-url: https://old.reddit.com/r/dailyprogrammer/comments/6n8qb7/20170714_challenge_323_hard_difference_coverage/
+title: "[2017-07-14] Challenge #323 [Hard] Difference coverage"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6n8qb7/20170714_challenge_323_hard_difference_coverage/"
 ---
 
 # Description

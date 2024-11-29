@@ -1,6 +1,6 @@
 ---
-title: [2021-06-14] Challenge #394 [Difficult] RSA encryption
-url: https://old.reddit.com/r/dailyprogrammer/comments/nzmvsj/20210614_challenge_394_difficult_rsa_encryption/
+title: "[2021-06-14] Challenge #394 [Difficult] RSA encryption"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/nzmvsj/20210614_challenge_394_difficult_rsa_encryption/"
 ---
 
 If you're not familiar with some of the background topics for today's challenge, you'll need to do some reading on your own. Feel free to ask if you're lost, but try to figure it out yourself first. This is a difficult challenge.

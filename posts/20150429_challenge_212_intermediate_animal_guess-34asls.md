@@ -1,6 +1,6 @@
 ---
-title: [2015-04-29] Challenge #212 [Intermediate] Animal Guess Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/34asls/20150429_challenge_212_intermediate_animal_guess/
+title: "[2015-04-29] Challenge #212 [Intermediate] Animal Guess Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/34asls/20150429_challenge_212_intermediate_animal_guess/"
 ---
 
 #Description:

@@ -1,6 +1,6 @@
 ---
-title: [11/20/2012] Challenge #113 [Easy] String-type checking
-url: https://old.reddit.com/r/dailyprogrammer/comments/13hmz3/11202012_challenge_113_easy_stringtype_checking/
+title: "[11/20/2012] Challenge #113 [Easy] String-type checking"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/13hmz3/11202012_challenge_113_easy_stringtype_checking/"
 ---
 
 **Description:**

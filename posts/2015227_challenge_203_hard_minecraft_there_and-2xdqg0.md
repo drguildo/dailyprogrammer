@@ -1,6 +1,6 @@
 ---
-title: [2015-2-27] Challenge #203 [Hard] Minecraft: There and Back
-url: https://old.reddit.com/r/dailyprogrammer/comments/2xdqg0/2015227_challenge_203_hard_minecraft_there_and/
+title: "[2015-2-27] Challenge #203 [Hard] Minecraft: There and Back"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2xdqg0/2015227_challenge_203_hard_minecraft_there_and/"
 ---
 
 #Description:

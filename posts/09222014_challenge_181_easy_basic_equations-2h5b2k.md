@@ -1,6 +1,6 @@
 ---
-title: [09/22/2014] Challenge #181 [Easy] Basic Equations
-url: https://old.reddit.com/r/dailyprogrammer/comments/2h5b2k/09222014_challenge_181_easy_basic_equations/
+title: "[09/22/2014] Challenge #181 [Easy] Basic Equations"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2h5b2k/09222014_challenge_181_easy_basic_equations/"
 ---
 
 # [](#EasyIcon) _(Easy)_: Basic Equations

@@ -1,6 +1,6 @@
 ---
-title: [01/28/13] Challenge #119 [Easy] Change Calculator
-url: https://old.reddit.com/r/dailyprogrammer/comments/17f3y2/012813_challenge_119_easy_change_calculator/
+title: "[01/28/13] Challenge #119 [Easy] Change Calculator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/17f3y2/012813_challenge_119_easy_change_calculator/"
 ---
 
 

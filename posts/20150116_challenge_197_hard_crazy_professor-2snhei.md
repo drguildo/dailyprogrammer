@@ -1,6 +1,6 @@
 ---
-title: [2015-01-16] Challenge #197 [Hard] Crazy Professor
-url: https://old.reddit.com/r/dailyprogrammer/comments/2snhei/20150116_challenge_197_hard_crazy_professor/
+title: "[2015-01-16] Challenge #197 [Hard] Crazy Professor"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2snhei/20150116_challenge_197_hard_crazy_professor/"
 ---
 
 #Description

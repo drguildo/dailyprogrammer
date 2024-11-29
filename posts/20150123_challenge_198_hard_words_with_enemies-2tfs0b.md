@@ -1,6 +1,6 @@
 ---
-title: [2015-01-23] Challenge #198 [Hard] Words with Enemies -- The Game!
-url: https://old.reddit.com/r/dailyprogrammer/comments/2tfs0b/20150123_challenge_198_hard_words_with_enemies/
+title: "[2015-01-23] Challenge #198 [Hard] Words with Enemies -- The Game!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2tfs0b/20150123_challenge_198_hard_words_with_enemies/"
 ---
 
 #Description:

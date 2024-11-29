@@ -1,6 +1,6 @@
 ---
-title: [2016-04-29] Challenge #264 [Hard] Detecting Poetry Forms
-url: https://old.reddit.com/r/dailyprogrammer/comments/4gzeze/20160429_challenge_264_hard_detecting_poetry_forms/
+title: "[2016-04-29] Challenge #264 [Hard] Detecting Poetry Forms"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4gzeze/20160429_challenge_264_hard_detecting_poetry_forms/"
 ---
 
 # Description

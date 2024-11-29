@@ -1,6 +1,6 @@
 ---
-title: [04/29/13] Challenge #123 [Easy] New-Line Troubles
-url: https://old.reddit.com/r/dailyprogrammer/comments/1dbpm9/042913_challenge_123_easy_newline_troubles/
+title: "[04/29/13] Challenge #123 [Easy] New-Line Troubles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1dbpm9/042913_challenge_123_easy_newline_troubles/"
 ---
 
 

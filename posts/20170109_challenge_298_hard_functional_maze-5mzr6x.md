@@ -1,6 +1,6 @@
 ---
-title: [2017-01-09] Challenge #298 [Hard] Functional Maze solving
-url: https://old.reddit.com/r/dailyprogrammer/comments/5mzr6x/20170109_challenge_298_hard_functional_maze/
+title: "[2017-01-09] Challenge #298 [Hard] Functional Maze solving"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5mzr6x/20170109_challenge_298_hard_functional_maze/"
 ---
 
 There will be a part 2 challenge based on bonus.  I am sure we have done maze solving before, but its been a while, and challenge is mainly about the bonus.

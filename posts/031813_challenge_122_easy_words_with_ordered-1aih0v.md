@@ -1,6 +1,6 @@
 ---
-title: [03/18/13] Challenge #122 [Easy] Words With Ordered Vowels
-url: https://old.reddit.com/r/dailyprogrammer/comments/1aih0v/031813_challenge_122_easy_words_with_ordered/
+title: "[03/18/13] Challenge #122 [Easy] Words With Ordered Vowels"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1aih0v/031813_challenge_122_easy_words_with_ordered/"
 ---
 
 

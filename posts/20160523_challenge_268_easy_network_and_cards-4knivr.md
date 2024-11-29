@@ -1,6 +1,6 @@
 ---
-title: [2016-05-23] Challenge #268 [Easy] Network and Cards: Part 1, The network
-url: https://old.reddit.com/r/dailyprogrammer/comments/4knivr/20160523_challenge_268_easy_network_and_cards/
+title: "[2016-05-23] Challenge #268 [Easy] Network and Cards: Part 1, The network"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4knivr/20160523_challenge_268_easy_network_and_cards/"
 ---
 
 #Description

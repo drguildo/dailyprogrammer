@@ -1,6 +1,6 @@
 ---
-title: [6/27/2014] Challenge #168 [Easy] String Index
-url: https://old.reddit.com/r/dailyprogrammer/comments/299hvt/6272014_challenge_168_easy_string_index/
+title: "[6/27/2014] Challenge #168 [Easy] String Index"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/299hvt/6272014_challenge_168_easy_string_index/"
 ---
 
 #What no hard?:

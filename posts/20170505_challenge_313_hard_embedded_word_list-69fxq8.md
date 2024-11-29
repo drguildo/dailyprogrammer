@@ -1,6 +1,6 @@
 ---
-title: [2017-05-05] Challenge #313 [Hard] Embedded word list
-url: https://old.reddit.com/r/dailyprogrammer/comments/69fxq8/20170505_challenge_313_hard_embedded_word_list/
+title: "[2017-05-05] Challenge #313 [Hard] Embedded word list"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/69fxq8/20170505_challenge_313_hard_embedded_word_list/"
 ---
 
 # Description

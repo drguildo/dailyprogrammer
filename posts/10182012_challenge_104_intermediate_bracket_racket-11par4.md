@@ -1,6 +1,6 @@
 ---
-title: [10/18/2012] Challenge #104 [Intermediate] (Bracket Racket)
-url: https://old.reddit.com/r/dailyprogrammer/comments/11par4/10182012_challenge_104_intermediate_bracket_racket/
+title: "[10/18/2012] Challenge #104 [Intermediate] (Bracket Racket)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/11par4/10182012_challenge_104_intermediate_bracket_racket/"
 ---
 
 **Description:**

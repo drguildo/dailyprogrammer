@@ -1,6 +1,6 @@
 ---
-title: [Weekly #18] Holiday Code - a time of sharing
-url: https://old.reddit.com/r/dailyprogrammer/comments/2q2zxe/weekly_18_holiday_code_a_time_of_sharing/
+title: "[Weekly #18] Holiday Code - a time of sharing"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2q2zxe/weekly_18_holiday_code_a_time_of_sharing/"
 ---
 
 Happy Holidays everyone (lots of holidays)

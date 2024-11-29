@@ -1,6 +1,6 @@
 ---
-title: [2016-08-18] Challenge #279 [Intermediate] Text Reflow
-url: https://old.reddit.com/r/dailyprogrammer/comments/4ybbcz/20160818_challenge_279_intermediate_text_reflow/
+title: "[2016-08-18] Challenge #279 [Intermediate] Text Reflow"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4ybbcz/20160818_challenge_279_intermediate_text_reflow/"
 ---
 
 #Description:

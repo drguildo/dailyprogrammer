@@ -1,6 +1,6 @@
 ---
-title: [2019-05-20] Challenge #378 [Easy] The Havel-Hakimi algorithm for graph realization
-url: https://old.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
+title: "[2019-05-20] Challenge #378 [Easy] The Havel-Hakimi algorithm for graph realization"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/"
 ---
 
 It was a dark and stormy night. Detective Havel and Detective Hakimi arrived at the scene of the crime.

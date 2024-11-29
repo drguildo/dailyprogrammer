@@ -1,6 +1,6 @@
 ---
-title: [7/30/2012] Challenge #83 [difficult] (Digits of the square-root of 2)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xdx8q/7302012_challenge_83_difficult_digits_of_the/
+title: "[7/30/2012] Challenge #83 [difficult] (Digits of the square-root of 2)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xdx8q/7302012_challenge_83_difficult_digits_of_the/"
 ---
 
 The square-root of 2 is, as [Hippasus of Metapontum](http://en.wikipedia.org/wiki/Hippasus) discovered to his sorrow, irrational. Among other things, this means that its decimal expansion goes on forever and never repeats. 

@@ -1,6 +1,6 @@
 ---
-title: [2017-09-26] Challenge #333 [Easy] Packet Assembler
-url: https://old.reddit.com/r/dailyprogrammer/comments/72ivih/20170926_challenge_333_easy_packet_assembler/
+title: "[2017-09-26] Challenge #333 [Easy] Packet Assembler"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/72ivih/20170926_challenge_333_easy_packet_assembler/"
 ---
 
 #Description

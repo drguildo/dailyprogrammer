@@ -1,6 +1,6 @@
 ---
-title: [09/13/13] Challenge #127 [Hard] Language Detection
-url: https://old.reddit.com/r/dailyprogrammer/comments/1mby3b/091313_challenge_127_hard_language_detection/
+title: "[09/13/13] Challenge #127 [Hard] Language Detection"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1mby3b/091313_challenge_127_hard_language_detection/"
 ---
 
 # [](#HardIcon) *(Hard)*: Language Detection

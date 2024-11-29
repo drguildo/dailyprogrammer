@@ -1,6 +1,6 @@
 ---
-title: [5/21/2014] Challenge #163 [Intermediate] Fallout's Hacking Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/263dp1/5212014_challenge_163_intermediate_fallouts/
+title: "[5/21/2014] Challenge #163 [Intermediate] Fallout's Hacking Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/263dp1/5212014_challenge_163_intermediate_fallouts/"
 ---
 
 #Description:

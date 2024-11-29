@@ -1,6 +1,6 @@
 ---
-title: [6/6/2012] Challenge #61 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uo11f/662012_challenge_61_easy/
+title: "[6/6/2012] Challenge #61 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uo11f/662012_challenge_61_easy/"
 ---
 
 The number 19 is can be represented [in binary](http://en.wikipedia.org/wiki/Binary_numeral_system) as 10011. Lets define the operation of "rotating a number" as taking the last binary digit of that number and moving it so it becomes the first binary digit, and moving the other digits one step forward. I.e. if you rotate 10011, you get 11001 (i.e. 25), because the 1 that was in the last position has now moved to the first position. If you rotate it again, you get 11100 (i.e. 28).

@@ -1,6 +1,6 @@
 ---
-title: [Weekly #13] Personal projects
-url: https://old.reddit.com/r/dailyprogrammer/comments/2ip5fu/weekly_13_personal_projects/
+title: "[Weekly #13] Personal projects"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2ip5fu/weekly_13_personal_projects/"
 ---
 
 What are all of you guys working on at the moment? 

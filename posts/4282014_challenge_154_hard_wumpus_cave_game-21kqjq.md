@@ -1,6 +1,6 @@
 ---
-title: [4/28/2014] Challenge #154 [Hard] Wumpus Cave Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/21kqjq/4282014_challenge_154_hard_wumpus_cave_game/
+title: "[4/28/2014] Challenge #154 [Hard] Wumpus Cave Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/21kqjq/4282014_challenge_154_hard_wumpus_cave_game/"
 ---
 
 #Description:

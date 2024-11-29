@@ -1,6 +1,6 @@
 ---
-title: [2017-03-08] Challenge #305 [Intermediate] The Best Conjunction
-url: https://old.reddit.com/r/dailyprogrammer/comments/5yaiin/20170308_challenge_305_intermediate_the_best/
+title: "[2017-03-08] Challenge #305 [Intermediate] The Best Conjunction"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5yaiin/20170308_challenge_305_intermediate_the_best/"
 ---
 
 #Description

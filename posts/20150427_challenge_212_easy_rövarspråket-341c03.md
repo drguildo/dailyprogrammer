@@ -1,6 +1,6 @@
 ---
-title: [2015-04-27] Challenge #212 [Easy] Rövarspråket
-url: https://old.reddit.com/r/dailyprogrammer/comments/341c03/20150427_challenge_212_easy_rövarspråket/
+title: "[2015-04-27] Challenge #212 [Easy] Rövarspråket"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/341c03/20150427_challenge_212_easy_rövarspråket/"
 ---
 
 # Description

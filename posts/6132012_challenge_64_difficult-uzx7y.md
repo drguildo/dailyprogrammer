@@ -1,6 +1,6 @@
 ---
-title: [6/13/2012] Challenge #64 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uzx7y/6132012_challenge_64_difficult/
+title: "[6/13/2012] Challenge #64 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uzx7y/6132012_challenge_64_difficult/"
 ---
 
 One of the sites where daily weather forecasts are shown is [here](http://weather.noaa.gov/pub/data/forecasts/.)

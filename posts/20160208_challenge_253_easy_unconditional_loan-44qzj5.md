@@ -1,6 +1,6 @@
 ---
-title: [2016-02-08] Challenge #253 [Easy] Unconditional Loan Income
-url: https://old.reddit.com/r/dailyprogrammer/comments/44qzj5/20160208_challenge_253_easy_unconditional_loan/
+title: "[2016-02-08] Challenge #253 [Easy] Unconditional Loan Income"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/44qzj5/20160208_challenge_253_easy_unconditional_loan/"
 ---
 
 [Unconditional Loan Income](http://www.naturalfinance.net/2016/02/unconditional-loan-income-ubi-pilot.html) is a private or public (social) program that uses "soft loans" whose only repayment obligation is a royalty on future income.

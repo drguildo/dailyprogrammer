@@ -1,6 +1,6 @@
 ---
-title: [7/18/2012] Challenge #78 [hard] (Maximum Forest Fire Fighting)
-url: https://old.reddit.com/r/dailyprogrammer/comments/wrquf/7182012_challenge_78_hard_maximum_forest_fire/
+title: "[7/18/2012] Challenge #78 [hard] (Maximum Forest Fire Fighting)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/wrquf/7182012_challenge_78_hard_maximum_forest_fire/"
 ---
 
 You are an amateur computer scientist working at a mountain ranch for a summer retreat.  This ranch

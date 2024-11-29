@@ -1,6 +1,6 @@
 ---
-title: 5000 Subscribers Strong!
-url: https://old.reddit.com/r/dailyprogrammer/comments/wougo/5000_subscribers_strong/
+title: "5000 Subscribers Strong!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/wougo/5000_subscribers_strong/"
 ---
 
 Congratulations /r/dailyprogrammer ! You are 5000 Subscribers Strong!

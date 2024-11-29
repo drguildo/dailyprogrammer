@@ -1,6 +1,6 @@
 ---
-title: [2015-03-13] Challenge #205 [Hard] DNA and Protein Sequence Alignment
-url: https://old.reddit.com/r/dailyprogrammer/comments/2yx8b8/20150313_challenge_205_hard_dna_and_protein/
+title: "[2015-03-13] Challenge #205 [Hard] DNA and Protein Sequence Alignment"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2yx8b8/20150313_challenge_205_hard_dna_and_protein/"
 ---
 
 #Description

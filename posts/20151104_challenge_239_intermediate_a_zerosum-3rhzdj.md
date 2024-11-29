@@ -1,6 +1,6 @@
 ---
-title: [2015-11-04] Challenge #239 [Intermediate] A Zero-Sum Game of Threes
-url: https://old.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challenge_239_intermediate_a_zerosum/
+title: "[2015-11-04] Challenge #239 [Intermediate] A Zero-Sum Game of Threes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challenge_239_intermediate_a_zerosum/"
 ---
 
 # Description

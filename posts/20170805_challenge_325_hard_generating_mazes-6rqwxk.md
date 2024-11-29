@@ -1,6 +1,6 @@
 ---
-title: [2017-08-05] Challenge #325 [Hard] Generating mazes
-url: https://old.reddit.com/r/dailyprogrammer/comments/6rqwxk/20170805_challenge_325_hard_generating_mazes/
+title: "[2017-08-05] Challenge #325 [Hard] Generating mazes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6rqwxk/20170805_challenge_325_hard_generating_mazes/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2015-08-12] Challenge #227 [Intermediate] Contiguous chains
-url: https://old.reddit.com/r/dailyprogrammer/comments/3gpjn3/20150812_challenge_227_intermediate_contiguous/
+title: "[2015-08-12] Challenge #227 [Intermediate] Contiguous chains"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3gpjn3/20150812_challenge_227_intermediate_contiguous/"
 ---
 
 #Description:

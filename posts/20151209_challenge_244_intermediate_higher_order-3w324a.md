@@ -1,6 +1,6 @@
 ---
-title: [2015-12-09] Challenge #244 [Intermediate] Higher order functions Array language (part 2)
-url: https://old.reddit.com/r/dailyprogrammer/comments/3w324a/20151209_challenge_244_intermediate_higher_order/
+title: "[2015-12-09] Challenge #244 [Intermediate] Higher order functions Array language (part 2)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3w324a/20151209_challenge_244_intermediate_higher_order/"
 ---
 
 Monday's challenge is a prerequisite.  Sorry.

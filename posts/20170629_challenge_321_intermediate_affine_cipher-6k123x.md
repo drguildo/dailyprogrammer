@@ -1,6 +1,6 @@
 ---
-title: [2017-06-29] Challenge #321 [Intermediate] Affine Cipher Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/6k123x/20170629_challenge_321_intermediate_affine_cipher/
+title: "[2017-06-29] Challenge #321 [Intermediate] Affine Cipher Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6k123x/20170629_challenge_321_intermediate_affine_cipher/"
 ---
 
 #Description

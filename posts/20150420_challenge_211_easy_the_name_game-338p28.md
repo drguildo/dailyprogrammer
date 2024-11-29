@@ -1,6 +1,6 @@
 ---
-title: [2015-04-20] Challenge #211 [Easy] The Name Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/338p28/20150420_challenge_211_easy_the_name_game/
+title: "[2015-04-20] Challenge #211 [Easy] The Name Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/338p28/20150420_challenge_211_easy_the_name_game/"
 ---
 
 #Description

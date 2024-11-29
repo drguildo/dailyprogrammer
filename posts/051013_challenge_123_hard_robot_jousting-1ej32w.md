@@ -1,6 +1,6 @@
 ---
-title: [05/10/13] Challenge #123 [Hard] Robot Jousting
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ej32w/051013_challenge_123_hard_robot_jousting/
+title: "[05/10/13] Challenge #123 [Hard] Robot Jousting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ej32w/051013_challenge_123_hard_robot_jousting/"
 ---
 
 # [](#HardIcon) *(Hard)*: Robot Jousting

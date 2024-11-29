@@ -1,6 +1,6 @@
 ---
-title: [2017-11-21] Challenge #341 [Easy] Repeating Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/7eh6k8/20171121_challenge_341_easy_repeating_numbers/
+title: "[2017-11-21] Challenge #341 [Easy] Repeating Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7eh6k8/20171121_challenge_341_easy_repeating_numbers/"
 ---
 
 #Description

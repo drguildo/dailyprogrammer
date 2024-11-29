@@ -1,6 +1,6 @@
 ---
-title: [7/4/2012] Challenge #72 [intermediate]
-url: https://old.reddit.com/r/dailyprogrammer/comments/w1ewk/742012_challenge_72_intermediate/
+title: "[7/4/2012] Challenge #72 [intermediate]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/w1ewk/742012_challenge_72_intermediate/"
 ---
 
 An X-ray illuminator is the bright plate that doctors put filters over in order to view x-ray images.

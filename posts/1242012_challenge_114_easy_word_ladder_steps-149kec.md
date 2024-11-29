@@ -1,6 +1,6 @@
 ---
-title: [12/4/2012] Challenge #114 [Easy] Word ladder steps
-url: https://old.reddit.com/r/dailyprogrammer/comments/149kec/1242012_challenge_114_easy_word_ladder_steps/
+title: "[12/4/2012] Challenge #114 [Easy] Word ladder steps"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/149kec/1242012_challenge_114_easy_word_ladder_steps/"
 ---
 
 A word ladder is a sequence of words made by changing one letter at a time. For example:

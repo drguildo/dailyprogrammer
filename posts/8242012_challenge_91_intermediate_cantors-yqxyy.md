@@ -1,6 +1,6 @@
 ---
-title: [8/24/2012] Challenge #91 [intermediate] (Cantor's fractions)
-url: https://old.reddit.com/r/dailyprogrammer/comments/yqxyy/8242012_challenge_91_intermediate_cantors/
+title: "[8/24/2012] Challenge #91 [intermediate] (Cantor's fractions)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/yqxyy/8242012_challenge_91_intermediate_cantors/"
 ---
 
 Famous mathematician Georg Cantor once thought of a cool way to enumerate strictly positive rational numbers (i.e. x > 0): in an infinite 2D matrix of all rationals where A[x,y] = (x / y), start counting from A[1,1] and then zig-zag your way out like this:

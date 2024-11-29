@@ -1,6 +1,6 @@
 ---
-title: [2017-06-02] Challenge #317 [Hard] Poker Odds
-url: https://old.reddit.com/r/dailyprogrammer/comments/6eublu/20170602_challenge_317_hard_poker_odds/
+title: "[2017-06-02] Challenge #317 [Hard] Poker Odds"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6eublu/20170602_challenge_317_hard_poker_odds/"
 ---
 
 #DESCRIPTION

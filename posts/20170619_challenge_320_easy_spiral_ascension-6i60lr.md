@@ -1,6 +1,6 @@
 ---
-title: [2017-06-19] Challenge #320 [Easy] Spiral Ascension
-url: https://old.reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/
+title: "[2017-06-19] Challenge #320 [Easy] Spiral Ascension"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/"
 ---
 
 # Description

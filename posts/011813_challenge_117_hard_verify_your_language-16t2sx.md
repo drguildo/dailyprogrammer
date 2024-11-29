@@ -1,6 +1,6 @@
 ---
-title: [01/18/13] Challenge #117 [Hard] Verify Your Language!
-url: https://old.reddit.com/r/dailyprogrammer/comments/16t2sx/011813_challenge_117_hard_verify_your_language/
+title: "[01/18/13] Challenge #117 [Hard] Verify Your Language!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/16t2sx/011813_challenge_117_hard_verify_your_language/"
 ---
 
 # [](#HardIcon) *(Hard)*: Verify Your Language!

@@ -1,6 +1,6 @@
 ---
-title: [2016-01-01] CHallenge #247 [Hard] Zombies on the highways!
-url: https://old.reddit.com/r/dailyprogrammer/comments/3z1cxs/20160101_challenge_247_hard_zombies_on_the/
+title: "[2016-01-01] CHallenge #247 [Hard] Zombies on the highways!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3z1cxs/20160101_challenge_247_hard_zombies_on_the/"
 ---
 
 Happy new year everyone!

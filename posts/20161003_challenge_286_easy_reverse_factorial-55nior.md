@@ -1,6 +1,6 @@
 ---
-title: [2016-10-03] Challenge #286 [Easy] Reverse Factorial
-url: https://old.reddit.com/r/dailyprogrammer/comments/55nior/20161003_challenge_286_easy_reverse_factorial/
+title: "[2016-10-03] Challenge #286 [Easy] Reverse Factorial"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/55nior/20161003_challenge_286_easy_reverse_factorial/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [05/06/13] Challenge #124 [Easy] Edge Sorting
-url: https://old.reddit.com/r/dailyprogrammer/comments/1dsyrk/050613_challenge_124_easy_edge_sorting/
+title: "[05/06/13] Challenge #124 [Easy] Edge Sorting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1dsyrk/050613_challenge_124_easy_edge_sorting/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Edge Sorting

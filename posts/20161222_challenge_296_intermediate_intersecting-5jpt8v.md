@@ -1,6 +1,6 @@
 ---
-title: [2016-12-22] Challenge #296 [Intermediate] Intersecting Area Of Overlapping Rectangles
-url: https://old.reddit.com/r/dailyprogrammer/comments/5jpt8v/20161222_challenge_296_intermediate_intersecting/
+title: "[2016-12-22] Challenge #296 [Intermediate] Intersecting Area Of Overlapping Rectangles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5jpt8v/20161222_challenge_296_intermediate_intersecting/"
 ---
 
 #Description

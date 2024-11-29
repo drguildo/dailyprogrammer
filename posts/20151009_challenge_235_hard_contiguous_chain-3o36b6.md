@@ -1,6 +1,6 @@
 ---
-title: [2015-10-09] Challenge #235 [Hard] Contiguous Chain Variation
-url: https://old.reddit.com/r/dailyprogrammer/comments/3o36b6/20151009_challenge_235_hard_contiguous_chain/
+title: "[2015-10-09] Challenge #235 [Hard] Contiguous Chain Variation"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3o36b6/20151009_challenge_235_hard_contiguous_chain/"
 ---
 
 # Description

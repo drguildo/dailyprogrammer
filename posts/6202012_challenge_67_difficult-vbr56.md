@@ -1,6 +1,6 @@
 ---
-title: [6/20/2012] Challenge #67 [difficult]
-url: https://old.reddit.com/r/dailyprogrammer/comments/vbr56/6202012_challenge_67_difficult/
+title: "[6/20/2012] Challenge #67 [difficult]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/vbr56/6202012_challenge_67_difficult/"
 ---
 
 Let the s(N) be a random number generator defined as follows (at this point, this should probably be anointed the Offical Random Number Generator of /r/dailyprogrammer): 

@@ -1,6 +1,6 @@
 ---
-title: [2015-03-11] Challenge #205 [Intermediate] RPN
-url: https://old.reddit.com/r/dailyprogrammer/comments/2yquvm/20150311_challenge_205_intermediate_rpn/
+title: "[2015-03-11] Challenge #205 [Intermediate] RPN"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2yquvm/20150311_challenge_205_intermediate_rpn/"
 ---
 
 #Description:

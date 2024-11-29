@@ -1,6 +1,6 @@
 ---
-title: [2016-06-10] Challenge #270 [Hard] Alien Invasion Inversion
-url: https://old.reddit.com/r/dailyprogrammer/comments/4nga90/20160610_challenge_270_hard_alien_invasion/
+title: "[2016-06-10] Challenge #270 [Hard] Alien Invasion Inversion"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4nga90/20160610_challenge_270_hard_alien_invasion/"
 ---
 
 **Description**

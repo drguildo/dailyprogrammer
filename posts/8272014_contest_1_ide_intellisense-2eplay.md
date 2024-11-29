@@ -1,6 +1,6 @@
 ---
-title: [8/27/2014] Contest #1 - IDE Intellisense
-url: https://old.reddit.com/r/dailyprogrammer/comments/2eplay/8272014_contest_1_ide_intellisense/
+title: "[8/27/2014] Contest #1 - IDE Intellisense"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2eplay/8272014_contest_1_ide_intellisense/"
 ---
 
 #Description

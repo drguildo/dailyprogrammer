@@ -1,6 +1,6 @@
 ---
-title: [2017-10-23] Challenge #337 [Easy] Minimize &amp; Maximize
-url: https://old.reddit.com/r/dailyprogrammer/comments/784fgr/20171023_challenge_337_easy_minimize_maximize/
+title: "[2017-10-23] Challenge #337 [Easy] Minimize &amp; Maximize"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/784fgr/20171023_challenge_337_easy_minimize_maximize/"
 ---
 
 # Description

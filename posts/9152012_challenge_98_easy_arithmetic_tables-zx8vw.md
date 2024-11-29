@@ -1,6 +1,6 @@
 ---
-title: [9/15/2012] Challenge #98 [easy] (Arithmetic tables)
-url: https://old.reddit.com/r/dailyprogrammer/comments/zx8vw/9152012_challenge_98_easy_arithmetic_tables/
+title: "[9/15/2012] Challenge #98 [easy] (Arithmetic tables)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/zx8vw/9152012_challenge_98_easy_arithmetic_tables/"
 ---
 
 Write a program that reads two arguments from the command line:

@@ -1,6 +1,6 @@
 ---
-title: [9/30/2012] Challenge #102 [easy] (Dice roller)
-url: https://old.reddit.com/r/dailyprogrammer/comments/10pf0j/9302012_challenge_102_easy_dice_roller/
+title: "[9/30/2012] Challenge #102 [easy] (Dice roller)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/10pf0j/9302012_challenge_102_easy_dice_roller/"
 ---
 
 In tabletop role-playing games like Dungeons & Dragons, people use a system called [dice notation](http://en.wikipedia.org/wiki/Dice_notation) to represent a combination of dice to be rolled to generate a random number. Dice rolls are of the form **A**d**B** *(+/-)* **C**, and are calculated like this:

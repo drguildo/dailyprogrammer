@@ -1,6 +1,6 @@
 ---
-title: [1/2/2013] Challenge #115 [Difficult] Pack-o-Tron 5000
-url: https://old.reddit.com/r/dailyprogrammer/comments/15uohz/122013_challenge_115_difficult_packotron_5000/
+title: "[1/2/2013] Challenge #115 [Difficult] Pack-o-Tron 5000"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/15uohz/122013_challenge_115_difficult_packotron_5000/"
 ---
 
 **Description:**

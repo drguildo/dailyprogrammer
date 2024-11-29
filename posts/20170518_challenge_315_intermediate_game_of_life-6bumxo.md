@@ -1,6 +1,6 @@
 ---
-title: [2017-05-18] Challenge #315 [Intermediate] Game of life that has a twist
-url: https://old.reddit.com/r/dailyprogrammer/comments/6bumxo/20170518_challenge_315_intermediate_game_of_life/
+title: "[2017-05-18] Challenge #315 [Intermediate] Game of life that has a twist"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6bumxo/20170518_challenge_315_intermediate_game_of_life/"
 ---
 
 So for the first part of the description I am borrowing /u/Elite6809 challenge of a while ago [link](https://www.reddit.com/r/dailyprogrammer/comments/271xyp/622014_challenge_165_easy_ascii_game_of_life/)

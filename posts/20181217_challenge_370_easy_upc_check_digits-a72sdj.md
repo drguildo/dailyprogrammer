@@ -1,6 +1,6 @@
 ---
-title: [2018-12-17] Challenge #370 [Easy] UPC check digits
-url: https://old.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/
+title: "[2018-12-17] Challenge #370 [Easy] UPC check digits"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/a72sdj/20181217_challenge_370_easy_upc_check_digits/"
 ---
 
 The Universal Product Code (UPC-A) is a bar code used in many parts of the world. The bars encode a 12-digit number used to identify a product for sale, for example:

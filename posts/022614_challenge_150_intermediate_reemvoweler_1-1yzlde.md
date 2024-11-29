@@ -1,6 +1,6 @@
 ---
-title: [02/26/14] Challenge #150 [Intermediate] Re-emvoweler 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/1yzlde/022614_challenge_150_intermediate_reemvoweler_1/
+title: "[02/26/14] Challenge #150 [Intermediate] Re-emvoweler 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1yzlde/022614_challenge_150_intermediate_reemvoweler_1/"
 ---
 
 # _(Intermediate)_: Re-emvoweler 1

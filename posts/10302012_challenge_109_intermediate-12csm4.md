@@ -1,6 +1,6 @@
 ---
-title: [10/30/2012] Challenge #109 [Intermediate] 
-url: https://old.reddit.com/r/dailyprogrammer/comments/12csm4/10302012_challenge_109_intermediate/
+title: "[10/30/2012] Challenge #109 [Intermediate] "
+url: "https://old.reddit.com/r/dailyprogrammer/comments/12csm4/10302012_challenge_109_intermediate/"
 ---
 
 **Description:**

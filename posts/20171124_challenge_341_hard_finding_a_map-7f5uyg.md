@@ -1,6 +1,6 @@
 ---
-title: [2017-11-24] Challenge #341 [Hard] Finding a Map Subsection
-url: https://old.reddit.com/r/dailyprogrammer/comments/7f5uyg/20171124_challenge_341_hard_finding_a_map/
+title: "[2017-11-24] Challenge #341 [Hard] Finding a Map Subsection"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7f5uyg/20171124_challenge_341_hard_finding_a_map/"
 ---
 
 # Description

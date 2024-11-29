@@ -1,6 +1,6 @@
 ---
-title: [2016-12-19] Challenge #296 [Easy] The Twelve Days of...
-url: https://old.reddit.com/r/dailyprogrammer/comments/5j6ggm/20161219_challenge_296_easy_the_twelve_days_of/
+title: "[2016-12-19] Challenge #296 [Easy] The Twelve Days of..."
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5j6ggm/20161219_challenge_296_easy_the_twelve_days_of/"
 ---
 
 #Description

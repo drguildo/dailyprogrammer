@@ -1,6 +1,6 @@
 ---
-title: [2015-11-11] Challenge #240 [Intermediate] Economic/Social modeling and queries
-url: https://old.reddit.com/r/dailyprogrammer/comments/3sd86k/20151111_challenge_240_intermediate/
+title: "[2015-11-11] Challenge #240 [Intermediate] Economic/Social modeling and queries"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3sd86k/20151111_challenge_240_intermediate/"
 ---
 
 This is a task of reading a small database, and querying it and processing results, or building a model from the data.

@@ -1,6 +1,6 @@
 ---
-title: [8/08/2014] Challenge #174 [Hard] Convex Hull Problem
-url: https://old.reddit.com/r/dailyprogrammer/comments/2cyss3/8082014_challenge_174_hard_convex_hull_problem/
+title: "[8/08/2014] Challenge #174 [Hard] Convex Hull Problem"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2cyss3/8082014_challenge_174_hard_convex_hull_problem/"
 ---
 
 # [](#HardIcon) _(Hard)_: Convex Hull Problem

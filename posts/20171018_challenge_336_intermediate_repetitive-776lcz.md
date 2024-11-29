@@ -1,6 +1,6 @@
 ---
-title: [2017-10-18] Challenge #336 [Intermediate] Repetitive Rubik's Cube
-url: https://old.reddit.com/r/dailyprogrammer/comments/776lcz/20171018_challenge_336_intermediate_repetitive/
+title: "[2017-10-18] Challenge #336 [Intermediate] Repetitive Rubik's Cube"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/776lcz/20171018_challenge_336_intermediate_repetitive/"
 ---
 
 # Description

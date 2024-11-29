@@ -1,7 +1,7 @@
 ---
-title: [9/05/2012] Challenge #96 [easy] (Controller Chains)
-
-url: https://old.reddit.com/r/dailyprogrammer/comments/zfe7v/9052012_challenge_96_easy_controller_chains/
+title: "[9/05/2012] Challenge #96 [easy] (Controller Chains)
+"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/zfe7v/9052012_challenge_96_easy_controller_chains/"
 ---
 
 It's 2001 all over again, and you just got a brand new ps2 in the mail.  Unfortunately, it only has 2 controller ports, and you have N friends who all want to play at the same time.

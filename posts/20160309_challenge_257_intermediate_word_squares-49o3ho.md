@@ -1,6 +1,6 @@
 ---
-title: [2016-03-09] Challenge #257 [Intermediate] Word Squares Part 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/49o3ho/20160309_challenge_257_intermediate_word_squares/
+title: "[2016-03-09] Challenge #257 [Intermediate] Word Squares Part 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/49o3ho/20160309_challenge_257_intermediate_word_squares/"
 ---
 
 # Description

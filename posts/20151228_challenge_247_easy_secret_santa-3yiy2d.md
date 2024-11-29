@@ -1,6 +1,6 @@
 ---
-title: [2015-12-28] Challenge #247 [Easy] Secret Santa
-url: https://old.reddit.com/r/dailyprogrammer/comments/3yiy2d/20151228_challenge_247_easy_secret_santa/
+title: "[2015-12-28] Challenge #247 [Easy] Secret Santa"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3yiy2d/20151228_challenge_247_easy_secret_santa/"
 ---
 
 # Description

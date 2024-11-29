@@ -1,6 +1,6 @@
 ---
-title: [8/1/2012] Challenge #84 [intermediate] (Recursive Song)
-url: https://old.reddit.com/r/dailyprogrammer/comments/xilgw/812012_challenge_84_intermediate_recursive_song/
+title: "[8/1/2012] Challenge #84 [intermediate] (Recursive Song)"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/xilgw/812012_challenge_84_intermediate_recursive_song/"
 ---
 
 Like many people who program, I got started doing this because I wanted to learn how to make video games.  

@@ -1,6 +1,6 @@
 ---
-title: [2016-03-30] Challenge #260 [Intermediate] Diagonal collision
-url: https://old.reddit.com/r/dailyprogrammer/comments/4cktc3/20160330_challenge_260_intermediate_diagonal/
+title: "[2016-03-30] Challenge #260 [Intermediate] Diagonal collision"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4cktc3/20160330_challenge_260_intermediate_diagonal/"
 ---
 
 #Description

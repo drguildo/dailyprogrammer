@@ -1,6 +1,6 @@
 ---
-title: [2018-12-31] Challenge #371 [Easy] N queens validator
-url: https://old.reddit.com/r/dailyprogrammer/comments/ab9mn7/20181231_challenge_371_easy_n_queens_validator/
+title: "[2018-12-31] Challenge #371 [Easy] N queens validator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/ab9mn7/20181231_challenge_371_easy_n_queens_validator/"
 ---
 
 For the purpose of this challenge, the N queens problem consists of putting one queen on every column (labeled a, b, c, ...) of an NxN chessboard, such that no two queens are in the same row or diagonal. An example valid solution for N = 6 is:

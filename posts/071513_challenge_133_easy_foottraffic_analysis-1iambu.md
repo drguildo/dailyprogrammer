@@ -1,6 +1,6 @@
 ---
-title: [07/15/13] Challenge #133 [Easy] Foot-Traffic Analysis
-url: https://old.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/
+title: "[07/15/13] Challenge #133 [Easy] Foot-Traffic Analysis"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/"
 ---
 
 # [](#EasyIcon) *(Easy)*: Foot-Traffic Analysis

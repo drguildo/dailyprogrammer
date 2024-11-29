@@ -1,6 +1,6 @@
 ---
-title: [2016-02-19] Challenge #254 [Hard] DNA Shotgun Sequencing
-url: https://old.reddit.com/r/dailyprogrammer/comments/46km7n/20160219_challenge_254_hard_dna_shotgun_sequencing/
+title: "[2016-02-19] Challenge #254 [Hard] DNA Shotgun Sequencing"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/46km7n/20160219_challenge_254_hard_dna_shotgun_sequencing/"
 ---
 
 # Description

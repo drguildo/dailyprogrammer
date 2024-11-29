@@ -1,6 +1,6 @@
 ---
-title: [2017-03-27] Challenge #308 [Easy] Let it burn
-url: https://old.reddit.com/r/dailyprogrammer/comments/61ub0j/20170327_challenge_308_easy_let_it_burn/
+title: "[2017-03-27] Challenge #308 [Easy] Let it burn"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/61ub0j/20170327_challenge_308_easy_let_it_burn/"
 ---
 
 #Description

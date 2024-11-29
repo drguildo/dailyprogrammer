@@ -1,6 +1,6 @@
 ---
-title: [2016-09-02] Challenge #281 [Hard] Minesweeper Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/50s3ax/20160902_challenge_281_hard_minesweeper_solver/
+title: "[2016-09-02] Challenge #281 [Hard] Minesweeper Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/50s3ax/20160902_challenge_281_hard_minesweeper_solver/"
 ---
 
 #Description

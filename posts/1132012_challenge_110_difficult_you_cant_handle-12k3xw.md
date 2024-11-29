@@ -1,6 +1,6 @@
 ---
-title: [11/3/2012] Challenge #110 [Difficult] You can't handle the truth!
-url: https://old.reddit.com/r/dailyprogrammer/comments/12k3xw/1132012_challenge_110_difficult_you_cant_handle/
+title: "[11/3/2012] Challenge #110 [Difficult] You can't handle the truth!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/12k3xw/1132012_challenge_110_difficult_you_cant_handle/"
 ---
 
 **Description:**

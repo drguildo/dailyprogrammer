@@ -1,6 +1,6 @@
 ---
-title: [2015-09-28] Challenge #234 [Easy] Vampire Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/3moxid/20150928_challenge_234_easy_vampire_numbers/
+title: "[2015-09-28] Challenge #234 [Easy] Vampire Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3moxid/20150928_challenge_234_easy_vampire_numbers/"
 ---
 
 I see that no [Hard] challenge was posted last week, the moderator had some challenges with getting away. Hopefully an [Easy] challenge makes up for it. 

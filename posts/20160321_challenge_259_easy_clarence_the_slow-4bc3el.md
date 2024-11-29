@@ -1,6 +1,6 @@
 ---
-title: [2016-03-21] Challenge #259 [Easy] Clarence the Slow Typist
-url: https://old.reddit.com/r/dailyprogrammer/comments/4bc3el/20160321_challenge_259_easy_clarence_the_slow/
+title: "[2016-03-21] Challenge #259 [Easy] Clarence the Slow Typist"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4bc3el/20160321_challenge_259_easy_clarence_the_slow/"
 ---
 
 #Description

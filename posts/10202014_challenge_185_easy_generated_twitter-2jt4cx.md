@@ -1,6 +1,6 @@
 ---
-title: [10/20/2014] Challenge #185 [Easy] Generated twitter handles
-url: https://old.reddit.com/r/dailyprogrammer/comments/2jt4cx/10202014_challenge_185_easy_generated_twitter/
+title: "[10/20/2014] Challenge #185 [Easy] Generated twitter handles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2jt4cx/10202014_challenge_185_easy_generated_twitter/"
 ---
 
 #Description

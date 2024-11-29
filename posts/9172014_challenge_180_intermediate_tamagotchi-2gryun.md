@@ -1,6 +1,6 @@
 ---
-title: [9/17/2014] Challenge #180 [Intermediate] Tamagotchi emulator
-url: https://old.reddit.com/r/dailyprogrammer/comments/2gryun/9172014_challenge_180_intermediate_tamagotchi/
+title: "[9/17/2014] Challenge #180 [Intermediate] Tamagotchi emulator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2gryun/9172014_challenge_180_intermediate_tamagotchi/"
 ---
 
 #Description

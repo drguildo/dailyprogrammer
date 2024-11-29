@@ -1,6 +1,6 @@
 ---
-title: [2021-07-05] Challenge #397 [Easy] Roman numeral comparison
-url: https://old.reddit.com/r/dailyprogrammer/comments/oe9qnb/20210705_challenge_397_easy_roman_numeral/
+title: "[2021-07-05] Challenge #397 [Easy] Roman numeral comparison"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/oe9qnb/20210705_challenge_397_easy_roman_numeral/"
 ---
 
 For the purpose of today's challenge, a Roman numeral is a non-empty string of the characters `M`, `D`, `C`, `L`, `X`, `V`, and `I`, each of which has the value 1000, 500, 100, 50, 10, 5, and 1. The characters are arranged in descending order, and the total value of the numeral is the sum of the values of its characters. For example, the numeral `MDCCXXVIIII` has the value 1000 + 500 + 2x100 + 2x10 + 5 + 4x1 = 1729.

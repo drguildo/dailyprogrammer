@@ -1,6 +1,6 @@
 ---
-title: [2015-02-09] Challenge #201 [Easy] Counting the Days until...
-url: https://old.reddit.com/r/dailyprogrammer/comments/2vc5xq/20150209_challenge_201_easy_counting_the_days/
+title: "[2015-02-09] Challenge #201 [Easy] Counting the Days until..."
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2vc5xq/20150209_challenge_201_easy_counting_the_days/"
 ---
 
 #Description:

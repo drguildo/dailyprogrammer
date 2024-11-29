@@ -45,8 +45,8 @@ def main():
             post_filename = f'{post_permalink}-{post_id}.md'
             with open(f'{dir_name}/{post_filename}', 'w', encoding='utf-8') as file:
                 file.write(f"---\n")
-                file.write(f"title: {post_title}\n")
-                file.write(f"url: {post_url}\n")
+                file.write(f"title: \"{post_title}\"\n")
+                file.write(f"url: \"{post_url}\"\n")
                 file.write(f"---\n\n")
                 file.write(html.unescape(post_body))
 

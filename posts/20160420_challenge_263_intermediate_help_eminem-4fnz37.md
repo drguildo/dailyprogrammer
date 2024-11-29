@@ -1,6 +1,6 @@
 ---
-title: [2016-04-20] Challenge #263 [Intermediate] Help Eminem win his rap battle!
-url: https://old.reddit.com/r/dailyprogrammer/comments/4fnz37/20160420_challenge_263_intermediate_help_eminem/
+title: "[2016-04-20] Challenge #263 [Intermediate] Help Eminem win his rap battle!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4fnz37/20160420_challenge_263_intermediate_help_eminem/"
 ---
 
 #Description

@@ -1,6 +1,6 @@
 ---
-title: [2016-10-31] Challenge #290 [Easy] Kaprekar Numbers
-url: https://old.reddit.com/r/dailyprogrammer/comments/5aemnn/20161031_challenge_290_easy_kaprekar_numbers/
+title: "[2016-10-31] Challenge #290 [Easy] Kaprekar Numbers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5aemnn/20161031_challenge_290_easy_kaprekar_numbers/"
 ---
 
 # Description

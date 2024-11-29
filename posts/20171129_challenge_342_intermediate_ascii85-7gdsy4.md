@@ -1,6 +1,6 @@
 ---
-title: [2017-11-29] Challenge #342 [Intermediate] ASCII85 Encoding and Decoding
-url: https://old.reddit.com/r/dailyprogrammer/comments/7gdsy4/20171129_challenge_342_intermediate_ascii85/
+title: "[2017-11-29] Challenge #342 [Intermediate] ASCII85 Encoding and Decoding"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7gdsy4/20171129_challenge_342_intermediate_ascii85/"
 ---
 
 # Description

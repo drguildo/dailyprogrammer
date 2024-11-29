@@ -1,6 +1,6 @@
 ---
-title: [2015-05-22] Challenge #215 [Hard] Metaprogramming Madness!
-url: https://old.reddit.com/r/dailyprogrammer/comments/36vuzm/20150522_challenge_215_hard_metaprogramming/
+title: "[2015-05-22] Challenge #215 [Hard] Metaprogramming Madness!"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/36vuzm/20150522_challenge_215_hard_metaprogramming/"
 ---
 
 #Description

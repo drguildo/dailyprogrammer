@@ -1,6 +1,6 @@
 ---
-title: [2017-03-06] Challenge #305 [Easy] Permutation base
-url: https://old.reddit.com/r/dailyprogrammer/comments/5xu7sz/20170306_challenge_305_easy_permutation_base/
+title: "[2017-03-06] Challenge #305 [Easy] Permutation base"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5xu7sz/20170306_challenge_305_easy_permutation_base/"
 ---
 
 There may be an actual name to this base system (let us/me know in comments), and there is a math insight that makes this problem even easier, but it is still pretty easy with no math insight.

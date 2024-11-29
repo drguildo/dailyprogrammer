@@ -1,6 +1,6 @@
 ---
-title: [2015-06-10] Challenge #218 [Intermediate] Generating Polyominoes
-url: https://old.reddit.com/r/dailyprogrammer/comments/398mtv/20150610_challenge_218_intermediate_generating/
+title: "[2015-06-10] Challenge #218 [Intermediate] Generating Polyominoes"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/398mtv/20150610_challenge_218_intermediate_generating/"
 ---
 
 # Description

@@ -1,6 +1,6 @@
 ---
-title: [29/09/2014] Challenge #182 [Easy] The Column Conundrum
-url: https://old.reddit.com/r/dailyprogrammer/comments/2hssx6/29092014_challenge_182_easy_the_column_conundrum/
+title: "[29/09/2014] Challenge #182 [Easy] The Column Conundrum"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2hssx6/29092014_challenge_182_easy_the_column_conundrum/"
 ---
 
 # [](#EasyIcon) **(Easy)**: The Column Conundrum

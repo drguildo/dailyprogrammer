@@ -1,6 +1,6 @@
 ---
-title: [2016-08-26] Challenge #280 [Hard] Free Flow Solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/4zog32/20160826_challenge_280_hard_free_flow_solver/
+title: "[2016-08-26] Challenge #280 [Hard] Free Flow Solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4zog32/20160826_challenge_280_hard_free_flow_solver/"
 ---
 
 

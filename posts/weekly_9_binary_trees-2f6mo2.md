@@ -1,6 +1,6 @@
 ---
-title: [Weekly #9] Binary Trees
-url: https://old.reddit.com/r/dailyprogrammer/comments/2f6mo2/weekly_9_binary_trees/
+title: "[Weekly #9] Binary Trees"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2f6mo2/weekly_9_binary_trees/"
 ---
 
 #Weekly 9:

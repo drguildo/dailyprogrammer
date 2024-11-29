@@ -1,6 +1,6 @@
 ---
-title: [2015-12-02] Challenge #243 [Intermediate] Jenny's Fruit Basket
-url: https://old.reddit.com/r/dailyprogrammer/comments/3v4zsf/20151202_challenge_243_intermediate_jennys_fruit/
+title: "[2015-12-02] Challenge #243 [Intermediate] Jenny's Fruit Basket"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3v4zsf/20151202_challenge_243_intermediate_jennys_fruit/"
 ---
 
 # Description

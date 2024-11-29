@@ -1,6 +1,6 @@
 ---
-title: [2017-02-10] Challenge #302 [Hard] ASCII Histogram Maker: Part 2 - The Proper Histogram
-url: https://old.reddit.com/r/dailyprogrammer/comments/5t7l07/20170210_challenge_302_hard_ascii_histogram_maker/
+title: "[2017-02-10] Challenge #302 [Hard] ASCII Histogram Maker: Part 2 - The Proper Histogram"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5t7l07/20170210_challenge_302_hard_ascii_histogram_maker/"
 ---
 
 # Description

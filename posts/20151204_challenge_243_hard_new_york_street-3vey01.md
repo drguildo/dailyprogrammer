@@ -1,6 +1,6 @@
 ---
-title: [2015-12-04] Challenge #243 [Hard] New York Street Sweeper Paths
-url: https://old.reddit.com/r/dailyprogrammer/comments/3vey01/20151204_challenge_243_hard_new_york_street/
+title: "[2015-12-04] Challenge #243 [Hard] New York Street Sweeper Paths"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3vey01/20151204_challenge_243_hard_new_york_street/"
 ---
 
 # Description

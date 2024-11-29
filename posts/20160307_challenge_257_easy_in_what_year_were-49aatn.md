@@ -1,6 +1,6 @@
 ---
-title: [2016-03-07] Challenge #257 [Easy] In what year were most presidents alive?
-url: https://old.reddit.com/r/dailyprogrammer/comments/49aatn/20160307_challenge_257_easy_in_what_year_were/
+title: "[2016-03-07] Challenge #257 [Easy] In what year were most presidents alive?"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/49aatn/20160307_challenge_257_easy_in_what_year_were/"
 ---
 
 # Description

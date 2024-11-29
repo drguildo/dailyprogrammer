@@ -1,6 +1,6 @@
 ---
-title: [2017-08-03] Challenge #325 [Intermediate] Arrow maze
-url: https://old.reddit.com/r/dailyprogrammer/comments/6rb98p/20170803_challenge_325_intermediate_arrow_maze/
+title: "[2017-08-03] Challenge #325 [Intermediate] Arrow maze"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/6rb98p/20170803_challenge_325_intermediate_arrow_maze/"
 ---
 
 #Description

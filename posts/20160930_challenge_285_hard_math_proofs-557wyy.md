@@ -1,6 +1,6 @@
 ---
-title: [2016-09-30] Challenge #285 [Hard] Math Proofs
-url: https://old.reddit.com/r/dailyprogrammer/comments/557wyy/20160930_challenge_285_hard_math_proofs/
+title: "[2016-09-30] Challenge #285 [Hard] Math Proofs"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/557wyy/20160930_challenge_285_hard_math_proofs/"
 ---
 
 # Description

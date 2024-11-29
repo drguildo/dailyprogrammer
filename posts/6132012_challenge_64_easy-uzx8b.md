@@ -1,6 +1,6 @@
 ---
-title: [6/13/2012] Challenge #64 [easy]
-url: https://old.reddit.com/r/dailyprogrammer/comments/uzx8b/6132012_challenge_64_easy/
+title: "[6/13/2012] Challenge #64 [easy]"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/uzx8b/6132012_challenge_64_easy/"
 ---
 
 The divisors of a number are those numbers that divide it evenly; for example, the divisors of 60 are 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, and 60. The sum of the divisors of 60 is 168, and the number of divisors of 60 is 12.

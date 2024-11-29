@@ -1,6 +1,6 @@
 ---
-title: [2016-12-30] Challenge #297 [Hard] Parentheses trees
-url: https://old.reddit.com/r/dailyprogrammer/comments/5l42dx/20161230_challenge_297_hard_parentheses_trees/
+title: "[2016-12-30] Challenge #297 [Hard] Parentheses trees"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5l42dx/20161230_challenge_297_hard_parentheses_trees/"
 ---
 
 This challenge is about parsing a string into a tree, somewhat for its own sake, but queries on the tree are posted as bonuses, and it may be possible to do the bonuses without tree parsing.

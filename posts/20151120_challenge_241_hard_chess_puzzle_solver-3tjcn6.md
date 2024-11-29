@@ -1,6 +1,6 @@
 ---
-title: [2015-11-20] Challenge # 241 [Hard] Chess Puzzle solver
-url: https://old.reddit.com/r/dailyprogrammer/comments/3tjcn6/20151120_challenge_241_hard_chess_puzzle_solver/
+title: "[2015-11-20] Challenge # 241 [Hard] Chess Puzzle solver"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3tjcn6/20151120_challenge_241_hard_chess_puzzle_solver/"
 ---
 
 #1 .  Getting out of check

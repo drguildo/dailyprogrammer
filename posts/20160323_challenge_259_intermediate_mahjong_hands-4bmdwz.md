@@ -1,6 +1,6 @@
 ---
-title: [2016-03-23] Challenge #259 [Intermediate] Mahjong Hands
-url: https://old.reddit.com/r/dailyprogrammer/comments/4bmdwz/20160323_challenge_259_intermediate_mahjong_hands/
+title: "[2016-03-23] Challenge #259 [Intermediate] Mahjong Hands"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/4bmdwz/20160323_challenge_259_intermediate_mahjong_hands/"
 ---
 
 # Description

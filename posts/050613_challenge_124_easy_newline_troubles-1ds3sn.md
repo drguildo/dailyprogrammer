@@ -1,6 +1,6 @@
 ---
-title: [05/06/13] Challenge #124 [Easy] New-Line Troubles
-url: https://old.reddit.com/r/dailyprogrammer/comments/1ds3sn/050613_challenge_124_easy_newline_troubles/
+title: "[05/06/13] Challenge #124 [Easy] New-Line Troubles"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/1ds3sn/050613_challenge_124_easy_newline_troubles/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [2018-08-20] Challenge #366 [Easy] Word funnel 1
-url: https://old.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/
+title: "[2018-08-20] Challenge #366 [Easy] Word funnel 1"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/98ufvz/20180820_challenge_366_easy_word_funnel_1/"
 ---
 
 # Challenge

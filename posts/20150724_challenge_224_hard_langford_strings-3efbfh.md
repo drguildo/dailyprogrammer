@@ -1,6 +1,6 @@
 ---
-title: [2015-07-24] Challenge #224 [Hard] Langford strings
-url: https://old.reddit.com/r/dailyprogrammer/comments/3efbfh/20150724_challenge_224_hard_langford_strings/
+title: "[2015-07-24] Challenge #224 [Hard] Langford strings"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/3efbfh/20150724_challenge_224_hard_langford_strings/"
 ---
 
 #Description

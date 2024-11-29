@@ -1,6 +1,6 @@
 ---
-title: [2017-03-01] Challenge #304 [Intermediate] Horse Race Sorting
-url: https://old.reddit.com/r/dailyprogrammer/comments/5ww6o5/20170301_challenge_304_intermediate_horse_race/
+title: "[2017-03-01] Challenge #304 [Intermediate] Horse Race Sorting"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5ww6o5/20170301_challenge_304_intermediate_horse_race/"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: [2016-10-05] Challenge #286 [Intermediate] Zeckendorf Representations of Positive Integers
-url: https://old.reddit.com/r/dailyprogrammer/comments/55zdxx/20161005_challenge_286_intermediate_zeckendorf/
+title: "[2016-10-05] Challenge #286 [Intermediate] Zeckendorf Representations of Positive Integers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/55zdxx/20161005_challenge_286_intermediate_zeckendorf/"
 ---
 
 # Description

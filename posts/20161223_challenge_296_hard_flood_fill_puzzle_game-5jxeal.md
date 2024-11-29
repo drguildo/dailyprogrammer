@@ -1,6 +1,6 @@
 ---
-title: [2016-12-23] Challenge #296 [Hard] Flood Fill Puzzle Game
-url: https://old.reddit.com/r/dailyprogrammer/comments/5jxeal/20161223_challenge_296_hard_flood_fill_puzzle_game/
+title: "[2016-12-23] Challenge #296 [Hard] Flood Fill Puzzle Game"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/5jxeal/20161223_challenge_296_hard_flood_fill_puzzle_game/"
 ---
 
 # Description

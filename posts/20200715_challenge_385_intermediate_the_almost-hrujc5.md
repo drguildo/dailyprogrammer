@@ -1,6 +1,6 @@
 ---
-title: [2020-07-15] Challenge #385 [Intermediate] The Almost Impossible Chessboard Puzzle
-url: https://old.reddit.com/r/dailyprogrammer/comments/hrujc5/20200715_challenge_385_intermediate_the_almost/
+title: "[2020-07-15] Challenge #385 [Intermediate] The Almost Impossible Chessboard Puzzle"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/hrujc5/20200715_challenge_385_intermediate_the_almost/"
 ---
 
 Today's challenge is to implement the solution to a well-known math puzzle involving prisoners and a chessboard. I won't state the puzzle or give the solution here, but you can find many writeups online:

@@ -1,6 +1,6 @@
 ---
-title: [7/28/2014] Challenge #173 [Easy] Unit Calculator
-url: https://old.reddit.com/r/dailyprogrammer/comments/2bxntq/7282014_challenge_173_easy_unit_calculator/
+title: "[7/28/2014] Challenge #173 [Easy] Unit Calculator"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2bxntq/7282014_challenge_173_easy_unit_calculator/"
 ---
 
 # [](#EasyIcon) _(Easy): Unit Calculator

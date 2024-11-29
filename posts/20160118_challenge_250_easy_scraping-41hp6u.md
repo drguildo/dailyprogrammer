@@ -1,6 +1,6 @@
 ---
-title: [2016-01-18] Challenge #250 [Easy] Scraping /r/dailyprogrammer
-url: https://old.reddit.com/r/dailyprogrammer/comments/41hp6u/20160118_challenge_250_easy_scraping/
+title: "[2016-01-18] Challenge #250 [Easy] Scraping /r/dailyprogrammer"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/41hp6u/20160118_challenge_250_easy_scraping/"
 ---
 
 **Description**

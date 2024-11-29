@@ -1,6 +1,6 @@
 ---
-title: [2018-01-26] Challenge #348 [Hard] Square Sum Chains
-url: https://old.reddit.com/r/dailyprogrammer/comments/7t6fnc/20180126_challenge_348_hard_square_sum_chains/
+title: "[2018-01-26] Challenge #348 [Hard] Square Sum Chains"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/7t6fnc/20180126_challenge_348_hard_square_sum_chains/"
 ---
 
 #Description

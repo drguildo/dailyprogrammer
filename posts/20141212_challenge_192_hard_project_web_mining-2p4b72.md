@@ -1,6 +1,6 @@
 ---
-title: [2014-12-12] Challenge #192 [Hard] Project: Web mining
-url: https://old.reddit.com/r/dailyprogrammer/comments/2p4b72/20141212_challenge_192_hard_project_web_mining/
+title: "[2014-12-12] Challenge #192 [Hard] Project: Web mining"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/2p4b72/20141212_challenge_192_hard_project_web_mining/"
 ---
 
 #Description:

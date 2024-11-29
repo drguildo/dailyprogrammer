@@ -1,6 +1,6 @@
 ---
-title: [5/7/2014] Challenge #161 [Medium] Appointing Workers
-url: https://old.reddit.com/r/dailyprogrammer/comments/24ypno/572014_challenge_161_medium_appointing_workers/
+title: "[5/7/2014] Challenge #161 [Medium] Appointing Workers"
+url: "https://old.reddit.com/r/dailyprogrammer/comments/24ypno/572014_challenge_161_medium_appointing_workers/"
 ---
 
 # [](#IntermediateIcon) _(Intermediate)_: Appointing Workers
