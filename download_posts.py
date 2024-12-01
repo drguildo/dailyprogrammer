@@ -2,7 +2,6 @@
 
 import os
 import requests
-import re
 import html
 
 # Define the subreddit and URL
