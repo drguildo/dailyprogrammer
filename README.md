@@ -11,3 +11,9 @@ Run the Rust ones like so:
      Running `target\debug\examples\foo.exe`
 This is an example!
 ```
+
+and if they have tests, like so:
+
+```
+cargo test --example foo
+```
