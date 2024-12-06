@@ -1,6 +1,6 @@
 use std::path::Path;
 
-pub fn file_to_matrix(file: &Path) -> Vec<Vec<String>> {
+pub fn file_to_matrix<P: AsRef<Path>>(file: P) -> Vec<Vec<String>> {
     let s = std::fs::read_to_string(file).unwrap();
     let matrix = s
         .lines()
@@ -20,7 +20,7 @@ mod tests {
 
     #[test]
     fn test_file_to_matrix() {
-        let matrix = file_to_matrix(Path::new("data/test/file_to_matrix.txt"));
+        let matrix = file_to_matrix("data/test/file_to_matrix.txt");
         assert_eq!(matrix, [["A", "B", "C",], ["D", "E", "F",],]);
     }
 }
