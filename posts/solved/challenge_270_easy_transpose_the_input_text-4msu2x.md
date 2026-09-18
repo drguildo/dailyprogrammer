@@ -3,9 +3,10 @@ title: "Challenge #270 [Easy] Transpose the input text"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4msu2x/challenge_270_easy_transpose_the_input_text/"
 ---
 
-#Description
+## Description
 
-Write a program that takes input text from standard input and outputs the text -- transposed.
+Write a program that takes input text from standard input and outputs the text
+-- transposed.
 
 Roughly explained, the transpose of a matrix
 
@@ -18,21 +19,26 @@ is given by
     B E
     C F
 
+Rows become columns and columns become rows. See <https://en.wikipedia.org/wiki/Transpose>.
 
-Rows become columns and columns become rows. See https://en.wikipedia.org/wiki/Transpose. 
+## Formal Inputs & Outputs
 
-#Formal Inputs & Outputs
+### Input description
 
-##Input description
-
-One or more lines of text. Since the transpose is only valid for square matrices, append spaces to the shorter lines until they are of the same length. Characters may be multibyte (UTF-8) characters.
+One or more lines of text. Since the transpose is only valid for square
+matrices, append spaces to the shorter lines until they are of the same length.
+Characters may be multibyte (UTF-8) characters.
 
     Some
     text.
 
-##Output description
+### Output description
 
-The input text should be treated as a matrix of characters and flipped around the diagonal. I.e., the top right input character becomes the bottom left character of the output. Blank space at the end of output lines should be removed. Tab (\t) may be treated like any other character (don't replace it with spaces).
+The input text should be treated as a matrix of characters and flipped around
+the diagonal. I.e., the top right input character becomes the bottom left
+character of the output. Blank space at the end of output lines should be
+removed. Tab (\t) may be treated like any other character (don't replace it with
+spaces).
 
     St
     oe
@@ -40,9 +46,10 @@ The input text should be treated as a matrix of characters and flipped around th
     et
      .
 
-Note that the lower left character is a space in the output, but nothing in the input.
+Note that the lower left character is a space in the output, but nothing in the
+input.
 
-## Input 
+### Input
 
     package main
 
@@ -58,7 +65,7 @@ Note that the lower left character is a space in the output, but nothing in the 
         }
     }
 
-## Output 
+### Output
 
     p i f       }
     a m u
@@ -94,6 +101,7 @@ Note that the lower left character is a space in the output, but nothing in the 
          2
          )
 
-# Credit
+## Credit
 
-This challenge was suggeted by /u/Gommie. Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas .
+This challenge was suggeted by /u/Gommie. Have a good challenge idea? Consider
+submitting it to /r/dailyprogrammer_ideas.
