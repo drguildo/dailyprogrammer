@@ -8,7 +8,7 @@ fn main() {
     print_matrix(&transposed);
 }
 
-fn transpose(matrix: &Vec<Vec<char>>) -> Vec<Vec<char>> {
+fn transpose(matrix: &[Vec<char>]) -> Vec<Vec<char>> {
     let longest = matrix
         .iter()
         .fold(0, |acc, v| if v.len() > acc { v.len() } else { acc });
@@ -31,7 +31,7 @@ fn transpose(matrix: &Vec<Vec<char>>) -> Vec<Vec<char>> {
     transposed
 }
 
-fn print_matrix(matrix: &Vec<Vec<char>>) {
+fn print_matrix(matrix: &[Vec<char>]) {
     for y in 0..matrix.len() {
         for x in 0..matrix[y].len() {
             print!("{}", matrix[y][x]);

@@ -57,7 +57,7 @@ fn optional_2(word_to_lettersum: &HashMap<&str, u32>) {
 // it?
 fn optional_3(word_to_lettersum: &HashMap<&str, u32>) {
     let mut lettersum_frequencies: HashMap<u32, u32> = HashMap::new();
-    for (_, v) in word_to_lettersum {
+    for v in word_to_lettersum.values() {
         if let Some(lettersum) = lettersum_frequencies.get_mut(v) {
             *lettersum += 1;
         } else {
@@ -113,7 +113,7 @@ fn optional_4(letter_length_groupings: &HashMap<usize, Vec<(&str, u32)>>) {
 // (188), and they have no letters in common. Find a pair of words that have no
 // letters in common, and that have the same letter sum, which is larger than
 // 188. (There are two such pairs, and one word appears in both pairs.)
-fn optional_5(word_to_lettersum: &HashMap<&str, u32>) {
+fn optional_5(_word_to_lettersum: &HashMap<&str, u32>) {
     todo!()
 }
 
@@ -122,6 +122,6 @@ fn optional_5(word_to_lettersum: &HashMap<&str, u32>) {
 // letters, and a different letter sum. The list is sorted both in descending
 // order of word length, and ascending order of letter sum. What's the longest
 // such list you can find?
-fn optional_6(word_to_lettersum: &HashMap<&str, u32>) {
+fn optional_6(_word_to_lettersum: &HashMap<&str, u32>) {
     todo!()
 }
