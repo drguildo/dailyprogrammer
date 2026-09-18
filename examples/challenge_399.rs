@@ -1,7 +1,7 @@
 use std::collections::{HashMap, HashSet};
 
 fn main() {
-    let challenge_data = std::fs::read_to_string(r"data\challenge_399_enable1.txt")
+    let challenge_data = std::fs::read_to_string("data/challenge_399_enable1.txt")
         .expect("Failed to open words list");
     let words = challenge_data.lines();
 
