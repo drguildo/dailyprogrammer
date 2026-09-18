@@ -24,6 +24,7 @@ fn main() {
     optional_2(&word_to_lettersum);
     optional_3(&word_to_lettersum);
     optional_4(&letter_length_groupings);
+    optional_5(&word_to_lettersum);
 }
 
 fn lettersum(s: &str) -> u32 {
@@ -113,8 +114,35 @@ fn optional_4(letter_length_groupings: &HashMap<usize, Vec<(&str, u32)>>) {
 // (188), and they have no letters in common. Find a pair of words that have no
 // letters in common, and that have the same letter sum, which is larger than
 // 188. (There are two such pairs, and one word appears in both pairs.)
-fn optional_5(_word_to_lettersum: &HashMap<&str, u32>) {
-    todo!()
+fn optional_5(word_to_lettersum: &HashMap<&str, u32>) {
+    let mut lettersum_groupings: HashMap<u32, Vec<&str>> = HashMap::new();
+    for (&word, &lettersum) in word_to_lettersum {
+        lettersum_groupings.entry(lettersum).or_default().push(word);
+    }
+
+    let mut matches = Vec::new();
+    for (lettersum, words) in lettersum_groupings {
+        if lettersum <= 188 {
+            continue;
+        }
+
+        for (index, first) in words.iter().enumerate() {
+            let first_letters: HashSet<char> = first.chars().collect();
+            for second in words.iter().skip(index + 1) {
+                if first_letters.is_disjoint(&second.chars().collect()) {
+                    matches.push((*first, *second, lettersum));
+                }
+            }
+        }
+    }
+
+    matches.sort_unstable();
+    for (first, second, lettersum) in matches {
+        println!(
+            "\"{}\" and \"{}\" have no letters in common and a letter sum of {}",
+            first, second, lettersum
+        );
+    }
 }
 
 // The list of word `{ geographically, eavesdropper, woodworker, oxymorons }`
