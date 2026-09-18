@@ -43,6 +43,35 @@ fn letter_mask(s: &str) -> u32 {
         .fold(0, |mask, c| mask | (1 << (c as u32 - 'a' as u32)))
 }
 
+#[cfg(test)]
+mod tests {
+    use super::{letter_mask, lettersum};
+
+    #[test]
+    fn lettersum_returns_alphabet_position_sum() {
+        assert_eq!(lettersum("abc"), 6);
+        assert_eq!(lettersum("rust"), 78);
+    }
+
+    #[test]
+    fn lettersum_counts_repeated_letters_and_handles_empty_words() {
+        assert_eq!(lettersum("aaa"), 3);
+        assert_eq!(lettersum(""), 0);
+    }
+
+    #[test]
+    fn letter_mask_sets_one_bit_per_distinct_letter() {
+        assert_eq!(letter_mask("abc"), 0b111);
+        assert_eq!(letter_mask("az"), (1 << 0) | (1 << 25));
+    }
+
+    #[test]
+    fn letter_mask_ignores_repeated_letters_and_handles_empty_words() {
+        assert_eq!(letter_mask("aaa"), 1);
+        assert_eq!(letter_mask(""), 0);
+    }
+}
+
 // `microspectrophotometries` is the only word with a letter sum of 317. Find
 // the only word with a letter sum of 319.
 fn optional_1(words: &[Word]) {
