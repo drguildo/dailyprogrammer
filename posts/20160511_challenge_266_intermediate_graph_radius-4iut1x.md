@@ -5,7 +5,6 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4iut1x/20160511_challeng
 
 This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful.
 
-
 # Description
 
 Graph theory has a relatively straightforward way to calculate the *size* of a graph, using a few definitions:
@@ -189,4 +188,4 @@ Your program should emit the radius and diameter of the graph. Example:
     Radius: 3
     Diameter: 6
 
-** NOTE ** I had mistakenly computed this for an _undirected_ graph which gave the wrong diameter. It should be 6. 
+**NOTE** I had mistakenly computed this for an *undirected* graph which gave the wrong diameter. It should be 6.

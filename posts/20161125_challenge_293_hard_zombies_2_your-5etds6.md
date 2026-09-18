@@ -25,7 +25,6 @@ Example 1:
     4 100 150 150 200 0 100 200 250
     6 250 200 150 200 200 100 100
 
-
 Here's a [visual layout](http://imgur.com/ognf7sF) of example 1.
 
 **Output description**
@@ -42,7 +41,7 @@ Display the the BEST possible path between start and end cities and the total ti
 
 Make your implementation take a city's "reach" into consideration.  See linked slides for information.  TODO add inputs that exercise implementations with reach.
 
-#Finally
+# Finally
 
 Are you like /u/wizao and you have a fantastic idea for a challenge?
 

@@ -19,7 +19,7 @@ If you have three phones, you only need a maximum of 9 trials.
 
 # Challenge
 
-Given N, the number of phone prototypes you have, and H, the maximum height that needs to be tested, determine the maximum number of trials required by an optimal strategy to determine K. 
+Given N, the number of phone prototypes you have, and H, the maximum height that needs to be tested, determine the maximum number of trials required by an optimal strategy to determine K.
 
     phonedrop(1, 100) => 100
     phonedrop(2, 100) => 14

@@ -21,7 +21,7 @@ Print your solution word and the chain you used to get there.
 
 # Notes/Hints
 
-Source: http://fivethirtyeight.com/features/this-challenge-will-boggle-your-mind/
+Source: <http://fivethirtyeight.com/features/this-challenge-will-boggle-your-mind/>
 
 # Finally
 

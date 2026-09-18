@@ -3,7 +3,7 @@ title: "[2016-03-21] Challenge #259 [Easy] Clarence the Slow Typist"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4bc3el/20160321_challenge_259_easy_clarence_the_slow/"
 ---
 
-#Description
+# Description
 
 Clarence is a data entry clerk who works at an internet service provider. His job is to manually enter the IP addresses of all of the ISP's customers into the database. He does this using a keypad which has the following layout:
 
@@ -28,9 +28,9 @@ Therefore the total distance that Clarence moved his finger to type in `7851` is
 
 Your task is to write a program that calculates the distance Clarence must move his finger to type in arbitrary IP addresses.
 
-#Formal Inputs and Outputs
+# Formal Inputs and Outputs
 
-##Input Description
+## Input Description
 
 Input is a string that will be in the form
 
@@ -42,7 +42,7 @@ where each `()` is an integer in the range `0` - `999`. This represents the IP a
 
 I would also like to point out that inputs such as `0.42.42.42` or `999.999.999.999` are still valid inputs, despite the fact that they are invalid IP addresses. So you don't need to include any IP address verification code in your program.
 
-##Output Description
+## Output Description
 
 Output the distance that Clarence must move his finger in order to type in the specified IP address. Round answers to two decimal places where needed, and use the `cm` unit in your output. The output for the example input is `27.38cm` (1 + sqrt 8 + sqrt 5 + 2 + 1 + sqrt 5 + 3 + 1 + sqrt 5 + sqrt 13 + 3 + 1 + sqrt 5).
 

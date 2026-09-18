@@ -9,22 +9,22 @@ Often, when given a set of data where one variable is associated with another, w
 
 Say, for example, we have performed an experiment determining the acceleration undergone by an object when subject to a force. [Newton's 2^nd Law of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton.27s_second_law) dictates that *F=ma* - linking the variables `F` (force) and `a` (acceleration) by a constant `m` (mass of the object). If we performed the acceleration we may get the following values:
 
-| F (N)	| a (m s^(-2)) |
-|--------:|--------:|
-| 0.2| 0.32 |
-| 0.4| 0.62 |
-| 0.6| 0.97 |
-| 0.8| 1.22 |
-| 1| 1.58 |
-| 1.2| 1.84 |
-| 1.4| 2.17 |
-| 1.6| 2.47 |
-| 1.8| 2.83 |
-| 2| 3.16 |
+| F (N) | a (m s^(-2)) |
+| --------: | --------: |
+| 0.2 | 0.32 |
+| 0.4 | 0.62 |
+| 0.6 | 0.97 |
+| 0.8 | 1.22 |
+| 1 | 1.58 |
+| 1.2 | 1.84 |
+| 1.4 | 2.17 |
+| 1.6 | 2.47 |
+| 1.8 | 2.83 |
+| 2 | 3.16 |
 
 [This data can be plotted to see the link between the 2 data sets. Here, `F` is on the horizontal and `a` is on the vertical axis.](http://i.imgur.com/PdlTl6W.png)
 
-To create a line of best-fit or **trend line** for this data, [which looks like this](http://i.imgur.com/W2aFGIx.png), a number of methods can be used, such as the ever-present [least squares](https://en.wikipedia.org/wiki/Least_squares) method. For the purposes of this challenge, the trend line will *always* be linear, and thus the two data sets must be 
+To create a line of best-fit or **trend line** for this data, [which looks like this](http://i.imgur.com/W2aFGIx.png), a number of methods can be used, such as the ever-present [least squares](https://en.wikipedia.org/wiki/Least_squares) method. For the purposes of this challenge, the trend line will *always* be linear, and thus the two data sets must be
 
 Your challenge is, given 2 data sets, draw the values on an appropriately-scaled graph (with axes) and find a suitable trend line fitting the data.
 

@@ -13,7 +13,7 @@ Newton's Law of Universal Gravitation says that:
 
 * With a force that's proportional to the product of their masses, and...
 
-* Inversely proportional to the *square* of the distance between them. (distance is measured from the center of the object - so if you're standing on Earth, you are about 6353 km away from it.
+* Inversely proportional to the _square_ of the distance between them. (distance is measured from the center of the object - so if you're standing on Earth, you are about 6353 km away from it.
 
 * Because this is only a proportionality (not an equality), you will need a constant multiplier - this is called G, the gravitational constant.
 
@@ -23,13 +23,13 @@ This gives us the remarkably simple formula:
     force = G × --------------------------------------------
                        (distance between objects)²
 
-This force is applied on *both* objects equally and in opposite directions, toward each other. The value of G is currently known to be about **6.67e-11** which is why gravity is so weak - you can overcome the force of the entire planet just by jumping! 
+This force is applied on _both_ objects equally and in opposite directions, toward each other. The value of G is currently known to be about **6.67e-11** which is why gravity is so weak - you can overcome the force of the entire planet just by jumping!
 
 These 4 simple rules were used to describe gravity in nearly its entirety before Albert Einstein found out it was incomplete and discovered Special and General relativity - which you won't need today! Anyway, this is the only bit of physics you'll need for today's challenge - the rest is basic maths.
 
 We're going to assume all planets are perfect spheres. This means you can find the volume of a planet, given its radius, with the fomula `V = 4/3 × π × radius³` like a normal sphere. We'll also assume they are made of a material which has the exact same density everywhere - so a handful of material from one bit of the planet weighs the same as any other. This means, given a density (in kilograms per cubic metre), and using the volume you worked out, you can compute the mass of the planet with the formula `mass = volume × density`. Assume the units you are using are kilograms and metres. Sorry, imperial folk!
 
-Now, in case you are new to physics, you may need to know a little bit about forces. Forces are measured in Newtons (N) and measure, essentially, how hard an object is pushing another object. The object could be pushing physically - eg. pushing a lawn mower - or via an elementary force, such as Earth's gravity pushing you toward it. They can all be measured in Newtons. The force of a planet on something due to gravity is called *weight* - which is not to be confused with [*mass*](http://en.wikipedia.org/wiki/Mass), which is measured in kilograms and is a measure of how much matter something contains. As we saw before, the more mass two objects have, the greater the force they exert on each other. As gravitational force is dependent on the product of the masses of both objects, an object will weigh more if either the object itself, or the planet, is heavier - which is why you weigh less on the Moon!
+Now, in case you are new to physics, you may need to know a little bit about forces. Forces are measured in Newtons (N) and measure, essentially, how hard an object is pushing another object. The object could be pushing physically - eg. pushing a lawn mower - or via an elementary force, such as Earth's gravity pushing you toward it. They can all be measured in Newtons. The force of a planet on something due to gravity is called _weight_ - which is not to be confused with [_mass_](http://en.wikipedia.org/wiki/Mass), which is measured in kilograms and is a measure of how much matter something contains. As we saw before, the more mass two objects have, the greater the force they exert on each other. As gravitational force is dependent on the product of the masses of both objects, an object will weigh more if either the object itself, or the planet, is heavier - which is why you weigh less on the Moon!
 
 Anyway, after that lengthy backstory, the challenge for you today is, given the dimensions of several planets and an object's mass, calculate how much force is applied on the object at the surface of the planet. Pretend the object is quite small for simplicity of your caluclations.
 

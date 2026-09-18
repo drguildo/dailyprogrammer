@@ -24,7 +24,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3t0xdw/20151116_challeng
 is the standard simplified ascii representation of [a starting chess position](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation).  Lower case are black pieces, upper are white, numbers are consecutive empty squares, and '/' are row separators.
 
 A modified FEN notation replaces rR (rooks) with sS if the rooks are eligible to castle (they have never moved from start of game, and their king has also never moved.)  A gG piece is a ghost which can be used to invoke 2 special chess rules.  
- 
+
 1. A pawn that moves 2 squares can still be captured on the next move by another pawn on the ghost square that he would have been on if he had moved just 1 square instead of 2.  
 2. A king that moves 2 squares through castling can still be captured on the next move by any piece on the ghost square that he would have been on if he had moved just 1 square instead of 2.  While such a castle is an illegal move in official chess, for a computer, it may be easier to declare a move illegal after the king is captured on next move.
 

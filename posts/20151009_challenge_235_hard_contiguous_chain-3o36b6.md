@@ -55,4 +55,4 @@ Your challenge, should you choose to accept it, is to find the minimum number of
 
 # Credit
 
-This challenge was suggested by /u/BarqsDew over in /r/DailyProgrammer_Ideas. If you have any suggested challenges, please share them and there's a good chance we'll use them. 
+This challenge was suggested by /u/BarqsDew over in /r/DailyProgrammer_Ideas. If you have any suggested challenges, please share them and there's a good chance we'll use them.

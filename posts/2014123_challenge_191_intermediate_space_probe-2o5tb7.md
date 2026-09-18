@@ -3,15 +3,15 @@ title: "[2014-12-3] Challenge #191 [Intermediate] Space Probe. Alright Alright A
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2o5tb7/2014123_challenge_191_intermediate_space_probe/"
 ---
 
-#Description:
+# Description
 
 NASA has contracted you to program the AI of a new probe. This new probe must navigate space from a starting location to an end location. The probe will have to deal with Asteroids and Gravity Wells. Hopefully it can find the shortest path.
 
-#Map and Path:
+# Map and Path
 
 This challenge requires you to establish a random map for the challenge. Then you must navigate a probe from a starting location to an end location.
 
-#Map:
+# Map
 
 You are given N -- you generate a NxN 2-D map (yes space is 3-D but for this challenge we are working in 2-D space)
 
@@ -61,14 +61,13 @@ You might get Gravity wells next to each other. They do not effect each other bu
      .XXXX.
      ......
 
+# Probe Movement
 
-#Probe Movement:
+Probes can move 8 directions. Up, down, left, right or any of the 4 adjacent corners. However there is no map wrapping. Say you are at the top of the map you cannot move up to appear on the bottom of the map. Probes cannot fold space. And for whatever reason we are contained to only the spots on the map even thou space is infinite in any direction.
 
-Probes can move 8 directions. Up, down, left, right or any of the 4 adjacent corners. However there is no map wrapping. Say you are at the top of the map you cannot move up to appear on the bottom of the map. Probes cannot fold space. And for whatever reason we are contained to only the spots on the map even thou space is infinite in any direction. 
+# Output
 
-#Output:
-
-Must show the final Map and shortest safe route on the map. 
+Must show the final Map and shortest safe route on the map.
 
 * . = empty space
 * S = start location
@@ -79,7 +78,7 @@ Must show the final Map and shortest safe route on the map.
 
 If you fail to get to the end because of no valid path you must travel as far as you can and show the path. Note that the probe path was terminated early due to "No Complete Path" error.
 
-#Challenge Input:
+# Challenge Input
 
 using (row, col) for coordinates in space.
 
@@ -89,16 +88,16 @@ Find solutions for:
 * N = 10, start = (9, 0) end = (0, 9)
 * N= 50, start = (0,0) end = (49, 49)
 
-#Map Obstacle %
+# Map Obstacle %
 
-I generated a bunch of maps and due to randomness you will get easy ones or hard ones. I suggest running your solutions many times to see your outcomes. If you find the solution is always very straight then I would increase your asteroid and gravity well percentages. Or if you never get a good route then decrease the obstacle percentages. 
+I generated a bunch of maps and due to randomness you will get easy ones or hard ones. I suggest running your solutions many times to see your outcomes. If you find the solution is always very straight then I would increase your asteroid and gravity well percentages. Or if you never get a good route then decrease the obstacle percentages.
 
-#Challenge Theme Music:
+# Challenge Theme Music
 
 If you need inspiration for working on this solution listen to this in the background to help you.
 
-https://www.youtube.com/watch?v=4PL4kzsrVX8
+<https://www.youtube.com/watch?v=4PL4kzsrVX8>
 
 Or
 
-https://www.youtube.com/watch?v=It4WxQ6dnn0
+<https://www.youtube.com/watch?v=It4WxQ6dnn0>

@@ -11,7 +11,7 @@ Today, all of our challenges are C themed!  Don't worry, that doesn't mean that 
 You are going to write a home-work helper tool for high-school students who are learning C for the first time.  These students are in the advanced placement math course,
 but do not know anything about programming or formal languages of any kind.  However, they do know about functions and variables!  
 
-They have been given an 'input guide' that tells them to write simple pure mathematical functions like they are used to from their homework with a simple subset grammar, like this:   
+They have been given an 'input guide' that tells them to write simple pure mathematical functions like they are used to from their homework with a simple subset grammar, like this:
 
     f(x)=x*x
     big(x,y)=sqrt(x+y)*10
@@ -23,7 +23,7 @@ In the this challenge, your job is to write a program that can take in their "si
 be single precision, and all functions will only return one float.
 
 As an example, the input
- 
+
     L0(x,y)=abs(x)+abs(y) 
 
 should output

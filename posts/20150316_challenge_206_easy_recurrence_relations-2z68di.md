@@ -10,9 +10,9 @@ A recurrence relation is a mathematical construct for defining a series of numbe
     u[0] = 1
     u[n+1] = 2 * u[n]
 
-The first relation tells us that *u*(0), the first term in the series, is 1. The second relation says that, given the *n*-th term *u*(n), the next term (*u*(n+1)) is the previous term multiplied by two. So, to get the second term in the series, you multiply the first term by two, to get 2. To get the third term in the series, you multiply the second term by two, to get 4.
+The first relation tells us that _u_(0), the first term in the series, is 1. The second relation says that, given the _n_-th term _u_(n), the next term (_u_(n+1)) is the previous term multiplied by two. So, to get the second term in the series, you multiply the first term by two, to get 2. To get the third term in the series, you multiply the second term by two, to get 4.
 
-Recurrence relations get their name in part due to their *recursive* nature, as successive terms are essentially defined as recursive application of a function, like this Python example:
+Recurrence relations get their name in part due to their _recursive_ nature, as successive terms are essentially defined as recursive application of a function, like this Python example:
 
     def recurrence(n):
         return n * 2
@@ -32,7 +32,7 @@ Or, with the help of another function to apply the `recurrence` function for us:
 
     sixteenth_term = get_nth_term(recurrence, first_term, 16) #65536
 
-You get the idea. Today you will be writing a program to compute the *n*-th term of a given series defined by a recurrence relation.
+You get the idea. Today you will be writing a program to compute the _n_-th term of a given series defined by a recurrence relation.
 
 # Formal Inputs and Outputs
 

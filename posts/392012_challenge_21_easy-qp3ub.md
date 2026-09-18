@@ -5,4 +5,4 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/qp3ub/392012_challenge_2
 
 Input: a number
 
-Output : the next higher number that uses the same set of digits. 
+Output : the next higher number that uses the same set of digits.

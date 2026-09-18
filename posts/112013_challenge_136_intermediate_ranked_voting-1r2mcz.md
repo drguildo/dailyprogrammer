@@ -7,11 +7,12 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1r2mcz/112013_challenge_
 
 A [Ranked Voting System](http://en.wikipedia.org/wiki/Ranked_voting_systems) is a system that chooses a result based on a ranked-preference rather than a simple majority. A standard ranked ballot generally has multiple choices, only one of which one can be picked. A ranked ballot allows you to choose the order in which you prefer candidates. An example could be that you prefer choice **B** first, then choice **C**, and finally choice **A**.
 
-There are some neat implications on how this differs from conventional voting systems, and is used in many different countries and states (check out the same [article's list of current uses](http://en.wikipedia.org/wiki/Ranked_voting_systems#Use_by_polities\). [CGP Grey has a great explanation](http://www.youtube.com/watch?v=3Y3jE3B8HsE) on the overall system; well worth a watch! The overall difference between the two system is that a more agreed-upon candidate could win during a heavily split election.
+There are some neat implications on how this differs from conventional voting systems, and is used in many different countries and states (check out the same [article's list of current uses](<http://en.wikipedia.org/wiki/Ranked_voting_systems#Use_by_polities\>). [CGP Grey has a great explanation](http://www.youtube.com/watch?v=3Y3jE3B8HsE) on the overall system; well worth a watch! The overall difference between the two system is that a more agreed-upon candidate could win during a heavily split election.
 
 Your goal is to take a list of candidates and voter's ballots, implement this voting system (using the [Instant-runoff rules](http://en.wikipedia.org/wiki/Instant-runoff_voting)), and print the results of the fictional election.
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given two space-delimited integers, N and M. N is the number of votes, while M is the number of candidates. After this line, you will be given the candidates line, which is a space-delimited set of M-number of candidate names. These names are one-word lower-case letters only. This is followed by N-lines of ballots, where each ballot is a list of M-integers, from 0 to M-1, representing the order of preference.
@@ -25,6 +26,7 @@ Given the candidates and ballots, compute the first-round of successful candidat
 For each round of computation, print the percentage of votes for each candidate, and rank them based on that percentage, using the output format.
 
 # Sample Inputs & Outputs
+
 ## Sample Inputs
 
     5 3

@@ -5,6 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/178vsz/012513_challenge_
 
 
 # [](#HardIcon) *(Hard)*: Alphabetizing cipher
+
 This challenge is an optimization problem. Your solution will be a string of the 26 letters of the alphabet in some order, such as:
 
     jfbqpwcvuamozhilgrxtkndesy
@@ -28,20 +29,22 @@ Here's a python script that will evaluate your solution:
         print word, nword
 
 *Author: Cosmologicon*
+
 # Formal Inputs & Outputs
+
 ## Input Description
+
 <Field to be removed>
 ## Output Description
-<Field to be removed> 
+<Field to be removed>
 # Sample Inputs & Outputs
 ## Sample Input
-<Field to be removed> 
+<Field to be removed>
 ## Sample Output
-<Field to be removed> 
+<Field to be removed>
 # Challenge Input
-<Field to be removed> 
+<Field to be removed>
 ## Challenge Input Solution
-<Field to be removed> 
+<Field to be removed>
 # Note
 None
-				

@@ -6,7 +6,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/7us3w7/20180202_challeng
 
 # Description
 
-You are given a number of points, forming the hull of a convex polygon.  You are also given a number _N_. 
+You are given a number of points, forming the hull of a convex polygon.  You are also given a number _N_.
 
 Your goal is to partition the original polygon into _N_ smaller polygons,  all containing equal amount of space (surface, volume, ...), by adding at most one node, and as many edges as required.
 
@@ -58,7 +58,7 @@ This last challenge input had previously been this, and this does not work as a 
     (1 0)(0 1)(2 1)(0 2)(1 3)
     (1 2)(2 3)(3 4)(4 5)(5 1)
 
-This has been fixed, thanks all. 
+This has been fixed, thanks all.
 
 # Bonus Challenge Inputs
 
@@ -81,7 +81,6 @@ This has been fixed, thanks all.
 # Bonus++
 
 In case you can't find a valid solution by adding a single point,  you may add as many nodes as you need, as long as these are on the faces of the polygon.
-
 
 # Credit
 

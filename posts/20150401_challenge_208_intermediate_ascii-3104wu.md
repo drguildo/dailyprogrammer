@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3104wu/20150401_challeng
 
 # [](#IntermediateIcon) _(Intermediate)_: ASCII Gradient Generator
 
-A linear colour gradient is where an image transitions through a range of colours, [like this](http://i.imgur.com/IPwnI8X.png). A gradient doesn't need to be directly horizontal or vertical - it can be [diagonal](http://i.imgur.com/D4trkEk.png) too, or only be [longer or shorter](http://i.imgur.com/8CHx95i.png) than usual. It can also cycle through [as many colours as you like](http://i.imgur.com/Br3xwXM.png). 
+A linear colour gradient is where an image transitions through a range of colours, [like this](http://i.imgur.com/IPwnI8X.png). A gradient doesn't need to be directly horizontal or vertical - it can be [diagonal](http://i.imgur.com/D4trkEk.png) too, or only be [longer or shorter](http://i.imgur.com/8CHx95i.png) than usual. It can also cycle through [as many colours as you like](http://i.imgur.com/Br3xwXM.png).
 
 A radial colour gradient is a similar concept, except the colours move [radially outwards like this](http://i.imgur.com/C6SE6m3.png), rather than linearly across. Radial gradients can also be in [different positions or with different colours](http://i.imgur.com/S19EOu3.png).
 
@@ -123,7 +123,7 @@ You are to display the given gradient on a grid with the given size, like this:
 
 ## Gradient 2
 
-Notice how the colours appear in the reverse order, as the end point is to the *left* of the start point.
+Notice how the colours appear in the reverse order, as the end point is to the _left_ of the start point.
 
 ### Input
 

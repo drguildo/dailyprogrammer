@@ -6,7 +6,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/wn3qf/7162012_challenge_
 Write a program that is able to find all words in a [Boggle](http://en.wikipedia.org/wiki/Boggle) board. For a word list, you can [use this file](http://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt).
 
 How many words can you find in the following 10x10 Boggle board?
-    
+
     T N L E P I A C N M
     T R E H O C F E I W
     S C E R E D A M E A

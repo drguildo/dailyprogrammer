@@ -3,7 +3,7 @@ title: "[2016-01-20] Challenge #250 [Intermediate] Self-descriptive numbers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/41tdzy/20160120_challenge_250_intermediate/"
 ---
 
-#Description
+# Description
 
 A descriptive number tells us how many digits we have depending on its index.
 
@@ -11,9 +11,9 @@ For a number with n digits in it, the most significant digit stands for the '0's
 
 As example the descriptive number of 101 is 120 meaning:
 
- * It contains 1 at index 0, indicating that there is one '0' in 101;
- * It contains 2 at index 1, indicating that there are two '1' in 101;
- * It contains 0 at index 2, indicating that there are no '2's in 101;
+* It contains 1 at index 0, indicating that there is one '0' in 101;
+* It contains 2 at index 1, indicating that there are two '1' in 101;
+* It contains 0 at index 2, indicating that there are no '2's in 101;
 
 Today we are looking for numbers that describe themself:
 
@@ -23,22 +23,22 @@ Today we are looking for numbers that describe themself:
 
 As example we are looking for a 5 digit number that describes itself. This would be `21200`:
 
- * It contains 2 at index 0, indicating that there are two '0's in 21200;
- * It contains 1 at index 1, indicating that there is one '1' in 21200;
- * It contains 2 at index 2, indicating that there are two '2's in 21200;
- * It contains 0 at index 3, indicating that there are no '3's in 21200;
- * It contains 0 at index 4, indicating that there are no '4's in 21200;
+* It contains 2 at index 0, indicating that there are two '0's in 21200;
+* It contains 1 at index 1, indicating that there is one '1' in 21200;
+* It contains 2 at index 2, indicating that there are two '2's in 21200;
+* It contains 0 at index 3, indicating that there are no '3's in 21200;
+* It contains 0 at index 4, indicating that there are no '4's in 21200;
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 We will search for self descriptive numbers in a range.
 As input you will be given the number of digits for that range.
 
 As example `3` will give us a range between `100` and `999`
 
-##Output description
+## Output description
 
 Print out all the self descriptive numbers for that range like this:
 
@@ -49,8 +49,7 @@ Or when none is found (this is very much possible), you can write something like
 
     No self-descriptive number found
 
-
-##In and outs
+## In and outs
 
 Sample 1
 
@@ -83,20 +82,20 @@ Out
 
     21200
 
+## Challenge input
 
-##Challenge input
-    
     8
     10
     13
     15
 
-#Notes/Hints
+# Notes/Hints
+
 When the number digits go beyond 10 you know the descriptive number will have trailing zero's.
 
 [You can watch this for a good solution if you get stuck](https://www.youtube.com/watch?v=1GKfEDvhWdY)
 
-#Bonus
+# Bonus
 
 You can easily do this by bruteforcing this, but from 10 or more digit's on, this will take ages.
 
@@ -106,7 +105,7 @@ The bonus challenge is to make it run for the large numbers under 50 ms, here yo
     user    0m0.001s
     sys     0m0.004s
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

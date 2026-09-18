@@ -24,54 +24,53 @@ What is the maximum gallons of water per hour that can get to Sunset Peak to put
 
 EDIT:  To save you guys some busywork, I made a datafile out of the image.  Assigning each location to a numeric code like so:
 
-	0 Basecamp
-	1 Lakeside Lodge
-	2 Logging Camp
-	3 Radio Tower
-	4 RV Park
-	5 Creekfront Lodge
-	6 North Camp A
-	7 Mt. Greensparrow
-	8 Aviary
-	9 Greers Drop
-	10 North Camp B
-	11 Ranger Valley
-	12 Old Mine
-	13 Lookout Lodge
-	14 Sunset Peak
+    0 Basecamp
+    1 Lakeside Lodge
+    2 Logging Camp
+    3 Radio Tower
+    4 RV Park
+    5 Creekfront Lodge
+    6 North Camp A
+    7 Mt. Greensparrow
+    8 Aviary
+    9 Greers Drop
+    10 North Camp B
+    11 Ranger Valley
+    12 Old Mine
+    13 Lookout Lodge
+    14 Sunset Peak
 
 I then was able to list the bidirectional graph as a list of connections like "node1 node2 weight type"
- 
-	1 2 8.6 R
-	0 3 8.7 R
-	4 5 11.3 R
-	11 12 7.7 R
-	12 14 7.7 R
-	0 1 0.9 F
-	2 3 1.1 F
-	3 5 5.1 F
-	4 8 7.5 F
-	9 12 7.9 F
-	7 11 5.6 F
-	6 11 6.4 F
-	11 13 3.9 F
-	5 6 2.0 F
-	0 4 8.3 T
-	3 5 5.2 T
-	4 9 7.6 T
-	8 9 4.8 T
-	7 8 5.2 T
-	6 7 5.5 T
-	6 10 7.1 T
-	10 13 2.4 T
-	10 11 3.4 T
-	11 14 7.9 T
-	13 14 4.5 T
+
+    1 2 8.6 R
+    0 3 8.7 R
+    4 5 11.3 R
+    11 12 7.7 R
+    12 14 7.7 R
+    0 1 0.9 F
+    2 3 1.1 F
+    3 5 5.1 F
+    4 8 7.5 F
+    9 12 7.9 F
+    7 11 5.6 F
+    6 11 6.4 F
+    11 13 3.9 F
+    5 6 2.0 F
+    0 4 8.3 T
+    3 5 5.2 T
+    4 9 7.6 T
+    8 9 4.8 T
+    7 8 5.2 T
+    6 7 5.5 T
+    6 10 7.1 T
+    10 13 2.4 T
+    10 11 3.4 T
+    11 14 7.9 T
+    13 14 4.5 T
 
 This should save you some time implementing stuff.
 
-
 HARD BONUS:  Imagine now that you have a limit on people and trucks (trains are stuck to their track, so those are fine).  
 You only have 5 trucks and 50 people.  A truck takes two people to drive (safety in pairs!), a train requires 3 people to operate, (engineer, coalman, radioman)
-and people cannot legally travel on foot in groups of less than 2.  How will you allocate people to get there fastest?  You are allowed to have people do multiple things at different times, like 
+and people cannot legally travel on foot in groups of less than 2.  How will you allocate people to get there fastest?  You are allowed to have people do multiple things at different times, like
 hike to a spot and then drive a truck if you want to make your answer super complicated.

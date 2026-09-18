@@ -3,11 +3,11 @@ title: "[6/30/2014] Challenge #169 [Easy] 90 Degree 2D Array Rotate"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/29i9jw/6302014_challenge_169_easy_90_degree_2d_array/"
 ---
 
-#Description:
+# Description
 
 Given a NxN size 2D array of numbers. Develop a way to rotate the data as if you rotated the data by 90 degrees clockwise.
 
-#Example:
+# Example
 
 N = 3
 
@@ -29,7 +29,7 @@ Rotate it again 90 degrees:
     6 5 4
     3 2 1
 
-#Challenge Input:
+# Challenge Input
 
 N = 10
 
@@ -44,8 +44,6 @@ N = 10
     9 8 7 6 7 8 9 8 7 6
     0 0 0 0 0 0 0 0 0 0
 
-#Optional: 
+# Optional
 
 Show the 2D array at 90, 180, 270 degree clockwise from the original position.
-
-

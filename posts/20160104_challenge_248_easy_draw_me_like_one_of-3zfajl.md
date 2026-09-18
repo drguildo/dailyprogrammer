@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3zfajl/20160104_challeng
 
 Let's build a basic paint program! Your task for today will be to create a basic paint program that can draw points, lines, and filled rectangles, then output an image file that many image viewers can read. But first, some background:
 
-#  Netpbm Formats
+# Netpbm Formats
 
 PNG, GIF, JPEG, and even BMP are all image formats that are way too complex for an [Easy] challenge. Instead, we are going to be using [Netpbm formats](https://en.wikipedia.org/wiki/Netpbm_format). More specifically, we will be using the PPM format, which supports 24-bit RGB color. Here's how a `.ppm` file looks (courtesy of Wikipedia):
 
@@ -17,7 +17,7 @@ PNG, GIF, JPEG, and even BMP are all image formats that are way too complex for 
     255   0   0     0 255   0     0   0 255
     255 255   0   255 255 255     0   0   0
 
-Each pixel in the image is represented with 3 integers (0-255) for its Red, Green, and Blue pixel values. The above `.ppm` file gets displayed as [this](https://upload.wikimedia.org/wikipedia/commons/5/57/Tiny6pixel.png) (zoomed in). 
+Each pixel in the image is represented with 3 integers (0-255) for its Red, Green, and Blue pixel values. The above `.ppm` file gets displayed as [this](https://upload.wikimedia.org/wikipedia/commons/5/57/Tiny6pixel.png) (zoomed in).
 
 Everything is separated by whitespace, but what the whitespace is (and how much of it there is) doesn't matter. Comments (anything after a `#`) are also ignored. In other words, the following PPM file renders exactly the same image:
 
@@ -69,15 +69,15 @@ And it should render like [this](https://i.imgur.com/EaGSFdZ.png) (zoomed in).
 
 # Challenge Output
 
-Actual output: https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/248_easy/sample2_tight.ppm
+Actual output: <https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/248_easy/sample2_tight.ppm>
 
-Converted to PNG and posted to Imgur: https://i.imgur.com/nRmSoUf.png
+Converted to PNG and posted to Imgur: <https://i.imgur.com/nRmSoUf.png>
 
 # Big Challenge
 
-Run these commands: https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/248_easy/sierpinsky.txt
+Run these commands: <https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/248_easy/sierpinsky.txt>
 
-You should get something like this: https://i.imgur.com/5F31DSE.png
+You should get something like this: <https://i.imgur.com/5F31DSE.png>
 
 # Bonus Points
 
@@ -91,9 +91,9 @@ If you would like more of a challenge, implement the following commands:
 
 # Resources
 
-* Online PPM format converter: https://convertio.co/ppm-png/
-* For local command line conversion: https://www.imagemagick.org/
-* For local GUI editing/conversion: https://www.gimp.org/
+* Online PPM format converter: <https://convertio.co/ppm-png/>
+* For local command line conversion: <https://www.imagemagick.org/>
+* For local GUI editing/conversion: <https://www.gimp.org/>
 
 -------
 

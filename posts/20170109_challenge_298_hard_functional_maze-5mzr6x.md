@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/5mzr6x/20170109_challeng
 
 There will be a part 2 challenge based on bonus.  I am sure we have done maze solving before, but its been a while, and challenge is mainly about the bonus.
 
-Borrowing from adventofcode.com, http://adventofcode.com/2016/day/24, solve the following maze returning the path (length) visiting nodes labelled 1 to 7 starting from 0.  `#` are walls.  May not travel diagonally.  Correct answer for path length with this input is `460`
+Borrowing from adventofcode.com, <http://adventofcode.com/2016/day/24>, solve the following maze returning the path (length) visiting nodes labelled 1 to 7 starting from 0.  `#` are walls.  May not travel diagonally.  Correct answer for path length with this input is `460`
 
     ###################################################################################################################################################################################
     #.....#.#.....#...#....4#.....#.#...#.........#...#...............#...................#...#.#...........#.#...........#.#.#.#.........#.#.......#...#...........#.....#...#7..#.#.#
@@ -47,7 +47,7 @@ Borrowing from adventofcode.com, http://adventofcode.com/2016/day/24, solve the 
 
 This is a fairly large maze, and you may wish to resort to one of the main graph algorithms that minimize how often a node cost is calculated.  Namely [Astar](https://en.wikipedia.org/wiki/A*_search_algorithm)... though there are other options.
 
-#bonus
+# bonus
 
 For the bonus, the requirement is to use higher order functions for your algorithm.  The "end function" should be one with the simplest interface:
 
@@ -57,7 +57,7 @@ called to solve paths from 0 to 1, would be called with searchfunction(0,1,above
 
 You might handcraft this function to solve the problem without the bonus.
 
-To build this function functionally, inputs to the [higher order function](https://en.wikipedia.org/wiki/Higher-order_function) include: 
+To build this function functionally, inputs to the [higher order function](https://en.wikipedia.org/wiki/Higher-order_function) include:
 
 * transform start and goal into internal states (for this problem likely 2d indexes of where each position is located)
 * test when the goal state is reached
@@ -78,6 +78,6 @@ Enhance the functional approach with for example:
 
 * a dsl, that makes multi-function input easier.
 
-# P.S.
+# P.S
 
 Unfortunately, there may not be any other challenges this week.  Other than part 2 of this challenge on Friday.

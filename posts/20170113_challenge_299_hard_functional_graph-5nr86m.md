@@ -13,11 +13,11 @@ To the left of the separatting `-` are 2 numbers: the row and col indexes of an 
 
 The first 8 rows in the graph correspond to the positions of `01234567` in the original maze:  The possible starts and goals (**interests] points**) of path requests:
 
-https://gist.github.com/Pascal-J/1fc96e62353b430eeb5f5f3d58861906
+<https://gist.github.com/Pascal-J/1fc96e62353b430eeb5f5f3d58861906>
 
 edit:  oops forgot to paste this all along :(
 
-**challenge:** 
+**challenge:**
 
 produce the length of shortest paths from every **interest point** (first 8 graph rows) to every other interest point.  You may omit the mirror path (ie. the path length from 0 to 1 is the same as 1 to 0), and omit the path to self (path length from 2 to 2 is 0).
 
@@ -47,7 +47,7 @@ These are the same answers as monday's challenge.  It is not the number of "grap
 
 list the shortest path walked from node 0 (row index 0 in input gist:  map index `23 141`) to node 1 (row index 1 in input gist: maze index `35 133`).  (all nodes passed through)
 
-#bonus 2
+# bonus 2
 
 Create a universal function (or class constructor) that can solve all of this week's challenges.  This is the same as monday's bonus, but with the benefit of hindsight, there are some important corrections to Monday's guidance:
 
@@ -70,4 +70,3 @@ Useful internal states for the function are to keep a "table" of node paths that
 Caching length is controversial and may or may not be faster.  Unlike Monday's challenge, Today's challenge can "invalidate previously cached" costs as a longer hop but shorter cummulative cost path can replace a previously found path.  Caching may be slower (though simpler), but needs a "reupdate all costs" internal function for today's challenge.  
 
 I suspect that caching is slower overall, and if you do bonus 1, the only time you ever need to calculate lengths are at the end (return function), or when a collision occurs (to pick the shortest path "collided node".)
-

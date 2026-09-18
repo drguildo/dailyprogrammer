@@ -10,6 +10,7 @@ You are a physicists attempting to simulate a discrete two-dimensional grid of e
 *Original author: /u/nint22*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given two space-delimited integers N and M, where N is the number of element types, and M is the grid size in both dimensions. N will range inclusively between 1 and 20, while M ranges inclusively from 2 to 10. This line will then be followed by N element definitions.
@@ -25,6 +26,7 @@ For each simulation step (where multiple reactions can occur), print an M-by-M g
 Stop printing any output when no more elements can be updated.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     4 5

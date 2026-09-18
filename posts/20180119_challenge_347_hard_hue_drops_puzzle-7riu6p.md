@@ -11,7 +11,7 @@ _You start with one dot, and you can change the colours of the adjacent dots. It
 
 The puzzle opens with a group of tiles of six random colors. The tile in the upper left remains wild for you to change. Tile colors change by flooding from the start tile to directly connected tiles in the four cardinal directions (not diagonals). Directly connected tiles convert to the new color, allowing you to extend the size of the block. The puzzle challenges you to sequentially change the color of the root tile until you grow the block of tiles to the target color in 25 moves or fewer.
 
-Today's challenge is to read a board tiled with six random colors (R O Y G B V), starting from the wild (W) tile in the upper left corner and to produce a sequence of color changes 
+Today's challenge is to read a board tiled with six random colors (R O Y G B V), starting from the wild (W) tile in the upper left corner and to produce a sequence of color changes
 
 # Input Description
 

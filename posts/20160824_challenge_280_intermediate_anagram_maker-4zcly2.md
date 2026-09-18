@@ -5,9 +5,9 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4zcly2/20160824_challeng
 
 # Description
 
-Anagrams, where you take the letters from one or more words and rearrange them to spell something else, are a fun word game. 
+Anagrams, where you take the letters from one or more words and rearrange them to spell something else, are a fun word game.
 
-In this challenge you'll be asked to create anagrams from specific inputs. You should ignore capitalization as needed, and use only English language words. Note that because there are so many possibilities, there are no "right" answers so long as they're valid English language words and proper anagrams. 
+In this challenge you'll be asked to create anagrams from specific inputs. You should ignore capitalization as needed, and use only English language words. Note that because there are so many possibilities, there are no "right" answers so long as they're valid English language words and proper anagrams.
 
 # Example Input
 
@@ -16,7 +16,7 @@ First you'll be given an integer on a single line, this tells you how many lines
     1
     Field of dreams
 
-# Example Output 
+# Example Output
 
 Your program should emit the original word and one or more anagrams it developed. Example:
 
@@ -35,4 +35,4 @@ Your program should emit the original word and one or more anagrams it developed
 
 # English Wordlist
 
-Feel free to use the venerable http://norvig.com/ngrams/enable1.txt 
+Feel free to use the venerable <http://norvig.com/ngrams/enable1.txt>

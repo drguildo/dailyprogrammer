@@ -33,4 +33,4 @@ Return the index (0 or 1 based, but please specify) where the original character
 
 # Credit
 
-This challenge was suggested by user /u/HydratedCabbage, many thanks!  Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by user /u/HydratedCabbage, many thanks!  Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it.

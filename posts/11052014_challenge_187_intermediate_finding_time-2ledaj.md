@@ -3,23 +3,23 @@ title: "[11/05/2014] Challenge #187 [Intermediate] Finding Time to Reddit"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ledaj/11052014_challenge_187_intermediate_finding_time/"
 ---
 
-#Description:
+# Description
 
 I cover the border of my monitor with post it notes with tasks I have to do during the week. I am very unorganized. Each day I want to find the biggest block of free time to go on to Reddit. But I am not sure when that time is. I am also curious how I spend my days.
 
 This challenge you will help me get organized and find that time for me to be on Reddit.
 
-#Input:
+# Input
 
 I will give you a listing of the post it notes around my monitor. Each line represents a single post it note. Sorry but they are not in any order but I was at least smart enough to date them and put the times of my daily events.
 
-#Output:
+# Output
 
-Get me organized. I need to see my schedule for the week. For each day you must find the 1 block of time that is the most time between events on the post its that I can Reddit. Please help maximize my time on Reddit. Assume my start time at work is the beginning of the first event and my end time at work is the end time of the last event for that day. 
+Get me organized. I need to see my schedule for the week. For each day you must find the 1 block of time that is the most time between events on the post its that I can Reddit. Please help maximize my time on Reddit. Assume my start time at work is the beginning of the first event and my end time at work is the end time of the last event for that day.
 
 Then show me my final schedule. And while you are at it show me across the week how many minutes I dedicate to each task with a percentage of time it takes up my time. Hopefully I don't spend most of my time on Reddit.
 
-#Challenge Input:
+# Challenge Input
 
      11-6-2014: 05:18 AM to 06:00 AM -- code review
      11-9-2014: 08:52 AM to 09:15 AM -- food
@@ -78,12 +78,11 @@ Then show me my final schedule. And while you are at it show me across the week 
      11-6-2014: 07:51 AM to 08:25 AM -- personal appointment
      11-7-2014: 01:07 PM to 02:14 PM -- meeting
 
-#FAQ:
+# FAQ
 
 Dates are mm-dd-yyyy
 
-
-#Check this out:
+# Check this out
 
 If you have ideas for challenges - please visit and post on /r/dailyprogrammer_ideas
 

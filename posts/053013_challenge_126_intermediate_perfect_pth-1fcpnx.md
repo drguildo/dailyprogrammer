@@ -12,6 +12,7 @@ Your goal is to find the highest value of P for a given X such that for some unk
 *Special thanks to the ACM collegiate programming challenges group for giving me the initial idea [here](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1563).*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given a single integer on a single line of text through standard console input. This integer will range from 0 to 4,294,967,295 (the limits of a 32-bit unsigned integer).
@@ -21,6 +22,7 @@ You will be given a single integer on a single line of text through standard con
 You must print out to standard console the highest value P that fits the above problem description's requirements.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
 *Note:* These are all considered separate input examples.

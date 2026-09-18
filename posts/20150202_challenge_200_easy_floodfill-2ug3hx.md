@@ -44,7 +44,6 @@ For example:
     .....................................
     8 12 @
 
-
 ## Challenge Output
 
 Output the image given, after the specified flood-fill has taken place.

@@ -5,8 +5,8 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2cyss3/8082014_challenge
 
 # [](#HardIcon) _(Hard)_: Convex Hull Problem
 
-I have [a collection of points, called **P**](http://i.imgur.com/yDhKB22.png). For this challenge the points will all be on a 2D plane. The Convex Hull problem is to find a convex polygon made from points in **P** which contains all of the points in **P**. There are several approaches to this problem, including brute-force (not good) and several O(n^(2)) solutions (naive, not brilliant) and some fairly in-depth algorithms. 
-    
+I have [a collection of points, called **P**](http://i.imgur.com/yDhKB22.png). For this challenge the points will all be on a 2D plane. The Convex Hull problem is to find a convex polygon made from points in **P** which contains all of the points in **P**. There are several approaches to this problem, including brute-force (not good) and several O(n^(2)) solutions (naive, not brilliant) and some fairly in-depth algorithms.
+
 Some such algorithms are described [here (a Java applet, be warned - change the display to 2d first)](http://www.cse.unsw.edu.au/~lambert/java/3d/hull.html) or on [Wikipedia](http://en.wikipedia.org/wiki/Convex_hull_algorithms#Algorithms). The choice is yours, but because you're in /r/DailyProgrammer try and challenge yourself! Try and implement one of the more interesting algorithms.
 
 For example, a convex hull of P:
@@ -26,7 +26,7 @@ You will then be given **N** further lines of input in the format:
     X,Y
 
 Where X and Y are the co-ordinates of the point on the image. Assume the points are named in alphabetical order as A, B, C, D, ... in the order that they are input.
-    
+
 ## Output Description
 
 You must give the convex hull of the shape in the format:

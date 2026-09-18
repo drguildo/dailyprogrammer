@@ -3,7 +3,7 @@ title: "[2017-02-02] Challenge #301 [Easy/Intemerdiate] Looking for patterns"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5rlpz1/20170202_challenge_301_easyintemerdiate_looking/"
 ---
 
-#Description
+# Description
 
 You will be given a sequence that of letters and you must match with a dictionary.
 The sequence is a pattern of equal letters that you must find.
@@ -21,29 +21,27 @@ E.G.
     narrate <- matches
     hodor <- no match
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
-###Input 1
+### Input 1
 
     XXYY
 
-###Input 2
+### Input 2
 
     XXYYZZ
 
-###Input 3
+### Input 3
 
     XXYYX
 
-
-
-##Output description
+## Output description
 
 The words that match in de dictionary
 
-###Output 1
+### Output 1
 
     aarrgh
     aarrghh
@@ -74,15 +72,14 @@ The words that match in de dictionary
     belleeks
     ...
 
-###Output 2
+### Output 2
 
     bookkeeper
     bookkeepers
     bookkeeping
     bookkeepings
 
-
-###Output 3
+### Output 3
 
     addressees
     betweenness
@@ -98,14 +95,13 @@ The words that match in de dictionary
     lessees
     wheelless
 
-
 *Output can vary if you use a different dictionary*
 
-#Notes/Hints
+# Notes/Hints
 
 As dictionary you can use the famous [enable1](https://raw.githubusercontent.com/dolph/dictionary/master/enable1.txt) or whatever dictionary you want.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

@@ -25,7 +25,7 @@ The input will simply be uncompressed textual data. At the end, an EOF symbol is
 
 * If an upper-case word (eg. `Stanley`) is encountered, print its index in the dictionary, followed by an exclamation point (`!`), followed by a space.
 
-* If the previous and next words encountered are joined by a hyphen rather than a space (eg. `hunter-gatherer`), print a hyphen (`-`), followed by a space (eg. `44 - 47 `).
+* If the previous and next words encountered are joined by a hyphen rather than a space (eg. `hunter-gatherer`), print a hyphen (`-`), followed by a space (eg. `44 - 47`).
 
 * If word is followed by any of the following symbols: `. , ? ! ; :`, print that symbol after it, followed by another space (eg. `44 !`).
 

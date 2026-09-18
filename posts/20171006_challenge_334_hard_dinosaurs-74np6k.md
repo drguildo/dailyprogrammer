@@ -3,7 +3,7 @@ title: "[2017-10-06] Challenge #334 [Hard] Dinosaurs"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/74np6k/20171006_challenge_334_hard_dinosaurs/"
 ---
 
-#Description
+# Description
 
 After a failed genetic engineering experiment a lot of dinosaurs escaped into the lab, devouring most of the staff. Jeff, a scientist that worked on the project, managed to survive by hiding in the southwest corner of the rectangular lab. Now that all dinosaurs are asleep, he tries to leave the lab.
 
@@ -170,9 +170,9 @@ closest dinosaur rounded to three decimal digits.
 
 # Notes/Hints
 
-  - Here is a somewhat larger example (it is still quite small): [Input](http://pastebin.com/gpwsTWg0),
-[Output](http://pastebin.com/y3siBQvC) that I need ~0.2s for. 
+- Here is a somewhat larger example (it is still quite small): [Input](http://pastebin.com/gpwsTWg0),
+[Output](http://pastebin.com/y3siBQvC) that I need ~0.2s for.
 
-  - I [visualized](http://www.scribd.com/doc/236927238) all of the given samples if it helps you debug. (Best download the pdf and do not use the raster images.)
+- I [visualized](http://www.scribd.com/doc/236927238) all of the given samples if it helps you debug. (Best download the pdf and do not use the raster images.)
 
-  - My best solution takes `O(N^2*log(W+H))` time and `O(N)` space in the worst case. I don't know whether there is a better solution.
+- My best solution takes `O(N^2*log(W+H))` time and `O(N)` space in the worst case. I don't know whether there is a better solution.

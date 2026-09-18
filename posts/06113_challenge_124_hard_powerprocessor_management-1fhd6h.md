@@ -14,6 +14,7 @@ Note that the time intervals must be strictly enforced: you may not load a proce
 *Author: nint22, with the base idea from challenge #4254 ACM Competitive Collegiate Programming challenges repository.*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You must read in, from standard console input, an integer T for the number of test cases. You should expect, for each test case, an integer N for the number of given programs you must execute. For each program, you will be given an integer an integer R for the start time, then (space-delimited) an integer D for end time, and then (space-delimited) an integer W for the amount of work. All input will be guaranteed well formed.
@@ -41,4 +42,5 @@ For each test-case, you must print how much simulation time it took to accomplis
     8 5
 
 # Note
+
 "Minimize for both time and maximum power rate" is a weak definition, since you could end up in a situation where one or the other is absurdly optimized (we could do almost all work as fast as possible if we let the power rate be infinite...). So, for the sake of making this reasonable, we define "minimize for both.." with the constraint that *both* numbers should be as low as possible, even if that means they are local minima, and there is a significantly lower value for either one.

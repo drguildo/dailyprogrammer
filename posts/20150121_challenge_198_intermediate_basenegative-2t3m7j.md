@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2t3m7j/20150121_challeng
 
 # [](#IntermediateIcon) _(Intermediate)_: Base-Negative Numbers
 
-*"Don't be stupid, Elite6809!"*, I hear you say. *"You can't have a negative base."* Well, why not? Let's analyse what we mean by base. Given a base-**r** system, the column **p** places from the right (starting from zero), which contains the digit **n**, has the value **n**×**r**^(**p**). The binary columns 1, 2, 4, 8, 16, ... is the same as 2^(0), 2^(1), 2^(2), 2^(3), 2^(4). Nothing stops you from using a negative base with this system, except perhaps the understanding of the concept and practicality of its usage.
+_"Don't be stupid, Elite6809!"_, I hear you say. _"You can't have a negative base."_ Well, why not? Let's analyse what we mean by base. Given a base-**r** system, the column **p** places from the right (starting from zero), which contains the digit **n**, has the value **n**×**r**^(**p**). The binary columns 1, 2, 4, 8, 16, ... is the same as 2^(0), 2^(1), 2^(2), 2^(3), 2^(4). Nothing stops you from using a negative base with this system, except perhaps the understanding of the concept and practicality of its usage.
 
 Let's imagine base -10 (negadecimal). Here, the place values for each column are now 1, -10, 100, -1000 and so on. Therefore, the negadecimal number 7211:
 
@@ -43,7 +43,7 @@ Output: `-8264462`
 Input:`-7 4021553`  
 Output: `4016423`
 
-Similarly, if the given base is *positive*, convert back to the corresponding negative base.
+Similarly, if the given base is _positive_, convert back to the corresponding negative base.
 
 Input: `7 4016423` (convert from base 7 to base -7)  
 Output: `4021553`

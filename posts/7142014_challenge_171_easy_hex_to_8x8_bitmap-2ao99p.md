@@ -3,23 +3,23 @@ title: "[7/14/2014] Challenge #171 [Easy] Hex to 8x8 Bitmap"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/"
 ---
 
-#Description:
+# Description
 
 Today we will be making some simple 8x8 bitmap pictures. You will be given 8 hex values that can be 0-255 in decimal value (so 1 byte). Each value represents a row. So 8 rows of 8 bits so a 8x8 bitmap picture.
 
-#Input:
+# Input
 
 8 Hex values.
 
-##example: 
+## example
 
 18 3C 7E 7E 18 18 18 18
 
-#Output:
+# Output
 
-A 8x8 picture that represents the values you read in. 
+A 8x8 picture that represents the values you read in.
 
-For example say you got the hex value FF. This is 1111 1111 . "1" means the bitmap at that location is on and print something. "0" means nothing is printed so put a space. 1111 1111 would output this row: 
+For example say you got the hex value FF. This is 1111 1111 . "1" means the bitmap at that location is on and print something. "0" means nothing is printed so put a space. 1111 1111 would output this row:
 
     xxxxxxxx
 
@@ -28,7 +28,7 @@ if the next hex value is 81 it would be 1000 0001 in binary and so the 2nd row w
     xxxxxxxx
     x      x
 
-##Example output based on example input:
+## Example output based on example input
 
        xx
       xxxx
@@ -39,7 +39,7 @@ if the next hex value is 81 it would be 1000 0001 in binary and so the 2nd row w
        xx
        xx
 
-#Challenge input:
+# Challenge input
 
 Here are 4 pictures to process and display:
 
@@ -48,6 +48,6 @@ Here are 4 pictures to process and display:
     3E 7F FC F8 F8 FC 7F 3E
     93 93 93 F3 F3 93 93 93
 
-#Output Character:
+# Output Character
 
 I used "x" but feel free to use any ASCII value you want. Heck if you want to display it using graphics, feel free to be creative here.

@@ -115,4 +115,4 @@ Add the scheduled date besides each round number in your output (using format MM
 
 # Credit
 
-This challenge was suggested by user /u/gabyjunior, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by user /u/gabyjunior, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

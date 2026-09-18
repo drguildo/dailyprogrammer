@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/7d4yoe/20171114_challeng
 ---
 
 
-#Description
+# Description
 
 You must remotely send a sequence of orders to a robot to get it out of a minefield.
 
@@ -30,7 +30,7 @@ The orders understandable by the robot are as follows:
 * E moves the robot one square to the east
 * O moves the robot one square to the west
 * I start the the engine of the robot
-* - cuts the engine of the robot
+* * cuts the engine of the robot
 
 If one tries to move it to a square occupied by a wall `+`, then the robot stays in place.
 
@@ -45,14 +45,13 @@ Write a program asking the user to enter a minefield and then asks to enter a se
 
 It displays after won or lost depending on the input command string.
 
-##Input
+## Input
 
-The mine field in the form of a string of characters, newline separated. 
+The mine field in the form of a string of characters, newline separated.
 
-##Output
+## Output
 
 Displays the mine field on the screen
-
 
     +++++++++++
     +0000000000
@@ -63,8 +62,7 @@ Displays the mine field on the screen
     M000*00000+
     +++++++++++
 
-
-##Input 
+## Input
 
 Commands like:
 
@@ -72,15 +70,15 @@ Commands like:
 
 ## Output
 
-Display the path the robot took and indicate if it was successful or not. Your program needs to evaluate if the route successfully avoided mines and both started and stopped at the right positions. 
+Display the path the robot took and indicate if it was successful or not. Your program needs to evaluate if the route successfully avoided mines and both started and stopped at the right positions.
 
-#Bonus
+# Bonus
 
 Change your program to randomly generate a minefield of user-specified dimensions and ask the user for the number of mines.
-In the minefield, randomly generate the position of the mines. No more than one mine will be placed in areas of 3x3 cases. We will avoid placing mines in front of the entrance and exit. 
+In the minefield, randomly generate the position of the mines. No more than one mine will be placed in areas of 3x3 cases. We will avoid placing mines in front of the entrance and exit.
 
-Then ask the user for the robot commands. 
+Then ask the user for the robot commands.
 
 # Credit
 
-This challenge was suggested by user /u/Preferencesoft, many thanks! If you have a challenge idea, please share it at /r/dailyprogrammer_ideas  and there's a chance we'll use it. 
+This challenge was suggested by user /u/Preferencesoft, many thanks! If you have a challenge idea, please share it at /r/dailyprogrammer_ideas  and there's a chance we'll use it.

@@ -66,4 +66,4 @@ per symbol. Fortunately there are smarter ways to compute the sequence
 
 # Credit
 
-This challenge was developed by user /u/skeeto, many thanks! If you have a challenge idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was developed by user /u/skeeto, many thanks! If you have a challenge idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

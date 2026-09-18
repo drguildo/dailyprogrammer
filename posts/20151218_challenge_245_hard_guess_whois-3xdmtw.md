@@ -11,7 +11,7 @@ successful startup. One day, though, there is a problem. You got this
 e-mail from the CEO:
 
 > My dearest programmer,
-> 
+>
 > Wonderful news! It looks like our website exploded in popularity
 > last night! We are going to be rich! We have hundreds to thousands
 > of people accessing the site every second, and growing fast.
@@ -58,20 +58,20 @@ The input is composed of a large number of lines that contain two IPs,
 followed by the name of whatever/whoever is associated with the IP
 range.
 
-	123.45.17.8 123.45.123.45 University of Vestige
-	123.50.1.1 123.50.10.1 National Center for Pointlessness
-	188.0.0.3 200.0.0.250 Mayo Tarkington
-	200.0.0.251 200.0.0.255 Daubs Haywire Committee
-	200.0.1.1 200.255.255.255 Geopolitical Encyclopedia
-	222.222.222.222 233.233.233.233 SAP Rostov
-	250.1.2.3 250.4.5.6 Shavian Refillable Committee
-	123.45.100.0 123.60.32.1 United Adverbs
-	190.0.0.1 201.1.1.1 Shavian Refillable Committee
-	238.0.0.1 254.1.2.3 National Center for Pointlessness
+    123.45.17.8 123.45.123.45 University of Vestige
+    123.50.1.1 123.50.10.1 National Center for Pointlessness
+    188.0.0.3 200.0.0.250 Mayo Tarkington
+    200.0.0.251 200.0.0.255 Daubs Haywire Committee
+    200.0.1.1 200.255.255.255 Geopolitical Encyclopedia
+    222.222.222.222 233.233.233.233 SAP Rostov
+    250.1.2.3 250.4.5.6 Shavian Refillable Committee
+    123.45.100.0 123.60.32.1 United Adverbs
+    190.0.0.1 201.1.1.1 Shavian Refillable Committee
+    238.0.0.1 254.1.2.3 National Center for Pointlessness
 
 As a visual representation of it, I have made a [quick whiteboard
 doodle](https://i.imgur.com/AL6cASf.png) of the ranges in relation to each other (not to scale). A
-couple of things to note: 
+couple of things to note:
 
 * These IP ranges are **not guaranteed to be IPv4 "subnets"**.
   This means that they may not be accurately represented by
@@ -88,42 +88,42 @@ couple of things to note:
 Sample Input Lookups
 --------------------
 
-	250.1.3.4
-	123.50.1.20
-	189.133.73.57
-	123.50.1.21
-	250.1.2.4
-	123.50.1.21
-	250.1.3.100
-	250.1.3.5
-	188.0.0.5
-	123.50.1.100
-	123.50.2.34
-	123.50.1.100
-	123.51.100.52
-	127.0.0.1
-	123.50.1.22
-	123.50.1.21
-	188.0.0.5
-	123.45.101.100
-	123.45.31.52
-	230.230.230.230
+    250.1.3.4
+    123.50.1.20
+    189.133.73.57
+    123.50.1.21
+    250.1.2.4
+    123.50.1.21
+    250.1.3.100
+    250.1.3.5
+    188.0.0.5
+    123.50.1.100
+    123.50.2.34
+    123.50.1.100
+    123.51.100.52
+    127.0.0.1
+    123.50.1.22
+    123.50.1.21
+    188.0.0.5
+    123.45.101.100
+    123.45.31.52
+    230.230.230.230
 
 
-	
+    
 
 Formal Output
 =============
 
 You must output a reverse-ordered list of the total number of times the varying institutions/people visited your website. Each visitor IP should only count once, and it should count for the **smallest** range it is a member of. IPs that were not found in the given rangescan count as `<unknown>`.
 
-	8 - National Center for Pointlessness
-	4 - Shavian Refillable Committee
-	3 - Mayo Tarkington
-	2 - University of Vestige
-	1 - SAP Rostov
-	1 - United Adverbs
-	1 - <unknown>
+    8 - National Center for Pointlessness
+    4 - Shavian Refillable Committee
+    3 - Mayo Tarkington
+    2 - University of Vestige
+    1 - SAP Rostov
+    1 - United Adverbs
+    1 - <unknown>
 
 Explanation
 -----------
@@ -131,46 +131,45 @@ Explanation
 Here's each input IP and which name it mapped to:
 
     National Center for Pointlessness
-	123.50.1.20
-	123.50.1.21
-	123.50.1.22
-	123.50.1.21
-	123.50.1.21
-	123.50.1.100
-	123.50.1.100
-	123.50.2.34
+    123.50.1.20
+    123.50.1.21
+    123.50.1.22
+    123.50.1.21
+    123.50.1.21
+    123.50.1.100
+    123.50.1.100
+    123.50.2.34
 
-	Shavian Refillable Committee
-	250.1.2.4
-	250.1.3.4
-	250.1.3.5
-	250.1.3.100
+    Shavian Refillable Committee
+    250.1.2.4
+    250.1.3.4
+    250.1.3.5
+    250.1.3.100
 
-	Mayo Tarkington
-	188.0.0.5
-	188.0.0.5
-	189.133.73.57
+    Mayo Tarkington
+    188.0.0.5
+    188.0.0.5
+    189.133.73.57
 
-	University of Vestige
-	123.45.101.100
-	123.45.31.52
+    University of Vestige
+    123.45.101.100
+    123.45.31.52
 
-	SAP Rostov
-	230.230.230.230
+    SAP Rostov
+    230.230.230.230
 
     United Adverbs
     123.51.100.52
 
-	<unknown>
-	127.0.0.1
-
+    <unknown>
+    127.0.0.1
 
 The Catch / The Challenge
 =========================
 
 This seems simple, right? Well... Make your program work efficiently
 for the below inputs. The target speed (per your CEO's email) is at
-least 1,000-2,000 queries per second. Target run time is listed for 
+least 1,000-2,000 queries per second. Target run time is listed for
 each query file, assuming 1,500 queries per second. You should try
 to hit that run time even using the largest IP range file.
 
@@ -194,9 +193,9 @@ purely random, not constructed to trip anything in particular up.
 **Food for thought**: you may want to split the program into two steps:
 one for parsing / recording / organizing the IP ranges into a database
 (or something similar), and another for performing lookups against the
-database. 
+database.
 
-**Bonus points:** 
+**Bonus points:**
 
 * Modify your solution to work for [IPv6 (128-bit) addresses](https://en.wikipedia.org/wiki/IPv6_address) in addition to IPv4 (32-bit) addresses.
 * Test your solution against some super-huge data sets (10-100 million IP ranges). You will have to generate those inputs yourself, though. You can use my [generation script](https://github.com/fsufitch/dailyprogrammer/blob/master/ideas/whois/ipgen2.py) if you  would like.
@@ -215,10 +214,10 @@ it's much easier to remember. How did we get that?
 
 Let's convert the components of `127.0.0.1` to 8-bit binary:
 
-- `127` = `011111111`
-- `0` = `00000000`
-- `0` = `00000000`
-- `1` = `00000001`
+* `127` = `011111111`
+* `0` = `00000000`
+* `0` = `00000000`
+* `1` = `00000001`
 
 Then, concatenate them: `01111111000000000000000000000001`. Converting
 that number back to decimal (base 10), we get `2130706433`. We can go
@@ -230,18 +229,18 @@ count from one to the next. The biggest difference is that they "carry
 over" into the next byte when you reach `256`:
 
     127.0.0.1
-	127.0.0.2
-	127.0.0.3
-	...
-	127.0.0.254
-	127.0.0.255
-	127.0.1.0
-	127.0.1.1
-	...
-	127.255.255.253
-	127.255.255.254
-	127.255.255.255
-	128.0.0.0
+    127.0.0.2
+    127.0.0.3
+    ...
+    127.0.0.254
+    127.0.0.255
+    127.0.1.0
+    127.0.1.1
+    ...
+    127.255.255.253
+    127.255.255.254
+    127.255.255.255
+    128.0.0.0
 
 That means that the IP address `127.0.0.100` is inside the range
 `127.0.0.1 - 127.0.1.1`, for example.
@@ -253,7 +252,7 @@ integers and forget about it. Here's some
 to do it, given the address's four component bytes. Some languages,
 like Python 3.x, even include
 [IP address libraries](https://docs.python.org/3/howto/ipaddress.html)
-to make your life easier. However, keep in mind that the more complex 
+to make your life easier. However, keep in mind that the more complex
 and "feature-filled" your tools are, the slower they are more likely to be --
 which may negatively impact your lookup speed.
 

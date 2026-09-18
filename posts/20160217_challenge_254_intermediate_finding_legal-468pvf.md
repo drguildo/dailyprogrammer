@@ -9,7 +9,7 @@ The game of Reversi (or Othello) is a color flipping strategy game played betwee
 
 The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
 
-Today's challenge is to review a game in progress and indicate legal moves for the next player. 
+Today's challenge is to review a game in progress and indicate legal moves for the next player.
 
 # Input Description
 
@@ -85,4 +85,4 @@ Your program should indicate the quantity of moves for that piece and then draw 
 
 # Note
 
-For an interesting discussion of such algorithms, see the Wikipedia page on [computer Othello](https://en.wikipedia.org/wiki/Computer_Othello). An 8x8 board has nearly 10^28 legal moves in a game tree possible! One of the first computer Othello programs was published in 1977, written in FORTRAN. 
+For an interesting discussion of such algorithms, see the Wikipedia page on [computer Othello](https://en.wikipedia.org/wiki/Computer_Othello). An 8x8 board has nearly 10^28 legal moves in a game tree possible! One of the first computer Othello programs was published in 1977, written in FORTRAN.

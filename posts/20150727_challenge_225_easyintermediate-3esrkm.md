@@ -103,7 +103,7 @@ And so begins the start of the second paragraph but as you can see it's only mar
 ### Output
 
 One hundred and fifty quadrillion, seventy-two trillion, six hundred and twenty-six billion, eight hundred and fourty million, three hundred and thirteen thousand subtract one is a rather large prime number which equals one to five if calculated modulo two to six respectively.
- 
+
 However, one other rather more interesting number is two hundred and twenty-one quadrillion, eight hundred and six trillion, four hundred and thirty-four billion, five hundred and thirty-seven milmillion, nine hundred and seventy-eight thousand, six hundred and seventy nine, which isn't prime but is the 83rd Lucas number.
 
 ## Example 3
@@ -129,7 +129,7 @@ However, one other rather more interesting number is two hundred and twenty-one 
     ficia deserunt mollit anim id est laborum.
 
 ### Output
-    
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
 
 Duis aute irure dolor in repre-henderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -147,7 +147,7 @@ And so begins the start of the second paragraph but as you can see it's only mar
 ### Example 2 Output
 
 (**150 072 626 840 312 999**) One hundred and fifty quadrillion, seventy-two trillion, six hundred and twenty-six billion, eight hundred and fourty million, three hundred and thirteen thousand subtract one is a rather large prime number which equals one to five if calculated modulo two to six respectively.
- 
+
 (**221 806 434 537 978 679**) (**Subscribe for more Useless Number Facts(tm)!**) However, one other rather more interesting number is two hundred and twenty-one quadrillion, eight hundred and six trillion, four hundred and thirty-four billion, five hundred and thirty-seven milmillion, nine hundred and seventy-eight thousand, six hundred and seventy nine, which isn't prime but is the 83rd Lucas number.
 
 ### Example 3 Output

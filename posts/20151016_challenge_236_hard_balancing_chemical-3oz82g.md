@@ -7,7 +7,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3oz82g/20151016_challeng
 
 Rob was just learning to balance chemical equations from his teacher, but Rob was also a programmer, so he wanted to automate the process of doing it by hand. Well, it turns out that Rob isn't a great programmer, and so he's looking to you for help. Can you help him out?
 
-Balancing chemical equations is pretty straight forward - it's all in conservation of mass. Remember this: A balanced equation MUST have EQUAL numbers of EACH type of atom on BOTH sides of the arrow. Here's a great tutorial on the subject: http://www.chemteam.info/Equations/Balance-Equation.html 
+Balancing chemical equations is pretty straight forward - it's all in conservation of mass. Remember this: A balanced equation MUST have EQUAL numbers of EACH type of atom on BOTH sides of the arrow. Here's a great tutorial on the subject: <http://www.chemteam.info/Equations/Balance-Equation.html>
 
 # Input
 
@@ -33,7 +33,7 @@ for any equation like
 
      Pb -> Au
 
-(FWIW that's transmutation, or alchemy, and is simply not possible - lead into gold.) 
+(FWIW that's transmutation, or alchemy, and is simply not possible - lead into gold.)
 
 Preferably, format it neatly with spaces for greater readability but if and only if it's not possible, format your equation like:
 
@@ -47,7 +47,7 @@ Preferably, format it neatly with spaces for greater readability but if and only
     FeCl3 + NH4OH -> Fe(OH)3 + NH4Cl
     K4[Fe(SCN)6] + K2Cr2O7 + H2SO4 -> Fe2(SO4)3 + Cr2(SO4)3 + CO2 + H2O + K2SO4 + KNO3
 
-# Challenge outputs 
+# Challenge outputs
 
     C5H12 + 8O2 -> 5CO2 + 6H2O
     Zn + 2HCl -> ZnCl2 + H2

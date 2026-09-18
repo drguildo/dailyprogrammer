@@ -3,7 +3,7 @@ title: "[2015-01-05] Challenge #196 [Practical Exercise] Ready... set... set!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2rfae0/20150105_challenge_196_practical_exercise_ready/"
 ---
 
-# [](#PEIcon) **(Practical Exercise)**: Ready... set... Set!
+# [](#PEIcon) **(Practical Exercise)**: Ready... set... Set
 
 The [last practical exercise](/r/dailyprogrammer/comments/2nr6c4/20141129_challenge_190_practical_exercise_the/) was well-received so I'm going to make another one. This one is less complicated and, if you're still finding your feet with object-oriented programming, should be great practice for you. This should be doable in functional languages too.
 
@@ -13,13 +13,13 @@ The idea of a Set can be very math-y when you delve deeper but this post only sk
 
 A *set* is a mathematical concept that represents a collection of other objects. Those other objects can be numbers, words, operations or even sets themselves; for the (non-extension) purposes of the challenge they are integers only. A *finite set* is a set with only a finite number of items (unlike, for example, the set of all real numbers **R** which has uncountably infinite members.)
 
-A set is generally represented with curly brackets with the items separated by commas. So, for example, the set containing `-3`, `6` and `11` could be written as `{-3, 6, 11}`. This notation is called an *extensional definition*. 
+A set is generally represented with curly brackets with the items separated by commas. So, for example, the set containing `-3`, `6` and `11` could be written as `{-3, 6, 11}`. This notation is called an *extensional definition*.
 
 There are some distinctions between a set and the list/array data structure:
 
 * Repeated items are ignored, so `{-3, 6, 11}` is exactly the same as `{-3, -3, 6, 11}`. To understand why this is so, think less of a set being a container of items, but rather the items are members of a set - much like how you can't be a subscriber on /r/DailyProgrammer twice.
 
-* Order doesn't matter - `{-3, 6, 11}` is the same as `{6, 11, -3}` and so on. 
+* Order doesn't matter - `{-3, 6, 11}` is the same as `{6, 11, -3}` and so on.
 
 * Sets are generally seen as *immutable*, which means that rather than adding an item **A** to a set **S**, you normally create a new set with all the members of **S**, *and* **A**. Immutable data structures are quite a common concept so this will serve as an intro to them if you've not came across them already.
 

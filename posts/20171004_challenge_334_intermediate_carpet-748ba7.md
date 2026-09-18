@@ -15,15 +15,15 @@ depending on its current color. There's a set of rules that defines
 those 9 new pixels for each color. For example, the ruleset for the
 Sierpinski carpet looks like this:
 
-https://i.imgur.com/5Rf14GH.png
+<https://i.imgur.com/5Rf14GH.png>
 
 The process starts with a single white pixel. After [one iteration it's
 3x3 with one black pixel in the middle](https://en.wikipedia.org/wiki/Sierpinski_carpet#Process). After four iterations it looks
 like this:
 
-https://i.imgur.com/7mX9xbR.png
+<https://i.imgur.com/7mX9xbR.png>
 
-## Input:
+## Input
 
 To define a ruleset for your program, each of the possible colors will have one line defining its 9 next
 colors. Before listing these rules, there will be one line defining the
@@ -41,25 +41,25 @@ For example, the input to produce a Sierpinski carpet at 4 iterations
 
 The number of colors may be greater than two.
 
-## Output:
+## Output
 
 Your program should output the given fractal using whatever means is
 convenient. You may want to consider using a [Netpbm
 PGM](https://en.wikipedia.org/wiki/Netpbm_format) (P2/P5), with `maxval`
 set to the number of colors in the fractal.
 
-## Challenge Input:
+## Challenge Input
 
     3 4
     2 0 2 0 1 0 2 0 2
     1 1 1 1 2 1 1 1 1
     2 1 2 0 0 0 2 1 2
 
-## Challenge Output:
+## Challenge Output
 
-https://i.imgur.com/1piawqY.png
+<https://i.imgur.com/1piawqY.png>
 
-## Bonus Input:
+## Bonus Input
 
 The bonus output will contain a secret message.
 
@@ -97,6 +97,6 @@ The bonus output will contain a secret message.
     30 30 30 30 30 30 30 30 30
     30 30 27 30 31 24 29 28 27
 
-## Credits:
+## Credits
 
 This idea originated from /u/Swadqq; more at [The Pi Fractal](https://friendlyfieldsandopenmaps.com/2017/09/18/the-pi-fractal/).

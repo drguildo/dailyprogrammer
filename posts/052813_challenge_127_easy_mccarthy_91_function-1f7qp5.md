@@ -10,6 +10,7 @@ The [McCarthy 91 Function](http://en.wikipedia.org/wiki/McCarthy_91_function) is
 *Author: nint22*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given a single integer N on standard console input. This integer will range between 0 and 2,147,483,647 (without commas).
@@ -19,6 +20,7 @@ You will be given a single integer N on standard console input. This integer wil
 You must output what the function does on each recursion: first you must print the function the expression that is being computed, and then print which condition it took. Simply put, you must print each recursion event in the following string format: "<Expression being executed> since <is greater than | is equal to or less than> 100". Note that for the first line you do not need to print the "since" string (see example below). You should also print the final expression, which is the result (which should always be 91).
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
 *Note:* Take from Wikipedia for the sake of keeping things as simple and clear as possible.
@@ -34,4 +36,3 @@ You must output what the function does on each recursion: first you must print t
     M(101) since 111 is greater than 100
     91 since 101 is greater than 100
     91
-

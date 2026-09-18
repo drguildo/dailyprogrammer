@@ -3,7 +3,7 @@ title: "[9/15/2014] Challenge#180 [Easy] Look'n'Say"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/"
 ---
 
-#Description
+# Description
 
 The Look and Say sequence is an interesting sequence of numbers where each term is given by describing the makeup of the previous term.
 
@@ -16,29 +16,27 @@ The 1st term is given as 1. The 2nd term is 11 ('one one') because the first ter
     111221
     312211
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input
+## Input
+
 On console input you should enter a number N
 
-##Output
+## Output
+
  The Nth Look and Say number.
 
-#Bonus
+# Bonus
 
  Allow any 'seed' number, not just 1. Can you find any interesting cases?
 
+# Finally
 
-#Finally
-
-We have an IRC channel over at 
-
+We have an IRC channel over at
 
 webchat.freenode.net in #reddit-dailyprogrammer
 
-
 Stop on by :D
-
 
 Have a good challenge idea?
 

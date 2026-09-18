@@ -36,6 +36,7 @@ for 5 parameters,  Fork(a, b, c, d, e) is:
        b(a, Fork(c,d,e))      NB. should expand this if producing strings. 
 
 # challenge input
+
 (25 functions)
 
      a b c d e f g h i j k l m n o p q r s t u v w x y

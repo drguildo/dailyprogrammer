@@ -7,14 +7,14 @@ There may be an actual name to this base system (let us/me know in comments), an
 
 for "permutation base 2", the indexes and values start with:
 
-index | value
+index|value
 ---|---
 0|0  
 1|1  
-2|00 
-3|01 
-4|10 
-5|11 
+2|00
+3|01
+4|10
+5|11
 6|000
 7|001
 8|010
@@ -38,7 +38,7 @@ what is the index-value for base `111000111`
 
 234234234  
 234234234234234  
-234234234234234234234234 
+234234234234234234234234
 
 **challenge value inputs**
 

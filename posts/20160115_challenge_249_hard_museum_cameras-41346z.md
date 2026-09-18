@@ -9,9 +9,9 @@ You run a museum, and you have a small budget - but you have to protect the muse
 
 Some assumptions and other factors for you to work with:
 
-* Cameras can't see around corners. 
+* Cameras can't see around corners.
 * You can only place cameras in corners.
-* Assume every camera has a field of view of 180 degrees, yielding a semicircular field of view. 
+* Assume every camera has a field of view of 180 degrees, yielding a semicircular field of view.
 * Assume every camera's field of view will be equal to the left and right of the line in the corner where the camera is placed; this line bisects the angle of the corner. The camera points away from the corner.
 * Assume every camera has an otherwise infinite view.
 
@@ -38,9 +38,9 @@ Your program should emit the position of the cameras needed to cover the area. F
 
     (0,0)
 
-That's one possible solution (for this one any of the corners would have worked). 
+That's one possible solution (for this one any of the corners would have worked).
 
-If the shape has no solution, emit something like "The architect has no concept of security" because maybe they're collaborating with art theives. 
+If the shape has no solution, emit something like "The architect has no concept of security" because maybe they're collaborating with art theives.
 
 # Challenge Input
 
@@ -61,4 +61,4 @@ third room
 
 # Notes
 
-This is a classic computational geometry problem called the [Art Gallery Problem](https://en.wikipedia.org/wiki/Art_gallery_problem). For some ideas on calculating 2d visibility from a top down map, [click here](http://www.redblobgames.com/articles/visibility/) 
+This is a classic computational geometry problem called the [Art Gallery Problem](https://en.wikipedia.org/wiki/Art_gallery_problem). For some ideas on calculating 2d visibility from a top down map, [click here](http://www.redblobgames.com/articles/visibility/)

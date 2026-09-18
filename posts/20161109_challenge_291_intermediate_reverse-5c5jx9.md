@@ -38,11 +38,10 @@ Explanation: the sample input translates to `0.5 * ((1 * 2!) + (2 ^ 1) + 10)`, w
 
 **Output:** `-4`
 
-
 ## Challenge 2
+
 **Input:** `100 807 3 331 * + 2 2 1 + 2 + * 5 ^ * 23 10 558 * 10 * + + *`
 
-# Finally...
+# Finally
 
 Hope you enjoyed today's challenge! Have a fun problem or challenge of your own? Drop by /r/dailyprogrammer_ideas and share it with everyone!
-

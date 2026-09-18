@@ -47,7 +47,7 @@ Example input:
 
 # Output Description
 
-Your program should emit the levels of the dungeon with the hero's path painted from start to goal. 
+Your program should emit the levels of the dungeon with the hero's path painted from start to goal.
 
 Example output:
 

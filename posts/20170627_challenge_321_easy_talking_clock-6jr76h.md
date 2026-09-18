@@ -6,18 +6,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challeng
 
 **Description**
 
-No more hiding from your alarm clock! You've decided you want your computer to keep you updated on the time so you're never late again. A talking clock takes a 24-hour time and translates it into words. 
-
+No more hiding from your alarm clock! You've decided you want your computer to keep you updated on the time so you're never late again. A talking clock takes a 24-hour time and translates it into words.
 
 **Input Description**
 
 An hour (0-23) followed by a colon followed by the minute (0-59).
 
-
 **Output Description**
 
-The time in words, using 12-hour format followed by am or pm. 
-
+The time in words, using 12-hour format followed by am or pm.
 
 **Sample Input data**
 
@@ -28,7 +25,6 @@ The time in words, using 12-hour format followed by am or pm.
     20:29
     21:00
 
-
 **Sample Output data**
 
     It's twelve am
@@ -37,7 +33,6 @@ The time in words, using 12-hour format followed by am or pm.
     It's two oh one pm
     It's eight twenty nine pm
     It's nine pm
-
 
 **Extension challenges (optional)**
 

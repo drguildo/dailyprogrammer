@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4riubi/20160706_challeng
 
 # Description
 
-In combinatorial mathematics, a *k-ary* De Bruijn sequence *B(k, n)* of order *n*, named after the Dutch mathematician Nicolaas Govert de Bruijn, is a cyclic sequence of a given alphabet *A* with size *k* for which every possible subsequence of length *n* in *A* appears as a sequence of consecutive characters exactly once. At the terminus, you "wrap" the end of the sequence around to the beginning to get any remaining subsequences. 
+In combinatorial mathematics, a *k-ary* De Bruijn sequence *B(k, n)* of order *n*, named after the Dutch mathematician Nicolaas Govert de Bruijn, is a cyclic sequence of a given alphabet *A* with size *k* for which every possible subsequence of length *n* in *A* appears as a sequence of consecutive characters exactly once. At the terminus, you "wrap" the end of the sequence around to the beginning to get any remaining subsequences.
 
 Each *B(k, n)* has length *k^n*.
 
@@ -17,9 +17,9 @@ Similarly, *B("abcd", 2)* (with alphabet "a", "b", "c", and "d") is therefore:
 
     aabacadbbcbdccdd
 
-For those sequences of length, every trigram (for the former case) or bigram (for the latter case) is represented in the result. 
+For those sequences of length, every trigram (for the former case) or bigram (for the latter case) is represented in the result.
 
-De Bruijn sequences have various applications, including in PIN pad testing and rotor angle calculation. 
+De Bruijn sequences have various applications, including in PIN pad testing and rotor angle calculation.
 
 # Input Description
 

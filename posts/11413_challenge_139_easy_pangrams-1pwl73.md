@@ -14,15 +14,17 @@ Your goal is to implement a program that takes a series of strings (one per line
     a: 1, b: 1, c: 1, d: 1, e: 3, f: 1, g: 1, h: 2, i: 1, j: 1, k: 1, l: 1, m: 1, n: 1, o: 4, p: 1, q: 1, r: 2, s: 1, t: 2, u: 2, v: 1, w: 1, x: 1, y: 1, z: 1
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
-On standard console input, you will be given a single integer on the first line of input. This integer represents the number of lines you will then receive, each being a string of alpha-numeric characters ('a'-'z', 'A'-'Z', '0'-'9') as well as spaces and [period](http://en.wikipedia.org/wiki/Period_(punctuation\)).
+On standard console input, you will be given a single integer on the first line of input. This integer represents the number of lines you will then receive, each being a string of alpha-numeric characters ('a'-'z', 'A'-'Z', '0'-'9') as well as spaces and [period](<http://en.wikipedia.org/wiki/Period_(punctuation\)>).
 
 ## Output Description
 
 For each line of input, print either "True" if the given line was a pangram, or "False" if not.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     3
@@ -36,4 +38,4 @@ For each line of input, print either "True" if the given line was a pangram, or 
     True
     False
 
-# Authors Note: [Horay, we're back with a queue of new challenges](http://i.imgur.com/chKCAPM.jpg)! Sorry fellow r/DailyProgrammers for the long time off, but we're back to business as usual.
+# Authors Note: [Horay, we're back with a queue of new challenges](http://i.imgur.com/chKCAPM.jpg)! Sorry fellow r/DailyProgrammers for the long time off, but we're back to business as usual

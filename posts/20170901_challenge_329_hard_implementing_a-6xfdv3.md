@@ -5,23 +5,23 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/6xfdv3/20170901_challeng
 
 # Description
 
-I'm sure many of you in web application development are familiar with templating engines. At some level you can think of it as a huge string interpolation exercise, but with much more: looping and conditionals, for instance. Template engines exist in a variety of languages and styles, and seem to appear like rafts of fire ants after a flood, mostly focusing on speed. 
+I'm sure many of you in web application development are familiar with templating engines. At some level you can think of it as a huge string interpolation exercise, but with much more: looping and conditionals, for instance. Template engines exist in a variety of languages and styles, and seem to appear like rafts of fire ants after a flood, mostly focusing on speed.
 
-Many immediately associate template engines with HTML output, but they can support any output, including text, configuration files (for instance Chef templates), and more. 
+Many immediately associate template engines with HTML output, but they can support any output, including text, configuration files (for instance Chef templates), and more.
 
 For today's challenge, let's implement a subset of the [Erb](https://docs.puppet.com/puppet/5.1/lang_template_erb.html) templating language:
 
 - `<% %>` - Denotes tag start and end.
 - `<%= EXPRESSION %>` — Inserts the value of an expression.
-- `<% CODE %>`— Executes code, but does not insert a value. This code may include loops and conditionals, and pair with an `<% end %>` tag. 
+- `<% CODE %>`— Executes code, but does not insert a value. This code may include loops and conditionals, and pair with an `<% end %>` tag.
 
-Everything else is output without modification. 
+Everything else is output without modification.
 
 (Please note that Erb uses Ruby, and I'm not a Ruby programmer so if I messed up some syntax please let me know. Thanks.)
 
 # Example Input
 
-You'll be given a simple template and a JSON data structure to use. 
+You'll be given a simple template and a JSON data structure to use.
 
 The JSON to use:
 

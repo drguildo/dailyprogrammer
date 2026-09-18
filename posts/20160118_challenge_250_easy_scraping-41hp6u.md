@@ -14,16 +14,13 @@ Normally when I create a challenge I don't mind how you format input and output,
 ---
 Our List of challenges consist of a 4-column table, showing the Easy, Intermediate and Hard challenges, as wel as an extra's.
 
-
 Easy | Intermediate | Hard | Weekly/Bonus
------|--------------|------|-------------
+----- | -------------- | ------ | -------------
 | []() | []() | []() | **-** |
 | [[2015-09-21] Challenge #233 [Easy] The house that ASCII built](/r/dailyprogrammer/comments/3ltee2/20150921_challenge_233_easy_the_house_that_ascii/) | []() | []() | **-** |
 | [[2015-09-14] Challenge #232 [Easy] Palindromes](/r/dailyprogrammer/comments/3kx6oh/20150914_challenge_232_easy_palindromes/) | [[2015-09-16] Challenge #232 [Intermediate] Where Should Grandma's House Go?](/r/dailyprogrammer/comments/3l61vx/20150916_challenge_232_intermediate_where_should/) | [[2015-09-18] Challenge #232 [Hard] Redistricting Voting Blocks](/r/dailyprogrammer/comments/3lf3i2/20150918_challenge_232_hard_redistricting_voting/) | **-** |
 
 The code code behind looks like this (minus the white line behind `Easy | Intermediate | Hard | Weekly/Bonus`):
-
-    
 
     Easy | Intermediate | Hard | Weekly/Bonus
 
@@ -31,7 +28,6 @@ The code code behind looks like this (minus the white line behind `Easy | Interm
     | []() | []() | []() | **-** |
     | [[2015-09-21] Challenge #233 [Easy] The house that ASCII built](/r/dailyprogrammer/comments/3ltee2/20150921_challenge_233_easy_the_house_that_ascii/) | []() | []() | **-** |
     | [[2015-09-14] Challenge #232 [Easy] Palindromes](/r/dailyprogrammer/comments/3kx6oh/20150914_challenge_232_easy_palindromes/) | [[2015-09-16] Challenge #232 [Intermediate] Where Should Grandma's House Go?](/r/dailyprogrammer/comments/3l61vx/20150916_challenge_232_intermediate_where_should/) | [[2015-09-18] Challenge #232 [Hard] Redistricting Voting Blocks](/r/dailyprogrammer/comments/3lf3i2/20150918_challenge_232_hard_redistricting_voting/) | **-** |
-
 
 **Input**
 
@@ -69,7 +65,6 @@ We want to be able to generate just a one or a few rows by giving the rownumber(
 *Output*
 
     | [[2015-09-07] Challenge #213 [Easy] Cellular Automata: Rule 90](/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/) | [[2015-09-09] Challenge #231 [Intermediate] Set Game Solver](/r/dailyprogrammer/comments/3ke4l6/20150909_challenge_231_intermediate_set_game/) | [[2015-09-11] Challenge #231 [Hard] Eight Husbands for Eight Sisters](/r/dailyprogrammer/comments/3kj1v9/20150911_challenge_231_hard_eight_husbands_for/) | **-** |
-
 
 *Input*
 

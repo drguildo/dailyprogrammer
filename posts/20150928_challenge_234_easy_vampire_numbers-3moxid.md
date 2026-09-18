@@ -3,15 +3,15 @@ title: "[2015-09-28] Challenge #234 [Easy] Vampire Numbers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3moxid/20150928_challenge_234_easy_vampire_numbers/"
 ---
 
-I see that no [Hard] challenge was posted last week, the moderator had some challenges with getting away. Hopefully an [Easy] challenge makes up for it. 
+I see that no [Hard] challenge was posted last week, the moderator had some challenges with getting away. Hopefully an [Easy] challenge makes up for it.
 
 # Description
 
-A vampire number *v* is a number *v=xy* with an even number *n* of digits formed by multiplying a pair of *n*/2-digit numbers (where the digits are taken from the original number in any order) *x* and *y* together. Pairs of trailing zeros are not allowed. If *v* is a vampire number, then *x* and *y* are called its "fangs." 
+A vampire number *v* is a number *v=xy* with an even number *n* of digits formed by multiplying a pair of *n*/2-digit numbers (where the digits are taken from the original number in any order) *x* and *y* together. Pairs of trailing zeros are not allowed. If *v* is a vampire number, then *x* and *y* are called its "fangs."
 
 **EDIT FOR CLARITY** Vampire numbers were original 2 two-digit number (fangs) that multiplied to form a four digit number. We can extend this concept to an arbitrary number of two digit numbers. For this challenge we'll work with three two-digit numbers (the fangs) to create six digit numbers with the same property - we conserve the digits we have on both sides of the equation.
 
-Additional information can be found here: http://www.primepuzzles.net/puzzles/puzz_199.htm
+Additional information can be found here: <http://www.primepuzzles.net/puzzles/puzz_199.htm>
 
 # Input Description
 
@@ -35,7 +35,7 @@ A list of all vampire numbers of *n* digits, you should emit the number and its 
 
     6 3
 
-# Challenge Input Solution 
+# Challenge Input Solution
 
     114390=41*31*90
     121695=21*61*95
@@ -55,4 +55,4 @@ A list of all vampire numbers of *n* digits, you should emit the number and its 
     479964=74*94*69
     498960=99*84*60
 
-**NOTE**: removed `139500=31*90*50` as an invalid solution - both 90 and 50 in zeros. Thanks to /u/mips32. 
+**NOTE**: removed `139500=31*90*50` as an invalid solution - both 90 and 50 in zeros. Thanks to /u/mips32.

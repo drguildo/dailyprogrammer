@@ -3,7 +3,7 @@ title: "[5/11/2012] Challenge #51 [intermediate]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/ti5ji/5112012_challenge_51_intermediate/"
 ---
 
-Brainfuck is an extremely minimalistic programming language. The memory consists of a large array of bytes, the "tape", 
+Brainfuck is an extremely minimalistic programming language. The memory consists of a large array of bytes, the "tape",
 which is manipulated by moving around a single tape pointer. The 8 commands are:
 
 Character|Action
@@ -19,12 +19,12 @@ Character|Action
 
 Any other character is ignored and treated as a comment
 
-`[ ... ]` thus make a kind of while loop, equivalent to something like "while(data[pointer] != 0) { ... }". 
-The brackets match like parentheses usually do, each starting one has a matching ending one. These loops can be nested inside other loops. 
+`[ ... ]` thus make a kind of while loop, equivalent to something like "while(data[pointer] != 0) { ... }".
+The brackets match like parentheses usually do, each starting one has a matching ending one. These loops can be nested inside other loops.
 
 Write a program that reads a brainfuck program and its input, interprets the code, and returns the output.
 
-More information, including a "Hello World" program, can be found [on wikipedia](http://en.wikipedia.org/wiki/Brainfuck). 
+More information, including a "Hello World" program, can be found [on wikipedia](http://en.wikipedia.org/wiki/Brainfuck).
 
 If you've written your program successfully, try running this and see what pops out:
 

@@ -3,7 +3,7 @@ title: "[Weekly #11] Challenges you want"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ggunp/weekly_11_challenges_you_want/"
 ---
 
-#Weekly 11:
+# Weekly 11
 
 This topic is about what challenges you are seeking.
 
@@ -14,6 +14,6 @@ More or less what do you want to see. The mods read this and so this is your cha
 
 thanks!
 
-#Last weeks:
+# Last weeks
 
-[Weekly 10] (http://www.reddit.com/r/dailyprogrammer/comments/2fxtl4/weekly_10_the_future/)
+[Weekly 10] (<http://www.reddit.com/r/dailyprogrammer/comments/2fxtl4/weekly_10_the_future/>)

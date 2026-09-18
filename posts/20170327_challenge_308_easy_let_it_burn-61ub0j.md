@@ -3,17 +3,17 @@ title: "[2017-03-27] Challenge #308 [Easy] Let it burn"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/61ub0j/20170327_challenge_308_easy_let_it_burn/"
 ---
 
-#Description
+# Description
 
 This week all challenges will be inspired by the game [Flash Point](https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue)
 
-The game is a fun cooperative game, where a bunch of fire(wo)men try to rescue victims in a burning building. 
+The game is a fun cooperative game, where a bunch of fire(wo)men try to rescue victims in a burning building.
 
 Each round the fire is spreading, and it is this mechanic that we are going to implement.
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You recieve a floorplan of the building with the current situation on it. The floorplan is a grid and all tiles are connected vertically and horizontally. There is never ever a diagonally interaction.
 
@@ -46,7 +46,6 @@ Additional rules:
 - Fire and smoke: When smoke is next to a fire itself turns into a fire
 - Doors and broken walls: doors and broken walls (or broken doors) connect to spaces. This means that if smoke is at one side and fire at the other the smoke turns into fire
 
-
 Small house:
 
     #############/#
@@ -56,7 +55,6 @@ Small house:
     #######       #
     #     _       #
     ###############
-
 
 Small house Input
 
@@ -73,11 +71,9 @@ Small house Input
     5 7
     2 2
 
-
-##Output description
+## Output description
 
 Show the final Output
-
 
     #############/#
     #F    |  S    #
@@ -87,10 +83,9 @@ Show the final Output
     #    F_F      #
     ###############
 
+# Bonus
 
-#Bonus
-
-##Explosions
+## Explosions
 
 When smoke is ~~set~~ applied to fire, an explosion happens.
 
@@ -105,7 +100,6 @@ To solve an explosion you need to look at the adjective tiles of where the explo
     _ -> Explosion passes trough and traverse in the same direction
       -> The spot is set on fire and becomes F
 
-
 Additional input for explosion, using the outcome of the small house
 
     1 7
@@ -113,7 +107,6 @@ Additional input for explosion, using the outcome of the small house
     1 9
     1 10
     1 8
-
 
 Output:
 
@@ -124,7 +117,6 @@ Output:
     #######       #
     #    F_F      #
     ###############
-
 
 ## Board game coordinates
 
@@ -144,7 +136,6 @@ The board game does not use the 'structural' tiles but only the open tiles. The 
     (1,2) and (1,3) are connected by a wall 
     (3,3) and (4,3) are connected by a broken wall/door
 
-
 Work out these Inputs
 
     1 1
@@ -156,8 +147,7 @@ Work out these Inputs
     2 3
     2 1 
 
-
-Output: 
+Output:
 
        1 2 3 4 5 6 7
       ###=#=#######/#
@@ -172,12 +162,11 @@ Output:
 
 You can animate this, or do something else fun. Amuse me `:)`
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 
 Consider submitting it to /r/dailyprogrammer_ideas
-
 
 # Some feedback notes
 
@@ -194,4 +183,3 @@ No it doesn't. I should have made that more clear
 > Smoke adjacent to fire turns to fire, but how is this applied? Does it only update once per turn, much like Conway's Game of Life, or does it automatically update and continue to transform all adjacent smoke until there is no more left?
 
 All smoke adjective to fire is turned in the same turn, so it is possible to set a long corridor at fire at once if it is in smoke
-

@@ -4,6 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4cw095/20160401_challeng
 ---
 
 # Description
+
 Sleether Yn is a neverending snake, and like all neverending snakes, she loves drinking neverending soda and eating baloney. She also hates walking (err, creeping) -- which probably has to do with the fact that her body **grows whenever she moves**. Your goal is give Yn instructions to **eat all the food** on the map, while **moving as little as possible**. On map 1, for instance, you could just tell her: "**r2d2**", for "move right twice and down twice" (she can't move diagonally). You might also say "rrdd", if you prefer.
 
     +- map 1 --+
@@ -33,6 +34,7 @@ But as if Yn didn't have enough problems already, she still has to worry about t
 So let's recap: you can tell Sleether ("s") to go up ("u"), down ("d"), left ("l") or right ("r"). On each map, she must eat (go over) all baloney sandwiches ("\*"), while **avoiding her own trail** (including the initial square) and the neverending pits ("O").
 
 # Input &amp; Output
+
 **Input**: a map, like the ones described above; you can ignore the first and last lines (those with "+"s), and parse only the characters between the pipes ("|").
 
 **Output**: a string with commands to solve the map.
@@ -55,6 +57,7 @@ Can you make a solver that finds instructions for maps 1 to 16?
     +----------+----------+-----------+------------+------------+--------------+
 
 # Notes
+
 Also please share interesting maps you come up with, especially ones that your own solver cannot work around!
 
 If you're stuck, [this](https://en.wikipedia.org/wiki/Maze_solving_algorithm) might help. If not, it's an interesting read anyway.

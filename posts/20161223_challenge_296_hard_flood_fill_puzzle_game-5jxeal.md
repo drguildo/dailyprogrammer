@@ -103,7 +103,7 @@ Accept an arbitrary NxN grid with values between 1 and 9.
     6 3 4 1 4 9
     3 6 3 4 4 4
 
-#Finally
+# Finally
 
 Have a good challenge idea like /u/skeeto did?
 

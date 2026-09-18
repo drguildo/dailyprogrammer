@@ -21,7 +21,7 @@ Two strings, one containing only non-vowel letters, and one containing only vowe
 
 ## Output description
 
-A space-separated series of words that could be disemvoweled into the input, each word of which must appear in your word list. 
+A space-separated series of words that could be disemvoweled into the input, each word of which must appear in your word list.
 
 # Sample Inputs & Outputs
 

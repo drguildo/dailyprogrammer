@@ -9,7 +9,7 @@ A word square is a type of acrostic, a word puzzle. In a word square you are giv
 
 One variant is where you're given an n*n grid and asked to place a set of letters inside to meet these rules. That's today's challenge: given the grid dimensions and a list of letters, can you produce a valid word square.
 
-Via /u/Godspiral: http://norvig.com/ngrams/enable1.txt (an English-language dictionary you may wish to use)
+Via /u/Godspiral: <http://norvig.com/ngrams/enable1.txt> (an English-language dictionary you may wish to use)
 
 # Input Description
 

@@ -50,13 +50,14 @@ A syzygy should be when the objects are within 1 degree of each other in the sky
 An example 4-syzygy occurs at 3.30085 years, where Mercury, Earth, Mars and Jupiter line up. [A visual example of this is here](http://i.imgur.com/gkD863d.png). Some more syzygy occurrences are:
 
 | Time (Earth year) | Syzygy |
-|-:|:-|
+| -: | :- |
 | 3.30085 | Mercury-Earth-Mars-Jupiter |
 | 9.12162 | Sun-Mercury-Mars, Mercury-Venus-Saturn |
 | 18.0852 | Sun-Mars-Saturn, Mercury-Earth-Saturn-Neptune |
 | 31.0531 | Sun-Earth-Saturn, Venus-Earth-Mars |
 | 40.2048 | Sun-Venus-Mars, Mercury-Mars-Saturn, Earth-Mars-Uranus |
 | 66.2900 | Sun-Venus-Earth-Uranus |
+
 # Extension
 
 If your programming language supports it, draw a view of the Solar system at the given time, to show the objects in syzygy (like the image above.)

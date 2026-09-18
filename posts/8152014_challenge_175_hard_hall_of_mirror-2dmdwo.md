@@ -9,7 +9,7 @@ Today we're going to embark on some advanced geometry. You'll want to freshen up
 
 We're going to be simulating the path of a light ray in 2D space through a hall of mirrors - a mirror being a plane of finite length that, upon the light ray hitting it, will reflect the light ray with the same angle of incidence like [this image here](http://i.imgur.com/NcJrpRT.png). The mirrors are double-sided and have zero thickness.
 
-You will be given a set of mirrors, defined by a start and end point, and a light ray, represented by a starting position, a starting vector (that may or may not be normalized) and a distance. You will have to simulate the light ray travelling for the given distance accounting for any reflections on the mirrors, assuming Euclidan geometry and *no* fancy stuff like refraction, special relativity or similar.
+You will be given a set of mirrors, defined by a start and end point, and a light ray, represented by a starting position, a starting vector (that may or may not be normalized) and a distance. You will have to simulate the light ray travelling for the given distance accounting for any reflections on the mirrors, assuming Euclidan geometry and _no_ fancy stuff like refraction, special relativity or similar.
 
 # Formal Inputs and Outputs
 

@@ -11,11 +11,10 @@ Players at start are given 14 random tiles. The main goal of the game is playout
 
 You either play your tiles on the field in *Groups* or *Runs*. All sets on the field need to consist of at least 3 tiles.
 
- - *Groups* are tiles consiting of the same number and having different colors. The biggest *group* you can make is one of 4 tiles (1 each color).
- - *Runs* are tiles of the same color numbered in consecutive number order. You can't have a gap between 2 numbers (if this is the case and both sets have 3 or more tiles it is considered 2 runs)
+- *Groups* are tiles consiting of the same number and having different colors. The biggest *group* you can make is one of 4 tiles (1 each color).
+- *Runs* are tiles of the same color numbered in consecutive number order. You can't have a gap between 2 numbers (if this is the case and both sets have 3 or more tiles it is considered 2 runs)
 
-This challenge is a bit more lengthy, so I'll split it into 2 parts. 
-
+This challenge is a bit more lengthy, so I'll split it into 2 parts.
 
 **Part I: Starting off**
 
@@ -44,7 +43,6 @@ For the first part of the challenge you need to search the set tiles and look fo
 
     B5 B6 B7 B8
     Y2 P2 R2
-
 
 *Input*
 

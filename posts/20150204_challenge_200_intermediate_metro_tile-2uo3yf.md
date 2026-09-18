@@ -225,7 +225,7 @@ You are to print the location (with `(0, 0)` being the top-left), width, height 
     22×7 tile of character 'i' located at (51,22)
     13×20 tile of character 'j' located at (60,1)
 
-# Finally...
+# Finally
 
 Got a good idea for a challenge? Head on over to /r/DailyProgrammer_Ideas, write it out, and we might post it on this subreddit!
 

@@ -3,7 +3,7 @@ title: "[6/20/2012] Challenge #67 [difficult]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/vbr56/6202012_challenge_67_difficult/"
 ---
 
-Let the s(N) be a random number generator defined as follows (at this point, this should probably be anointed the Offical Random Number Generator of /r/dailyprogrammer): 
+Let the s(N) be a random number generator defined as follows (at this point, this should probably be anointed the Offical Random Number Generator of /r/dailyprogrammer):
 
     s(0) = 123456789
     s(N) = (22695477 * s(N-1) + 12345) mod 1073741824

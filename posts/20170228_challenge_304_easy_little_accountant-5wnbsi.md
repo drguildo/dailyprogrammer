@@ -3,13 +3,16 @@ title: "[2017-02-28] Challenge #304 [Easy] Little Accountant"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5wnbsi/20170228_challenge_304_easy_little_accountant/"
 ---
 
-#Description
+# Description
 
 Your task is to design a program to help an accountant to get balances from accounting journals.
 
-#Formal Inputs & Outputs
-##Input files
-###Journal
+# Formal Inputs & Outputs
+
+## Input files
+
+### Journal
+
 The first input is accounting journals
 
     ACCOUNT;PERIOD;DEBIT;CREDIT;
@@ -46,7 +49,7 @@ The first input is accounting journals
     5500;JUL-16;3470;0;
     1000;JUL-16;0;3470;
 
-###Chart of accounts
+### Chart of accounts
 
     ACCOUNT;LABEL;
     1000;Cash;
@@ -66,15 +69,15 @@ The first input is accounting journals
     7160;Telephone;
     9090;Dividends;
 
-##User input
+## User input
+
 User input has the following form
 
 AAAA BBBB CCC-XX DDD-XX EEE
 
-AAA is the starting account (* means first account of source file), BBB is the ending account(* means last account of source file), CCC-YY is the first period (* means first period of source file), DDD-YY is the last period (* means last period of source file), EEE is output format (values can be TEXT or CSV).
+AAA is the starting account (*means first account of source file), BBB is the ending account(* means last account of source file), CCC-YY is the first period (*means first period of source file), DDD-YY is the last period (* means last period of source file), EEE is output format (values can be TEXT or CSV).
 
-
-###Examples of user inputs
+### Examples of user inputs
 
     12 5000 MAR-16 JUL-16 TEXT
 
@@ -84,8 +87,7 @@ This user request must output all accounts from acounts starting with "12" to ac
 
 This user request must output all accounts from accounts starting wiht "2" to last account from source file, from first periof of file to MAY-16. Output should be formatted as CSV.
 
-
-##Outputs
+## Outputs
 
 **Challenge Input 1**
 
@@ -105,9 +107,8 @@ This user request must output all accounts from accounts starting wiht "2" to la
     2000            |Notes Payables  |               0|           20000|          -20000|
     TOTAL           |                |          197600|          116000|           81600|
 
-
 **Challenge Input 2**
-    
+
     40 * MAR-16 * CSV
 
 **Challenge Output 2**
@@ -127,17 +128,17 @@ This user request must output all accounts from accounts starting wiht "2" to la
     7160;Telephone;2470;0;2470;
     TOTAL;;49140;86600;-37460;
 
-#Notes/Hints
+# Notes/Hints
 
-##Controls
+## Controls
 
 Before calcultating any balance, the program must check that the input journal file is balanced (total debit = total credit).
 
-##Accountancy reminder
+## Accountancy reminder
 
 In accountancy: balance = debit - credit.
 
-#Finally
+# Finally
 
 Have a good challenge idea, like /u/urbainvi did?
 

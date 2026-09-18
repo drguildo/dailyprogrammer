@@ -3,12 +3,12 @@ title: "[2016-10-27] Challenge #289 [Intermediate] Metro trip planner"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/59mnxa/20161027_challenge_289_intermediate_metro_trip/"
 ---
 
-#Description
+# Description
 
 The prupose of this challenge is to help user to find the quickest way to go from a metro station to another.
-The metro map is the following: http://imgur.com/9K060Fr (blacks numbers are the time between stations)
+The metro map is the following: <http://imgur.com/9K060Fr> (blacks numbers are the time between stations)
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
 ## Metro map input description
 
@@ -44,7 +44,6 @@ As an input you will use the following table wich provide connexions between sta
     M, YELLOW, M, BLUE, 1
     N, VIOLET, N, BLUE, 2
 
-
 Lines with the pattern **X, COLOR1, Y, COLOR1, Z** mean that with the COLOR1 metro line you can go from station X to station Y in Z minutes.
 Lines with the pattern **X, COLOR1, X, COLOR2, Z** mean than to change from line COLOR1 to line COLOR2 in station X, it takes Z minutes.
 
@@ -67,7 +66,7 @@ All options given that you can only have 1 change of line.
     Option 5  : At A, take YELLOW line, change at M and take GREEN line exit at B
     ...
 
-## Challenges 
+## Challenges
 
 ### Input 1
 
@@ -78,7 +77,6 @@ All options given that you can only have 1 change of line.
 
     Option 0 : At M, take BLUE line, change at N and take VIOLET line exit at Z
 
-
 ### input 2
 
     Z
@@ -88,11 +86,11 @@ All options given that you can only have 1 change of line.
 
     No options found to go from Z to B with maximum one change
 
-#Bonus
+# Bonus
 
 Add direction and duration to the discription
 
-## Input 
+## Input
 
     A
     Z
@@ -107,7 +105,7 @@ Add direction and duration to the discription
     Option 5 (31.5mn) : At A, take YELLOW line in direction of M, change at M and take GREEN line in direction of A exit at B
     ...
 
-#Finally
+# Finally
 
 Have a good challenge idea like /u/urbainvi did?
 

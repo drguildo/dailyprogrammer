@@ -13,9 +13,9 @@ Let the user enter a number.
 
 # Output description
 
-Note the proper spacing in the below example. You'll need to know the number of digits in the biggest number. 
+Note the proper spacing in the below example. You'll need to know the number of digits in the biggest number.
 
-You may go for a CLI version or GUI version. 
+You may go for a CLI version or GUI version.
 
 # Challenge Input
 

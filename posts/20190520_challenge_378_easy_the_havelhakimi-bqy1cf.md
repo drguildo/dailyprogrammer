@@ -15,7 +15,7 @@ Your challenge for today is, given a sequence of answers to the question "how ma
 
 If you're feeling up to it, skip ahead to the Challenge section below. Otherwise, try as many of the optional warmup questions as you want first, before attempting the full challenge.
 
-# Optional Warmup 1: eliminating 0's.
+# Optional Warmup 1: eliminating 0's
 
 Given a sequence of answers, return the same set of answers with all the 0's removed.
 

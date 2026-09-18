@@ -3,7 +3,7 @@ title: "[2015-05-22] Challenge #215 [Hard] Metaprogramming Madness!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/36vuzm/20150522_challenge_215_hard_metaprogramming/"
 ---
 
-#Description
+# Description
 
 You're working in the devils language. Looser than PHP, more forgiving than Javascript, and more infuriating than LOLCODE.
 
@@ -16,7 +16,7 @@ Metaprogramming ain't easy but you're not phased, you're a programmer armed with
 
 ...Oh did I mention you're on an island? Yeah there's that too...
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
 Given a programming language, output its corresponding truth table. Only the most basic of types need to be included (If you're in a language that doesn't have any of these types, ignore them).
 
@@ -27,19 +27,18 @@ Given a programming language, output its corresponding truth table. Only the mos
 * Array
 * Boolean
 
-
-##Input description
+## Input description
 
 N/A
 
-##Output description
+## Output description
 
 A truth table for the language that you're programming in.
 
 e.g.
 
 Expression | Bool
-----------|----
+---------- | ----
 "Hello World!" | True
 '' | False
 '0' | True
@@ -51,8 +50,7 @@ Expression | Bool
 True | True
 False | False
 
-
-#Finally
+# Finally
 
 Have a good challenge idea?
 

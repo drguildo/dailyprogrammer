@@ -39,11 +39,9 @@ Be aware that even for relatively small orders, brute force programs will take a
 
 Your program should be able to handle N &lt;= 101.
 
-
 **Input description**
 
 You will be given a card set order N &gt; 1.
-
 
 **Output description**
 
@@ -59,16 +57,13 @@ Example for N=2
     2 4 7
     5 6 7
 
-
 **Bonus 1**
 
 Check the validity of your output against the five rules listed above.
 
-
 **Bonus 2**
 
 Replace numbered symbols by a list of words of your choice, or even pictures !
-
 
 **Have a good challenge idea?**
 

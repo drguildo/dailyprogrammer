@@ -3,24 +3,24 @@ title: "[2016-03-30] Challenge #260 [Intermediate] Diagonal collision"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4cktc3/20160330_challenge_260_intermediate_diagonal/"
 ---
 
-#Description
+# Description
 
 You have one rectangle composed of X*Y squares, with X being the width and Y being the height. You want to know how many squares you are going to collide if you were to draw a diagonal, meaning a line between the bottom-left edge and the top-right edge.
 
-#Input Description
+# Input Description
 
 2 unsigned integers X and Y
 
-#Output Description
+# Output Description
 
 Number of squares that collide with the diagonal.
 
-#Sample Inputs
+# Sample Inputs
 
 Sample Input 1 : 5 2
 Sample Input 2 : 3 9
 
-#Sample Outputs
+# Sample Outputs
 
 For this first case, the squares marked as X would collide with the diagonal :
 
@@ -29,7 +29,7 @@ For this first case, the squares marked as X would collide with the diagonal :
 
 meaning the Sample Output 1 is 6
 
-Sample Output 2 : 9 
+Sample Output 2 : 9
 
 # Challenge Input
 
@@ -48,4 +48,4 @@ For small numbers, you can output on the standard output which squares would col
     
 # Credit
 
-This challenge was suggested by /u/Cobrand. Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas. 
+This challenge was suggested by /u/Cobrand. Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas.

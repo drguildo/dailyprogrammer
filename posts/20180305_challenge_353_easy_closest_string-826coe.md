@@ -7,7 +7,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challeng
 
 In theoretical computer science, the closest string is an NP-hard computational problem, which tries to find the geometrical center of a set of input strings. To understand the word "center", it is necessary to define a distance between two strings. Usually, this problem is studied with the Hamming distance in mind. This center must be one of the input strings.
 
-In bioinformatics, the closest string problem is an intensively studied facet of the problem of finding signals in DNA. In keeping with the bioinformatics utility, we'll use DNA sequences as examples. 
+In bioinformatics, the closest string problem is an intensively studied facet of the problem of finding signals in DNA. In keeping with the bioinformatics utility, we'll use DNA sequences as examples.
 
 Consider the following DNA sequences:
 
@@ -18,7 +18,7 @@ Consider the following DNA sequences:
     TCCCATCCTTT
     ACTTCAATATA
 
-Using the Hamming distance (the number of different characters between two sequences of the same length), the all-pairs distances of the above 6 sequences puts `ATTAAATAACT` at the center. 
+Using the Hamming distance (the number of different characters between two sequences of the same length), the all-pairs distances of the above 6 sequences puts `ATTAAATAACT` at the center.
 
 # Input Description
 
@@ -84,4 +84,4 @@ Your program should emit the string from the input that's closest to all of them
 
 # Bonus
 
-Try this with various other [algorithms to measuring string similarity](https://en.wikipedia.org/wiki/String_metric), not just the Hamming distance. 
+Try this with various other [algorithms to measuring string similarity](https://en.wikipedia.org/wiki/String_metric), not just the Hamming distance.

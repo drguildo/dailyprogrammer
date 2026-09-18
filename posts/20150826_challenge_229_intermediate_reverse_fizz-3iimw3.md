@@ -35,45 +35,45 @@ Since this is Intermediate, it's okay to use brute force. As long as you can sol
 
 ## Example Input 1
 
-	a
-	b
-	a
-	a
-	b
-	a
+    a
+    b
+    a
+    a
+    b
+    a
 
 ## Example Output 1
 
-	3 5
+    3 5
 
 ## Example Input 2
 
-	b
-	be
-	ab
-	be
-	b
-	abe
-	b
+    b
+    be
+    ab
+    be
+    b
+    abe
+    b
 
 ## Example Output 2
 
-	3 1 8 8 2
+    3 1 8 8 2
 
 (Note that in this case, you can infer that there must be at least 5 numbers in the solution, because of the presence of the letter `e`, even though `c` and `d` don't appear. The numbers corresponding to `c` and `d` must be high enough for them not to have appeared yet.)
 
 ## Example Input 3
 
-	a
-	b
-	c
-	d
-	a
-	ab
+    a
+    b
+    c
+    d
+    a
+    ab
 
 ## Example Output 3
 
-	6 9 10 11
+    6 9 10 11
 
 # Optional challenge input
 

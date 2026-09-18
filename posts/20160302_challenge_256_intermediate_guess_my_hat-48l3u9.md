@@ -3,7 +3,7 @@ title: "[2016-03-02] Challenge #256 [Intermediate] Guess my hat color"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/48l3u9/20160302_challenge_256_intermediate_guess_my_hat/"
 ---
 
-#Description
+# Description
 
 You are the game master of the game "Guess my hat color".
 
@@ -18,16 +18,16 @@ The group wins from the gamemaster if they can win by making only 1 mistake.
 
 The challenge today is to write the logic to make the guess.
 
-The person guessing can only see the persons in front of them (and their hats) and can hear the guesses from the persons behind them. 
+The person guessing can only see the persons in front of them (and their hats) and can hear the guesses from the persons behind them.
 They can **NEVER** look behind them or look at their own hat.
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You get the list of hat colors starting with the person in the back and going to the front
 
-###Input 1 - 10 hats
+### Input 1 - 10 hats
 
     Black
     White
@@ -40,7 +40,7 @@ You get the list of hat colors starting with the person in the back and going to
     White
     White
 
-###Input 2 - 11 hats
+### Input 2 - 11 hats
 
     Black
     Black
@@ -54,7 +54,7 @@ You get the list of hat colors starting with the person in the back and going to
     White
     White
 
-###Input 3 - 10 hats
+### Input 3 - 10 hats
 
     Black
     Black
@@ -67,17 +67,17 @@ You get the list of hat colors starting with the person in the back and going to
     Black
     White
 
-##Output description
+## Output description
 
 You have to show the guesses of the persons and whether they passed the challenge (they should if your logic is correct).
 
-#Notes/Hints
+# Notes/Hints
 
 Obviously if you return at random `Black` or `White` this won't work. The person units will have to work togheter to get a result with maximum 1 mistake.
 
 There is no fixed ratio, neither do the participants know what the ratio is.
 
-#An example for the layout
+# An example for the layout
 
 You have 4 people with lined up like this:
 
@@ -93,12 +93,12 @@ The second one sees:
 
 And so on...
 
-#Bonus
+# Bonus
 
-[Here you have a large set (10000 hats)](https://gist.github.com/fvandepitte/8ab2e2ab0e42e3d4c731). 
+[Here you have a large set (10000 hats)](https://gist.github.com/fvandepitte/8ab2e2ab0e42e3d4c731).
 Make sure your program can handle this.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

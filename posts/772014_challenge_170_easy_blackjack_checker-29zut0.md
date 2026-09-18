@@ -20,7 +20,7 @@ The person with the highest valued hand wins, with one exception - if a person h
 If the value of your hand is worth over 21, you are 'bust', and automatically lose.
 
 Your challenge is, given a set of players and their hands, print who wins (or if it is a tie game.)
-    
+
 ## Input Description
 
 First you will be given a number, **N**. This is the number of players in the game.
@@ -30,7 +30,7 @@ Next, you will be given a further **N** lines of input. Each line contains the n
     Bill: Ace of Diamonds, Four of Hearts, Six of Clubs
 
 Would have a value of 21 (or 11 if you wanted, as the Ace could be 1 or 11.)
-    
+
 ## Output Description
 
 Print the winning player. If two or more players won, print "Tie".

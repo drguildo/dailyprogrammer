@@ -119,9 +119,9 @@ could do all sorts of nasty things. This includes sending the `QUIT` message whi
 spam people potentially getting it banned. If your bot is registered to an account, someone could use this technique to
 delete the account, or reset the password.
 
-To verify your code is joining channels and chatting correctly, I suggest joining the channel(s) in advance using an IRC client, such as the web based http://webchat.freenode.net/.
+To verify your code is joining channels and chatting correctly, I suggest joining the channel(s) in advance using an IRC client, such as the web based <http://webchat.freenode.net/>.
 
-You can see the full original IRC specification at https://tools.ietf.org/html/rfc1459. See also, http://ircdocs.horse/specs/.
+You can see the full original IRC specification at <https://tools.ietf.org/html/rfc1459>. See also, <http://ircdocs.horse/specs/>.
 
 [A Regular Expression For IRC Messages](https://mybuddymichael.com/writings/a-regular-expression-for-irc-messages.html)
 

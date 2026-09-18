@@ -3,7 +3,7 @@ title: "[2015-10-21] Challenge #237 [Intermediate] Heighmap of Boxes"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3pnd3t/20151021_challenge_237_intermediate_heighmap_of/"
 ---
 
-#Description
+# Description
 
 Have a look at this ASCII art diagram of various boxes:
 
@@ -45,11 +45,11 @@ The diagram also shows boxes inside other boxes. We'll call the number of boxes 
 
 Your program will take in a box diagram similar to the one at the top as input. As output, your program should output the box diagram with:
 
- * Boxes on layer 0 should be filled with the character `#`;
- * Boxes on layer 1 should be filled with the character `=`;
- * Boxes on layer 2 should be filled with the character `-`;
- * Boxes on layer 3 should be filled with the character `.`;
- * Boxes on layer 4 and above should not be filled.
+* Boxes on layer 0 should be filled with the character `#`;
+* Boxes on layer 1 should be filled with the character `=`;
+* Boxes on layer 2 should be filled with the character `-`;
+* Boxes on layer 3 should be filled with the character `.`;
+* Boxes on layer 4 and above should not be filled.
 
 Here is what the output of the above input should look like:
 
@@ -69,19 +69,19 @@ Here is what the output of the above input should look like:
     |##############################################################|
     +--------------------------------------------------------------+
 
-#Formal Inputs and Outputs
+# Formal Inputs and Outputs
 
-##Input
+## Input
 
 Input shall begin with two space separated integers `N` and `M` on the first line. Following that will be `N` lines with `M` characters (including spaces) each which represent the ASCII art diagram.
 
-##Output
+## Output
 
 Output the map with the boxes of different layers filled in with their appropriate characters.
 
-#Sample Inputs and Outputs
+# Sample Inputs and Outputs
 
-##Sample Input
+## Sample Input
 
     20 73
     +-----------------------------------------------------------------------+
@@ -105,7 +105,7 @@ Output the map with the boxes of different layers filled in with their appropria
     |                                                                       |
     +-----------------------------------------------------------------------+
 
-##Sample Output
+## Sample Output
 
     +-----------------------------------------------------------------------+
     |#####+--------------------------------------------------------------+##|
@@ -127,6 +127,7 @@ Output the map with the boxes of different layers filled in with their appropria
     |#######################################################################|
     |#######################################################################|
     +-----------------------------------------------------------------------+
+
 # Credit
 
 This challenge was suggested by /u/katyai. If you have any challenge ideas please share them on /r/dailyprogrammer_ideas and there's a good chance we'll use them!

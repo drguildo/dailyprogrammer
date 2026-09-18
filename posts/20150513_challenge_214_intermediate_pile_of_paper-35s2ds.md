@@ -77,13 +77,13 @@ example, this would be:
 
 -------------------
 
-# Sample Input:
+# Sample Input
 
     20 10
     1 5 5 10 3
     2 0 0 7 7
 
-# Sample Output:
+# Sample Output
 
     0 125
     1 26
@@ -91,7 +91,7 @@ example, this would be:
 
 # Challenge Input
 
-Redditor /u/Blackshell has a bunch of inputs of varying sizes from 100 up to 10000 rectangles up here, with solutions: https://github.com/fsufitch/dailyprogrammer/tree/master/ideas/pile_of_paper 
+Redditor /u/Blackshell has a bunch of inputs of varying sizes from 100 up to 10000 rectangles up here, with solutions: <https://github.com/fsufitch/dailyprogrammer/tree/master/ideas/pile_of_paper>
 
 # Credit
 

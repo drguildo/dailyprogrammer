@@ -27,16 +27,16 @@ Your program should emit some indication if the sequence is a jolly jumper or no
 
 # Challenge Input
 
-	4 1 4 2 3
-	5 1 4 2 -1 6
-	4 19 22 24 21
-	4 19 22 24 25
-	4 2 -1 0 2
+    4 1 4 2 3
+    5 1 4 2 -1 6
+    4 19 22 24 21
+    4 19 22 24 25
+    4 2 -1 0 2
 
 # Challenge Output
 
-	4 1 4 2 3 JOLLY
-	5 1 4 2 -1 6 NOT JOLLY
-	4 19 22 24 21 NOT JOLLY
-	4 19 22 24 25 JOLLY
-	4 2 -1 0 2 JOLLY
+    4 1 4 2 3 JOLLY
+    5 1 4 2 -1 6 NOT JOLLY
+    4 19 22 24 21 NOT JOLLY
+    4 19 22 24 25 JOLLY
+    4 2 -1 0 2 JOLLY

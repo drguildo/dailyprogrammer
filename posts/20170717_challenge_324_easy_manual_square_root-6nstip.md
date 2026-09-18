@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/6nstip/20170717_challeng
 
 Write a program that outputs the highest number that is lower or equal than the square root of the given number, with the given number of decimal fraction digits.
 
-Use this technique, (do not use your language's built in square root function): https://medium.com/i-math/how-to-find-square-roots-by-hand-f3f7cadf94bb
+Use this technique, (do not use your language's built in square root function): <https://medium.com/i-math/how-to-find-square-roots-by-hand-f3f7cadf94bb>
 
 **input format: 2 numbers:**  precision-digits Number
 

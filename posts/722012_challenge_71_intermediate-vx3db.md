@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/vx3db/722012_challenge_7
 
 Before I get to today's problem, I'd just like to give a warm welcome to our two new moderators, [nooodl](http://www.reddit.com/user/nooodl) and [Steve132](http://www.reddit.com/user/Steve132)! We decided to appoint two new moderators instead of just one, because rya11111 has decided to a bit of a break for a while.
 
-I'd like to thank everyone who applied to be moderators, there were lots of excellent submissions, we will keep you in mind for the next time. Both nooodl and Steve132 have contributed some excellent problems and solutions, and I have no doubt that they will be excellent moderators. 
+I'd like to thank everyone who applied to be moderators, there were lots of excellent submissions, we will keep you in mind for the next time. Both nooodl and Steve132 have contributed some excellent problems and solutions, and I have no doubt that they will be excellent moderators.
 
 Now, to today's problem! Good luck!
 
@@ -29,11 +29,10 @@ Continuing the pattern, there are also tetranacci sequence (which sums the four 
     
 These sequences are usually referred to as "higher order Fibonacci sequences". Note that if the order of the sequence is K (i.e. when K = 2 you get the standard Fibonacci numbers, and when K = 3, you get the tribonacci numbers), then the sequence starts out with K - 1 zeroes and then one 1.
 
-Your task is to implement a function f(K, N) which returns the N^th fibonacci number of the order K. That is, f(2, N) would return values in the regular Fibonacci sequence, f(3, N) returns values in the tribonacci sequence, and so on. 
+Your task is to implement a function f(K, N) which returns the N^th fibonacci number of the order K. That is, f(2, N) would return values in the regular Fibonacci sequence, f(3, N) returns values in the tribonacci sequence, and so on.
 
 What is f(100, 10000) mod 10^8 ?
 
 Bonus: What is f( 3^13 , 5^10 ) mod 10^8 ?
-
 
 * Thanks to [JacqueItch](http://www.reddit.com/user/JacqueItch) for suggesting this problem at /r/dailyprogrammer_ideas! If you have a problem you think would be good for us, why not head over there and post it?

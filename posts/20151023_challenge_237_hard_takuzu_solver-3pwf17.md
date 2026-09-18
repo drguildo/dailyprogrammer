@@ -13,7 +13,6 @@ Takuzu is a simple and fairly unknown logic game similar to Sudoku. The objectiv
 
 To get a better hang of the rules you can play an online version of this game (which inspired this challenge) [here](http://0hh1.com/).
 
-
 # Input Description
 
 You'll be given a square grid representing the game board. Some cells have already been filled; the remaining ones are represented by a dot. Example:
@@ -22,7 +21,6 @@ You'll be given a square grid representing the game board. Some cells have alrea
     0.0.
     ..0.
     ...1
-
 
 # Output Description
 

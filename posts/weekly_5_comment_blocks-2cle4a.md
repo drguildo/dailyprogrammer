@@ -3,10 +3,9 @@ title: "[Weekly #5] Comment Blocks"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2cle4a/weekly_5_comment_blocks/"
 ---
 
-#Description:
+# Description
 
 We all have our own ways of commenting methods/functions. I always found it brings out the ASCII artist in all of us. So post your favorite Comment blocks.
-
 
 For example I am pretty boring. I go for the asterix pac-man
 
@@ -19,5 +18,6 @@ For example I am pretty boring. I go for the asterix pac-man
       * description: (what it does)
       **************************************************/
 
-#Last Weeks Topic:
-[Weekly #4] (http://www.reddit.com/r/dailyprogrammer/comments/2byh4e/weekly_4_variable_names/)
+# Last Weeks Topic
+
+[Weekly #4] (<http://www.reddit.com/r/dailyprogrammer/comments/2byh4e/weekly_4_variable_names/>)

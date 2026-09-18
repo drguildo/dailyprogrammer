@@ -20,6 +20,7 @@ Note that Colomb's Law uses a constant, but we choose to omit that for the sake 
 *Author:* nint22
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given two rows of numbers: first row represents the first particle, with the second row representing the second particle. Each row will have three space-delimited real-numbers (floats), representing mass, x-position, and y-position. The mass will range, inclusively, from 0.001 to 100.0. The x and y positions will range inclusively from -100.0 to 100.0.
@@ -29,13 +30,14 @@ On standard console input, you will be given two rows of numbers: first row repr
 Print the force as a float at a minimum three decimal places precision.
 
 # Sample Inputs & Outputs
+
 ## Sample Input 1
 
     1 -5.2 3.8
     1 8.7 -4.1
 
 ## Sample Output 1
-    
+
     0.0039
     
 ## Sample Input 2

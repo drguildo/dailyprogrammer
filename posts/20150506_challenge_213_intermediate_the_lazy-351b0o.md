@@ -19,7 +19,7 @@ The user may start with both hands on any key, and may move either hand to the n
 * The user may move to any of the five `#` (space) positions to type a space.
 * Two hands are required to type a capital letter - one must go to a shift key. Which hand goes to which key is up to your program to decide, but the same hand can't press both the shift key and the letter.
 
-As a score of laziness, you'll also need to work out the total Manhattan distance (x + y) moved by the hands. We'll call this total distance the *effort*.
+As a score of laziness, you'll also need to work out the total Manhattan distance (x + y) moved by the hands. We'll call this total distance the _effort_.
 
 # Formal Inputs and Outputs
 

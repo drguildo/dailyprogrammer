@@ -3,7 +3,7 @@ title: "[2015-06-17] Challenge #219 [Intermediate] To-do list (Part 2)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3a64hq/20150617_challenge_219_intermediate_todo_list/"
 ---
 
-#Description
+# Description
 
 Thanks for that list you made me, my thoughts are way more organised!
 
@@ -24,24 +24,25 @@ The newest To-do list should be capable of the following functionality:
 
 Thanks!
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Output description
+## Output description
 
 Any output that is created should be user-friendly. When I'm viewing my to-do list, I should be able to easily discern one list item from another.
 
-#Examples
+# Examples
 
 (don't take this too literally, do it how you would like to do it)
 
-##Categorisation
+## Categorisation
 
 Input:
 
     addItem('Go to work','Programming'); //Item belongs to the Programming Category
     addItem('Create Sine Waves in C', 'Music', 'Programming); //Belongs to 2 categories, 'Programming' and 'Music');
 
-##Category Output 
+## Category Output
+
 Input:
 
     viewList('programming');
@@ -72,7 +73,7 @@ Output:
     updateItem('Create Sine Waves in C', 'Create Sine Waves in Python');
     //The item has now changed from 'Create Sine Waves in C' to 'Create Sine Waves in Python'. This should be reflected in the viewList function/method you have created.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

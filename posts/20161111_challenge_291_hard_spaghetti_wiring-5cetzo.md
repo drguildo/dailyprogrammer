@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challeng
 
 > **Note:** As has been [pointed out](https://www.reddit.com/r/dailyprogrammer/comments/5cetzo/20161111_challenge_291_hard_spaghetti_wiring/d9wd9h1/), this problem is a duplicate of a previous one, resulting from my being clueless after returning from a hiatus from moderation. Sorry. :(
 
-#Description
+# Description
 
 Eric the Electrician has a problem. He has been told to connect a set of ports on a flat surface using some cables, but there's a problem: the cables are carrying signals that interfere with each other. They must not cross. Since the locations of the ports are all over the place, this poses a significant challenge.
 
@@ -29,7 +29,6 @@ This would correspond to a grid that looks like this (assigning some arbitrary l
     ....A.
     C...CB
 
-
 # Formal output
 
 Our output will simply be the grid itself, with the proper paths filled in.
@@ -44,7 +43,7 @@ Our output will simply be the grid itself, with the proper paths filled in.
 # Challenge Inputs
 
 ## Challenge Input 1
-    
+
     13 5
     1 1 7 4
     11 1 5 3
@@ -93,7 +92,6 @@ Visually, this grid is:
     .A..........
     ............
 
-
 # Notes
 
 * As may be evident, the grids are 0-indexed.
@@ -111,9 +109,8 @@ Make your program come up with solutions that use all the available space on the
     BBBBBBDACBBBC
     DDDDDDDACCCCC
     
-#Finally
+# Finally
 
-*This challenge was inspired by the [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en) mobile game. Credit where it's due.* 
+*This challenge was inspired by the [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en) mobile game. Credit where it's due.*
 
 Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas.
-

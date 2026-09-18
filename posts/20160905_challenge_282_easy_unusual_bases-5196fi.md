@@ -9,9 +9,9 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/5196fi/20160905_challeng
 
 Binary numbers (base 2) are written using `1`s and `0`s to represent which powers of 2 sum together to create the decimal number.
 
-16 | 8 | 4 | 2 | 1 
+16 | 8 | 4 | 2 | 1
 ---|---|----|----|----
-1 | 0 | 0 | 1 | 1 
+1 | 0 | 0 | 1 | 1
 
 A `1` represents using that power of 2 and a `0` means not using it. In the above example there is a one in the `16`s, `2`s and the `1`s so we do:
 
@@ -80,15 +80,14 @@ Because each term of the sequence is the sum of the previous two, the 'Base Fib'
 
 For the bonus challenge, give the output with the least `1`'s.
 
-
-##Bonus input
+## Bonus input
 
     10 8
     10 16
     10 32
     10 9024720
 
-#Bonus 2
+# Bonus 2
 
 As /u/thorwing suggested, it would be a greater challenge to write the base fib with the most `1`'s instead of the least
 
@@ -98,8 +97,8 @@ Have a good challenge idea like /u/SovietKetchup?
 
 Consider submitting it to /r/dailyprogrammer_ideas
 
-
 # Edit
-As some of you have pointed out, my solution had a small bug in it. 
+
+As some of you have pointed out, my solution had a small bug in it.
 
     9024720 -> 1010100101010100000010001000010010

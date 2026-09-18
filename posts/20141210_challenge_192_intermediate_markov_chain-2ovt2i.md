@@ -9,12 +9,12 @@ A Markov process describes a system where the probability of changing to a certa
 
 The Markov chain could be represent in memory via a matrix. For example, for a small sample of 4 words in a paragraph, the matrix may look like:
 
-|       | The | Thing | Did | Do |
+||The|Thing|Did|Do|
 |-------:|-----|-----|--------|----|
-|  **The**|0|12|0|0|
-|   **Thing**|0|0|3|5
-|  **Did**|6|0|0|11
-|    **Do**|8|0|0|0
+|**The**|0|12|0|0|
+|**Thing**|0|0|3|5
+|**Did**|6|0|0|11
+|**Do**|8|0|0|0
 
 At a glance you can see the number of times the word 'thing' was followed by 'do' more than 'did', and the word 'do' was preceded more by 'did' than 'thing'. There are other ways to store this data, of course - the implementation of this part is up to you.
 
@@ -26,7 +26,7 @@ This can be used to detect errors in input. For example, you could use the above
 
 The program is to utilise [a word list of your choice](https://www.reddit.com/r/dailyprogrammer/comments/2nluof/request_the_ultimate_wordlist/) to construct Markov chain data for the occurrence of certain letters following other letters. For example, the word 'occurrence' would have a matrix that looks like:
 
-|   |O|C|U|R|E|N|
+||O|C|U|R|E|N|
 |---|-|-|-|-|-|-|
 |**O**|0|1|0|0|0|0|
 |**C**|0|1|1|0|1|0|
@@ -55,4 +55,4 @@ I assume you can come up with some testing data yourself - just pick some actual
 
 # Further Reading
 
-Wikipedia page on Markov chains is [here](https://en.wikipedia.org/wiki/Markov_chain). An interesting use of Markov chains is automatic text generation based on previous input to train the program, [like this cool article](http://vedantmisra.com/markov-chain-paper-title-generator/). 
+Wikipedia page on Markov chains is [here](https://en.wikipedia.org/wiki/Markov_chain). An interesting use of Markov chains is automatic text generation based on previous input to train the program, [like this cool article](http://vedantmisra.com/markov-chain-paper-title-generator/).

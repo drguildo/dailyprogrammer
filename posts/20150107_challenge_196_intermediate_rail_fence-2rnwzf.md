@@ -17,7 +17,6 @@ See how it goes up and down? Now, to get the ciphertext, instead of reading with
 
 You can also decrypt (it would be pretty useless if you couldn't!). This involves putting the zig-zag shape in beforehand and filling it in along the lines. So, start with the zig-zag shape:
 
-
     ?   ?   ?   ?   ?   ?   ?
      ? ? ? ? ? ? ? ? ? ? ? ?
       ?   ?   ?   ?   ?   ?
@@ -48,7 +47,7 @@ You will accept lines in the format:
 
     enc # PLAINTEXT
 
-or 
+or
 
     dec # CIPHERTEXT
 

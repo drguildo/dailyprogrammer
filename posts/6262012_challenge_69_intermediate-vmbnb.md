@@ -3,11 +3,11 @@ title: "[6/26/2012] Challenge #69 [intermediate]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/vmbnb/6262012_challenge_69_intermediate/"
 ---
 
-During World War I, the German army used a very clever pen and paper cipher called the [ADFGVX cipher](http://en.wikipedia.org/wiki/ADFGVX_cipher), and your task today is to implement functions to both encrypt and decrypt messages using this cipher. What follows is a rather lengthy description of how it works (you can also find a description in that wikipedia link), but in essence it is actually quite simple. 
+During World War I, the German army used a very clever pen and paper cipher called the [ADFGVX cipher](http://en.wikipedia.org/wiki/ADFGVX_cipher), and your task today is to implement functions to both encrypt and decrypt messages using this cipher. What follows is a rather lengthy description of how it works (you can also find a description in that wikipedia link), but in essence it is actually quite simple.
 
 Here is how it works:
 
-The cleartext (the message that is to be encrypted) could consist of characters selected from an alphabet of 36 characters. For the purposes of today's problem, that alphabet will be: 
+The cleartext (the message that is to be encrypted) could consist of characters selected from an alphabet of 36 characters. For the purposes of today's problem, that alphabet will be:
 
     "ABCDEFGHIKLMNOPQRSTUVWXYZ0123456789 "
     
@@ -40,10 +40,10 @@ Each letter of the cleartext now gets replaced by two letters representing the r
     I  A  I  L     O  N     T  H  E     2  1  S  T
     XA VG XA AG GD FX FV GD GG VD VA GD GX VX GF GG
 
-Note that the space character is encoded as GD. 
+Note that the space character is encoded as GD.
 
 Next, this fractioned text is put into a table with the transposition key as headers, as follows:
-    
+
     P R O G R A M M E R
     -------------------
     X F A A V G D D V A 
@@ -55,7 +55,7 @@ Next, this fractioned text is put into a table with the transposition key as hea
     G F G G F G F A D F
     
 The last row didn't quite fit (it was six letters short), so we add in some random characters, in this case "FGFADF", to fill it out. Now the columns are sorted in alphabetical order of the header characters:
-    
+
     A E G M M O P R R R
     -------------------
     G V A D D A X F V A
@@ -66,10 +66,10 @@ The last row didn't quite fit (it was six letters short), so we add in some rand
     D V A G X V V D G X
     G D G F A G G F F F
 
-As you can see, the sorting is "stable", i.e. when there are two or more characters are identical in the transposition key, they keep the original order they had. So in this example, there are three R's and two M's, and they are in the same order relative to each other both before and after the transposition. 
+As you can see, the sorting is "stable", i.e. when there are two or more characters are identical in the transposition key, they keep the original order they had. So in this example, there are three R's and two M's, and they are in the same order relative to each other both before and after the transposition.
 
-Now, finally, we simply read off the table *column by column* to get our ciphertext. This is the final result: 
-    
+Now, finally, we simply read off the table *column by column* to get our ciphertext. This is the final result:
+
     GADGVDGVFAAGVDAVGAXAGDGFXGGFDDXADXAAAGXFVGXGXGGVGFDVDDDFVVGVFGFAXFGGXF
     
 To decrypt, reverse the operations described here.

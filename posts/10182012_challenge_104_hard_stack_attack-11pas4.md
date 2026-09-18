@@ -19,7 +19,7 @@ Print the converted RPN form of the given math operations string.
 
 **Sample Inputs & Outputs:**
 
-"1 + 2" should be printed as "1 2 +". "(1+2)*3" should be printed as "3 2 1 + *". "(6 (7 – 2)) / 3 + 9 * 4" should be printed as "6  7  2 - * 3 / 9  4  * +".
+"1 + 2" should be printed as "1 2 +". "(1+2)*3" should be printed as "3 2 1 +*". "(6 (7 – 2)) / 3 + 9 *4" should be printed as "6  7  2 -* 3 / 9  4  * +".
 
 **Notes:**
 

@@ -3,7 +3,7 @@ title: "[2014-11-21] Challenge #189 [Hard] Write a Quine"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2n11w8/20141121_challenge_189_hard_write_a_quine/"
 ---
 
-#Description:
+# Description
 
 A Quine is a very interesting little program that does only one thing: it prints out exactly its own source code. Quines are tricky to write, but figuring out how to do it is a very rewarding and fun little challenge.
 Some rules for this challenge:
@@ -18,20 +18,19 @@ Some rules for this challenge:
 
 There are many websites that describe in detail exactly how to write a Quine, but you are encouraged not to look those up. Figuring out how to do it for yourself is very rewarding. However, if you're hopelessly stuck, you can go ahead and research it. Wikipedia provides a very good description of how to do it.
 
-#Input:
+# Input
 
 None for this challenge.
 
-#Output:
+# Output
 
 The source code of your program exactly, byte for byte.
 
-#Bonus:
+# Bonus
 
 Write a two-language Quine. That is, write a program in language A that prints out code for language B, and when you run the code for language B, it prints out the original code for language A.
 
 That is, if your two languages are python and ruby, you should be able to run this:
-
 
      $ python A.py > B.rb
      $ ruby B.rb > C.py
@@ -40,6 +39,6 @@ That is, if your two languages are python and ruby, you should be able to run th
 
 That is, when running A.py in python, it produces the ruby source code B.rb, and when you run B.rb in ruby, it produces C.py, and A.py and C.py are exactly the same.
 
-#Challenge Credit:
+# Challenge Credit
 
 Thanks to /u/XenophonOfAthens - This challenge was posted on /r/dailyprogrammer_ideas - A place to go to post challenge idea for this subreddit.

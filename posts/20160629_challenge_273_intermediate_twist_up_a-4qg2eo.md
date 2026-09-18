@@ -3,7 +3,7 @@ title: "[2016-06-29] Challenge #273 [Intermediate] Twist up a message"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4qg2eo/20160629_challenge_273_intermediate_twist_up_a/"
 ---
 
-##**Description**
+## **Description**
 
 As we know English uses Latin alphabet consisting of 26 characters, both upper- and lower-case:
 
@@ -21,34 +21,34 @@ The worst of all is probably Vietnamese:
 
 Your job is to write a method `twistUp` which "twists up" a string, making it as much filled with diacritics as possible.
 
-##**Input**
+## **Input**
 
 Your input will consist of one string of any letters of the English alphabet, digits and special characters. Characters that cannot be diactriticized should be returned in its original form.
 
-##**Output**
+## **Output**
 
 Output will consist of a modified text.
 
-##**Sample input**
+## **Sample input**
 
     For, after all, how do we know that two and two make four? 
     Or that the force of gravity works? Or that the past is unchangeable? 
     If both the past and the external world exist only in the mind, 
     and if the mind itself is controllable – what then?
 
-##**Sample output**
+## **Sample output**
 
     Ƒǒṝ, āᶂťȅŗ ąľḷ, ħṓẃ ᶁớ ẅē ḵȵȭŵ ŧⱨąť ȶẁô ǎǹḍ ẗŵȫ ᶆầᶄĕ ḟõṵɍ? 
     Ȯᵳ ƫẖẩť ṯħê ḟṑȑćẽ ỏᵮ ǧŗảᶌıⱦỳ ẘǒᵲᶄṧ? Ṍᵲ țḩᶏᵵ ⱦḥḙ ṗᶏşʈ ḯş ůǹḉḧẳṇģḕâɓƚė?
     Ǐḟ Ƅȫţȟ țḧè ƥāṣț ặňḓ ŧħᶒ ḙxᵵęȑᶇȁȴ ẁőŕȴɗ ȩxĭʂƫ ǫȵľȳ ȋɳ ȶḥẽ ṁįƞḋ, 
     ǡǹƌ ᵻḟ ṱȟë ḿīᵰᶑ ḭẗᵴḛɫᵮ ɨś čổɲȶṙŏłḹạɓɭḕ – ŵḫāṯ ƫḩḕñ?
 
-##**Notes**
+## **Notes**
 
 * If your browser/compiler/console cannot display diacritics, switch encoding to UTF-8.
 * Other than diacritics, you can use similar-looking characters like Cyrillic`И` for `N`
 
-##**Bonus challenges**
+## **Bonus challenges**
 
 Make your `twistUp` method take not only letters of English alphabet, but all the letters:
 
@@ -57,7 +57,6 @@ Make your `twistUp` method take not only letters of English alphabet, but all th
 
     Ɖẑɗɀỵŝțỳɱ ɾẵᶇḵīȩᵯ ĝʑẻğẑộḷǩᵻ î ƥỉëģźè, ʐậɱǐāʂţ ẅɀỉḁĉ ᶊīė ẑắ ḍɀḏźỏẉᵰiɕȅ,
     ṋȧʑȧṝⱡý sïë ƞẩ čʐčʑỡ ɱᶖẵẕśẓǘ ᶉẕẻẓǚḉḣỷ ĩ ɼʑéɗḕᶆ ɼᵶỳǥäḷỵ ƌờ ᵳờẕɀăȓʐőȵḗʝ ɓṛŷṭƒằǹɳý.
-
 
 Twisted up characters don't need to be the same every time!
 
@@ -76,11 +75,10 @@ Write an additional `untwist` method which takes a twisted up text and converts 
     The proof that the little prince existed is that he was charming, that he laughed, 
     and that he was looking for a sheep. If anybody wants a sheep, that is a proof that he exists.
 
-
 # bonus 2
 
 Find a creative way to generate the mapping scheme (with minimal "hand crafted" tables, and the most mappings.
 
 -----
 
-thanks to /u/szerlok for the challenge description.  We need more submissions at /r/dailyprogrammer_ideas 
+thanks to /u/szerlok for the challenge description.  We need more submissions at /r/dailyprogrammer_ideas

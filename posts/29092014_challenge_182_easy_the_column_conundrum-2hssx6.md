@@ -4,6 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2hssx6/29092014_challeng
 ---
 
 # [](#EasyIcon) **(Easy)**: The Column Conundrum
+
 Text formatting is big business. Every day we read information in one of several formats. Scientific publications often have their text split into [two columns, like this](https://isotropic.org/papers/chicken.pdf). Websites are often bearing one major column and a sidebar column, such as Reddit itself. Newspapers very often have three to five columns. You've been commisioned by some bloke you met in Asda to write a program which, given some input text and some numbers, will split the data into the appropriate number of columns.
 
 # Formal Inputs and Outputs
@@ -12,7 +13,7 @@ Text formatting is big business. Every day we read information in one of several
 
 To start, you will be given 3 numbers on one line:
 
-	<number of columns> <column width> <space width>
+    <number of columns> <column width> <space width>
 
 * *number of columns*: The number of columns to collect the text into.
 * *column width*: The width, in characters, of each column.

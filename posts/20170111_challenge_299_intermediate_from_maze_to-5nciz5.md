@@ -3,7 +3,7 @@ title: "[2017-01-11] Challenge #299 [Intermediate] From Maze to graph"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5nciz5/20170111_challenge_299_intermediate_from_maze_to/"
 ---
 
-An easy and harder challenge using Monday's maze    
+An easy and harder challenge using Monday's maze
 
     ###################################################################################################################################################################################
     #.....#.#.....#...#....4#.....#.#...#.........#...#...............#...................#...#.#...........#.#...........#.#.#.#.........#.#.......#...#...........#.....#...#7..#.#.#
@@ -62,7 +62,4 @@ For example, looking at the top left of the maze, there is a node in row 1, colu
 
 node, list of neighbours and distance from node to each neighbour.  
 
-
 Full list will be in comments
-
-

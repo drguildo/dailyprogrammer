@@ -13,7 +13,7 @@ Slider puzzles are nearly impossible for me to solve by hand, so lets make a pro
 
 7 0 8
 
-This board would be solved by moving the 8 to the left one space. The challenge is to make the computer solve these boards for you in a** reasonable amount of time.**  if they are solveable. For complicated boards a brute force method might take too long, and you will have to come up with an A* algorithm.
+This board would be solved by moving the 8 to the left one space. The challenge is to make the computer solve these boards for you in a**reasonable amount of time.**  if they are solveable. For complicated boards a brute force method might take too long, and you will have to come up with an A* algorithm.
 
 **Formal Inputs & Outputs**
 
@@ -27,7 +27,6 @@ All of these are for a 3 by 3 board:
 
 {1,2,3,4,5,6,8,7,0} is not solveable
 
-
 **Bonus**
 
 Make your code be able to solve any N by N board; N <= 100
@@ -38,8 +37,7 @@ Make a function that will start with a perfect board, and go backwords randomly 
 
 EDIT: As I was requested to provide an input for the 100 by 100:
 
-http://pastebin.com/qNJbuF5M this is the result of taking a perfect 100 by 100 board and jumbling it up over 2,000,000 times; I know that this board is solveable but thats all I know about this board.
-
+<http://pastebin.com/qNJbuF5M> this is the result of taking a perfect 100 by 100 board and jumbling it up over 2,000,000 times; I know that this board is solveable but thats all I know about this board.
 
 **Have a good challenge idea?**
 

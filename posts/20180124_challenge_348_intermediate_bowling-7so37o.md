@@ -4,6 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/7so37o/20180124_challeng
 ---
 
 # Description
+
 Today's challenge will be a variation on a popular introductory programming task, scoring a game of bowling.  However, in this challenge, we won't even actually have to calculate the score.  Today's challenge is to produce the display for the individual frames, given a list of the number of pins knocked down on each frame.
 
 The basic rules are as follows:
@@ -15,16 +16,16 @@ The basic rules are as follows:
 
 If you want more details about the rules, see: [Challenge #235 [Intermediate] Scoring a Bowling Game](https://www.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challenge_235_intermediate_scoring_a/?ref=share&ref_source=link)
 
-
 # Input Description
+
 You will be given a list of integers that represent the number of pins knocked down on each roll.  Not that this list is not a fixed size, as bowling a perfect game requires only 12 rolls, while most games would use more rolls.
 
 *Example:*
 
     6 4 5 3 10 10 8 1 8 0 10 6 3 7 3 5 3
 
-
 # Output Description
+
 Your program should output the bowling frames including strikes and spares.  The total score is not necessary.
 
 *Example:*

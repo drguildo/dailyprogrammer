@@ -11,7 +11,7 @@ The [Pentomino](https://en.wikipedia.org/wiki/Pentomino) was first devised by Am
 
 Pentominos have the special property of being able to be packed into many different shapes. For example, with a full set of 12 Pentominos, you could create a rectangle of size 6x10, 5x12, 4x15, and 3x20. Other smaller shapes can be made, but with less Pentominos. Additionally, you can also fill an 8x8 square with 4 holes in it ([although certain positions of the holes can make it impossible](https://en.wikipedia.org/wiki/Pentomino#/media/File:Pentomino_unsolvable.svg)).
 
-The challenge is to output one solution for the given rectangle. 
+The challenge is to output one solution for the given rectangle.
 
 # Challenge Input
 
@@ -35,7 +35,7 @@ Input:
     10 6
 
 Output:
-    
+
     𝙸𝙿𝙿𝚈𝚈𝚈𝚈𝚅𝚅𝚅
     𝙸𝙿𝙿𝚇𝚈𝙻𝙻𝙻𝙻𝚅
     𝙸𝙿𝚇𝚇𝚇𝙵𝚉𝚉𝙻𝚅
@@ -50,7 +50,7 @@ Given the positions of 4 holes, give a solution for an 8x8 square. Output "No So
 # Bonus Input
 
 The bonus input is given by one line containing the size of the square (always 8x8), and then 4 lines each with the coordinate of one hole. The first number is the x position of the hole, the second number is the y position of the hole. Treat 0, 0 as the top-left corner.
-    
+
     8 8  
     3,3  
     4,3  
@@ -77,4 +77,4 @@ Look into [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 # Credit
 
-This challenge was suggested by user /u/DXPower, many thanks! If you have a challeng idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by user /u/DXPower, many thanks! If you have a challeng idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

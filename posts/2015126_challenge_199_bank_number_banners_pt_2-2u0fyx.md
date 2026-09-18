@@ -3,7 +3,7 @@ title: "[2015-1-26] Challenge #199 Bank Number Banners Pt 2"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2u0fyx/2015126_challenge_199_bank_number_banners_pt_2/"
 ---
 
-#Description
+# Description
 
 To do this challenge, first you must complete this weeks [Easy](http://www.reddit.com/r/dailyprogrammer/comments/2tr6yn/2015126_challenge_199_bank_number_banners_pt_1/) challenge.
 
@@ -12,27 +12,29 @@ This meant that sending a fax of this number format was useless as no one could 
 
 Your job is to parse **back** the fax numbers into normal digits.
 
-#Inputs & Outputs
+# Inputs & Outputs
 
-##Input
+## Input
+
 As input, you should take the output of the easy challenge
 
-##Output
+## Output
+
 Output will consists of integers that translate to what the fax read out.
 
-These numbers : 
+These numbers :
 
-	 _  _  _  _  _  _  _  _  _ 
-	| || || || || || || || || |
-	|_||_||_||_||_||_||_||_||_|
+     _  _  _  _  _  _  _  _  _ 
+    | || || || || || || || || |
+    |_||_||_||_||_||_||_||_||_|
 
 
-	 |  |  |  |  |  |  |  |  |
-	 |  |  |  |  |  |  |  |  |
+     |  |  |  |  |  |  |  |  |
+     |  |  |  |  |  |  |  |  |
 
-	    _  _  _  _  _  _     _ 
-	|_||_|| || ||_   |  |  ||_ 
-	  | _||_||_||_|  |  |  | _|
+        _  _  _  _  _  _     _ 
+    |_||_|| || ||_   |  |  ||_ 
+      | _||_||_||_|  |  |  | _|
 
 Would translate back to :
 

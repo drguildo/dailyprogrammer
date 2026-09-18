@@ -49,7 +49,7 @@ You are to output a list of the *full names* of all of the flags entered (eg. `f
     -aN 12 --verbose 192.168.0.44
 
 (not all commands need a short-form expression; here, `verbose` only exists as the long-form.)
-    
+
 ## Sample Output
 
     flag: all

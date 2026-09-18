@@ -50,7 +50,7 @@ Unique traffic data for this sub:
 
 # Sample Output
 
-Sample output from my solution here: http://i.imgur.com/RIfoQ54.png (fixed now, sorry.)
+Sample output from my solution here: <http://i.imgur.com/RIfoQ54.png> (fixed now, sorry.)
 
 # Extension (intermediate)
 

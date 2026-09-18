@@ -7,5 +7,4 @@ Write a program or a function that can print out arbitrarily sized smiley face i
 
 [Here](http://www.reddit.com/r/dailyprogrammer_ideas/comments/sq93c/dynamic_ascii_smiley_face_intermediatehard/c4g485v) is a sample output.
 
-
 * thanks to Steve132 for the challenge at /r/dailyprogrammer_ideas ! .. if you have a challenge you could suggest it there :)

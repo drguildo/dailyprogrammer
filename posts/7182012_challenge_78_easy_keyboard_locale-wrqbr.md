@@ -9,7 +9,7 @@ keyboard-locale specific, so if you don't happen to use a us-EN layout keyboard 
 The en-us keyboard layout [pictured here](http://en.wikipedia.org/wiki/File:KB_United_States-NoAltGr.svg) is one common layout
 for keys.  There are character-generating keys such as '1' and 'q', as well as modifier keys like 'ctrl' and 'shift', and 'caps-lock'
 
-If one were to press every one of the character-generating keys in order from top to bottom left-to-right, 
+If one were to press every one of the character-generating keys in order from top to bottom left-to-right,
 you would get the following string:
 
     `1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./

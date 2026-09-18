@@ -51,7 +51,6 @@ Note that the letters are *not* guaranteed to be of equal length.
 
     hooray /r/dailyprogrammer!
 
-
 # Part 2: Encoding
 
 Next, we will go in the other direction. Come up with a key based on the letters "g" and "G" that maps all the letters in a given message to Ggggg equivalents, use it to translate the message, then output both the key and the translated message. You can double-check your work using the decoding script from part 1.
@@ -71,9 +70,9 @@ Your key (and thus message) may end up being completely different than the one p
 
 Just as it annoys us to see someone typing "llliiiiikkkeeee ttttthhhiiiisssss", the Ggggg aliens don't actually enjoy unnecessary verbosity. Modify your encoding script to create a key that results in the *shortest possible Ggggg message*. You should be able to decode the output using the same decoder used in part 1 (the second sample input/output in part 1 is actually compressed).
 
-Here's a [hint](https://en.wikipedia.org/wiki/Variable-length_code). 
+Here's a [hint](https://en.wikipedia.org/wiki/Variable-length_code).
 
-## Sample input:
+## Sample input
 
     Here's the thing. You said a "jackdaw is a crow."
     Is it in the same family? Yes. No one's arguing that.
@@ -83,9 +82,9 @@ Here's a [hint](https://en.wikipedia.org/wiki/Variable-length_code).
     Also, calling someone a human or an ape? It's not one or the other, that's not how taxonomy works. They're both. A jackdaw is a jackdaw and a member of the crow family. But that's not what you said. You said a jackdaw is a crow, which is not true unless you're okay with calling all members of the crow family crows, which means you'd call blue jays, ravens, and other birds crows, too. Which you said you don't.
     It's okay to just admit you're wrong, you know?
     
-## Sample output:
+## Sample output
 
-Found here (a bit too big to paste in the challenge itself): http://www.hastebin.com/raw/inihibehux.txt
+Found here (a bit too big to paste in the challenge itself): <http://www.hastebin.com/raw/inihibehux.txt>
 
 Remember you can test your decoder on this message, too!
 

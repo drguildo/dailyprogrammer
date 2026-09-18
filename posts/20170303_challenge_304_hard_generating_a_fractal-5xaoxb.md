@@ -44,7 +44,7 @@ Minimal input will consist of a set of IFS equations. Other things to consider:
 * Color or the fractal and the background
 * Size
 
-* "Density" of a fractal (how many pixels are generated) 
+* "Density" of a fractal (how many pixels are generated)
 * Aspect ratio of the image
 
 # Output
@@ -64,9 +64,8 @@ An image of the resulting fractal.
 
     http://i.imgur.com/buwsrYY.png
 
-
 More challenge inputs can can be found [here](http://cs.lmu.edu/~ray/notes/ifs/) and [here](http://paulbourke.net/fractals/)
 
 # Credit
 
-This challenge was suggested by /u/szerlok, many thanks! If you have any challenge ideas please share them on /r/dailyprogrammer_ideas and there's a good chance we'll use them. 
+This challenge was suggested by /u/szerlok, many thanks! If you have any challenge ideas please share them on /r/dailyprogrammer_ideas and there's a good chance we'll use them.

@@ -11,7 +11,7 @@ Your goal is to write a program that, given an array through standard input (con
 
 # Formal Inputs & Outputs
 
-## Input Description:
+## Input Description
 
 On the console, you will be first given an integer N. This is the number of following integers that are part of the array. After the N integers, you will be given an integer C which represents the sum-pair you are attempting to match.
 

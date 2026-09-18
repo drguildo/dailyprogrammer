@@ -9,11 +9,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/u4mk4/5252012_challenge_
 
 ____________________________________________________
 
-Since many did not like the previous challenge because it was quite unsatisfactory here is a new challenge ... 
+Since many did not like the previous challenge because it was quite unsatisfactory here is a new challenge ...
 
-Input: A sequence of integers either +ve or -ve 
+Input: A sequence of integers either +ve or -ve
 
-Output : a part of the sequence in the list with the maximum sum. 
+Output : a part of the sequence in the list with the maximum sum.
 
 __________________________
 

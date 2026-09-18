@@ -1,6 +1,5 @@
 ---
-title: "[8/30/2012] Challenge #93 [intermediate] (Z-Order Encryption)
-"
+title: "[8/30/2012] Challenge #93 [intermediate] (Z-Order Encryption)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/z3a6v/8302012_challenge_93_intermediate_zorder/"
 ---
 
@@ -27,13 +26,12 @@ However, when we constrain it to be a power of two, instead we end up with an 8x
     
     
     
-However, the encrytion part happens when, instead of laying out letters of the square from left to right as above, you lay out 
+However, the encrytion part happens when, instead of laying out letters of the square from left to right as above, you lay out
 the square using a [Z-order code](http://en.wikipedia.org/wiki/Z-order_curve) instead, like so.
 
     Myouofhe
      cnt te 
     ryti
     , s 
-
 
 Write a program that reads a string from standard input and can encrypt to a z-order square, and vice-versa

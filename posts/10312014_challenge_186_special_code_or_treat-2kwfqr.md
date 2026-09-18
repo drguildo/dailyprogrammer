@@ -3,13 +3,13 @@ title: "[10/31/2014] Challenge #186 [Special] Code or Treat - Halloween 2014"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2kwfqr/10312014_challenge_186_special_code_or_treat/"
 ---
 
-#Description:
+# Description
 
 Happy Halloween. For Today's challenge we will go off our typical path and do a special challenge posting. I have come up with 2 challenges. One will be [Easy] the other [Intermediate]. They do have a Halloween theme and it is intended to be a bit light hearted in our typical approach to challenges. Have fun :)
 
-#[Easy] Bag Inventory:
+# [Easy] Bag Inventory
 
-##Description:
+## Description
 
 So to help out all the trick or treaters we need to develop a tool to help inventory their candy haul for the night. You will be given a text file that contains a listing of every piece of candy in the bag. Your challenge is to develop a solution to inventory the candy and print out a summary of how much candy you got.
 
@@ -19,20 +19,20 @@ You must answer these basic questions
 * How much of each type
 * What percentage of total candy does that type occupy
 
-##Input:
+## Input
 
 Use this gist listing as your text file to represent your bag of candy.
-[Candy Bag Link] (https://gist.github.com/coderd00d/54215798871d0c356cfb)
+[Candy Bag Link] (<https://gist.github.com/coderd00d/54215798871d0c356cfb>)
 
-##Output: 
+## Output
 
 You must answer the basic questions. How you display it and present it we leave to the programmer to decide. Some suggestions could be a text output. Perhaps you do a histogram or pie chart. Maybe show a real time tally as you go through the bag counting the candy and display it as a gif for all to enjoy.
 
-#[Intermediate] - The Coding Dead
+# [Intermediate] - The Coding Dead
 
-##Description:
+## Description
 
-Zombie lore has been very popular in the recent years. We are entertained by the stories of the dead coming back to life as a zombie and the struggle of human to survive the zombie horde. In Zombie lore it is common that if you are bitten by a zombie you become a zombie. This behavior works much like a plague. The zombie grow in numbers and the living must deal with them by usually do a fatal wound to the zombie's brain/spinal cord. 
+Zombie lore has been very popular in the recent years. We are entertained by the stories of the dead coming back to life as a zombie and the struggle of human to survive the zombie horde. In Zombie lore it is common that if you are bitten by a zombie you become a zombie. This behavior works much like a plague. The zombie grow in numbers and the living must deal with them by usually do a fatal wound to the zombie's brain/spinal cord.
 
 We will explore this plague of zombies by creating  zombie simulator. This simulator will randomly populate a map and have 3 types of entities: Zombies, Victims and hunters.
 
@@ -40,11 +40,11 @@ We will explore this plague of zombies by creating  zombie simulator. This simul
 * Victims -- Innocent humans who are not trained in Zombie lore and have no skills or knowledge to fight back.
 * Hunters -- Trained humans in Zombie lore who seek out to destroy Zombies to save the planet.
 
-##Simulation Map
+## Simulation Map
 
 Our simulation will run on a 20x20 Map. Each spot can occupy Either a Zombie, Victim, Hunter or be an empty space. You need to develop a way to support this map and to be able to create the map by randomly placing a set amount of starting Zombies, Victims or Hunters. Only 1 entity per a space.
 
-##Input
+## Input
 
 You will feed your simulation 4 numbers. x y z t
 
@@ -53,11 +53,11 @@ You will feed your simulation 4 numbers. x y z t
 * z - how many hunters to randomly spawn.
 * t - how many "ticks" of time to run the simulation
 
-##Map Error Checking:
+## Map Error Checking
 
 So on a 20x20 map you have 400 spots. If x+y+z > 400 you will return an error. You cannot create a map that holds more than it can hold.
 
-##Simulation
+## Simulation
 
 Our simulation will have a "tick". This is a unknown unit of time. But in this time actions occur as follows to define our simulation.
 
@@ -65,7 +65,7 @@ Our simulation will have a "tick". This is a unknown unit of time. But in this t
 * Zombie slaying
 * Bite
 
-##Movement
+## Movement
 
 Movement occurs for all our life forms. If the life forms try to move and the space is occupied they will just continue to occupy their current location.
 
@@ -81,7 +81,7 @@ Once movement occurs if a hunter is next to in any direction (up, down, left, ri
 
 ## Bite
 
-Zombies will bite a non-zombie if they are (up, down, left, right) of a non-zombie. They will not be able to bite at a diagonal to represent the simple mind of the zombie. Victims or Hunters can be bitten. Once bitten the Victim or Hunter becomes a zombie. You will change them into a Zombie. 
+Zombies will bite a non-zombie if they are (up, down, left, right) of a non-zombie. They will not be able to bite at a diagonal to represent the simple mind of the zombie. Victims or Hunters can be bitten. Once bitten the Victim or Hunter becomes a zombie. You will change them into a Zombie.
 
 ## Data
 
@@ -107,11 +107,11 @@ The programmer should output at the end of the simulation a report of what happe
 
 * Output the x y z t values. So your starting populations and how many ticks the simulator ran
 * Output all the Data above in the data
-* You will show the final population counts of your entities. 
+* You will show the final population counts of your entities.
 
 ## Final
 
-With all this data we can compute a decay rate. Either the zombie population is decaying or the non-zombie population is decaying. If the decay difference is within 5 then the population is a balance. So for example if 100 zombies are killed but 95 are created it is a balance. (The difference between killed zombies and bites was 5 or less) However if the decay difference is more than 5 in favor of bites the Zombies Win. If the decay difference is more than 5 in favor of the Hunters then the Humans win. 
+With all this data we can compute a decay rate. Either the zombie population is decaying or the non-zombie population is decaying. If the decay difference is within 5 then the population is a balance. So for example if 100 zombies are killed but 95 are created it is a balance. (The difference between killed zombies and bites was 5 or less) However if the decay difference is more than 5 in favor of bites the Zombies Win. If the decay difference is more than 5 in favor of the Hunters then the Humans win.
 
 You will decide who wins the simulation. Humans, Zombies or a tie.
 
@@ -126,4 +126,3 @@ Using different x y z and t values try to see if you can get a balance For a tot
 # Message From the Mods
 
 From the Moderator Staff of /r/dailyprogrammer enjoy your 2014 Halloween :) Thank you for your participation in our subreddit.
-

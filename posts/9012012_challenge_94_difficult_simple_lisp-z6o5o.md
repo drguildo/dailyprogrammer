@@ -1,6 +1,5 @@
 ---
-title: "[9/01/2012] Challenge #94 [difficult] (Simple Lisp interpreter)
-"
+title: "[9/01/2012] Challenge #94 [difficult] (Simple Lisp interpreter)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/z6o5o/9012012_challenge_94_difficult_simple_lisp/"
 ---
 

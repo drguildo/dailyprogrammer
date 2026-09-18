@@ -12,11 +12,11 @@ The intervals between two notes is expressed in semitones. For example, there ar
 |chord|symbol|tones|
 |-|-|-|
 |
-|major     |(nothing) |[0, 4, 7]|
-|minor     |m         |[0, 3, 7]|
-|dom. 7th  |7         |[0, 4, 7, 10]|
-|minor 7th |m7        |[0, 3, 7, 10]|
-|major 7th |maj7      |[0, 4, 7, 11]|
+|major|(nothing)|[0, 4, 7]|
+|minor|m|[0, 3, 7]|
+|dom. 7th|7|[0, 4, 7, 10]|
+|minor 7th|m7|[0, 3, 7, 10]|
+|major 7th|maj7|[0, 4, 7, 11]|
 
 To find out the notes in a chord, take the base note, then select the tones from the chromatic scale relative to the numbers in the list of tone intervals. For example, for `F7`, we look up the chord:
 

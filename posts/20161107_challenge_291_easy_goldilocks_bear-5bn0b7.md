@@ -52,7 +52,6 @@ at and eat up. This number counts up from 1 as the first seat.
 Seats \#2 and \#5 have both good enough chairs to not collapse under Goldilocks,
 and porridge that is cool enough for her to eat.
 
-
 Challenge Input
 ----------------------
 
@@ -88,7 +87,7 @@ Challenge Input
     290 123
     248 132
 
-Finally...
+Finally
 ----------
 
 Have a good challenge idea? Drop by /r/dailyprogrammer_ideas and tell us about it!

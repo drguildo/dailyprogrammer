@@ -18,7 +18,7 @@ The program will take 3 arguments on the command line: the first one will be one
 * `-d` Will decompress the input.
 
 If it is anything other than these, return an error message. The second argument will be a path to a file that the input data will be read from, and the third argument will be a path to a file that output data will be written to. If there are any more or less than three arguments given, return another error message.
-    
+
 ## Output Description
 
 Using the given operation (compress or decompress), the data in the input file will be processed, and the resulting data written to the output file.

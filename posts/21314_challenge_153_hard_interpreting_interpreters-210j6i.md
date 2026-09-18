@@ -3,7 +3,7 @@ title: "[21/3/14] Challenge #153 [Hard] Interpreting interpreters"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/210j6i/21314_challenge_153_hard_interpreting_interpreters/"
 ---
 
-#**Description:**
+# **Description:**
 
 An interpreter is a program that executes commands written in a programming language. Today you will be writing 2 of these!
 
@@ -19,8 +19,7 @@ Ruby parses and evaluates the Scheme syntax. The Scheme syntax will parse the Br
 
 I chose Scheme as an example here because there is a lot of reading material on building an interpreter for Scheme.
 
-
-#**Input**
+# **Input**
 
 You will be given Brainfuck code, within your program, convert this code back to its string equivalent.
 
@@ -28,12 +27,11 @@ You will be given Brainfuck code, within your program, convert this code back to
     [<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
     
-#**Output**
+# **Output**
 
     Hello World!
 
-
-#**Challenge Input**
+# **Challenge Input**
 
     ++++++++[>+>++>+++>++++>+++++>++++++>
     +++++++>++++++++>+++++++++>++++++++++>
@@ -46,24 +44,20 @@ You will be given Brainfuck code, within your program, convert this code back to
     <<<<<<<<<<>>>>>>>>>>>>>
     >++.--<<<<<<<<<<<<<<>>>>>>>>>>>>>>>+.-<<<<<<<<<<<<<<<.
 
-
-
-#**Bonus:**
+# **Bonus:**
 
 For extra points, have your chain add an extra language.
 E.g.
 
 Ruby -> Scheme -> Brainfuck -> Whitespace
 
-
 (Only the mentally ill would attempt such a feat.)
 
-#**Further Reading**
+# **Further Reading**
 
 [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 This book will serve you extremely well. Large portions of the book are on interpreters/compilers and its main dialect is Scheme.
-
 
 [AWIB](https://code.google.com/p/awib/)
 

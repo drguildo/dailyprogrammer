@@ -11,7 +11,7 @@ The Gale-Shapley Theorem tells us that a stable marriage is always possible, and
 
 # Formal Input Description
 
-You'll be given the individual (uppercase for men, lowercase for women) identifier first, then the identifiers for their preferences for each member of the set of men (uppercase letters) and women (given by lowercase letters). 
+You'll be given the individual (uppercase for men, lowercase for women) identifier first, then the identifiers for their preferences for each member of the set of men (uppercase letters) and women (given by lowercase letters).
 
 # Formal Output Description
 
@@ -28,8 +28,7 @@ You'll emit the list of pairs that satisfy the constraints.
 
 # Sample Output
 
-**updated** 
-
+**updated**
 
     (A; b)
     (B; a)
@@ -58,9 +57,9 @@ You'll emit the list of pairs that satisfy the constraints.
     i, J, A, F, G, E, D, H, B, I, C
     j, E, A, B, C, J, I, G, D, H, F
 
-# Challenge  Output 
+# Challenge  Output
 
-**updated** 
+**updated**
 
     (A; j)
     (B; c)
@@ -72,4 +71,3 @@ You'll emit the list of pairs that satisfy the constraints.
     (H; i)
     (I; b)
     (J; a)
-

@@ -3,11 +3,11 @@ title: "[2016-05-09] Challenge #266 [Easy] Basic Graph Statistics: Node Degrees"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4ijtrt/20160509_challenge_266_easy_basic_graph/"
 ---
 
-This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful. 
+This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful.
 
 # Description
 
-In graph theory, the *degree* of a node is the number of edges coming into it or going out of it - how connected it is. For this challenge you'll be calculating the degree of every node. 
+In graph theory, the *degree* of a node is the number of edges coming into it or going out of it - how connected it is. For this challenge you'll be calculating the degree of every node.
 
 # Input Description
 
@@ -27,7 +27,7 @@ Your program should emit the degree for each node. Example:
 
 # Challenge Input
 
-This data set is an social network of tribes of the Gahuku-Gama alliance structure of the Eastern Central Highlands of New Guinea, from Kenneth Read (1954). The dataset contains a list of all of links, where a link represents signed friendships between tribes. It was downloaded from [the network repository](http://networkrepository.com/soc_tribes.php). 
+This data set is an social network of tribes of the Gahuku-Gama alliance structure of the Eastern Central Highlands of New Guinea, from Kenneth Read (1954). The dataset contains a list of all of links, where a link represents signed friendships between tribes. It was downloaded from [the network repository](http://networkrepository.com/soc_tribes.php).
 
     16
     1 2
@@ -116,4 +116,4 @@ Another tool used in graph theory is an *adjacency matrix*, which is an *N* by *
     1 0 0
     1 0 0
 
-Indicating that node 1 is connected to nodes 2 and 3, but nodes 2 and 3 do not connect. For a bonus, create the adjacency matrix for the challenge graph. 
+Indicating that node 1 is connected to nodes 2 and 3, but nodes 2 and 3 do not connect. For a bonus, create the adjacency matrix for the challenge graph.

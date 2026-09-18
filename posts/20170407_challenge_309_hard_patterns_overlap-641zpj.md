@@ -33,7 +33,6 @@ can be quickly determined false in that the first string cannot be made to end i
 
 True:  both strings can be made into `acabaabaaa`
 
-
 **Challenges:**
 
     bb*aaaaa*ba**

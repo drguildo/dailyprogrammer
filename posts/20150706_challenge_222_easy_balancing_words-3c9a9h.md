@@ -7,13 +7,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3c9a9h/20150706_challeng
 
 Today we're going to balance words on one of the letters in them. We'll use the position and letter itself to calculate the weight around the balance point. A word can be balanced if the weight on either side of the balance point is equal. Not all words can be balanced, but those that can are interesting for this challenge.
 
-The formula to calculate the weight of the word is to look at the letter position in the English alphabet (so A=1, B=2, C=3 ... Z=26) as the letter weight, then multiply that by the distance from the balance point, so the first letter away is multiplied by 1, the second away by 2, etc. 
+The formula to calculate the weight of the word is to look at the letter position in the English alphabet (so A=1, B=2, C=3 ... Z=26) as the letter weight, then multiply that by the distance from the balance point, so the first letter away is multiplied by 1, the second away by 2, etc.
 
 As an example:
 
-STEAD balances at T: 1 * S(19) = 1 * E(5) + 2 * A(1) + 3 * D(4))
-
-
+STEAD balances at T: 1 *S(19) = 1* E(5) + 2 *A(1) + 3* D(4))
 
 # Input Description
 
@@ -38,7 +36,7 @@ This indicates that the T is the balance point and that the weight on either sid
 
 # Challenge Output
 
-*Updated* - the weights and answers I had originally were wrong. My apologies. 
+*Updated* - the weights and answers I had originally were wrong. My apologies.
 
     CONSUBST A NTIATION - 456
     WRO N GHEADED - 120

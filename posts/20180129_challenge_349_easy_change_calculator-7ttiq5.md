@@ -41,7 +41,7 @@ Output the minimum number of coins needed:
     Input: 130 100 20 18 12 5 5 
     Output: 3
 
-# Challenge 
+# Challenge
 
     Input: 150 1 1 ... 1 (1 repeated 10000 times) 
     Output: 150

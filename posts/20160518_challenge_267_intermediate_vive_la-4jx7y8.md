@@ -6,11 +6,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4jx7y8/20160518_challeng
 Description
 -----------
 
-It's midnight. You're tired after a night of partying (or gaming, or whatever 
+It's midnight. You're tired after a night of partying (or gaming, or whatever
 else you like to do when procrastinating), and are about ready to go to sleep
 when you remember: you have a whole load of homework for your Electronics 101
 course. The topic is resistance, and calculating the total resistance of various
-circuits. 
+circuits.
 
 Someone who is not you might do something sensible, like sighing and getting the
 work done, or even going to sleep and letting it go. But you are a *programmer*!
@@ -26,7 +26,7 @@ Formal Input
 
 The input consists of two parts. First, a line that lists a series of IDs for
 circuit "nodes". These are strings of uppercase characters. The first and last
-node are to be the start and end point of the circuit. 
+node are to be the start and end point of the circuit.
 
 Next, there will be some number of lines that identify two nodes and specify the resistance between
 them (in Ohms, for simplicity). This will be a positive number.
@@ -85,7 +85,7 @@ Challenge 2
 -----------
 
 This is a 20x20 grid of 10,000 Ohm resistors. As the input is too large to paste
-here, you can find it here instead: https://github.com/fsufitch/dailyprogrammer/raw/master/ideas/resistance/challenge.txt
+here, you can find it here instead: <https://github.com/fsufitch/dailyprogrammer/raw/master/ideas/resistance/challenge.txt>
 
 **Edit:** As this challenge introduces some cases that weren't present in previous cases, yet are non-trivial to solve, you could consider this smaller, similar problem instead:
 
@@ -128,7 +128,7 @@ a case with three routes:
 
 When there are multiple routes for electricity to take, the overall resistance
 goes down. However, it does so in a funny way: the total resistance is the
-inverse of the sum of the inverses of the involved resistances. Stated 
+inverse of the sum of the inverses of the involved resistances. Stated
 differently, you must take all the component resistances, invert them (divide 1
 by them), add them, then invert that sum. That means the resistance for the
 above example is:
@@ -158,10 +158,10 @@ rule. `7.5 + 50 = 57.5`, so:
 
 This leaves us with 57.5 as the answer to the problem.
 
-**Edit:** This should have maybe been a [Hard] problem in retrospect, so here's a hint: https://rosettacode.org/wiki/Resistor_mesh
+**Edit:** This should have maybe been a [Hard] problem in retrospect, so here's a hint: <https://rosettacode.org/wiki/Resistor_mesh>
 
-Finally...
+Finally
 ----------
 
-Have your own ~~boring homework~~ fascinating challenge to suggest? Drop by 
+Have your own ~~boring homework~~ fascinating challenge to suggest? Drop by
 /r/dailyprogrammer_ideas and post it!

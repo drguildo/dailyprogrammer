@@ -3,7 +3,7 @@ title: "[2015-04-10] Challenge #209 [Hard] Unpacking a Sentence in a Box"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/322hh0/20150410_challenge_209_hard_unpacking_a_sentence/"
 ---
 
-Those of you who took the time to work on a Hamiltonian path generator can build off of that. 
+Those of you who took the time to work on a Hamiltonian path generator can build off of that.
 
 # Description
 
@@ -15,16 +15,15 @@ You'll be given a matrix of letters that contain a coiled sentence. Your program
 
 Your input will be a list of integers *N*, which tells you how many lines to read, then the row and column (indexed from 1) to start with, and then the letter matrix beginning on the next line.  
 
-	6 1 1
-	T H T L E D 
-	P E N U R G
-	I G S D I S
-	Y G A W S I 
-	W H L Y N T
-	I T A R G I
-		
+    6 1 1
+    T H T L E D 
+    P E N U R G
+    I G S D I S
+    Y G A W S I 
+    W H L Y N T
+    I T A R G I
+        
 (Start at the T in the upper left corner.)
-		
 
 # Output Description
 

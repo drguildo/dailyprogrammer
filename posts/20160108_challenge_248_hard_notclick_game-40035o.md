@@ -3,7 +3,7 @@ title: "[2016-01-08] Challenge #248 [Hard] NotClick game"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/40035o/20160108_challenge_248_hard_notclick_game/"
 ---
 
-Click games such as http://orteil.dashnet.org/cookieclicker/ are resource games where, part of the game, is obtaining free resources limited by how  fast you can repeatedly click for them.
+Click games such as <http://orteil.dashnet.org/cookieclicker/> are resource games where, part of the game, is obtaining free resources limited by how  fast you can repeatedly click for them.
 
 Today's challenge simulates these games with a constant 1 click per second, and a build order queue.  Allowing the game to be played in a console, and finish "instantly".
 
@@ -30,14 +30,12 @@ for each line in this input, each word is:
     temple 1000000 400 100 100000000   
     city 300000000 5000 2000 1000000000
 
+Not in input are 2 constants for each line.
 
-Not in input are 2 constants for each line.   
-
-1.  The cost growth rate of each new building.  Fixed at 1.2 (20% cost growth per purchase of the same building)
-2.  The cost growth rate of each upgrade.  Fixed at 3 (200% cost increase for each upgrade of the same building)
+1. The cost growth rate of each new building.  Fixed at 1.2 (20% cost growth per purchase of the same building)
+2. The cost growth rate of each upgrade.  Fixed at 3 (200% cost increase for each upgrade of the same building)
 
 -
- 
 
     ┌────────┬─────────┬────┬──────┬────────────┬────────────┬────────────┐
     │BUILDING│COST1    │PROD│BOOST1│UPGRADE_cOST│BCOST_GROWTH│UCOST_GROWTH│
@@ -59,8 +57,8 @@ Not in input are 2 constants for each line.
     │city    │300000000│5000│2000  │1000000000  │1.2         │3           │
     └────────┴─────────┴────┴──────┴────────────┴────────────┴────────────┘
 
-   
 # simulation
+
 Your challenge is to create a function that models resources after each turn.  It has 2 inputs:
 
 1. the number of iterations (turns) to run the simulation.
@@ -75,9 +73,10 @@ The simulation order is:
 Its recommended that you track `turns passed` `total resources collected`
 
 # sample input 1
+
 in J format with function name G, and iterations as left parameter, and build queue.  (table output formatting not needed)
 
-20 iterations, and build queue 0 0 1 
+20 iterations, and build queue 0 0 1
 
       20 G 0 0 1
     ┌─────┬────┬────┬─┬───────────────┬───────────────┬─────┐
@@ -85,7 +84,6 @@ in J format with function name G, and iterations as left parameter, and build qu
     ├─────┼────┼────┼─┼───────────────┼───────────────┼─────┤
     │20   │21.6│9.6 │1│1 0 0 0 0 0 0 0│0 0 0 0 0 0 0 0│0 1  │
     └─────┴────┴────┴─┴───────────────┴───────────────┴─────┘
-
 
 12 cookies generated after 12th turn.  
 cursor bought on 12th turn.  
@@ -119,6 +117,7 @@ The first table, ommitting the first column, has buidling then upgrade info.  Th
 The first column `CPS` has in first row, total production rate per turn including special rules for cursors, and in 2nd row, an indicator formula I thought might be useful CPS + CASH / 100
 
 # Challenge 0 (sample with output)
+
 What is the earliest turn you can build a farm (building 2)?
 
 **output**
@@ -138,16 +137,18 @@ The output is the function inputs, followed by the simulation results to show th
     │300  │664.6│0.184│1│4 1 1 0 0 0 0 0│0 0 0 0 0 0 0 0│     │
     └─────┴─────┴─────┴─┴───────────────┴───────────────┴─────┘
 
-
 # Challenge 1
+
 Find a build queue that generates over 100000 cash in 1000 turns.
 
 # Challenge 2
+
 Get enough cash to buy a city ($300M) in under 6300 turns.  (or close to it if you can't make it)
 
 Its ok to use tools such as the above to handcraft solutions.  Solving this type of challenge automatically will be a later part 2 challenge.
 
 # Bonus, TBD
-~~A bonus for this challenge will be added later today.  It involves adding special upgrades that interact with buildings/state in more comprehensive and intertwined manners.~~ 
+
+~~A bonus for this challenge will be added later today.  It involves adding special upgrades that interact with buildings/state in more comprehensive and intertwined manners.~~
 
 Medals awarded:  Gold to u/fibonaci and u/godspiral.  Silvers to other solutions.

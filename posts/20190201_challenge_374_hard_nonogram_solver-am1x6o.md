@@ -11,10 +11,10 @@ A Nonogram (picross or griddlers) is a puzzle where you are given a grid with nu
 
 ## Inputs
 
-	num columns
-	num rows
-	columns
-	rows
+    num columns
+    num rows
+    columns
+    rows
 
 ## Output
 
@@ -22,11 +22,10 @@ Draw the solved nonogram.
 
 ## Example Input
 
-	5
-	5
-	"5","2,2","1,1","2,2","5"
-	"5","2,2","1,1","2,2","5"
-
+    5
+    5
+    "5","2,2","1,1","2,2","5"
+    "5","2,2","1,1","2,2","5"
 
 ## Example Output
 
@@ -35,7 +34,6 @@ Draw the solved nonogram.
     *   *
     ** **
     *****
-
 
 # Bonus Challenge
 

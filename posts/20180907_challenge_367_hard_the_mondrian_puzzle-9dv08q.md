@@ -11,11 +11,11 @@ I learned about this puzzle from [this video from TED-Ed](https://www.youtube.co
 
 _"Fit non-congruent rectangles into a `n*n` square grid. What is the smallest difference possible between the areas of the largest and the smallest rectangles?"_
 
-Remember a non-congruent rectangle is a shape with distinct measurements, so a 8x1 rectangle is the same as a 1x8, but distinct from a 2x4. 
+Remember a non-congruent rectangle is a shape with distinct measurements, so a 8x1 rectangle is the same as a 1x8, but distinct from a 2x4.
 
-Your challenge today is to write a program that can heuristically subdivide the canvas and find a minimal area range. 
+Your challenge today is to write a program that can heuristically subdivide the canvas and find a minimal area range.
 
-This is [sequence A276523](http://oeis.org/A276523) in the OEIS database. 
+This is [sequence A276523](http://oeis.org/A276523) in the OEIS database.
 
 # Input Description
 
@@ -39,7 +39,6 @@ Your program should emit the smallest value you can find for that canvas size, o
 
 # Challenge Input
 
-
     4
     8
     10
@@ -49,6 +48,6 @@ Your program should emit the smallest value you can find for that canvas size, o
 
 # Bonus Input
 
-Note that solutions above n=44 don't yet have a known or proven lower bound. 
+Note that solutions above n=44 don't yet have a known or proven lower bound.
 
     50

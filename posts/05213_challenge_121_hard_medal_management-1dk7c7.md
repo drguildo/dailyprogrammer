@@ -18,7 +18,7 @@ Your goal is to write a single web-page in JavasScript that "wraps" these admin 
 
 Reddit provides an external API interface for these purposes: [learn more about the web-based API here](http://www.reddit.com/dev/api).
 
-**Though this will be a typical [hard] level challenge, we _will_ be giving out a gold medal _and_ Reddit gold (3 months) for the person who gives a fully-featured solution. Note that solutions must be open-source (hey, we want to use your system!) and you will be given full credits to it in our sub-Reddit's side-bar. Starting from today (Friday), all solutions are due in exactly 7 days: the competition ends at 11:55pm, American pacific time, UTC−8. It'll take about day to confirm who wins.**
+**Though this will be a typical [hard] level challenge, we *will* be giving out a gold medal *and* Reddit gold (3 months) for the person who gives a fully-featured solution. Note that solutions must be open-source (hey, we want to use your system!) and you will be given full credits to it in our sub-Reddit's side-bar. Starting from today (Friday), all solutions are due in exactly 7 days: the competition ends at 11:55pm, American pacific time, UTC−8. It'll take about day to confirm who wins.**
 
 To help get started, check out these Reddit JavaScript APIs: (note that none are a "perfect" solution, and some heavy work will be required)
 

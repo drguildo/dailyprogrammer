@@ -15,7 +15,7 @@ Your challenge will be to take any space-fulling curve you want, and write a pro
 
 ## Input Description
 
-The input to this challenge is extremely simple. You will take a number **N** which will be the degree of complexity to which you will display your fractal curve. For example, [this image](http://upload.wikimedia.org/wikipedia/en/a/a5/Hilbert_curve.svg) shows the *Hilbert curve* shown to 1 through 6 degrees of complexity.
+The input to this challenge is extremely simple. You will take a number **N** which will be the degree of complexity to which you will display your fractal curve. For example, [this image](http://upload.wikimedia.org/wikipedia/en/a/a5/Hilbert_curve.svg) shows the _Hilbert curve_ shown to 1 through 6 degrees of complexity.
 
 ## Output Description
 

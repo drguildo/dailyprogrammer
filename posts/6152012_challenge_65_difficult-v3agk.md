@@ -15,4 +15,4 @@ Write a program that draws a magic square of size 18x18.
 
 ***
 
-* Thanks to [SwimmingPastaDevil](http://www.reddit.com/user/SwimmingPastaDevil) for submitting this problem in /r/dailyprogrammer_ideas! And on behalf of the moderators, I'd like to thank everyone who submitted problems the last couple of days, it's been really helpful, and there are some great problems there! Keep it up, it really helps us out a lot! 
+* Thanks to [SwimmingPastaDevil](http://www.reddit.com/user/SwimmingPastaDevil) for submitting this problem in /r/dailyprogrammer_ideas! And on behalf of the moderators, I'd like to thank everyone who submitted problems the last couple of days, it's been really helpful, and there are some great problems there! Keep it up, it really helps us out a lot!

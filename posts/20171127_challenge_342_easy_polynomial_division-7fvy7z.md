@@ -3,7 +3,7 @@ title: "[2017-11-27] Challenge #342 [Easy] Polynomial Division"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/7fvy7z/20171127_challenge_342_easy_polynomial_division/"
 ---
 
-#Description
+# Description
 
 Today's challenge is to divide two polynomials. For example, [long division](http://www.purplemath.com/modules/polydiv3.htm) can be implemented.
 
@@ -17,7 +17,7 @@ Let the user enter two polynomials. Feel free to accept it as you wish to. Divid
 
 Display the remainder and quotient obtained.
 
-#Challenge Input
+# Challenge Input
 
 1:
 
@@ -33,16 +33,16 @@ Display the remainder and quotient obtained.
 
 3:
 
-> 10x^4 - 7x^2 -1 
+> 10x^4 - 7x^2 -1
 
 > x^2 - x + 3
 
-#Challenge Output
+# Challenge Output
 
-1: 
+1:
 > Quotient: 4x^2 + 14x + 36 Remainder: 111
 
-2: 
+2:
 > Quotient: x^3 - 3x^2 +6x - 4 Remainder: 0
 
 3:

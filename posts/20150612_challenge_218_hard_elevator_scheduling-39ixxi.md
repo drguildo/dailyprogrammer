@@ -15,32 +15,32 @@ Make sure you see the bonus questions after the challenge input.
 
 # Input Description
 
-You'll be given a single integer *N* on a line. The first *N* lines will identify elevator cars and with these fields: Car identifier, capacity, vertical speed in floors per second, and starting floor. Assume instantaneous getting on or off the elevator for the riders once you arrive on the floor. Assume that the elevator *is able to* leave with the rider as soon as it is able, but it *may* linger waiting for more people to arrive - the choice is yours. 
+You'll be given a single integer *N* on a line. The first *N* lines will identify elevator cars and with these fields: Car identifier, capacity, vertical speed in floors per second, and starting floor. Assume instantaneous getting on or off the elevator for the riders once you arrive on the floor. Assume that the elevator *is able to* leave with the rider as soon as it is able, but it *may* linger waiting for more people to arrive - the choice is yours.
 
 Example:
 
-	C1 12 .1 1
+    C1 12 .1 1
 
 This translates to Car 1, capacity of 12 people, moves at .1 floors per second (ten seconds to traverse a floor up or down), and starting at floor 1.
 
 Then you'll get another integer on a line, *M*. The next *M* lines will show riders, with fields: Rider identification, elevator request time in seconds, source floor and destination floor. Rider identification numbers will be *stable*, meaning the rider will have the same identifier the entire exercise. Examples:
 
-	R1 0 1 4
+    R1 0 1 4
 
 This translates to Rider 1 who at time point 0 wants to go from floor 1 to floor 4. Riders will not transit floors without an elevator.
 
 # Output Description
 
-The main thing to show in the output is the time point at which all requests have been satisfied. (Yes, this is trying to get you guys to compete for the most efficient algorithm). Optionally show all intermediate steps and journeys, and wait times for riders. 
+The main thing to show in the output is the time point at which all requests have been satisfied. (Yes, this is trying to get you guys to compete for the most efficient algorithm). Optionally show all intermediate steps and journeys, and wait times for riders.
 
 # Challenge Input
 
-This was randomly generated, and so it has a few "oddities" in it, like riders who get on and off on the same floor, and riders who change their destination in the next second (e.g. in the middle of a ride). You still have to satisfy *every* request. 
+This was randomly generated, and so it has a few "oddities" in it, like riders who get on and off on the same floor, and riders who change their destination in the next second (e.g. in the middle of a ride). You still have to satisfy *every* request.
 
-	2
-	C1 12 .1 1
-	C2 12 .2 1
-	359
+    2
+    C1 12 .1 1
+    C2 12 .2 1
+    359
     R3 0 1 9
     R4 1 1 11
     R0 11 1 7
@@ -400,6 +400,7 @@ This was randomly generated, and so it has a few "oddities" in it, like riders w
     R17 992 3 5
     R0 993 11 6
     R1 997 5 3
+
 # Bonus
 
 Which improves delivery efficiency most?

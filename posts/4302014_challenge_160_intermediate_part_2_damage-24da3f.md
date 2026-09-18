@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/24da3f/4302014_challenge
 
 [Part 1](http://www.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/)
 
-#Introduction
+# Introduction
 
 The new building techniques are a massive success, and soon it is adopted all across the far future society. However, suddenly a great swarm of high-tech termites are predicted to strike - and worse, due to a bug in /u/1337C0D3R's code, the design of the buildings are shoddy and are prone to being destroyed easily. If the buildings are destroyed by the army of termites this could lead to a crisis.
 
@@ -15,6 +15,7 @@ Description
 The threatened buildings are placed in a straight line, numbered from 1 to N. Each building shares a wall with the buildings next to them - the adjacent buildings are known as 'neighbours'. This is an example of how the buildings would be set up for N = 12:
 
 ----------------------------------------------------
+
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 ----------------------------------------------------
 
@@ -24,7 +25,8 @@ The termites will destroy the buildings that they have spread to unless a Reinfo
 
 Given a list of P buildings that will be destroyed in P days, find the minimum number of Reinforcement Kits required, given that the buildings may be destroyed in any order. (The government has also given you Termite Bait which lets you choose the order in which the buildings in the list are destroyed).
 
-#Formal Inputs and Outputs
+# Formal Inputs and Outputs
+
 Input Description
 
 Input will be given on STDIN, or read from a file input.txt located in the working directory of the operating system. There will be exactly 2 lines of input. The first line contains two integers that are space separated, N and P. N is the number of buildings in the line. P is the number of buildings that will be destroyed in P days.
@@ -33,27 +35,29 @@ The second line consists of space-separated integers. The total number of intege
 Output Description
 
 Output will be to STDOUT, or written to a file output.txt in the working directory. Output will contain a single integer consisting of the minimum number of Reinforcement Kits required.
-#Sample Inputs and Outputs
-#Sample Input 1
+
+# Sample Inputs and Outputs
+
+# Sample Input 1
 
 8 1
 
 3
 
-#Sample Output 1
+# Sample Output 1
 
 7
 
-#Sample Input 2
+# Sample Input 2
 
 20 3
 
 3 6 14
 
-#Sample Output 2
+# Sample Output 2
 
 35
 
-#Notes
+# Notes
 
 Thanks again to /u/202halffound

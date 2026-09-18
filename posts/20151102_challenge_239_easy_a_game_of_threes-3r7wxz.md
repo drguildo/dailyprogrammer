@@ -12,7 +12,7 @@ First, you mash in a random large number to start with. Then, repeatedly do the 
 * If the number is divisible by 3, divide it by 3.
 * If it's not, either add 1 or subtract 1 (to make it divisible by 3), then divide it by 3.
 
-The game stops when you reach "1". 
+The game stops when you reach "1".
 
 While the game was originally a race against myself in order to hone quick math reflexes, it also poses an opportunity for some interesting programming challenges. Today, the challenge is to create a program that "plays" the Game of Threes.
 
@@ -42,4 +42,4 @@ The output is a list of valid steps that must be taken to play the game. Each st
 
 # Fluff
 
-Hi everyone! I am /u/Blackshell, one of the new moderators for this sub. I am very happy to meet everyone and contribute to the community (and to give /u/jnazario a little bit of a break). If you have any feedback for me, I would be happy to hear it. Lastly, as always, remember if you would like to propose a challenge to be posted, head over to /r/dailyprogrammer_ideas. 
+Hi everyone! I am /u/Blackshell, one of the new moderators for this sub. I am very happy to meet everyone and contribute to the community (and to give /u/jnazario a little bit of a break). If you have any feedback for me, I would be happy to hear it. Lastly, as always, remember if you would like to propose a challenge to be posted, head over to /r/dailyprogrammer_ideas.

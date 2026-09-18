@@ -69,7 +69,7 @@ An edge will never cross under/over a vertex as that would cause ambiguity. Howe
          h
 
 This is also valid - `a` and `b` are connected:
-          
+
         z  y  x  w
       a-|\-|\-|\-|-b
         | \| \| \| 
@@ -171,7 +171,7 @@ So the leftmost column and topmost row correspond to the vertex A.
     c   #   #   #   #   #   #   d
 
 ### Output
-    
+
     0001
     0011
     0100

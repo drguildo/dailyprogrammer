@@ -3,7 +3,7 @@ title: "[9/03/2012] Challenge #95 [easy] (Reversing text in file)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/za9op/9032012_challenge_95_easy_reversing_text_in_file/"
 ---
 
-Write a program that reads text from a file, and then outputs the text to another file but with all the lines reversed and all the words in each line reversed. 
+Write a program that reads text from a file, and then outputs the text to another file but with all the lines reversed and all the words in each line reversed.
 
 So, for instance, if you had one file called the "thetyger.txt" which contained the two first verses of William Blake's The Tyger:
 

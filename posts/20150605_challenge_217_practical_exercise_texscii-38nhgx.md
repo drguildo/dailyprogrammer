@@ -62,7 +62,6 @@ Output the formula with ASCII symbols in the appropriate locations. You're free 
     F  =2 *7 -30
      21         
 
-
 ## Fractions
 
 ### Input
@@ -70,7 +69,7 @@ Output the formula with ASCII symbols in the appropriate locations. You're free 
     sin^{3}(\frac{1}{3}\pi)=\frac{3}{8}\sqrt{3}
 
 ### Output
-    
+
        3 1   3 _
     sin (-π)=-√3
          3   8  
@@ -111,6 +110,6 @@ Output the formula with ASCII symbols in the appropriate locations. You're free 
 
 # Notes and Further Reading
 
-Solutions have a recommended order of *new* again - feel free to change it back if you prefer *best*. If you want to play around some with LaTeX, try [this online tool](http://www.codecogs.com/latex/eqneditor.php).
+Solutions have a recommended order of _new_ again - feel free to change it back if you prefer _best_. If you want to play around some with LaTeX, try [this online tool](http://www.codecogs.com/latex/eqneditor.php).
 
 Got any cool challenge ideas? Submit them to /r/DailyProgrammer_Ideas!

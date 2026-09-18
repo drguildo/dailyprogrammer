@@ -3,13 +3,14 @@ title: "[05/10/13] Challenge #122 [Hard] Subset Sum Insanity"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1e2rcx/051013_challenge_122_hard_subset_sum_insanity/"
 ---
 
-# [](#HardIcon) *(Hard)*: Subset Sum 
+# [](#HardIcon) *(Hard)*: Subset Sum
 
 The [subset sum](http://en.wikipedia.org/wiki/Subset_sum_problem) problem is a classic computer science challenge: though it may appear trivial on its surface, there is no known solution that runs in [deterministic polynomial time](http://en.wikipedia.org/wiki/P_(complexity)) (basically this is an [NP-complete](http://en.wikipedia.org/wiki/Subset_sum_problem) problem). To make this challenge more "fun" (in the same way that losing in Dwarf Fortress is "fun"), we will be solving this problem in a three-dimensional matrix and define a subset as a set of integers that are directly adjacent!
 
 **Don't forget our [previous week-long](http://www.reddit.com/r/dailyprogrammer/comments/1dk7c7/05213_challenge_121_hard_medal_management/) [Hard] challenge competition ends today!**
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given three integers `(U, V, W)` on the first line of data, where each is the length of the matrices' respective dimensions (meaning U is the number of elements in the X dimension, V is the number of elements in the Y dimension, and W is the number of elements in the Z dimension). After the initial line of input, you will be given a series of space-delimited integers that makes up the 3D matrix. Integers are ordered first in the X dimension, then Y, and then Z ( [the coordinate system is clarified here](http://i.imgur.com/nxChpUZ.png) ).
@@ -19,6 +20,7 @@ You will be given three integers `(U, V, W)` on the first line of data, where ea
 Simply print all sets of integers that sum to 0, if this set is of directly-adjacent integers (meaning a set that travels vertically or horizontally, but never diagonally). If there are no such sets, simply print "No subsets sum to 0".
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     2 2 3

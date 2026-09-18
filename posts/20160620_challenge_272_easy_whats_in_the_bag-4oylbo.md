@@ -58,7 +58,7 @@ you should give a helpful error message instead of printing the list.
 
 3. `AXHDRUIOR_XHJZUQEE`
 
-# Challenge Outputs    
+# Challenge Outputs
 
 1.
 

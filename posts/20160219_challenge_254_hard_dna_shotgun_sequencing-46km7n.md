@@ -5,17 +5,17 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/46km7n/20160219_challeng
 
 # Description
 
-DNA sequences are made up of a 4 character alphabet - A, C, T or G, that describe the nucleotide bases in a gene sequence. To ascertain the sequence of DNA, scientists use chemical methods to identify the component nucleotides in a method called DNA sequencing. DNA *shotgun* sequencing is a method whereby DNA subsequences of the same larger sequence are produced at massive parallel scale by DNA sequencing methods, and the overlap between segments is used to reconstruct the input gene. This is a fast and accurate method, and is dropping in price. Shotgun sequencing was used to perform the first entire sequence of a human's DNA, for example. For additional background information, see [Wikipedia on shotgun sequencing](http://en.wikipedia.org/wiki/Shotgun_sequencing). 
+DNA sequences are made up of a 4 character alphabet - A, C, T or G, that describe the nucleotide bases in a gene sequence. To ascertain the sequence of DNA, scientists use chemical methods to identify the component nucleotides in a method called DNA sequencing. DNA *shotgun* sequencing is a method whereby DNA subsequences of the same larger sequence are produced at massive parallel scale by DNA sequencing methods, and the overlap between segments is used to reconstruct the input gene. This is a fast and accurate method, and is dropping in price. Shotgun sequencing was used to perform the first entire sequence of a human's DNA, for example. For additional background information, see [Wikipedia on shotgun sequencing](http://en.wikipedia.org/wiki/Shotgun_sequencing).
 
 You're working in a DNA laboratory and you have to reconstruct a gene's sequence from a series of fragments!
 
 # Formal Input Description
 
-You'll be given a series of DNA sequence fragments, which include overlaps with neighbor sequences, but not in any specific order - it's random. Your job is to read in the fragments and reconstruct the input DNA sequence that lead to the fragments. 
+You'll be given a series of DNA sequence fragments, which include overlaps with neighbor sequences, but not in any specific order - it's random. Your job is to read in the fragments and reconstruct the input DNA sequence that lead to the fragments.
 
 # Formal Output Description
 
-Your program should emit the DNA sequence it calculated. 
+Your program should emit the DNA sequence it calculated.
 
 # Sample Input
 
@@ -73,7 +73,6 @@ Your program should emit the shortest DNA sequence that would contain the above 
         gaaagccgctgcaattggtcgtagttcaaagagtgttggt
         gtcatctttttcaagtagaatatgccatggaagcagtaagaa
         tgttggttttgatacagatggtacaccaaatctttatcaaact
-
 
 # Challenge Input Solution
 

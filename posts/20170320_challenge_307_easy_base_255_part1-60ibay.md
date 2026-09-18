@@ -12,7 +12,7 @@ For ease of posting to reddit, instead of `char code 0` as "magic" separator `+`
 with separator code `+`, the 2 character code `++` indicates an embedded `+` in data while `+,` (, is  ascii(+) + 1) indicates a field/element separator.
 
 **encode input:**  
-    
+
     abc+def
     ghij
     klmno++p+
@@ -25,7 +25,7 @@ code that reverses decode output into input is also needed.
 
 # 2. encode seperator byte count
 
-based on section 2 (extendable byte base) of this challenge: https://www.reddit.com/r/dailyprogrammer/comments/54lu54/20160926_challenge_285_easy_cross/
+based on section 2 (extendable byte base) of this challenge: <https://www.reddit.com/r/dailyprogrammer/comments/54lu54/20160926_challenge_285_easy_cross/>
 
 an embedded "magic char" can be followed by the count of the consecutive number of that "magic char".  In a real world scenario, extendible byte base 256 can be used.  For ease of using printable characters in this challenge, base 10 and still `+` magic char code will be used.
 
@@ -34,7 +34,6 @@ so `+0` is a separator.  `+8` is 8 consecutive embedded +s.  `+90` is 9 embedded
 **encoded part 1 input:**  
 
     abc+1def+0ghij+0klmno+2p+1
-
 
 # 3.  When no leading (xor trailing) nulls (magic chars) allowed
 
@@ -45,7 +44,7 @@ In a binary encoding of numeric array data, leading nulls (0s) in a field can't 
     abc++def+ghij+klmno++++p+++
 
 # 4. possible but rare trailing or starting embedded nulls
- 
+
 variation on 3, when an odd number of "magic chars" > 2 are encountered, a trailing code removes the ambiguity of whether there are trailing "magic chars" in the field just ended (code `0`), or leading "magic chars" in the field following the separator (code `1`)
 
 **encoded part 1 input:**  

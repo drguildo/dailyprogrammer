@@ -9,13 +9,13 @@ Or, rather, transform*ation*s. Today we'll be doing a bit of basic geometry. We'
 
 Your program must be able to do the following:
 
-* Translations - ie. offsetting the X and Y co-ordinates by a given amount http://i.imgur.com/3jI4sGI.png
+* Translations - ie. offsetting the X and Y co-ordinates by a given amount <http://i.imgur.com/3jI4sGI.png>
 
-* Rotations by an arbitrary angle around a given point http://i.imgur.com/9c0ji7c.png
+* Rotations by an arbitrary angle around a given point <http://i.imgur.com/9c0ji7c.png>
 
-* Scale relative to a point http://i.imgur.com/vHUfXv2.png
+* Scale relative to a point <http://i.imgur.com/vHUfXv2.png>
 
-* Reflection over the X or Y axis http://i.imgur.com/X6JH6pT.png
+* Reflection over the X or Y axis <http://i.imgur.com/X6JH6pT.png>
 
 # Formal Inputs & Outputs
 

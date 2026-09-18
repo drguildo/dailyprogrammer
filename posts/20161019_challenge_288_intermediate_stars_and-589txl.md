@@ -4,6 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/589txl/20161019_challeng
 ---
 
 # Description
+
 This challenge is about drawing stars.
 
 Specifically, each point should be equally spaced to the ones beside it, and should be connected to the two opposite points with a line.
@@ -14,7 +15,7 @@ For example, take a look at [this image.](http://i.imgur.com/8A872Al.png) In the
 
 In the hexagram it's not just as clear. That's why the image shows that exactly opposite points should not be connected.
 
-#Formal Inputs and Outputs
+# Formal Inputs and Outputs
 
 ## Input
 
@@ -34,7 +35,7 @@ The output should be any type of image with the star rendered onto it.
 
 Surround the star by a polygon with the same amount of vertices. For example, if the input is 5, the output should be a pentagram (5-pointed star) surrounded by a pentagon.
 
-##Tips
+## Tips
 
 If you want to find a point's coordinates from only a distance and angle, here's how to do that:
 
@@ -49,4 +50,4 @@ Also, [wolfram alpha](http://www.wolframalpha.com) is really useful for simplify
 
 # Credit
 
-This challenge was suggested by /u/tulanir, thank you. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by /u/tulanir, thank you. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

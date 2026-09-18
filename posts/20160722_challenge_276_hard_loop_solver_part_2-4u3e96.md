@@ -94,8 +94,8 @@ to save space just provide the number of distinct valid grids.  (I get 12)
 
 # 30x30 challenges
 
-thanks to /u/bearific for creating a generator for this challenge.  The above and larger inputs are available here:    
-https://gist.github.com/FrankRuis/0aa761b9562a32ea7fdcff32f1768eb0
+thanks to /u/bearific for creating a generator for this challenge.  The above and larger inputs are available here:
+<https://gist.github.com/FrankRuis/0aa761b9562a32ea7fdcff32f1768eb0>
 
 "reduced input" (above) formats of the 30x30 challenges:  (you may use the original input format and solve these anyway you like)
 
@@ -132,7 +132,7 @@ https://gist.github.com/FrankRuis/0aa761b9562a32ea7fdcff32f1768eb0
     7,9,3,13,6,14,12,6,15,11,11,10,11,11,13 14,7 14,14,12,7,15,12,7,15,13,3,13,6,11,15,13                      
     3,10,10,9,3,9,3,9,3,10,10,10,10,10,9,3,9,3,9,3,11,9,3,11,10,9,3,10,11,9                                    
 
-**input 2** 
+**input 2**
 
     6,10,14,12,6,14,10,12,6,12,6,14,10,12,6,10,14,14,14,12,6,14,12,6,10,14,10,12,6,12                          
     3,14,13,7,13,3,14,15,15,15,11,13,6,9,5,6,11,9,5,3,15,15,13,5,6,15,10,15,13,5                               

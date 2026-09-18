@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1i65z6/071213_challenge_
 
 # [](#HardIcon) *(Hard)*: Not-So-Normal  Triangle Search
 
-A three-dimensional triangle can be defined with three points in 3D space: one for each corner. One can compute the [surface-normal](http://en.wikipedia.org/wiki/Normal_(geometry\)) of this triangle by using the three points to compute the [cross-product](http://en.wikipedia.org/wiki/Cross_product).
+A three-dimensional triangle can be defined with three points in 3D space: one for each corner. One can compute the [surface-normal](<http://en.wikipedia.org/wiki/Normal_(geometry\)>) of this triangle by using the three points to compute the [cross-product](http://en.wikipedia.org/wiki/Cross_product).
 
 You will be given a set of N points, such that N is greater than or equal to 3. Your goal is to find the maximum set of non-intersecting triangles that can be constructed with these N points (points may be shared between triangles) such that this set's average surface normal is as close to the given vector's direction as possible.
 
@@ -14,6 +14,7 @@ You will be given a set of N points, such that N is greater than or equal to 3. 
 *Original author: /u/nint22. This challenge is a little more math-heavy than usual, but don't worry: the math isn't hard, and Wikipedia has all the formulas you'll need. Triangle-triangle intersection will be the most tricky part!*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given an integer N which represents the N-following lines, each being a 3D point in space. Each line has three [Real-numbers](https://en.wikipedia.org/wiki/Real_number) that are space -delimited. The last line, which will be line N+1, is the target vector that you are trying to align-with: it is also represented as three space-delimited Real-numbers.
@@ -23,6 +24,7 @@ You will be given an integer N which represents the N-following lines, each bein
 Find the largest set of triangles whose average surface normals match the target vector direction within at minimum 10 degrees. Print the result as one triangle per line, where a triangle is defined as the three point indices used. If no set is found, print "No valid result found".
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     5

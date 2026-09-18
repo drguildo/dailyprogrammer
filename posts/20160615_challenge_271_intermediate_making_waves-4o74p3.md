@@ -7,7 +7,7 @@ This challenge is a bit uncoventional, so I apologize in advance to anyone who
 may feel excluded due to language or other constraints. Also, I couldn't think
 of fun backstory so feel free to make one up in your comments.
 
-#Description
+# Description
 
 For today's challenge we will be focusing on generating a serieses waveforms
 at specific frequencies, known as musical notes. Ideally you would be able to
@@ -21,25 +21,25 @@ For Linux systems with ALSA, you can use the `aplay` utility.
 For other systems you can use Audacity,
 which features a raw data import utility.
 
-#Input Description
+# Input Description
 
 You will be given a sample rate in Hz (bytes per second), followed by a
 duration for each note (milliseconds), and then finally a string of notes
 represented as the letters `A` through `G` (and `_` for rest).
 
-#Output Description
+# Output Description
 
 You should output a string of bytes (unsigned 8 bit integers) either as a
 binary stream, or to a binary file. These bytes should represent the
 waveforms^[1] for the frequencies^[2] of the notes.
 
-#Challenge Input
+# Challenge Input
 
     8000
     300
     ABCDEFG_GFEDCBA
 
-#Challenge Output
+# Challenge Output
 
 Since the output will be a string of 36000 bytes, it is provided below as a
 download. Note that it does not have to output exactly these bytes, but it
@@ -51,14 +51,14 @@ specifying the format, or by importing into audacity and playing from there.
 
 [Download](https://raw.githubusercontent.com/G33kDude/DailyProgrammer/master/%5B2016-06-15%5D%20Challenge%20%23271%20%5BIntermediate%5D%20Making%20Waves/out.pcm)
 
-#Bonus
+# Bonus
 
 Wrap your output with valid WAV/WAVE file headers^[3] so it can be played directly
 using any standard audio player.
 
 [Download](https://raw.githubusercontent.com/G33kDude/DailyProgrammer/master/%5B2016-06-15%5D%20Challenge%20%23271%20%5BIntermediate%5D%20Making%20Waves/out.wav)
 
-#Notes
+# Notes
 
 1. [Wikipedia](https://en.wikipedia.org/wiki/Waveform) has some formulas for
 waveform generation. Note that `t` is measured in wavelengths.
@@ -74,7 +74,7 @@ discrete samples, the sampling rate must (strictly) exceed twice the highest fre
 from that signal. Otherwise, there will be artifacts such as 'aliasing'. Keep this in mind
 when experimenting with higher octaves, such as the 8th and above.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

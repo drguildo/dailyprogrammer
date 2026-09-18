@@ -33,7 +33,6 @@ We can switch between channels instantaneously, so if a shows start on the same 
 
 *Set 1*
 
-
     1530 1600
     1605 1630
     1645 1725
@@ -42,7 +41,6 @@ We can switch between channels instantaneously, so if a shows start on the same 
     1705 1745
     1720 1815
     1725 1810
-
 
 *Set 2*
 
@@ -58,7 +56,6 @@ We can switch between channels instantaneously, so if a shows start on the same 
     1715 1810
     1720 1740
     1725 1810
-
 
 **Bonus 1**
 
@@ -98,14 +95,13 @@ Now the first line will be a **must see** show. We don't care if we don't max ou
     Ellen
     Quantum Leap
 
-
 If you want to generate more, I got a dotnetfiddle for:
 
- - [Challenge](https://dotnetfiddle.net/xjXHl9)
+- [Challenge](https://dotnetfiddle.net/xjXHl9)
 
- - [Bonus 1](https://dotnetfiddle.net/bn5QrS)
+- [Bonus 1](https://dotnetfiddle.net/bn5QrS)
 
- - [Bonus 2](https://dotnetfiddle.net/6dwkGl)
+- [Bonus 2](https://dotnetfiddle.net/6dwkGl)
 
 **Finally**
 

@@ -22,4 +22,4 @@ BONUS: Find A(p(40), 10^60 )
 
 ***
 
-NOTES: If it is more convienient, you are allowed to make your A(s,v) function output the product instead of the subset itself, so A(p(5), 100) = 77 instead of {7,11}. Watch out though, the numbers can get very big. 
+NOTES: If it is more convienient, you are allowed to make your A(s,v) function output the product instead of the subset itself, so A(p(5), 100) = 77 instead of {7,11}. Watch out though, the numbers can get very big.

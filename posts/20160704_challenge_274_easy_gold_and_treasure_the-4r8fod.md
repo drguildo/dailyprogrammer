@@ -3,7 +3,7 @@ title: "[2016-07-04] Challenge #274 [Easy] Gold and Treasure: The Beale Cipher"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4r8fod/20160704_challenge_274_easy_gold_and_treasure_the/"
 ---
 
-Today's challenge was specially chosen for the US Fourth of July holiday. 
+Today's challenge was specially chosen for the US Fourth of July holiday.
 
 # Description
 
@@ -11,7 +11,7 @@ In 1885, an author named James B. Ward published a pamphlet telling of a long-lo
 
 Eventually, the second of the three texts was deciphered using a slightly altered version of the Declaration of Independence. Each number in the text corresponded to a word in the U.S. Declaration of Independence. The first letter of each of those words spelled the plaintext—with a few modifications for errors and spelling.
 
-Your mission today is to go treasure hunting and to write a program to decipher Beale's message. 
+Your mission today is to go treasure hunting and to write a program to decipher Beale's message.
 
 ## DECLARATION OF INDEPENDENCE
 
@@ -37,6 +37,6 @@ Your program should consume the input and decrypt it. Remember - the first lette
 
 Beale counts the first word as index "1", not "0" - a difference from most computer programming languages. Account for that.
 
-There are 1322 words in the above Declaration of Independence. If you see a number larger than that, wrap around. 
+There are 1322 words in the above Declaration of Independence. If you see a number larger than that, wrap around.
 
 The inspiration for this challenge comes from the [Damn Interesting website](http://www.damninteresting.com/89-263-201-500-337-480/) and my love of the Nicholas Cage movie series "National Treasure". For more info see the [Museum of Unnatural History](http://www.unmuseum.org/bealepap.htm).

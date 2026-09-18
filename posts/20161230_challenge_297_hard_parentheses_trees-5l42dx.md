@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/5l42dx/20161230_challeng
 
 This challenge is about parsing a string into a tree, somewhat for its own sake, but queries on the tree are posted as bonuses, and it may be possible to do the bonuses without tree parsing.
 
-#non-nested
+# non-nested
 
        input: '1(234)56(789)'
     ┌─┬───┬──┬───┬┐
@@ -16,7 +16,7 @@ when parentheses are not nested, the parsing produces an array of arrays where e
 
 The above boxes illustrate an array of 5 elements, where index 1 and 3 contain what was in parentheses.  A blank/null trailing cell is included to keep the even/odd symmetry.
 
-#nested parentheses
+# nested parentheses
 
       input: '1(2((3)(4)))56(789)'
     ┌─┬─────────────┬──┬─────┬┐
@@ -85,9 +85,5 @@ evaluate expressions in challenge 2. (the join function, simply joins arrays int
     │    │││└───┴─────┴┘││└─────┘│     │││
     │    │└┴────────────┴┴───────┴─────┘││
     └────┴──────────────────────────────┴┘
- 
-parsing this last one would first apply the sum(1 2 3) function before joining the result with (3 4 5).
 
-   
-    
- 
+parsing this last one would first apply the sum(1 2 3) function before joining the result with (3 4 5).

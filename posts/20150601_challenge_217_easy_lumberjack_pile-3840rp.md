@@ -3,17 +3,17 @@ title: "[2015-06-01] Challenge #217 [Easy] Lumberjack Pile Problem"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3840rp/20150601_challenge_217_easy_lumberjack_pile/"
 ---
 
-#Description: 
+# Description
 
 The famous lumberjacks of /r/dailyprogrammer are well known to be weird and interesting. But we always enjoy solving their problems with some code.
 
 For today's challenge the lumberjacks pile their logs from the forest in a grid n x n. Before using us to solve their inventory woes they randomly just put logs in random piles. Currently the pile sizes vary and they want to even them out. So let us help them out.
 
-#Input:
+# Input
 
 You will be given the size of the storage area. The number of logs we have to put into storage and the log count in each pile currently in storage. You can either read it in from the user or hardcode this data.
 
-##Input Example:
+## Input Example
 
      3
      7
@@ -23,7 +23,7 @@ You will be given the size of the storage area. The number of logs we have to pu
 
 So the size is 3 x 3. We have 7 logs to place and we see the 3 x 3 grid of current size of the log piles.
 
-#Log Placement:
+# Log Placement
 
 We want to fill the smallest piles first and we want to evenly spread out the logs. So in the above example we have 7 logs. The lowest log count is 1. So starting with the first pile in the upper left
 and going left-right on each row we place 1 log in each 1 pile until all the current 1 piles get a log. (or until we run out). After that if we have more logs we then have to add logs to piles with 2 (again moving left-right on each row.)
@@ -32,34 +32,34 @@ Keep in mind lumberjacks do not want to move logs already in a pile. To even out
 
 Once we have placed the logs we need to output the new log count for the lumberjacks to tack up on their cork board.
 
-#Output:
+# Output
 
 Show the new n x n log piles after placing the logs evenly in the storage area.
 
 Using the example input I would generate the following:
 
-##example output:
+## example output
 
      3 2 2
      2 2 3
      2 4 2
 
-Notice we had 6 piles of 1s. Each pile got a log. We still have 1 left. So then we had to place logs in piles of size 2. So the first pile gets the last log and becomes a 3 and we run out of logs and we are done. 
+Notice we had 6 piles of 1s. Each pile got a log. We still have 1 left. So then we had to place logs in piles of size 2. So the first pile gets the last log and becomes a 3 and we run out of logs and we are done.
 
-#Challenge inputs:
+# Challenge inputs
 
 Please solve the challenge using these inputs:
 
-##Input 1:
+## Input 1
+
      4
     200
-    15 12 13 11 
-    19 14  8 18 
-    13 14 17 15 
-     7 14 20  7 
+    15 12 13 11
+    19 14  8 18
+    13 14 17 15
+     7 14 20  7
 
-
-##Input 2:
+## Input 2
 
     15
     2048
@@ -79,12 +79,13 @@ Please solve the challenge using these inputs:
     19 10 15  5 11  6 20  1  5  2  5 10  5 14 14 
     12  7 15  4 18 11  4 10 20  1 16 18  7 13 15 
 
-## Input 3:
+## Input 3
+
      1
      41
      1
 
-## Input 4:
+## Input 4
 
      12
      10000
@@ -101,9 +102,7 @@ Please solve the challenge using these inputs:
       3 12  3  3  1  2  9  9 13 11 18 13 
       9  2 12 18 11 13 18 15 14 20 18 10 
 
-#Other Lumberjack Problems:
-
+# Other Lumberjack Problems
 
 * [Hard - Simulated Ecology - The Forest](http://www.reddit.com/r/dailyprogrammer/comments/27h53e/662014_challenge_165_hard_simulated_ecology_the/)
-* [Hard - Lumberjack Floating Log Problem] (http://www.reddit.com/r/dailyprogrammer/comments/2lljyq/11052014_challenge_187_hard_lumberjack_floating/)
-
+* [Hard - Lumberjack Floating Log Problem] (<http://www.reddit.com/r/dailyprogrammer/comments/2lljyq/11052014_challenge_187_hard_lumberjack_floating/>)

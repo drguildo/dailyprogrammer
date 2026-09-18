@@ -13,7 +13,7 @@ A triangle on a flat plane is described by its angles and side lengths, and you 
 
 ## Input Description
 
-On the console, you will be given a number **N**. You will then be given **N** lines, expressing **some** details of a triangle in the format below, where all angles are in degrees; the input data will always give enough information and will describe a valid triangle. Note that, depending on your language of choice, a conversion from degrees to radians may be needed to use trigonometric functions such as *sin*, *cos* and *tan*.
+On the console, you will be given a number **N**. You will then be given **N** lines, expressing **some** details of a triangle in the format below, where all angles are in degrees; the input data will always give enough information and will describe a valid triangle. Note that, depending on your language of choice, a conversion from degrees to radians may be needed to use trigonometric functions such as _sin_, _cos_ and _tan_.
 
 ## Output Description
 
@@ -23,25 +23,25 @@ You must print out **all** of the details of the triangle in the same format as 
 
 ## Sample Input
 
-	3
-	a=3
-	b=4
-	C=90
+    3
+    a=3
+    b=4
+    C=90
 
 ## Sample Output
 
-	a=3
-	b=4
-	c=5
-	A=36.87
-	B=53.13
-	C=90
-	
+    a=3
+    b=4
+    c=5
+    A=36.87
+    B=53.13
+    C=90
+    
 # Tips & Notes
 
 There are 4 useful trigonometric identities you may find very useful.
 
-* [Pythagoreas' Theorem](http://latex.codecogs.com/gif.latex?r%5E2&plus;s%5E2%3Dh%5E2), where *h* is the side length opposite the right-angle and *r* and *s* are any 2 other sides.
+* [Pythagoreas' Theorem](http://latex.codecogs.com/gif.latex?r%5E2&plus;s%5E2%3Dh%5E2), where _h_ is the side length opposite the right-angle and _r_ and _s_ are any 2 other sides.
 
 * [3 Trigonometric Ratios](http://simple.wikipedia.org/wiki/Trigonometry#Trigonometric_Ratios)
 

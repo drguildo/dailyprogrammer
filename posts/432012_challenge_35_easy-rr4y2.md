@@ -5,11 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/rr4y2/432012_challenge_3
 
 Write a program that will take a number and print a right triangle attempting to use all numbers from 1 to that number.
 
-
-
 Sample Run:
-
-
 
 Enter number:  10
 
@@ -23,8 +19,6 @@ Output:
 
 1
 
-
-
 Enter number:  6
 
 Output:
@@ -35,8 +29,6 @@ Output:
 
 1
 
-
-
 Enter number:  3
 
 Output:
@@ -44,8 +36,6 @@ Output:
 2 3
 
 1
-
-
 
 Enter number:  12
 

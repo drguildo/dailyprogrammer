@@ -12,6 +12,7 @@ Your goal is to write a program that takes two integers, and returns the greates
 *Author: nint22*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given two space-delimited integers on the standard console input.
@@ -21,6 +22,7 @@ You will be given two space-delimited integers on the standard console input.
 Simply print the GCD value for the two given integers. If no GCD exists, print one ('1').
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     32 12

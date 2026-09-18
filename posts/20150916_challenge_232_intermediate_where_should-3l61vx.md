@@ -7,7 +7,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3l61vx/20150916_challeng
 
 My grandmother and I are moving to a new neighborhood. The houses haven't yet been built, but the map has been drawn. We'd like to live as close together as possible. She makes some outstanding cookies, and I love visiting her house on the weekend for delicious meals - my grandmother is probably my favorite cook!
 
-Please help us find the two lots that are closest together so we can build our houses as soon as possible. 
+Please help us find the two lots that are closest together so we can build our houses as soon as possible.
 
 # Example Input
 
@@ -147,4 +147,4 @@ Your program should emit the two points of (x,y) pairs that are closest together
 
 # Bonus
 
-A nearly 5000 point bonus set to really stress test your approach. http://hastebin.com/oyayubigof.lisp 
+A nearly 5000 point bonus set to really stress test your approach. <http://hastebin.com/oyayubigof.lisp>

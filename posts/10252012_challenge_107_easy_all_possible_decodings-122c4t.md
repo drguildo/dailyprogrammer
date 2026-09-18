@@ -7,14 +7,14 @@ Consider the translation from letters to numbers `a -> 1` through `z -> 26`. Eve
 
 Sample input:
 
-`  123`
+`123`
 
 Sample output:
 
-`  abc`
+`abc`
 
-`  aw`
+`aw`
 
-`  lc`
+`lc`
 
 Thanks to __ashashwat__ for posting this idea in /r/dailyprogrammer_ideas!

@@ -3,7 +3,7 @@ title: "[2015-12-07] Challenge #244 [Intermediate] Turn any language into an Arr
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3vswuc/20151207_challenge_244_intermediate_turn_any/"
 ---
 
-# Array languages 
+# Array languages
 
 Array languages include J, APL and OpenCL.  The only criteria is that function in and out parameters are arrays.  
 
@@ -11,10 +11,9 @@ In our array language, every function has 2 parameters (each arrays) called y an
 
 In every function, the x parameter is optional, and your function should create a default value to fill in if missing.  (Somewhat Optional rule)
 
+# rank and items
 
-
-#rank and items
-more theory wil come in part 2 but,   
+more theory wil come in part 2 but,
 Math functions are rank 0, which means they operate on scalars at a time inside the array.
 
 scalar -- for our purposes is the same as a singleton array.  A 0D array.  
@@ -22,8 +21,9 @@ list -- A 1 dimensional array.  Each item is a scalar.
 table-- A 2 dimensional array. Each item is a list.  
 brick-- A 3 dimensional array.  Each item is a table.  
 
-#1. iota function
-In J, the iota function takes just 1 rank 1 parameter (y is processed "list-at-a-time").   
+# 1. iota function
+
+In J, the iota function takes just 1 rank 1 parameter (y is processed "list-at-a-time").
 The iota function returns an array whose dimensions is equal to the scalar items of y.
 The total number of scalars in the returned array is the product of y.  
 The ravelled (if the returned items were flattened to a 1 dimensional list) items of the return value is the range from (0) to (the product of y - 1)
@@ -56,11 +56,12 @@ Though not part of J or APL, we can add a 2nd optional parameter x to iota.  Thi
     13 14 15
 
 a python definition for iota would be  
-iota(y,x=0): 
+iota(y,x=0):
 
 implement the details of iota in any language.
 
 # add function
+
 addition of arrays is `rank 0 0`.  It operates at a scalar level (for both x and y).  Its default x value is 0.
 
        5 add 1 2 3 
@@ -78,18 +79,18 @@ addition of arrays is `rank 0 0`.  It operates at a scalar level (for both x and
     13 14 15
 
 The last case may seem a bit tricky.
-J/Array functions are implemented such that 
+J/Array functions are implemented such that
 
 if both of its parameters are larger shape than its rank (ie. lists instead of scalars for add) then the function is called recursively for each item of its parameters.
 
 if one of its parameters is the correct rank (scalar for add), but its other parameter is too large (list or higher), then the correct rank item is copied the number of items of the too large parameter.  and then called recursively.  So, `10 + 1 2 3` is the same as `10 10 10 + 1 2 3` (ie, the 10 is copied 3 times, then the recursive call does `10 + 1` `10+2` `10 +3` and the results accumulated into a list of 3 items.
 
-So in ` 0 10 add iota 2 3`  the result of iota has 2 items, and one of the recursive calls in add will be:  `0 + 0 1 2` `10 + 3 4 5` and the expansion rule above applies.
+So in `0 10 add iota 2 3`  the result of iota has 2 items, and one of the recursive calls in add will be:  `0 + 0 1 2` `10 + 3 4 5` and the expansion rule above applies.
 
 implement add function. (in python, signature would look like)  
 add(y,x=0):  
 
-#bonus
+# bonus
 
        iota (1 + iota 2 2)
     0 1 0 0  

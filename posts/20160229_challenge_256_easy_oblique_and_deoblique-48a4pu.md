@@ -7,8 +7,8 @@ The oblique function slices a matrix (2d array) into diagonals.
 
 The de-oblique function takes diagonals of a matrix, and reassembles the original rectangular one.
 
+# input for oblique
 
-#input for oblique
      0  1  2  3  4  5
      6  7  8  9 10 11
     12 13 14 15 16 17
@@ -18,8 +18,7 @@ The de-oblique function takes diagonals of a matrix, and reassembles the origina
 
 (and the output to de-oblique)
 
-
-#output for oblique
+# output for oblique
 
     0               
     1 6             
@@ -40,6 +39,7 @@ The de-oblique function takes diagonals of a matrix, and reassembles the origina
 There's only one de-oblique solution for a square matrix, but when the result is not square, another input is needed to indicate whether the output should be **tall** or **wide** or provide specific dimentsions of output:
 
 # rectangular oblique data input
+
     0      
     1 6    
     2 7 12 
@@ -50,7 +50,7 @@ There's only one de-oblique solution for a square matrix, but when the result is
     17   
 
 # output for (wide) `deoblique (3 6,  INPUT)` or `deoblique (WIDE,  INPUT)`
-     
+
      0  1  2  3  4  5
      6  7  8  9 10 11
     12 13 14 15 16 17
@@ -64,7 +64,6 @@ There's only one de-oblique solution for a square matrix, but when the result is
     14 10 11
     15 16 17
 
-
 # Note
 
-The main use of these functions in computer science is to operate on the diagonals of a matrix, and then revert it back to a rectangular form.  Usually the rectangular dimensions are known. 
+The main use of these functions in computer science is to operate on the diagonals of a matrix, and then revert it back to a rectangular form.  Usually the rectangular dimensions are known.

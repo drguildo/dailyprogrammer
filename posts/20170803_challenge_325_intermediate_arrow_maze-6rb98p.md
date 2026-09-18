@@ -3,7 +3,7 @@ title: "[2017-08-03] Challenge #325 [Intermediate] Arrow maze"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/6rb98p/20170803_challenge_325_intermediate_arrow_maze/"
 ---
 
-#Description
+# Description
 
 We want to return home, but we have to go trough an [arrow maze](http://imgur.com/TjYhSB4).
 
@@ -11,11 +11,11 @@ We start at [a certain point](http://imgur.com/QTxERGr) an in a arrow maze you c
 
 At each node in the maze we can decide to change direction (depending on the new node) or follow the direction we where going.
 
-When done right, we should have a path to [home](http://imgur.com/UqD5Brf) 
+When done right, we should have a path to [home](http://imgur.com/UqD5Brf)
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You recieve on the first line the coordinates of the node where you will start and after that the maze.
 `n ne e se s sw w nw` are the direction you can travel to and `h` is your target in the maze.
@@ -29,7 +29,7 @@ You recieve on the first line the coordinates of the node where you will start a
 
 I have added extra whitespace for formatting reasons
 
-##Output description
+## Output description
 
 You need to output the path to the center.
 
@@ -48,11 +48,11 @@ You need to output the path to the center.
 
 you can get creative and use acii art or even better
 
-#Notes/Hints
+# Notes/Hints
 
 If you have a hard time starting from the beginning, then backtracking might be a good option.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

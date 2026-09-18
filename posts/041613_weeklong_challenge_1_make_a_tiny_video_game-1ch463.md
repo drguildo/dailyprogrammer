@@ -3,7 +3,7 @@ title: "[04/16/13] Week-Long Challenge #1: Make a (tiny) video game!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ch463/041613_weeklong_challenge_1_make_a_tiny_video_game/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Make a tiny video game!
+# [](#EasyIcon) *(Easy)*: Make a tiny video game
 
 **Please note this is an official week-long challenge; all submissions are due by Monday night, midnight, GMT - 7:00 (American pacific time). Winners announced the following Tuesday evening.**
 
@@ -11,7 +11,7 @@ The TI-83+ graphing calculator series is the "ultimate" gaming platform: it has 
 
 All jokes aside, this calculator-platform is great for the fact that it's a very simple platform to program and has had a [ton of games](http://www.ticalc.org/pub/83plus/basic/games/) developed for it already. Many young programmers today attribute their passion for programming to how fun the TI-83+ was to develop on!
 
-**Your goal is to write a game on whatever hardware and software platform you like, but you must stick with the "look & feel" of the TI-83+**: you can make any game you want using any tools you have, but you may _only_ output to a 96 x 64 pixel screen and _only_ use four grayscale colors. This screen may scale for easier viewing, but the pixel-count should never change. If you do not want to make an interactive game, you are welcomed to make a [demo](http://en.wikipedia.org/wiki/Demo_(computer_programming\)).
+**Your goal is to write a game on whatever hardware and software platform you like, but you must stick with the "look & feel" of the TI-83+**: you can make any game you want using any tools you have, but you may *only* output to a 96 x 64 pixel screen and *only* use four grayscale colors. This screen may scale for easier viewing, but the pixel-count should never change. If you do not want to make an interactive game, you are welcomed to make a [demo](<http://en.wikipedia.org/wiki/Demo_(computer_programming\)>).
 
 **We will award the most unique game, most impressive game, and best demo with +1 gold ribbons to your flair. Winners get Reddit Gold.**
 

@@ -37,7 +37,7 @@ Here are the first 5 cross-sectional 'layers', top to bottom:
     1 2 1
     
        1
-      3	3
+      3    3
      3 6 3
     1 3 3 1
     
@@ -83,23 +83,23 @@ But why you'd do the latter is beyond me.
 
 ## Sample Input
 
-	6
+    6
 
 ## Sample Output
 
-	1
-	5 5
-	10 20 10
-	10 30 30 10
-	5 20 30 20 5
-	1 5 10 10 5 1
+    1
+    5 5
+    10 20 10
+    10 30 30 10
+    5 20 30 20 5
+    1 5 10 10 5 1
 
 # Challenge
 
 ## Challenge Input
 
     14
-	
+    
 # Notes
 
 There are ways to quickly do this that use the [Factorial function](http://en.wikipedia.org/wiki/Factorial). Also, look at the pattern the 'rows' make in relation to the leftmost and rightmost number and Pascal's triangle.  

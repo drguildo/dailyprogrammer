@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challeng
 
 # Description
 
-Short links have been all the rage for several years now, spurred in part by Twitter's character limits. Imgur - Reddit's go-to image hosting site - uses a similar style for their links. Monotonically increasing IDs represented in Base62. 
+Short links have been all the rage for several years now, spurred in part by Twitter's character limits. Imgur - Reddit's go-to image hosting site - uses a similar style for their links. Monotonically increasing IDs represented in Base62.
 
 Your task today is to convert a number to its Base62 representation.
 
@@ -41,6 +41,6 @@ Your program should emit the number represented in Base62 notation. Examples:
     B4b9
     sS4    
 
-# Note 
+# Note
 
 Oops, I have the resulting strings _backwards_ as noted [in this thread](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/dukagoy/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=dailyprogrammer). Solve it either way, but if you wish make a note as many are doing. Sorry about that.

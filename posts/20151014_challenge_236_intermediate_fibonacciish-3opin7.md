@@ -17,14 +17,15 @@ We now have a sequence that contains the number 9. What joy!
 Today you will write a program that will find the lowest positive integer for *f(1)* that will generate a Fibonacci-ish sequence containing the desired integer (let's call it *x*).
 
 # Input description  
+
 Your input will be a single positive integer *x*.
 
 Sample Input 1: 21  
 
 Sample Input 2: 84  
 
-
 # Output description  
+
 The sequence of integers generated using the recursion relation starting from 0 and ending at the desired integer *x* with the lowest value of *f(1)*.
 
 Sample Output 1: 0 1 1 2 3 5 8 13 21
@@ -38,9 +39,11 @@ Input 2: 578
 Input 3: 123456789  
 
 # Notes/Hints
+
 Large inputs (such as input 3) may take some time given your implementation. However, there is a relationship between sequences generated using *f(1) > 1* and the classic sequence that can be exploited.
 
 # Bonus
+
 Make your program run as fast as possible.
 
 # Credit

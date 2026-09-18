@@ -7,7 +7,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3hsgr0/08212015_challeng
 
 A typical ruler has many evenly spaced markings. For instance a standard 12” ruler has 13 marks along its edge, each spaced 1” apart. This is great, and allows the measurement all (integer) values of length between 1” and 12”.
 
-However, a standard ruler is grossly inefficient. For example, the distance of length 1” can be measured multiple ways on this ruler: 0 to 1, 1 to 2, 2 to 3, etc. 
+However, a standard ruler is grossly inefficient. For example, the distance of length 1” can be measured multiple ways on this ruler: 0 to 1, 1 to 2, 2 to 3, etc.
 
 A mathematician named Solomon W. Golomb had an idea about making rulers more efficient, and rulers of this type are named after him. A Golomb ruler comprises a series of marks such that no two pairs of marks are the same distance apart. Below is an example. This ruler has markings that allow all integer distances between 1-6 units to be measured. Not only that, but each distance can be measured in only way way.
 
@@ -30,7 +30,7 @@ Golomb rulers are described by their **order**, which is the number of marks on 
 
 There is no requirement that a Golomb ruler measures all distances up to their length – the only requirement is that each distance is only measured in one way. However, if a ruler does measure all distances, it is classified as a *perfect* Golomb ruler. The above example is a perfect Golumb ruler. Finally, a Golomb ruler is described as *optimal* if no shorter ruler of the same order exists.
 
-Today's challenge is to determine where to place the marks on an optimal (but not necessarily perfect) Golomb ruler when given its order. 
+Today's challenge is to determine where to place the marks on an optimal (but not necessarily perfect) Golomb ruler when given its order.
 
 # Input Description
 
@@ -47,7 +47,7 @@ Your program should emit the length of the optimal Golomb ruler and the placemen
     5   11  0 1 4 9 11
             0 2 7 8 11
 
-Here you can see that we have two solutions for a Golomb ruler of order five and length 11. 
+Here you can see that we have two solutions for a Golomb ruler of order five and length 11.
 
 # Challenge Input
 

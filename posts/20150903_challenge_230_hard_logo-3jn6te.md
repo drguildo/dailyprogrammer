@@ -95,7 +95,7 @@ Note that "fourteen" could be read as "four" or "teen". Your solution must read 
 Notice here that "graphic" and "declension" are touching. Your solution must recognise that "cdeclension" isn't a word but "declension" is.
 
 ### Output
-    
+
     cardboard
     coating
     declension

@@ -3,7 +3,7 @@ title: "[6/25/2014] Challenge #168 [Intermediate] Block Count, Length &amp; Area
 url: "https://old.reddit.com/r/dailyprogrammer/comments/291x9h/6252014_challenge_168_intermediate_block_count/"
 ---
 
-#Description:
+# Description
 
 In construction there comes a need to compute the length and area of a jobsite. The areas and lengths computed are used by estimators
 to price out the cost to build that jobsite. If for example a jobsite was a building with a parking lot and had concrete walkways and some nice
@@ -11,14 +11,14 @@ pavers and landscaping it would be good to know the areas of all these and some 
 
 So for today's challenge we are going to automate the tedious process of calculating the length and area of aerial plans or photos.
 
-#ASCII Photo:
+# ASCII Photo
 
-To keep this within our scope we have converted the plans into an ASCII picture. We have scaled the plans so 1 character is a square 
+To keep this within our scope we have converted the plans into an ASCII picture. We have scaled the plans so 1 character is a square
 with dimensions of 10 ft x 10 ft.
 
 The photo is case sensitive. so a "O" and "o" are 2 different blocks of areas to compute.
 
-#Blocks Counts, Lengths and Areas:
+# Blocks Counts, Lengths and Areas
 
 Some shorthand to follow:
 
@@ -31,33 +31,34 @@ If you have the following picture.
     OOOO
     ####
     mmmm
-	
+    
 * # has a block count of 2. we have 2 areas not joined made up of #
+
 * O and m have a block count of 1. they only have 1 areas each made up of their ASCII character.
 * O has 4 blocks. Each block is 100 SF and so you have 400 SF of O.
 * O has a circumference length of that 1 block count of 100 LF.
 * m also has 4 blocks so there is 400 SF of m and circumference length of 100 LF
-* # has 2 block counts each of 4. So # has a total area of 800 SF and a total circumference length of 200 LF.
- 
+
+* # has 2 block counts each of 4. So # has a total area of 800 SF and a total circumference length of 200 LF
 
 Pay close attention to how "#" was handled. It was seen as being 2 areas made up of # but the final length and area adds them together even thou they not together. It recognizes the two areas by having a block count of 2 (2 non-joined areas made up of "#" characters) while the others only have a block count of 1.
 
-#Input:
+# Input
 
 Your input is a 2-D ASCII picture. The ASCII characters used are any non-whitespace characters.
 
-##Example:
+## Example
 
     ####
     @@oo
     o*@!
     ****
 
-#Output:
+# Output
 
 You give a Length and Area report of all the blocks.
 
-##Example: (using the example input)
+## Example: (using the example input)
 
     Block Count, Length & Area Report
     =================================
@@ -68,14 +69,13 @@ You give a Length and Area report of all the blocks.
     *: Total SF (500), Total Circumference LF (120) - Found 1 block
     !: Total SF (100), Total Circumference LF (40) - Found 1 block
 
-
-#Easy Mode (optional):
+# Easy Mode (optional)
 
 Remove the need to compute the block count. Just focus on area and circumference length.
 
-#Challenge Input:
+# Challenge Input
 
-So we have a "B" building. It has a "D" driveway. "O" and "o" landscaping. "c" concrete walks. "p" pavers. "V" & "v" valley gutters. @ and T tree planting. 
+So we have a "B" building. It has a "D" driveway. "O" and "o" landscaping. "c" concrete walks. "p" pavers. "V" & "v" valley gutters. @ and T tree planting.
 Finally we have # as Asphalt Paving.
 
     ooooooooooooooooooooooDDDDDooooooooooooooooooooooooooooo
@@ -101,6 +101,6 @@ Finally we have # as Asphalt Paving.
     oooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     oooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
-#FAQ:
+# FAQ
 
 Diagonals do not connect. The small example shows this. The @ areas are 2 blocks and not 1 because of the Diagonal.

@@ -38,7 +38,7 @@ Output each consecutive distance rating, one per line.
     6
     13
 
-# Challenge input 
+# Challenge input
 
     6 20
     76 74 45 48 13 75 16 14 79 58 78 82 46 89 81 88 27 64 21 63
@@ -52,9 +52,9 @@ Output each consecutive distance rating, one per line.
 
 Be careful that your program doesn't double up the distances. Consider the sequence `1 2`. An incorrect algorithm might see 1 -> 2 and 2 -> 1 as two separate distances, resulting in a (wrong) consecutive distance rating of 2. Visually, you should think of distances like [this](https://i.imgur.com/MsFLgjW.png) and not like [that](https://i.imgur.com/2V6GMQg.png).
 
-#Bonus  
+# Bonus  
 
-Modify your program to work with any size gap between integers. For instance, we might want to find the distance rating of integers with a gap of 2, such as `1` and `3` or `7 ` and `9` rather than consecutive integers with a gap of 1.
+Modify your program to work with any size gap between integers. For instance, we might want to find the distance rating of integers with a gap of 2, such as `1` and `3` or `7` and `9` rather than consecutive integers with a gap of 1.
 
 # Credit  
 

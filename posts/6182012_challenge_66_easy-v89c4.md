@@ -8,4 +8,3 @@ Write a function that takes two arguments, x and y, which are two strings contai
 Challenge: handle prefix subtraction as well.
 
 * Thanks to cosmologicon for the challenge at /r/dailyprogrammer_ideas ! [LINK](http://www.reddit.com/r/dailyprogrammer_ideas/comments/u983p/easy_comparing_roman_numerals/) .. If you think you got any challenge worthy for this sub submit it there!
-

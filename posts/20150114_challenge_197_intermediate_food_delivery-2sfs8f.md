@@ -3,26 +3,26 @@ title: "[2015-01-14] Challenge #197 [Intermediate] Food Delivery Problem"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2sfs8f/20150114_challenge_197_intermediate_food_delivery/"
 ---
 
-#Description:
+# Description
 
 You are owner of a new restaurant that is open 24 hours a day 7 days a week. To be helpful to your customers you deliver. To make sure you are the best in business you offer a guarantee of the fastest delivery of food during your hours of operation (which is all the time)
 
 Our challenge this week is to build a program our delivery people can use to help pick the fastest route in time to get from a source to a destination in the town of our restaurant.
 
-#City Routes
+# City Routes
 
 The city has many streets connected to many intersections. For the sake of naming we will label intersections with letters. Streets between intersections will use their street name.
 
-#Time Intervals
+# Time Intervals
 
 The data for each street has 4 values of time in minutes. They represent the time it takes one to travel that street based on a fixed interval of time of day to travel on that street. The varied time is due to different traffic loads on that street.
 
 * T1 = 0600-1000 (6 am to 10 am)
-* T2 = 1000 - 1500 (10 am to 3 pm) 
+* T2 = 1000 - 1500 (10 am to 3 pm)
 * T3 = 1500 - 1900 (3 pm to 7 pm)
 * T4 = 1900 - 0600 (7 pm to 6 am)
 
-#Data Format
+# Data Format
 
 (Start Intersection) (Stop Intersection) (Name of street) (T1) (T2) (T3) (T4)
 
@@ -31,8 +31,7 @@ The data for each street has 4 values of time in minutes. They represent the tim
      (Name of Street) - Name of the street with this time data
      (T1 to T4) are the minutes it takes to travel based on fixed time intervals (described above)
 
-
-#Data
+# Data
 
 The data:
 
@@ -61,19 +60,19 @@ The data:
      H I "Oak Expressway" 10 10 10 10
      I P "East Oak Expressway" 8 7 8 7 
 
-#Time Changes and Routes
+# Time Changes and Routes
 
 It is possible that a route might take you long enough that it might cross you over a time change such that the route times get change. To make this easier just please consider the time between intersections based on the start time of the drive. So say I pick 5:50am - and if the route would take us into 6am hour you don't have to compute the route times for 6am to 10am but just keep the route computed based on 7pm to 6am since our starting time was 5:50am.
 
-#Challenge Input: 
+# Challenge Input
 
 You will be given start and end intersections and time of day to compute a route.
 
-#Challenge Output:
+# Challenge Output
 
 List the route direction street by street and time. This must be the "Fastest" route from start to end at that time of day. Also list the time it took you in minutes.
 
-#Challenge Routes to solve:
+# Challenge Routes to solve
 
     A M 0800
     A M 1200
@@ -85,4 +84,3 @@ List the route direction street by street and time. This must be the "Fastest" r
     P D 1200
     P D 1800
     P D 2200
-

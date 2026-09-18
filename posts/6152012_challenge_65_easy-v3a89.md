@@ -1,6 +1,5 @@
 ---
-title: "[6/15/2012] Challenge #65 [easy]
-"
+title: "[6/15/2012] Challenge #65 [easy]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/v3a89/6152012_challenge_65_easy/"
 ---
 

@@ -3,16 +3,16 @@ title: "[2016-07-25] Challenge #277 [Easy] Simplifying fractions"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4uhqdb/20160725_challenge_277_easy_simplifying_fractions/"
 ---
 
-#Description
+# Description
 
 A fraction exists of a numerator (top part) and a denominator (bottom part) as you probably all know.
 
 Simplifying (or reducing) fractions means to make the fraction as simple as possible. Meaning that the denominator is a close to `1` as possible.
 This can be done by dividing the numerator and denominator by their greatest common divisor.
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You will be given a list with 2 numbers seperator by a space.
 The first is the numerator, the second the denominator
@@ -24,7 +24,7 @@ The first is the numerator, the second the denominator
     7673 4729
     4096 1024
 
-##Output description
+## Output description
 
 The most simplified numbers
 
@@ -35,11 +35,11 @@ The most simplified numbers
     7673 4729
     4 1
 
-#Notes/Hints
+# Notes/Hints
 
 Most languages have by default this kind of functionality, but if you want to challenge yourself, you should go back to the basic theory and implement it yourself.
 
-#Bonus
+# Bonus
 
 Instead of using numbers, we could also use letters.
 
@@ -88,8 +88,7 @@ output:
     c 1
     1 ab
 
-
-#Finally
+# Finally
 
 Have a good challenge idea?
 

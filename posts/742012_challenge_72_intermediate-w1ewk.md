@@ -12,7 +12,7 @@ If it is covered by a mixture of red and blue filters, the light will be a shade
 
 Given some set of red and blue sheets, what is the total area of all the purple regions?
 
-Specification: 
+Specification:
 Each piece of cellophane is guaranteed to be an positive integer number of centimeters wide and tall, and will be placed at an integer coordinate
 on the illuminator.  
 
@@ -27,29 +27,29 @@ Here is an example input and output
 
 input file:
 
-	3
-	R 0 0 5 5
-	R 10 0 5 5
-	B 3 2 9 2
+    3
+    R 0 0 5 5
+    R 10 0 5 5
+    B 3 2 9 2
 
-	
-Here is an ascii art example visualizing that input: 
     
-	RRRRR     RRRRR
-	RRRRR     RRRRR
-	RRRPPBBBBBPPRRR
-	RRRPPBBBBBPPRRR
-	RRRRR     RRRRR
-	
+Here is an ascii art example visualizing that input:
+
+    RRRRR     RRRRR
+    RRRRR     RRRRR
+    RRRPPBBBBBPPRRR
+    RRRPPBBBBBPPRRR
+    RRRRR     RRRRR
+    
 expected program output:
-	8
-	
+    8
+
 Write a program to count the number of purple blocks given an input file.
 
-For testing, here are some test files I generated: 
+For testing, here are some test files I generated:
 
-* http://codepad.org/5HtVUwCT
-* http://codepad.org/2KXIrWlj
-* http://codepad.org/Weyka1Pp
+* <http://codepad.org/5HtVUwCT>
+* <http://codepad.org/2KXIrWlj>
+* <http://codepad.org/Weyka1Pp>
 
 I am a fallible mod, but I believe the correct answer for those files should be 13064038,15822641,15666634 respectively.

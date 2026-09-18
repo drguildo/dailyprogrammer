@@ -10,7 +10,6 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/yqyrs/8242012_challenge_
 
 Your program parses the FEN board, then determines whether moving the piece on coordinate 1 to coordinate 2 is a valid move, printing either `true` or `false`. As demonstrated here, it is:
 
-
 /|a|b|c|d|e|f|g|h
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 **8**|♜|♞|♝|♛|♚|♝|♞|♜

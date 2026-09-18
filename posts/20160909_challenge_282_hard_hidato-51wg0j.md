@@ -3,7 +3,7 @@ title: "[2016-09-09] Challenge #282 [Hard] Hidato"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/51wg0j/20160909_challenge_282_hard_hidato/"
 ---
 
-#Description
+# Description
 
 From [wikipedia](https://en.wikipedia.org/wiki/Hidato)
 
@@ -18,20 +18,19 @@ Note: the above condition on the smallest or highest numbers are sometimes relax
 Every well-formed Hidato puzzle is supposed to have a unique solution. Moreover, a Hidato puzzle intended for human solvers should have a solution that can be found by (more or less) simple logic. However, there exist very hard Hidato puzzles, even of small size.
 Hidato puzzles are published in newspapers such as the Daily Mail and Detroit Free Press.
 
-
 So basically:
 
 You'll recieve a grid with numbers, empty spaces and blocked spaces.
 
 You need to fill in all empty spaces with numbers. These numbers must be consecutive that connect in any direction.
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 A Hidato puzzle to solve.
 
-###Input 1
+### Input 1
 
     . 33 35 . . x x x
     . . 24 22 . x x x
@@ -42,7 +41,7 @@ A Hidato puzzle to solve.
     x x x x . 7 . .
     x x x x x x 5 .
 
-###Input 2
+### Input 2
 
     . . 3 . . . . .
     x x x x x x x .
@@ -54,24 +53,24 @@ A Hidato puzzle to solve.
     . x x x x x x x
     . . . . . . . .
 
-###Input 3
+### Input 3
 
     1 .
 
-###Input 4
+### Input 4
 
     1 .
     x .
     5 .
 
-###Input 5
+### Input 5
 
     . 4 5 16
     8 6 . .
     . 12 . 14
     10 . 13 1
 
-###Input 6
+### Input 6
 
     1 . . 23 . .
     11 . 3 . . 18
@@ -80,11 +79,11 @@ A Hidato puzzle to solve.
     8 . . 15 . 30
     . . 36 . . 31
 
-##Output description
+## Output description
 
 A solved Hidato
 
-###Output 1
+### Output 1
 
     32 33 35 36 37 x x x
     31 34 24 22 38 x x x
@@ -95,7 +94,7 @@ A solved Hidato
     x x x x 17 7 6 3
     x x x x x x 5 4
 
-###Output 2
+### Output 2
 
     1 2 3 4 5 6 7 8
     x x x x x x x 9
@@ -107,24 +106,24 @@ A solved Hidato
     36 x x x x x x x
     37 38 39 40 41 42 43 44
 
-###Output 3
+### Output 3
 
     1 2
 
-###Output 4
+### Output 4
 
     1 2
     x 3
     5 4
 
-###Output 5
+### Output 5
 
     7 4 5 16
     8 6 3 15
     9 12 2 14
     10 11 13 1
 
-###Output 6
+### Output 6
 
     1 2 22 23 20 19
     11 12 3 21 24 18
@@ -133,7 +132,7 @@ A solved Hidato
     8 6 34 15 29 30
     7 35 36 33 32 31
 
-#Notes/Hints
+# Notes/Hints
 
 Also from [wikipedia](https://en.wikipedia.org/wiki/Hidato)
 
@@ -141,7 +140,7 @@ Also from [wikipedia](https://en.wikipedia.org/wiki/Hidato)
 > One key to the solution is, it does not have to be built in ascending (or descending) order; it can be built piecewise, with pieces starting from different givens.
 > As in the Sudoku case, the resolution of harder Hidato or Numbrix puzzles requires the use of more complex techniques - in particular of various types of chain patterns.
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

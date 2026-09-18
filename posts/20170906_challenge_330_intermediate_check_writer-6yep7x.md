@@ -3,11 +3,11 @@ title: "[2017-09-06] Challenge #330 [Intermediate] Check Writer"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/6yep7x/20170906_challenge_330_intermediate_check_writer/"
 ---
 
-# Description:
+# Description
 
 Given a dollar amount between 0.00 and 999,999.00, create a program that will provide a worded representation of a dollar amount on a check.
 
-# Input:
+# Input
 
 You will be given one line, the dollar amount as a float or integer. It can be as follows:
 
@@ -15,7 +15,7 @@ You will be given one line, the dollar amount as a float or integer. It can be a
     400120.00
     400120
 
-# Output:
+# Output
 
 This will be what you would write on a check for the dollar amount.
 
@@ -23,7 +23,7 @@ This will be what you would write on a check for the dollar amount.
 
 edit: There is no and between hundred and twenty, thank you /u/AllanBz
 
-# Challenge Inputs:
+# Challenge Inputs
 
     333.88
     742388.15
@@ -31,7 +31,7 @@ edit: There is no and between hundred and twenty, thank you /u/AllanBz
     12.11
     2.0
 
-# Challenge Outputs:
+# Challenge Outputs
 
     Three hundred thirty three dollars and eighty eight cents.
     Seven hundred forty two thousand, three hundred eighty eight dollars and fifteen cents.
@@ -39,15 +39,15 @@ edit: There is no and between hundred and twenty, thank you /u/AllanBz
     Twelve dollars and eleven cents.
     Two dollars and zero cents.
 
-# Bonus:
+# Bonus
 
 While I had a difficult time finding an official listing of the world's total wealth, many sources estimate it to be in the trillions of dollars. Extend this program to handle sums up to 999,999,999,999,999.99
 
-# Challenge Credit:
+# Challenge Credit
 
 In part due to Dave Jones at Spokane Community College, one of the coolest programming instructors I ever had.
 
-# Notes:
+# Notes
 
 This is my first submission to /r/dailyprogrammer, feedback is welcome.
 

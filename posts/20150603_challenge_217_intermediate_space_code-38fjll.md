@@ -3,29 +3,27 @@ title: "[2015-06-03] Challenge #217 [Intermediate] Space Code Breaking"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/38fjll/20150603_challenge_217_intermediate_space_code/"
 ---
 
-#Description:
+# Description
 
-The year 2266 we have encountered alien planets who use very simple encryption to send messages. Lucky for us we intercept all these messages and we can break the code. 
+The year 2266 we have encountered alien planets who use very simple encryption to send messages. Lucky for us we intercept all these messages and we can break the code.
 
-The problem is the collection of messages are all from the same space probe. So we are not sure which message is from what system. 
+The problem is the collection of messages are all from the same space probe. So we are not sure which message is from what system.
 
 Our challenge today is to decode the message and have our solutions determine which planet system the message came from.
 
-
-##Edit note:
+## Edit note
 
 Copying my ASCII data over as input is causing problems. I see that some people who were true heroes and tackled the problem early are seeing this. To fix this we will be altering the challenge. Input will be a set of numbers each represent a byte in the message. Hopefully this will fix the issues.
 
-
-#Input:
+# Input
 
 Message broken down into numbers representing the ASCII values of the message between " "
 
-#Output: 
+# Output
 
 The name of the system and the message decoded.
 
-#Encryption and Planet Systems:
+# Encryption and Planet Systems
 
     Omicron V: will take and invert the 5th bit. ( 0001 0000) That is the bit location in the byte where we invert the bit.
 
@@ -35,28 +33,26 @@ The name of the system and the message decoded.
 
     Htrae: reverses the characters.
 
-#Validation:
+# Validation
 
 It is not enough to just take the message and decode it in all 4 ways and let you decide which one is right or wrong. You need to have your program/solution determine the right decoding. All messages are in english (I know even in the future on alien planets).
 
-#Example:
+# Example
 
-##input:
+## input
 
 " 101  99  97 101 112  32 110 105  32 101 109 111  99  32 101  87 "
 
-##Note:
+## Note
 
 This would be "ecaeP ni emoc eW" in displayed ascii - some messages don't display well as the
 values take them beyond displayable ascii values (thus the decimal values)
 
-##output:
+## output
 
 Htrae: We come in Peace
 
-
-
-#Challenge Input:
+# Challenge Input
 
     " 71 117  48 115 127 125 117  48 121 126  48  96 117 113 115 117 "
     " 97 111  42 109 121 119 111  42 115 120  42 122 111 107 109 111 "
@@ -71,7 +67,7 @@ Htrae: We come in Peace
     " 69 104 113 100  31 115 103 100  31  76 104 114 114 107 100 114 "
     " 115 101 108 115 115 105  77  32 101 104 116  32 101 114 105  70 "
 
-#Challenge Solution:
+# Challenge Solution
 
     The 12 messages are 3 messages in each of the 4 encodings. Hopefully you should come up with
     

@@ -9,25 +9,22 @@ For this challenge, you need to write a program that will take the scrambled wor
 
 Here are your words to de-scramble:
 
-    
 `mkeart`
-    
+
 `sleewa`
-    
+
 `edcudls`
-   
+
 `iragoge`
-    
+
 `usrlsle`
-    
+
 `nalraoci`
-   
+
 `nsdeuto`
-    
+
 `amrhat`
 
 `inknsy`
-    
+
 `iferkna`
-
-

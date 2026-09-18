@@ -33,7 +33,7 @@ There is a [Wikipedia article](https://en.wikipedia.org/wiki/Minichess) on minic
 
 Thanks to /u/mn-haskell-guy for the idea for this challenge.
 
-Please feel free to provide feedback. I'm a decent chess player myself, however I have never played mini-chess and am not 100% versed in its rules and variations. 
+Please feel free to provide feedback. I'm a decent chess player myself, however I have never played mini-chess and am not 100% versed in its rules and variations.
 
 # Edit
 

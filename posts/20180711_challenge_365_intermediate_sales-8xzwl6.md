@@ -5,9 +5,9 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/8xzwl6/20180711_challeng
 
 # Description
 
-You're a regional manager for an office beverage sales company, and right now you're in charge of paying your sales team they're monthly commissions. 
+You're a regional manager for an office beverage sales company, and right now you're in charge of paying your sales team they're monthly commissions.
 
-Sales people get paid using the following formula for the total commission: commission is 6.2% of profit, with no commission for any product to total less than zero. 
+Sales people get paid using the following formula for the total commission: commission is 6.2% of profit, with no commission for any product to total less than zero.
 
 # Input Description
 
@@ -28,7 +28,6 @@ You'll be given two matrices showing the sales figure per salesperson for each p
 # Output Description
 
 Your program should calculate the commission for each salesperson for the month. Example:
-
 
                     Frank   Jane
     Commission       6.20   9.49
@@ -58,4 +57,4 @@ Your program should calculate the commission for each salesperson for the month.
 
 # Credit
 
-I grabbed this challenge from Figure 3 of an APL\3000 overview in a [1977 issue of HP Journal](http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1977-07.pdf). If you have an interest in either computer history or the APL family of languages (Dyalog APL, J, etc) this might be interesting to you. 
+I grabbed this challenge from Figure 3 of an APL\3000 overview in a [1977 issue of HP Journal](http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1977-07.pdf). If you have an interest in either computer history or the APL family of languages (Dyalog APL, J, etc) this might be interesting to you.

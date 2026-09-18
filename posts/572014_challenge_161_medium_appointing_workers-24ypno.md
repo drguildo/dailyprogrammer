@@ -25,55 +25,55 @@ You must print the list of workers, along with the job each worker is assigned t
 
 ## Sample Input
 
-	5
-	Wiring
-	Insulation
-	Plumbing
-	Decoration
-	Finances
-	Alice Wiring,Insulation,Plumbing
-	Bob Wiring,Decoration
-	Charlie Wiring,Plumbing
-	David Plumbing
-	Erin Insulation,Decoration,Finances
+    5
+    Wiring
+    Insulation
+    Plumbing
+    Decoration
+    Finances
+    Alice Wiring,Insulation,Plumbing
+    Bob Wiring,Decoration
+    Charlie Wiring,Plumbing
+    David Plumbing
+    Erin Insulation,Decoration,Finances
 
 ## Sample Output
 
-	Alice Insulation
-	Bob Decoration
-	Charlie Wiring
-	David Plumbing
-	Erin Finances
+    Alice Insulation
+    Bob Decoration
+    Charlie Wiring
+    David Plumbing
+    Erin Finances
 
 # Challenge
 
 ## Challenge Input
 
-	6
-	GUI
-	Documentation
-	Finances
-	Frontend
-	Backend
-	Support
-	Alice GUI,Backend,Support
-	Bill Finances,Backend
-	Cath Documentation,Finances
-	Jack Documentation,Frontend,Support
-	Michael Frontend
-	Steve Documentation,Backend
-	
+    6
+    GUI
+    Documentation
+    Finances
+    Frontend
+    Backend
+    Support
+    Alice GUI,Backend,Support
+    Bill Finances,Backend
+    Cath Documentation,Finances
+    Jack Documentation,Frontend,Support
+    Michael Frontend
+    Steve Documentation,Backend
+    
 ## Challenge Output
 
 Note that this is just one possible solution - there may be more.
 
-	Alice GUI
-	Bill Backend
-	Cath Finances
-	Jack Support
-	Michael Frontend
-	Steve Documentation
-	
+    Alice GUI
+    Bill Backend
+    Cath Finances
+    Jack Support
+    Michael Frontend
+    Steve Documentation
+    
 # Hint
 
 This problem is called the Matching problem in usual terms.

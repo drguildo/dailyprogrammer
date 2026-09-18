@@ -3,7 +3,7 @@ title: "[2016-05-25] Challenge #268 [Intermediate] Network and Cards: Part 2, Th
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4kz0e0/20160525_challenge_268_intermediate_network_and/"
 ---
 
-#Description
+# Description
 
 This week we are creating a game playable over network. This will be a 3-parter.
 
@@ -38,30 +38,30 @@ The cards have the following values:
     King -> 10
     Ace -> 1 or 11 (11 if not over 21 and 1 if over)
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
- - Server
- 
+- Server
+
 Server has to accept at least 3 commands: `START`, `TAKE` and `PASS`
 
- - Client
- 
+- Client
+
  Clients must be able to recieve the choice for `TAKE` and `PASS` and must be able to recieve cards, format of that is up to you
 
-##Output description
+## Output description
 
- - Server
- 
+- Server
+
  No Output required, but I can imagen that some loggin will be handy.
- 
-  - Client
+
+- Client
   
   A decent output for humans to read the cards and see their current score.
   Also must know when to type in the option to `TAKE` and `PASS`
- 
-#Notes/Hints
+
+# Notes/Hints
 
 ## TCP Socket approach
 
@@ -76,13 +76,13 @@ For the connection, TCP connections are the easiest way to do this in most langu
 
 Some off you pointed out that this could be done with a webserver. If this is more in the line of what you are used to, no problem then, as long as it stays in the line of a multiplayer game.
 
-#Bonus
+# Bonus
 
- - Send all the events to other clients in the form `CLIENT A takes a Queen of Hearts` or `Client A passes`
- - Allow clients to join when a game is running for the next game
- - Add a spectator mode, nothing more fun then Let's play no?
+- Send all the events to other clients in the form `CLIENT A takes a Queen of Hearts` or `Client A passes`
+- Allow clients to join when a game is running for the next game
+- Add a spectator mode, nothing more fun then Let's play no?
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

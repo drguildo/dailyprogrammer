@@ -12,7 +12,7 @@ for flashiness, insert `**` around any index that is found. (will bold in markdo
 **inputs:**  
 
 )(asdf)))  
-((((asdf)))   
+((((asdf)))
 ((((asdf))  
 (ab)((cd)(asdf)))  
 (ab)((cd)(asdf)())  

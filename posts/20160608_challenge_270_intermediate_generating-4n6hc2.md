@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4n6hc2/20160608_challeng
 
 # Description
 
-Text generation algorithms exist in a wide variety of formats, including "Mad Libs" and Markov processes. A Markov chain algorithm generates text by creating a statistical model of potential textual suffixes for a given prefix. That's a fancy way of saying "it basically determines the next most probable word given the training set." Markov chain programs typically do this by breaking the input text into a series of words, then by sliding along them in some fixed sized window, storing the first N-1 words as a prefix and then the Nth word as a member of a set to choose from randomly for the suffix. Then, given a prefix, pick randomly from the suffixes to make the next piece of the chain. 
+Text generation algorithms exist in a wide variety of formats, including "Mad Libs" and Markov processes. A Markov chain algorithm generates text by creating a statistical model of potential textual suffixes for a given prefix. That's a fancy way of saying "it basically determines the next most probable word given the training set." Markov chain programs typically do this by breaking the input text into a series of words, then by sliding along them in some fixed sized window, storing the first N-1 words as a prefix and then the Nth word as a member of a set to choose from randomly for the suffix. Then, given a prefix, pick randomly from the suffixes to make the next piece of the chain.
 
 Take this example text:
 
@@ -39,10 +39,10 @@ You'll see a couple of the prefixes have TWO suffixes, this is because they repe
 
 # Challenge
 
-Your challenge today is to implement a Markov generator supporting a bi-gram prefix. It should be capable of ingesting a body of text for training and output a body of text generated from that. 
+Your challenge today is to implement a Markov generator supporting a bi-gram prefix. It should be capable of ingesting a body of text for training and output a body of text generated from that.
 
 # Notes
 
 [Markov Chain Algorithm](http://www.rose-hulman.edu/Users/faculty/young/CS-Classes/csse220/200820/web/Programs/Markov/markov.html) from rose-hulman.edu
 
-If you want to reproduce my Star Trek fun, I extracted the summaries from [Eric Wasserman's site](http://www.ericweisstein.com/fun/startrek/) and made them into a [flat text file](https://drive.google.com/file/d/0B3rX15hRO_71NEt0cl8tcWMxNnM/view?usp=sharing). 
+If you want to reproduce my Star Trek fun, I extracted the summaries from [Eric Wasserman's site](http://www.ericweisstein.com/fun/startrek/) and made them into a [flat text file](https://drive.google.com/file/d/0B3rX15hRO_71NEt0cl8tcWMxNnM/view?usp=sharing).

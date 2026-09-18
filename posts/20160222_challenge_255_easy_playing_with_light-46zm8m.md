@@ -80,6 +80,6 @@ As you can see, 7 of the 10 bulbs are on at the end.
 
 Make a solution that works for extremely large numbers of switches with very numerous ranges to flip. In other words, make a solution that solves this input quickly (in less than a couple seconds): [lots_of_switches.txt (3 MB)](https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/ideas/switches/lots_of_switches.txt). So you don't have to download it, here's what the input is: 5,000,000 switches, with 200,000 randomly generated ranges to switch.
 
-# Lastly...
+# Lastly
 
 Have a cool problem that you would like to challenge others to solve? Come by /r/dailyprogrammer_ideas and let everyone know about it!

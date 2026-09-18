@@ -47,13 +47,13 @@ Your challenge today is to do two things: convert a point number to its location
 
 ## Input Specification
 
-On the first line, you'll be given a number **S**. This is the size of the spiral. If **S** equals 5, then the grid is a 5-by-5 grid, as shown in the demonstration above. **S** will always be an odd number.
+On the first line, you'll be given a number __S__. This is the size of the spiral. If __S__ equals 5, then the grid is a 5-by-5 grid, as shown in the demonstration above. __S__ will always be an odd number.
 
 You will then be given one of two inputs on the next line:
 
-* You'll be given a single number **N** - this is the point number of a point on the spiral.
+* You'll be given a single number __N__ - this is the point number of a point on the spiral.
 
-* You'll be given two numbers **X** and **Y** (on the same line, separated by a space) - this is the location of a point on the spiral.
+* You'll be given two numbers __X__ and __Y__ (on the same line, separated by a space) - this is the location of a point on the spiral.
 
 ## Output Description
 
@@ -101,7 +101,7 @@ This corresponds to the top-left point (1, 1) in [this 7-by-7 grid](https://uplo
     50
 
 ### Output
-    
+
     (10, 9)
 
 ## Example 4

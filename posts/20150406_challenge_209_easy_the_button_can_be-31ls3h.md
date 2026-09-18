@@ -3,7 +3,7 @@ title: "[2015-04-06] Challenge #209 [Easy] The Button can be pressed but once...
 url: "https://old.reddit.com/r/dailyprogrammer/comments/31ls3h/20150406_challenge_209_easy_the_button_can_be/"
 ---
 
-# [](#EasyIcon) _(Easy)_: The Button can be pressed but once...
+# [](#EasyIcon) _(Easy)_: The Button can be pressed but once
 
 The 1st of April brought [the Button](/r/thebutton) to Reddit - if you've not heard of it, read the blog post on it [here](http://www.redditblog.com/2015/04/the-button.html). The value of the countdown at the instant that someone presses the button determines the flair that they obtain on the subreddit. For example, if the counter is at 53.04 seconds, then I would obtain a **53** flair, as that is the number of seconds (rounded down). After a person presses the button, the countdown resets from 60.00 seconds. Today's challenge is simple - you'll be given a list of users in no particular order, and told at which time each user pressed the button; you'll need to work out which flair each user gets.
 

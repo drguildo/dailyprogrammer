@@ -1,12 +1,11 @@
 ---
-title: "[6/15/2012] Challenge #65 [intermediate]
-"
+title: "[6/15/2012] Challenge #65 [intermediate]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/v3afh/6152012_challenge_65_intermediate/"
 ---
 
 Anyone who've tried to get through the *A Song of Ice and Fire* books written by George R.R. Martin (the basis for the HBO show Game of Thrones) knows that while the books are generally excellent, there are *a lot* of characters. A staggering number, in fact, and it can be very hard to remember who's who and who is related to who and who had an incestual relationship with what sister or brother.
 
-So, today, we make that a little bit easier! What follows at the end here is a list of 50+ characters from the books and a list detailing how their related. Each character is given a two-letter code (for instance "AA" or "BQ") and a specification of their gender ("M" or "F"), and then what follows is a list detailing how they're related to the other characters. 
+So, today, we make that a little bit easier! What follows at the end here is a list of 50+ characters from the books and a list detailing how their related. Each character is given a two-letter code (for instance "AA" or "BQ") and a specification of their gender ("M" or "F"), and then what follows is a list detailing how they're related to the other characters.
 
 To make things simple, there's only one "basic" relationship, which is "A is parent to B", written as "->". So, for instance, if Arya Stark has the code "AI" and Eddard Stark has the code "AB", then "AB->AI" means "Eddard Stark is parent to Arya Stark". Each person may have 0, 1 or 2 parents specified somewhere in the list, but no more.
 
@@ -24,10 +23,9 @@ Write a program that parses this list, and can then answer questions about the r
 
 * cousins(person), which gives you the 1st cousins of the specified person.
 
-* Bonus: As a bonus, write a function called relationship(person1, person2) which returns person1's relationshipt to person2 as a string (i.e. "Grandfather", "1st cousin", "Brother", "Great uncle", "Not related" etc.). As with all bonuses on /r/dailyprogrammer, this is entirely optional. EDIT: Since this chart gives no indication about who is married to whom, you can safely exclude all familial relationships that somehow involves marriage. That means that relationship("Eddard Stark", "Catelyn Tully") should return "Not related", and you can also skip all brother/sister/mother/father in-laws. Only relationships "by blood", so to speak. 
+* Bonus: As a bonus, write a function called relationship(person1, person2) which returns person1's relationshipt to person2 as a string (i.e. "Grandfather", "1st cousin", "Brother", "Great uncle", "Not related" etc.). As with all bonuses on /r/dailyprogrammer, this is entirely optional. EDIT: Since this chart gives no indication about who is married to whom, you can safely exclude all familial relationships that somehow involves marriage. That means that relationship("Eddard Stark", "Catelyn Tully") should return "Not related", and you can also skip all brother/sister/mother/father in-laws. Only relationships "by blood", so to speak.
 
 ***
-
 
 And now, here is the family tree of some of the major characters in A Song of Ice and Fire:
 

@@ -7,7 +7,7 @@ Basically the same challenge as Monday's, but with much larger numbers and so co
 
 # permutation number
 
-https://en.wikipedia.org/wiki/Factorial_number_system is the traditional technique used to solve this, but a very similar recursive approach  can calculate how many permutation indexes were skipped in order to set the next position.
+<https://en.wikipedia.org/wiki/Factorial_number_system> is the traditional technique used to solve this, but a very similar recursive approach  can calculate how many permutation indexes were skipped in order to set the next position.
 
 **input:**  
 what is the 12345678901234 permutation index of 42-length list
@@ -26,7 +26,7 @@ what is the 12345678901234 permutation index of 42-length list
 
 # combination number
 
-https://en.wikipedia.org/wiki/Combinatorial_number_system and https://msdn.microsoft.com/en-us/library/aa289166%28VS.71%29.aspx show the theory.
+<https://en.wikipedia.org/wiki/Combinatorial_number_system> and <https://msdn.microsoft.com/en-us/library/aa289166%28VS.71%29.aspx> show the theory.
 
 It may also be useful to know that the number of combinations of 4 out of 10 that start with 0 1 2 3 4 5 6 are (in J notation `!` is out of operator)
 
@@ -46,7 +46,6 @@ with the last combination `6 7 8 9` (84 combinations for 4 out of 10 start with 
 **challenge input:**  (find the combination number)  
 0 1 2 88 111  from 5 out of 120  
 15 25 35 45 55 65 85 from 7 out of 100
-
 
 **challenge input 2**  
 what is the 123456789 combination index for 5 out of 100

@@ -3,39 +3,38 @@ title: "[2016-12-12] Challenge #295 [Easy] Letter by letter"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5hy8sm/20161212_challenge_295_easy_letter_by_letter/"
 ---
 
-#Description
+# Description
 
 Change the a sentence to another sentence, letter by letter.
 
 The sentences will always have the same length.
 
-#Formal Inputs &amp; Outputs
+# Formal Inputs &amp; Outputs
 
-##Input description
+## Input description
 
 2 lines with the source and the target
 
-###Input 1
+### Input 1
 
     floor
     brake
 
-###Input 2
+### Input 2
 
     wood
     book
 
-###Input 3
+### Input 3
 
     a fall to the floor
     braking the door in
 
-##Output description
+## Output description
 
 All the lines where you change one letter and one letter only
 
-
-###Output 1
+### Output 1
 
     floor
     bloor
@@ -44,13 +43,13 @@ All the lines where you change one letter and one letter only
     brakr
     brake
 
-###Output 2
+### Output 2
 
     wood
     bood
     book
 
-###Output 3
+### Output 3
 
     a fall to the floor
     b fall to the floor
@@ -73,11 +72,11 @@ All the lines where you change one letter and one letter only
     braking the door ir
     braking the door in
 
-#Bonus
+# Bonus
 
 Try to do something fun with it. You could do some codegolfing or use an [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language)
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

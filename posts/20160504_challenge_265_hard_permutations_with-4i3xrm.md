@@ -20,7 +20,7 @@ for the list `0 0 1 2` the permutations in order are
     2 0 1 0
     2 1 0 0
 
-#1.  Calculate permutation number of list that may include repeats
+# 1.  Calculate permutation number of list that may include repeats
 
 The permutation number is similar to Monday and Wednesday's challenge.  But only wednesday's approach of calculating it without generating the full list will work (fast) for the longer inputs.  The input varies from previous ones in that you are provided a list rather than a number to account for possible repeats.  If there are no repeats, then the answer is the same as the part 2 (wednesday) challenge.
 

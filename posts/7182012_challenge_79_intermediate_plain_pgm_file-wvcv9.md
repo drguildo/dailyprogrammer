@@ -29,7 +29,6 @@ Your program should use ASCII symbols to represent different grayscale values. A
 
 Converted, the example image would look something like this:
 
-                            
      ....  ;;;;  ====  #### 
      .     ;     =     #  # 
      ...   ;;;   ===   #### 

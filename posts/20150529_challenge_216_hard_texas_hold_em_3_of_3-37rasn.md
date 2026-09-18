@@ -3,7 +3,7 @@ title: "[2015-05-29] Challenge #216 [Hard] Texas Hold 'Em 3 of 3 All In"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/37rasn/20150529_challenge_216_hard_texas_hold_em_3_of_3/"
 ---
 
-#Description:
+# Description
 
 For the last part of this week's theme challenge. You have choices.
 
@@ -17,7 +17,7 @@ At this point we have a way to run games of different game lengths. We have buil
 
 For this path of the challenge we want to run many simulations of the game. You will ask for how many players and how many games. At the end you will output data gathered to show some results.
 
-#Betting:
+# Betting
 
 At this point the design/flow of this I would leave to you to develop. Some things to consider in your design:
 
@@ -27,7 +27,7 @@ At this point the design/flow of this I would leave to you to develop. Some thin
 
 I would try to use the fold AI to morph it a bit to help the CPU decide how strong of a hand it thinks it has for the size of the bet. Again the design of how much to bet and if to raise/check/call is up to you. There is no wrong or right choice just the design of how you want it to work.
 
-#Simulation:
+# Simulation
 
 Gather the number of cycles to run by asking the user after the amount of players. At the end of all the games we want to see the following data
 
@@ -37,4 +37,3 @@ Gather the number of cycles to run by asking the user after the amount of player
 * Winning hand count - By method (High card, pair, 2 pairs, 3 of a kind, etc) This could be interesting to see what is the most common winning hand
 
 Thank you to everyone for participating this week.
-

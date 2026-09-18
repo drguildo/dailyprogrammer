@@ -5,33 +5,33 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/7gdsy4/20171129_challeng
 
 # Description
 
-The basic need for a binary-to-text encoding comes from a need to communicate arbitrary binary data over preexisting communications protocols that were designed to carry only English language human-readable text. This is why we have things like Base64 encoded email and Usenet attachments - those media were designed only for text. 
+The basic need for a binary-to-text encoding comes from a need to communicate arbitrary binary data over preexisting communications protocols that were designed to carry only English language human-readable text. This is why we have things like Base64 encoded email and Usenet attachments - those media were designed only for text.
 
-Multiple competing proposals appeared during the net's explosive growth days, before many standards emerged either by consensus or committee. Unlike the well known Base64 algorithm, [ASCII85](https://en.wikipedia.org/wiki/Ascii85) inflates the size of the original data by only 25%, as opposed to the 33% that Base64 does. 
+Multiple competing proposals appeared during the net's explosive growth days, before many standards emerged either by consensus or committee. Unlike the well known Base64 algorithm, [ASCII85](https://en.wikipedia.org/wiki/Ascii85) inflates the size of the original data by only 25%, as opposed to the 33% that Base64 does.
 
 When encoding, each group of 4 bytes is taken as a 32-bit binary number, most significant byte first (Ascii85 uses a big-endian convention). This is converted, by repeatedly dividing by 85 and taking the remainder, into 5 radix-85 digits. Then each digit (again, most significant first) is encoded as an ASCII printable character by adding 33 to it, giving the ASCII characters 33 ("!") through 117 ("u").
 
 Take the following example word "sure". Encoding using the above method looks like this:
 
-| Text        | s | u | r | e ||
-|:------------|---|---|---|---|-|
-| **ASCII value** | 115 | 117 | 114 | 101 ||
-| **Binary value** | 01110011 | 01110101 | 01110010 | 01100101 ||
-| **Concatenate** | 01110011011101010111001001100101 | 
+| Text | s | u | r | e | |
+| :------------ | --- | --- | --- | --- | - |
+| **ASCII value** | 115 | 117 | 114 | 101 | |
+| **Binary value** | 01110011 | 01110101 | 01110010 | 01100101 | |
+| **Concatenate** | 01110011011101010111001001100101 |
 | **32 bit value** | 1,937,076,837 |
 | **Decomposed by 85** | 37x85^4 | 9x85^3 | 17x85^2 | 44x85^1 | 22 |
-| **Add 33**     | 70 | 42 | 50 | 77 | 55 |
+| **Add 33** | 70 | 42 | 50 | 77 | 55 |
 | **ASCII character** | F | * | 2 | M | 7 |
 
-So in ASCII85 "sure" becomes "F*2M7". To decode, you reverse this process. Null bytes are used in standard ASCII85 to pad it to a multiple of four characters as input if needed. 
+So in ASCII85 "sure" becomes "F*2M7". To decode, you reverse this process. Null bytes are used in standard ASCII85 to pad it to a multiple of four characters as input if needed.
 
-Your challenge today is to implement your own routines (not using built-in libraries, for example Python 3 has a85encode and a85decode) to encode and decode ASCII85. 
+Your challenge today is to implement your own routines (not using built-in libraries, for example Python 3 has a85encode and a85decode) to encode and decode ASCII85.
 
 (Edited after posting, a column had been dropped in the above table going from four bytes of input to five bytes of output. Fixed.)
 
 # Challenge Input
 
-You'll be given an input string per line. The first character of the line tells your to encode (`e`) or decode (`d`) the inputs. 
+You'll be given an input string per line. The first character of the line tells your to encode (`e`) or decode (`d`) the inputs.
 
     e Attack at dawn
     d 87cURD_*#TDfTZ)+T
@@ -53,4 +53,4 @@ You'll be given an input string per line. The first character of the line tells 
 
 # Credit
 
-Thank you to user /u/JakDrako who suggested this in a [recent discussion](https://www.reddit.com/r/dailyprogrammer_ideas/comments/7df2dx/intermediate_base64_encodedecode/). If you have a challenge idea, please share it at /r/dailyprogrammer_ideas and there's a chance we'll use it. 
+Thank you to user /u/JakDrako who suggested this in a [recent discussion](https://www.reddit.com/r/dailyprogrammer_ideas/comments/7df2dx/intermediate_base64_encodedecode/). If you have a challenge idea, please share it at /r/dailyprogrammer_ideas and there's a chance we'll use it.

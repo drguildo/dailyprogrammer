@@ -101,8 +101,8 @@ Port is optional and should default to 6667.
 # Notes
 
 To verify your code is joining channels and chatting correctly, I suggest joining the channel in advance using an already
-finished IRC client, such as the web based http://webchat.freenode.net/.
+finished IRC client, such as the web based <http://webchat.freenode.net/>.
 
-You can see the full original IRC specification at https://tools.ietf.org/html/rfc1459. See also, http://ircdocs.horse/specs/.
+You can see the full original IRC specification at <https://tools.ietf.org/html/rfc1459>. See also, <http://ircdocs.horse/specs/>.
 
 [A Regular Expression For IRC Messages](https://mybuddymichael.com/writings/a-regular-expression-for-irc-messages.html)

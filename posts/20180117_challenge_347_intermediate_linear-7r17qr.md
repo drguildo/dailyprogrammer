@@ -9,7 +9,7 @@ In computing, a [linear-feedback shift register (LFSR)](https://en.wikipedia.org
 
 The initial value of the LFSR is called the seed, and because the operation of the register is deterministic, the stream of values produced by the register is completely determined by its current (or previous) state. Likewise, because the register has a finite number of possible states, it must eventually enter a repeating cycle.
 
-Your challenge today is to implement an LFSR in software. 
+Your challenge today is to implement an LFSR in software.
 
 # Example Input
 
@@ -68,4 +68,4 @@ Your program should emit the clock step and the registers (with leading 0s) for 
 
 # Bonus
 
-Write a function that detects the periodicity of the LFSR configuration. 
+Write a function that detects the periodicity of the LFSR configuration.

@@ -3,7 +3,7 @@ title: "[2016-11-24] Challenge #293 [Intermediate] Defusing the second bomb"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5emuuy/20161124_challenge_293_intermediate_defusing_the/"
 ---
 
-#Description
+# Description
 
 The bomb defusing becomes a little more complicated, but the upside is, we only have 5 wires now: white, black, red, orange and green.
 
@@ -19,14 +19,13 @@ The rules for defusing a bomb are as following now:
     When you are at the point where you can choose between green, orange and black and you pick either green or orange you have to choose the other one and then the bomb is defused.
     If you ever pick a black wire you will be at the point where you have to choose between green, orange and black
 
-
 Try to draw this out if it is confusing, it is a part of the challenge. My drawing is available in the notes.
 
 The bomb is defused when you reach the end, so by either cutting a green or orange cable. If you can't do that, bomb will explode
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You will be givin a sequence of wires
 
@@ -50,7 +49,7 @@ You will be givin a sequence of wires
     orange
     green
 
-##Output description
+## Output description
 
 ### Output 1
 
@@ -60,9 +59,7 @@ You will be givin a sequence of wires
 
     Booom
 
-
 ## Challenge Inputs
-
 
 ### 1
 
@@ -77,7 +74,6 @@ You will be givin a sequence of wires
     green
     orange
 
-
 ### 2
 
     white 
@@ -88,8 +84,7 @@ You will be givin a sequence of wires
     green
     orange
 
-### 3 
-
+### 3
 
     black
     green
@@ -104,16 +99,15 @@ You will be givin a sequence of wires
     black
     green
 
-
-#Notes/Hints
+# Notes/Hints
 
 For those who had a hard time following the rules, I've mapped it out for you with this [image](http://i.imgur.com/b0hoNrp.png)
 
-#Bonus
+# Bonus
 
 You will be a number of wires and need to state if it is possible to defuse the bomb
 
-##Bonus input 1
+## Bonus input 1
 
     white 4
     red 3
@@ -121,11 +115,11 @@ You will be a number of wires and need to state if it is possible to defuse the 
     green 1
     orange 1
 
-##Bonus output 1
+## Bonus output 1
 
     defusable
 
-##Bonus input 2
+## Bonus input 2
 
     white 4
     red 3
@@ -133,11 +127,11 @@ You will be a number of wires and need to state if it is possible to defuse the 
     green 0
     orange 1
 
-##Bonus output 2
+## Bonus output 2
 
     not defusable
 
-##Bonus challenge input 1
+## Bonus challenge input 1
 
     white 3
     red 1
@@ -145,7 +139,7 @@ You will be a number of wires and need to state if it is possible to defuse the 
     green 1
     orange 2
 
-##Bonus challenge input 2
+## Bonus challenge input 2
 
     white 3
     red 1
@@ -153,17 +147,16 @@ You will be a number of wires and need to state if it is possible to defuse the 
     green 1
     orange 1
 
-
-##Bonus Note
+## Bonus Note
 
 You do have to use all wires, you can't leave some uncut
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 
 Consider submitting it to /r/dailyprogrammer_ideas
 
-#Edit
+# Edit
 
 /u/cheers pointed out a logical error.

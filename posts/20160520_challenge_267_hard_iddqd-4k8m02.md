@@ -121,14 +121,14 @@ Challenge input #1
 Challenge input #2
 ---------------------
 
-**Edit:** I am adding this challenge input after the fact to give the problem an optimization angle too. This is a 10,000,000 by 10,000,000 grid with 500,000 zombies on it. Have fun! The 4.5 MB download is here: https://github.com/fsufitch/dailyprogrammer/raw/master/ideas/iddqd/huge.txt
+**Edit:** I am adding this challenge input after the fact to give the problem an optimization angle too. This is a 10,000,000 by 10,000,000 grid with 500,000 zombies on it. Have fun! The 4.5 MB download is here: <https://github.com/fsufitch/dailyprogrammer/raw/master/ideas/iddqd/huge.txt>
 
 Bonus points
 ------------
 
 Modify the challenge to feature walls or other non-zombie obstacles.
 
-Finally...
+Finally
 ----------
 
 Have your own challenge idea that is totally not a reference to a recently

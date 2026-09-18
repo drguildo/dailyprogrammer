@@ -11,9 +11,9 @@ Stream ciphers like [RC4](https://en.wikipedia.org/wiki/RC4) operate very simply
 
 Your program should have the following components:
 
-* A psuedo-random number generator which takes a key and produces a consistent stream of psuedo-random bytes. A very simple one to implement is the [linear congruential generator (LCG).](https://en.wikipedia.org/wiki/Linear_congruential_generator) 
+* A psuedo-random number generator which takes a key and produces a consistent stream of psuedo-random bytes. A very simple one to implement is the [linear congruential generator (LCG).](https://en.wikipedia.org/wiki/Linear_congruential_generator)
 * An "encrypt" function (or method) that takes a key and a plaintext and returns a ciphertext.
-* A "decrypt" function (or method) that takes a key and the ciphertext and returns the plaintext. 
+* A "decrypt" function (or method) that takes a key and the ciphertext and returns the plaintext.
 
 An example use of this API might look like this (in Python):
 
@@ -25,4 +25,4 @@ An example use of this API might look like this (in Python):
     # this is on a recipient's side
     plaintext = dec(ciphertext, key)
 
-At this point, `plaintext` should equal the original `msg` value. 
+At this point, `plaintext` should equal the original `msg` value.

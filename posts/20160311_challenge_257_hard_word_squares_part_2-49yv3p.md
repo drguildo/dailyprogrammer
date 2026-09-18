@@ -7,9 +7,9 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/49yv3p/20160311_challeng
 
 Back to word squares, a type of acrostic, a word puzzle. A word square is formed using a grid with letters arranged that spell valid English language words when you read from left to right or from top to bottom. The challenge is that in arranging the words that you spell valid words.
 
-Today's challenge is to input a set of dimensions (n*m) and work with the [enable1.txt](https://github.com/dolph/dictionary/blob/master/enable1.txt) dictionary file and produce a valid word square. 
+Today's challenge is to input a set of dimensions (n*m) and work with the [enable1.txt](https://github.com/dolph/dictionary/blob/master/enable1.txt) dictionary file and produce a valid word square.
 
-To clarify, the words you use in each column doesn't have to be the same word in the corresponding row provided all words are valid English language words. You're free to get creative. 
+To clarify, the words you use in each column doesn't have to be the same word in the corresponding row provided all words are valid English language words. You're free to get creative.
 
 # Input Description
 

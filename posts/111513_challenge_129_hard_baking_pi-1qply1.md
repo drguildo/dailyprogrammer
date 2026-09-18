@@ -18,6 +18,7 @@ Your goal is to write an application that computes base-16 digits of Pi across m
 **Special Thanks:** Special thanks to Daily Programmer's Elite6809 for clarifying why this challenge must compute in base-16 (or in a base that's a power of two), and not in the original description's base-10. The challenge text has been updated to reflect the fix.
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 There is no formal input description, though this is the desired behavior:
@@ -37,7 +38,7 @@ For each computed base-16 (hexadecimal) digit of Pi, write to a file a line of t
     6:8
     7:8
 
-# Notes:
+# Notes
 
 There are a few sites that already have large numbers of hexadecimal digits of Pi pre-computed; make sure to use them as a resource to validate your work! [Here's a great example on CalcCrypto](http://calccrypto.wikidot.com/math:pi-hex). Remember that these digits are in the Mantissa, so you compute the decimal values with negative exponent. As an example, the first 8 binary digits of Pi's Significand is "00100100". What would the decimal value be? Use the algebraic conversion formula:
 

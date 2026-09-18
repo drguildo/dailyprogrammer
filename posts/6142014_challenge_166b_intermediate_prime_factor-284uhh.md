@@ -42,7 +42,7 @@ Your challenge is, given a number, generate its factor tree.
 ## Input Description
 
 You will be given a number **N** which you are to generate a factor tree for.
-    
+
 ## Output Description
 
 Print the factor tree in a similar format to the ones above.

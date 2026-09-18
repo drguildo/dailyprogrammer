@@ -16,6 +16,7 @@ As such, you've decided to write a program to assist you!
 Mahjong (not to be confused with [mahjong solitaire](http://en.wikipedia.org/wiki/Mahjong_solitaire)) is a game where hands are composed from combinations of tiles. There are a number of variants of mahjong, but for this challenge, we will consider a simplified variant of Japanese Mahjong which is also known as Riichi Mahjong.
 
 ## Basic Version
+
 There are three suits in this variant, "Bamboo", "Circle" and "Character". Every tile that belongs to these suits has a value that ranges from 1 - 9.
 
 To complete a hand, tiles are organised into groups. If every tile in a hand belongs to a single group (and each tile can only be used once), the hand is a winning hand.

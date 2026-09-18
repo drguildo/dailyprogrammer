@@ -6,7 +6,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/557wyy/20160930_challeng
 # Description
 
 Determine if a mathematical expression is logically equivalent
-		
+
 # Part 1
 
 Determine if a mathematical expression is logically equivalent
@@ -21,7 +21,7 @@ Examples of logically equivalent expressions:
     x - x = 0
     y/2 = (1/2)*y
     -(-x) = x
-		
+        
 Examples of *not* logically equivalent expressions:
 
     2 = 3
@@ -39,7 +39,7 @@ Examples of extensions:
     !(a && b) = !a || !b
     x << 1 << 2 = x << 3
     
-		
+        
 # Part 3
 
 Your solution should create a proof of the steps your program took to show the expression was valid or invalid.
@@ -49,7 +49,6 @@ Statements|Reasons
 2(x + y) + 0 = 2x + 2y | 1. Given
 2x + 2y + 0 = 2x + 2y | 2. Distributive Property of Multiplication
 2x + 2y = 2x + 2y | 3. Identity Property of Addition
-
 
 Statements|Reasons
 :--|:--
@@ -64,4 +63,4 @@ I'm inclined to treat undefined expressions as not equivalent to anything.  Such
 
 # thanks
 
-Thanks to u/wizao for submitting this idea through r/dailyprogrammer_ideas 
+Thanks to u/wizao for submitting this idea through r/dailyprogrammer_ideas

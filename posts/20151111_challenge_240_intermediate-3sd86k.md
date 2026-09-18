@@ -9,7 +9,7 @@ You have been tasked with saving Humanity from politicized bickering preventing 
 
 It is 2040, and ever since the beginning of the 2016 Trump economist beheading regime (yes he is still your ruler), honest economic information became even more suppressive than in the beginning of the millenium.  Good luck.
 
-#the core model
+# the core model
 
 The cornerstone of any society is the "make food available" (farmer/hunter/gatherer/magician/importer from intergalactic worlds) person.
 
@@ -17,7 +17,7 @@ A society is made up of citizens (**P**), **S**laves, **A**nimals, and **M**achi
 
 **sample input:**
 
-Input is a list of records (space delimited fields) each record describes one group in society:    
+Input is a list of records (space delimited fields) each record describes one group in society:
 
 Group name, population of that group, production($) from each group unit, PSAM (category), tax factor(1 is max, meaning that all of that group's production is taxable (if there is a tax rate).  0 would mean their production value is not taxable)
 
@@ -34,7 +34,7 @@ The other cornerstone of civilization is making children.  A farmer's child migh
 
 This simplification of the **cost of children being $7k/year for 16 years to farmers** is probably the most useful and easiest to model.  We can make separate entries for non-farmer-spouses production value, and non-farmer-children may cost $10k/year for 16 years (same as all people and production units).
 
-# more complete input 
+# more complete input
 
      farmer 50 30000 P 1  
      clothier 5 22000 P 1
@@ -47,7 +47,6 @@ This simplification of the **cost of children being $7k/year for 16 years to far
      farmer-child 0 3000 S 0
      child 0 0 S 0
      police 0 0 P 0  
- 
 
 New categories needing explanation: Clothiers and builders production value is what is needed by society for sustainability.  More can be added to provide "premium" value.  Entertainers as a group indicate part of the sustainable need for entertainment, but the sustainabiliy value contributed by each is deemed low to indicate that they are not high need and depend more on audience than audience depends on them.  Miscellaneous covers communication, policy, perhaps basics of transportation, containers for farmer products, special children products...
 
@@ -55,7 +54,7 @@ The tax field represents the percentage of production or destruction that is tax
 
 The model is meant to adapt to various stages of industrialization.  The input above is meant as a platform for exploring sustainability
 
-# challenge questions 
+# challenge questions
 
 1 . What is the surplus produced by the above society?
 
@@ -69,9 +68,10 @@ You will probably note here that the clothier/builder populations can only affor
 
 4 . A sustainable population requires 2 children per family.  Of the above professions, only farmers can produce enough to self-sustain.  What number of farmers is needed to support the rest of society (with a sustainable population)? (this magic number is if 100% of each family surplus were taxed and distributed according to need)
 
-5 . Taxation has been ignored so far.  Use whatever taxation rate you would like to see, and measure how many fewer families it sustainably generates.  If you have an alternate social policy 
+5 . Taxation has been ignored so far.  Use whatever taxation rate you would like to see, and measure how many fewer families it sustainably generates.  If you have an alternate social policy
 
 # tips and cheats
+
 Databases and spreadsheets are allowed.  Class or record structures should help too.
 
 An easier challenge than SOLVING for numbers, and one I expect from most solutions, is to create a measuring program. ie. if some numbers are plugged in, a program/function measures the output from those numbers, and you can change plugged in numbers until the input is valid, and creates maximized output.
@@ -85,5 +85,3 @@ If you want to do anything else with this record format, but different inputs, j
 Analyze effects of a productivity innovation.  
 
 Compare the effects of a taxation system to support bureaucracy vs. one of basic income.
-
-

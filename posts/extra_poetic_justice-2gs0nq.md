@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2gs0nq/extra_poetic_just
 
 Code poetry is the act of producing code that reads like poetry. Here are a few examples from some finalists in a code poetry competition;
 
-#Examples
+# Examples
 
     include everything.*;
     void wonder(Universe u) {
@@ -29,15 +29,13 @@ Code poetry is the act of producing code that reads like poetry. Here are a few 
       }
     }
 
-More can be seen at : -  http://stanford.edu/~mkagen/codepoetryslam/#1.0_wu
+More can be seen at : -  <http://stanford.edu/~mkagen/codepoetryslam/#1.0_wu>
 
-
-#Challenge
+# Challenge
 
 Your task is to construct your own poem. The more of the language you use to create your poem rather than creating your own named functions and classes, the better. The actual algorithms you create are not important, it does not have to be technical code. You can add two integers together and try and make it poetic if you want.
 
-
-#Rules
+# Rules
 
 To make sure everyone is on a level field
 
@@ -55,7 +53,6 @@ To make sure everyone is on a level field
 
 * The program must run!
 
-
-#Bonus
+# Bonus
 
 Create a code Haiku (5,7,5 ). Every word counts towards the syllable count, including words like 'include','public','var' etc... (symbols still do not count)

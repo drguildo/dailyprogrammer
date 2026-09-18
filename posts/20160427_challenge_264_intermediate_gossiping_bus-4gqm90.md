@@ -49,8 +49,8 @@ The number of stops it takes to have all drivers on board with the latest gossip
     
 If there is even one driver who does not have all the gossips by the end of the day, the answer is `never`.
 
-
 # Challenge Input
+
 ## Input 1
 
     7 11 2 2 4 8 2 2
@@ -83,4 +83,5 @@ If there is even one driver who does not have all the gossips by the end of the 
 Gossiping bus drivers lose one minute to tell each other the gossip. If they have nothing new to say, they don't wait that minute.
 
 # Finally
+
 Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it.

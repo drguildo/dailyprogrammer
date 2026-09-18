@@ -12,14 +12,16 @@ Special considerations for core/simple test are:
 
 When repayments are made, the first loan in queue (first loan taken out) is repaid with the payment.  Special considerations **for bonus** are:
 
-1. once repayments for a loan exceed (or equal) the principal amount, interest stops accruing, 
-2. there is a total repayment cap of 2x the principal for any loan (once cap is reached, 
+1. once repayments for a loan exceed (or equal) the principal amount, interest stops accruing,
+2. there is a total repayment cap of 2x the principal for any loan (once cap is reached,
 3. there may be a social guarantor for the loans, which will repay up to the loan principal upon the borrower's death.
 
-#sample test
+# sample test
+
 Given an interest rate, annual loan amount, starting age, royalty rate under age 65, clawback balance trigger, royalty rate over 65 and an annual (assumed) income stream, calculate total repayments and profit or loss:
 
-#sample input
+# sample input
+
 interest rate: 2%  
 annual loan amount: $15000  
 start age: 18  
@@ -30,13 +32,15 @@ income stream: (in thousands)
 
      0 0 20 20 20 20 20 20 20 20 20 20 30 30 30 30 30 30 30 30 30 30 40 40 40 40 40 40 40 40 40 40 50 50 50 50 50 50 50 50 50 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
-#sample output (in thousands)
+# sample output (in thousands)
+
 Overall loans taken: $1080  
 Repayments from income: $280  
 Repayments from benefit clawbacks: $270  
 Ending balance with interest:  $1169.09
 
-#input #2
+# input #2
+
 interest rate: 2%  
 annual loan amount: $15000  
 start age: 18  
@@ -48,10 +52,12 @@ income stream: (in thousands)
      0 0 30 30 30 30 30 30 30 30 30 30 40 40 40 40 40 40 40 40 40 40 50 50 50 50 50 50 50 50 50 50 60 60 60 60 60 60 60 60 60 60 100 120 140 160 200 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
 
 # output #2 (in thousands)
+
 Overall loans taken: $1005  
 Repayments from income: $584  
 Repayments from benefit clawbacks: $237  
 Ending balance with interest:  $509.487  
 
-#bonus
+# bonus
+
 Previous format allows calculations with a single running total.  Adding the bonus special considerations means tracking each $15000 loan individually.

@@ -12,6 +12,7 @@ Your job is to implement such a system, take in people's vacation times, and ret
 *Special thanks to the ACM collegiate programming challenges group for giving me the initial idea [here](http://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=316). Also, based on recent world news, please consider donating to the [EFF](https://www.eff.org/) and make sure to write good code that protects your users. This subreddit is not the right place for a political discussion; I leave it up to the reader to think about why/how this subject may be important to you. At least consider that software you write in your "real-world job" may be used by an international audience, and such an audience may be targeted by unscrupulous people/governments. Protect people's lives by protecting their digital data: we programmers are the few people who can actually protect our users.* </preachy paragraph>
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given an integer N on its own line that represents the number of vacation schedule descriptions that follow (each on their separate line). For each vacation description, you will be given four integers: the first is the person's regular 4-digit phone number, then the 4-digit phone number they choose to forward to, then when the vacation starts (measured in days) and how long the vacation lasts (measured in days). On the final line of input, which is line N + 1, you will be given a day to test the properties of the call-forwarding system (as defined in the output description).
@@ -25,6 +26,7 @@ Note that the input's forwarding chain will be guaranteed to *not* have circular
 For the given day you want to test the system (the last integer from the input format), you must print both how many call forwarding are in place and the largest forwarding chain. A forwarding chain is the relationship as described in the challenge description where Alice forwards to Bob, who in turn forwards to Carol (this chain has a value of two, for the two call forwards).
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     3

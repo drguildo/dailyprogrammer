@@ -14,10 +14,10 @@ For example, lets say we have to eat dinner.  Eating dinner depends on dinner be
 buying them at the store depends on having money, which depends on depositing ones paycheck....  this scenario would be described in the following input file.  Note task definitions can appear in any order and do not have to be defined before they are used.
 
     eat_dinner: make_dinner set_table
-	make_dinner: get_milk get_meat get_veggies
-	get_meat: buy_food
-	buy_food: get_money
-	get_veggies: buy_food
-	get_money: deposit_paycheck
-	
+    make_dinner: get_milk get_meat get_veggies
+    get_meat: buy_food
+    buy_food: get_money
+    get_veggies: buy_food
+    get_money: deposit_paycheck
+    
 Write a program that can read an input file in this syntax and output all the tasks you have to do, in an ordering that no task happens before one of its dependencies.

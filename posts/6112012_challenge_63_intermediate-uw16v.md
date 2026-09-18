@@ -22,4 +22,4 @@ Let s(N) be a random number generator defined as follows:
     
 Let A be the array of the first 10,000 values of this random number generator. The first three values of A are then 123456789, 752880530 and 826085747, and the last three values are 65237510, 921739127 and 926774748
 
-Completely sort A using only the reverse(N, A) function. 
+Completely sort A using only the reverse(N, A) function.

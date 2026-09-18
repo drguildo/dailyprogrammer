@@ -27,7 +27,6 @@ Each stick is described by a number and the co-ordinates of its 2 ends, like so:
 
 Where the stick number **n** is between the points (x1, y1) and (x2, y2). You will first input a number **S** which is the number of sticks in the scenario. You will then take a further **S** lines of input in the above format. **n** must be an integer but the co-ordinates can be any real number.
 
-
 ## Output Description
 
 You are to output one possible order of removal of the sticks (where each stick is identified by its number **n**. There may be more than one.

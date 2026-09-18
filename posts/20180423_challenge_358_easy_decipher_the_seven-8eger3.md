@@ -4,12 +4,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/8eger3/20180423_challeng
 ---
 
 # Description
+
 Today's challenge will be to create a program to decipher a seven segment display, commonly seen on many older electronic devices.
 
 # Input Description
+
 For this challenge, you will receive 3 lines of input, with each line being 27 characters long (representing 9 total numbers), with the digits spread across the 3 lines.  Your job is to return the represented digits.  You don't need to account for odd spacing or missing segments.
 
 # Output Description
+
 Your program should print the numbers contained in the display.
 
 # Challenge Inputs
@@ -37,6 +40,6 @@ Your program should print the numbers contained in the display.
     526837608
     954105592
     
-# Ideas!
+# Ideas
 
-If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas and there's a good chance we'll use it.

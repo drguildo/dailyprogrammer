@@ -7,7 +7,7 @@ You are trapped at uninhabited island only with your laptop. Still you don't wan
 
 Uuencoding is a form of binary-to-text encoding, which uses only symbols from 32-95 diapason, which means all symbols used in the encoding are printable.
 
-#Description of encoding
+# Description of encoding
 
 A uuencoded file starts with a header line of the form:
 
@@ -25,7 +25,6 @@ Each data line uses the format:
 
 <length character> is a character indicating the number of data bytes which have been encoded on that line. This is an ASCII character determined by adding 32 to the actual byte count, with the sole exception of a grave accent "`" (ASCII code 96) signifying zero bytes. All data lines except the last (if the data was not divisible by 45), have 45 bytes of encoded data (60 characters after encoding). Therefore, the vast majority of length values is 'M', (32 + 45 = ASCII code 77 or "M").
 
-
 <formatted characters> are encoded characters.
 
 The mechanism of uuencoding repeats the following for every 3 bytes (if there are less than 3 bytes left, trailing 0 are added):
@@ -38,24 +37,29 @@ The mechanism of uuencoding repeats the following for every 3 bytes (if there ar
 
 4. Output the ASCII equivalent of these numbers.
 
-
 For example, we want to encode a word "Cat". ASCII values for C,a,t are 67,97,116, or  `010000110110000101110100` in binary. After dividing into four groups, we get 010000 110110 000101 110100, which is 16,54,5,52 in decimal. Adding 32 to this values and encoding back in ASCII, the final result is `0V%T`.
 
 The file ends with two lines:
 
     `<newline>
     end<newline>
-#Formal Inputs & Outputs
-##Input
+
+# Formal Inputs & Outputs
+
+## Input
+
 a byte array or string.
-##Output
+
+## Output
+
 a string containing uuencoded input.
 
-#Examples
+# Examples
+
 Input: Cat
 
 Output:
- 
+
     begin 644 cat.txt
     #0V%T
     `
@@ -63,7 +67,6 @@ Output:
 
 Input:
 I feel very strongly about you doing duty. Would you give me a little more documentation about your reading in French? I am glad you are happy — but I never believe much in happiness. I never believe in misery either. Those are things you see on the stage or the screen or the printed pages, they never really happen to you in life.
-
 
 Output:
 
@@ -79,17 +82,25 @@ Output:
     `
     end
 
-#Bonuses
-##Bonus 1
+# Bonuses
+
+## Bonus 1
+
 Write uudecoder, which decodes uuencoded input back to a byte array or string
-##Bonus 2
+
+## Bonus 2
+
 Write encoder for files as well.
-##Bonus 3
+
+## Bonus 3
+
 Make encoding parallel.
-#Further Reading
+
+# Further Reading
+
 [Binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding) on Wikipedia.
 
-#Finally
+# Finally
 
 This challenge is posted by /u/EvgeniyZh
 

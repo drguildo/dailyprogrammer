@@ -48,7 +48,7 @@ Similarly, if the starting year is the current year, **but the two dates are exa
     2015-12-11 2016-12-11
 
 Must specify both years, i.e. `December 11th, 2015 - December 11th, 2016`.
-    
+
 # Bonus (Intermediate)
 
 Of course, not all users will want to read a `Month Day, Year` format. To fix this, allow your program to receive hints on how to format the dates, by accepting a date format as a third parameter, for example:
@@ -56,13 +56,13 @@ Of course, not all users will want to read a `Month Day, Year` format. To fix th
 1. `2015-07-01 2015-07-04 DMY`
 2. `2016-03-01 2016-05-05 YDM`
 3. `2022-09-05 2023-09-04 YMD`
-    
+
 would produce:
 
 1. `1st - 4th July`
 2. `2016, 1st March - 5th May`
 3. `2022, September 5th - 2023, September 4th`
-    
+
 You only need to handle date format strings `DMY`, `MDY`, `YMD` and `YDM`.
 
 # Special Thanks

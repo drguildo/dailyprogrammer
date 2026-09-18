@@ -7,15 +7,15 @@ This week I'll be posting a series of challenges on graph theory. I picked a ser
 
 # Description
 
-In all of our communities, we have a strong core of friends and people on the periphery of that core, e.g. people that we know that not everyone in that strong core knows. We're all familiar with these sorts of groups with the proliferation of Facebook and the like. These networks can be used for all sorts of things, such as recommender systems or detecting collusion. 
+In all of our communities, we have a strong core of friends and people on the periphery of that core, e.g. people that we know that not everyone in that strong core knows. We're all familiar with these sorts of groups with the proliferation of Facebook and the like. These networks can be used for all sorts of things, such as recommender systems or detecting collusion.
 
-Today's challenge is to detect such an arrangement. In graph theory this is typically called a _clique_, and arises from a subgraph of _G_ where every node in the subgraph is connected to every other node (e.g. all possible pairwise combinations exist in the subgraph). Graphs may have multiple cliques, and may even have multiple distinct cliques of the largest size (e.g. multiple 4-cliques). 
+Today's challenge is to detect such an arrangement. In graph theory this is typically called a _clique_, and arises from a subgraph of _G_ where every node in the subgraph is connected to every other node (e.g. all possible pairwise combinations exist in the subgraph). Graphs may have multiple cliques, and may even have multiple distinct cliques of the largest size (e.g. multiple 4-cliques).
 
-For todays challenge: Given a social network graph identifying friendships, can you identify the largest strong group of friends who all know each other and are connected? 
+For todays challenge: Given a social network graph identifying friendships, can you identify the largest strong group of friends who all know each other and are connected?
 
 # Input Description
 
-On the first line you'll be given a single integer *N* telling you how many distinct nodes are in the graph. Then you'll be given a list of edges between nodes (it's an undirected graph, so assume if you see *a b* that *a* knows *b* and *b* knows *a*). Example:
+On the first line you'll be given a single integer _N_ telling you how many distinct nodes are in the graph. Then you'll be given a list of edges between nodes (it's an undirected graph, so assume if you see _a b_ that _a_ knows _b_ and _b_ knows _a_). Example:
 
     7
     1 2
@@ -40,11 +40,11 @@ Your program should emit a list of all of the members of the largest group of fr
 
     4 5 6 7
 
-If the graph has multiple, distinct friend groups of the same size, you can print all or any of them. 
+If the graph has multiple, distinct friend groups of the same size, you can print all or any of them.
 
 # Challenge Input
 
-About this data set, it's kind of interesting. I downloaded it from here http://networkrepository.com/soc.php .
+About this data set, it's kind of interesting. I downloaded it from here <http://networkrepository.com/soc.php> .
 
     % The graph dolphins contains an undirected social network of frequent       
     % associations between 62 dolphins in a community living off Doubtful Sound, 
@@ -63,7 +63,7 @@ About this data set, it's kind of interesting. I downloaded it from here http://
     %   D. Lusseau, Evidence for social role in a dolphin social network,        
     %   Preprint q-bio/0607048 (http://arxiv.org/abs/q-bio.PE/0607048)
 
-And here's the data set. 
+And here's the data set.
 
     62
     11 1
@@ -229,7 +229,7 @@ And here's the data set.
 # Challenge Output
 
 This challenge has 3 distinct sets of 5 friends. Any or all of the below will count.
-    
+
     18 10 14 58 7
     30 19 46 52 22
     30 19 46 52 25

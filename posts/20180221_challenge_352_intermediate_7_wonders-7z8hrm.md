@@ -13,7 +13,7 @@ Given the resource cards W/B/S/O, W, S/B, and S, it is possible for you to produ
 
 # Input
 
-You'll be given a comma-separated sequence of cards inside of square brackets, with the features separated by a slash. Your target will be given as "Can you make ____?" with the list of resources to target, one per card. 
+You'll be given a comma-separated sequence of cards inside of square brackets, with the features separated by a slash. Your target will be given as "Can you make ____?" with the list of resources to target, one per card.
 
 Note: in the game 7 Wonders, every card produces either 1, 2, or all 4 of the resources. But if you want a challenge, make your program support any number of resources instead of just W,B,S,O, and make your program accept arbitrary resource cards.
 
@@ -46,4 +46,4 @@ Make your program much faster than brute force.
 
 # Credit
 
-This challenge was submitted by /u/Lopsidation in /r/dailyprogrammer_ideas, many thanks! If you have a challenge idea please share it and there's a good chance we'll use it. 
+This challenge was submitted by /u/Lopsidation in /r/dailyprogrammer_ideas, many thanks! If you have a challenge idea please share it and there's a good chance we'll use it.

@@ -18,9 +18,8 @@ Print the string at each step. The last line should be "*a*" (assuming the Colla
 
 # Challenge Input
 
-
-	aaa
-	aaaaa
+    aaa
+    aaaaa
 
 # Challenge Output
 
@@ -188,15 +187,13 @@ The [Collatz Conjecture](https://en.wikipedia.org/wiki/3x_%2B_1_problem)
 
 If you're not familiar with tag systems, you can read the [Wikipedia article on them here](https://en.wikipedia.org/wiki/Tag_system)
 
-
-
 # Bonus
 
 Implement the same tag system as a cyclic tag system using the [schema described here](https://en.wikipedia.org/wiki/Tag_system#Emulation_of_tag_systems_by_cyclic_tag_systems)
 
 # Bonus Input
 
-	100100100
+    100100100
 
 # Bonus Output
 

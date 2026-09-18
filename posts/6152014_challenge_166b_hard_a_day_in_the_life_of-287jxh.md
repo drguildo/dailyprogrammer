@@ -18,7 +18,7 @@ You will be given a number **N** which will represent the number of nodes on the
 You will then be given a distance matrix, with newlines separating rows and commas separating columns. -1 is used to denote that there is no route connecting those two nodes. For the sake of simplicity, the vertices in the graph are assumed to be named A, B, C, D and so on, with the matrix representing them in that order, left-to-right and top-to-bottom, like [this network](http://i.imgur.com/RIfsghM.png) and its corresponding [distance matrix](http://i.imgur.com/iXuaqNT.png).
 
 Finally, you will be given 2 vertices (represented as letters A-Z), **V1** and **V2**. You are to find the path from **V1** to **V2**.
-    
+
 ## Output Description
 
 You are to print out the path from **V1** to **V2**, in the format ABCDEFG - one letter after the other.

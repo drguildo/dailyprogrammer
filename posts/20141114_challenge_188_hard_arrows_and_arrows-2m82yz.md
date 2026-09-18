@@ -8,17 +8,17 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2m82yz/20141114_challeng
 Wednesday's challenge was released later than I wanted it to be (my fault entirely), so I'll make it up to you by posting this one early. I fear some previous hard challenges have appeared unapproachable to some people due to their logical or mathematical complexity. I aim to make a Hard challenge today which is innately simple, but will still require a Hard degree of thought (assuming you come up with the algorithm yourself.)  
 Take this grid of characters:
 
-	v<^><>>v><>^<>vvv^^>
-	>^<>^<<v<>>^v^v><^<<
-	v^^>>>>>><v^^<^vvv>v
-	^^><v<^^<^<^^>>>v>v>
-	^<>vv^><>^<^^<<^^><v
-	^vv<<<><>>>>^<>^^^v^
-	^<^^<^>v<v^<>vv<^v<>
-	v<>^vv<^>vv>v><v^>^^
-	>v<v><^><<v>^^>>^<>^
-	^v<>^<>^>^^^vv^v>>^<
-	v>v^^<>><<<^^><^vvv^
+    v<^><>>v><>^<>vvv^^>
+    >^<>^<<v<>>^v^v><^<<
+    v^^>>>>>><v^^<^vvv>v
+    ^^><v<^^<^<^^>>>v>v>
+    ^<>vv^><>^<^^<<^^><v
+    ^vv<<<><>>>>^<>^^^v^
+    ^<^^<^>v<v^<>vv<^v<>
+    v<>^vv<^>vv>v><v^>^^
+    >v<v><^><<v>^^>>^<>^
+    ^v<>^<>^>^^^vv^v>>^<
+    v>v^^<>><<<^^><^vvv^
 
 Let's imagine they all represent arrows, pointing to a cell next to them. For example, `v` points downward, and `<` points left. Let's also imagine the grid is infinite - ie. a `>` arrow at the right-hand side will 'wrap around' and point to the leftmost character on the same row, meaning the board has no limits. Now, we're going to follow the direction of the arrows. Look at the top-left cell. It's a `v`, so it points down to the cell below it, which is a `>`. That points to the cell to its right, which is a `^`. This points up to the cell above it, which is a `<`. This points to the cell to its left... which is exactly where we started. See how this has formed a 'loop'? You could go round and round and round forever. Remember, the board wraps around, so this grid is also a loop:
 
@@ -26,9 +26,9 @@ Let's imagine they all represent arrows, pointing to a cell next to them. For ex
 
 And so is this, if you follow the arrows:
 
-	^^>
-	>^^
-	^>^
+    ^^>
+    >^^
+    ^>^
 
 This looping structure is called a **cycle**. The discrete mathematicians in this sub should have all collectively just said *'aha!'*, as they should know already be thinking of how to approach the challenge from that last sentence. If you're not a discrete mathematician, read on. Your challenge today is simply described: given a grid such as the one above, find the *largest cycle* in it.
 
@@ -59,75 +59,75 @@ You are to output the length of the longest cycle on the grid, possibly along wi
 
 This input should test the ability of your program to find longer cycles over shorter cycles, and ignore arrows not in a cycle.
 
-	5 5
-	>>>>v
-	^v<<v
-	^vv^v
-	^>>v<
-	^<<<^
+    5 5
+    >>>>v
+    ^v<<v
+    ^vv^v
+    ^>>v<
+    ^<<<^
 
 ## Sample Output
 
 Longest cycle: `16`  
 Position:
 
-	>>>>v
-	^   v
-	^   v
-	^  v<
-	^<<< 
+    >>>>v
+    ^   v
+    ^   v
+    ^  v<
+    ^<<< 
 
 ## Sample Input
 
 This should test the ability of your program to find cycles that wrap around.
 
-	45 20
-	^^v>>v^>>v<<<v>v<>>>>>>>>^vvv^^vvvv<v^^><^^v>
-	>><<>vv<><<<^><^<^v^^<vv>>^v<v^vv^^v<><^>><v<
-	vv<^v<v<v<vvv>v<v<vv<^<v<<<<<<<<^<><>^><^v>>>
-	<v<v^^<v<>v<>v<v<^v^>^<^<<v>^v><^v^>>^^^<><^v
-	^>>>^v^v^<>>vvv>v^^<^<<<><>v>>^v<^^<>v>>v<v>^
-	^^^<<^<^>>^v>>>>><>>^v<^^^<^^v^v<^<v^><<^<<<>
-	v<>v^vv^v<><^>v^vv>^^v^<>v^^^>^>vv<^<<v^<<>^v
-	<<<<<^<vv<^><>^^>>>^^^^<^<^v^><^v^v>^vvv>^v^^
-	<<v^<v<<^^v<>v>v^<<<<<>^^v<v^>>>v^><v^v<v^^^<
-	^^>>^<vv<vv<>v^<^<^^><><^vvvv<<v<^<<^>^>vv^<v
-	^^v^>>^>^<vv^^<>>^^v>v>>v>>v^vv<vv^>><>>v<<>>
-	^v<^v<v>^^<>>^>^>^^v>v<<<<<>><><^v<^^v><v>^<<
-	v>v<><^v<<^^<^>v>^><^><v^><v^^^>><^^<^vv^^^>^
-	v><>^><vv^v^^>><>^<^v<^><v>^v^<^<>>^<^vv<v>^v
-	><^<v>>v>^<<^>^<^^>v^^v<>>v><<>v<<^><<>^>^v<v
-	>vv>^>^v><^^<v^>^>v<^v><>vv>v<^><<<<v^<^vv<>v
-	<><<^^>>^<>vv><^^<vv<<^v^v^<^^^^vv<<>^<vvv^vv
-	>v<<v^><v<^^><^v^<<<>^<<vvvv^^^v<<v>vv>^>>^<>
-	^^^^<^<>^^vvv>v^<<>><^<<v>^<<v>>><>>><<^^>vv>
-	<^<^<>vvv^v><<<vvv<>>>>^<<<^vvv>^<<<^vv>v^><^
+    45 20
+    ^^v>>v^>>v<<<v>v<>>>>>>>>^vvv^^vvvv<v^^><^^v>
+    >><<>vv<><<<^><^<^v^^<vv>>^v<v^vv^^v<><^>><v<
+    vv<^v<v<v<vvv>v<v<vv<^<v<<<<<<<<^<><>^><^v>>>
+    <v<v^^<v<>v<>v<v<^v^>^<^<<v>^v><^v^>>^^^<><^v
+    ^>>>^v^v^<>>vvv>v^^<^<<<><>v>>^v<^^<>v>>v<v>^
+    ^^^<<^<^>>^v>>>>><>>^v<^^^<^^v^v<^<v^><<^<<<>
+    v<>v^vv^v<><^>v^vv>^^v^<>v^^^>^>vv<^<<v^<<>^v
+    <<<<<^<vv<^><>^^>>>^^^^<^<^v^><^v^v>^vvv>^v^^
+    <<v^<v<<^^v<>v>v^<<<<<>^^v<v^>>>v^><v^v<v^^^<
+    ^^>>^<vv<vv<>v^<^<^^><><^vvvv<<v<^<<^>^>vv^<v
+    ^^v^>>^>^<vv^^<>>^^v>v>>v>>v^vv<vv^>><>>v<<>>
+    ^v<^v<v>^^<>>^>^>^^v>v<<<<<>><><^v<^^v><v>^<<
+    v>v<><^v<<^^<^>v>^><^><v^><v^^^>><^^<^vv^^^>^
+    v><>^><vv^v^^>><>^<^v<^><v>^v^<^<>>^<^vv<v>^v
+    ><^<v>>v>^<<^>^<^^>v^^v<>>v><<>v<<^><<>^>^v<v
+    >vv>^>^v><^^<v^>^>v<^v><>vv>v<^><<<<v^<^vv<>v
+    <><<^^>>^<>vv><^^<vv<<^v^v^<^^^^vv<<>^<vvv^vv
+    >v<<v^><v<^^><^v^<<<>^<<vvvv^^^v<<v>vv>^>>^<>
+    ^^^^<^<>^^vvv>v^<<>><^<<v>^<<v>>><>>><<^^>vv>
+    <^<^<>vvv^v><<<vvv<>>>>^<<<^vvv>^<<<^vv>v^><^
 
 ## Sample Output
 
 Longest cycle: `44`  
 Position:
 
-						>>>>>^
-						^<
-						 ^
-						>^
-						^
-					   >^
-					   ^
-					>>>^
-					^
-					^<
-					 ^
-					 ^
-					 ^
-					>^
-					^
-					^
-					^  v<<
-					^<<< ^
-						 ^<<
-						   ^<<
+                        >>>>>^
+                        ^<
+                         ^
+                        >^
+                        ^
+                       >^
+                       ^
+                    >>>^
+                    ^
+                    ^<
+                     ^
+                     ^
+                     ^
+                    >^
+                    ^
+                    ^
+                    ^  v<<
+                    ^<<< ^
+                         ^<<
+                           ^<<
 
 # Notes
 

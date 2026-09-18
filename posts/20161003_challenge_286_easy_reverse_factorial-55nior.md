@@ -9,9 +9,9 @@ Nearly everyone is familiar with the factorial operator in math. 5! yields 120 b
 
     5! -> 5 * 4 * 3 * 2 * 1 -> 120
 
-Simple enough. 
+Simple enough.
 
-Now let's reverse it. Could you write a function that tells us that "120" is "5!"? 
+Now let's reverse it. Could you write a function that tells us that "120" is "5!"?
 
 Hint: The strategy is pretty straightforward, just divide the term by successively larger terms until you get to "1" as the resultant:
 

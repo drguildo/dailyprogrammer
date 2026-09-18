@@ -10,6 +10,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1s061q/120313_challenge_
 Your goal is to read in a string of Braille characters ([using standard English Braille defined here](http://en.wikipedia.org/wiki/English_Braille#Alphabet)) and print off the word in standard English letters. You only have to support the 26 English letters.
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 Input will consistent of an array of 2x6 space-delimited Braille characters. This array is always on the same line, so regardless of how long the text is, it will always be on 3-rows of text. A lowered bump is a dot character '.', while a raised bump is an upper-case 'O' character.
@@ -19,6 +20,7 @@ Input will consistent of an array of 2x6 space-delimited Braille characters. Thi
 Print the transcribed Braille.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     O. O. O. O. O. .O O. O. O. OO 

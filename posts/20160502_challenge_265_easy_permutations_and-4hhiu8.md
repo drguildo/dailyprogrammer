@@ -16,7 +16,6 @@ The "permutations of 3" for the sake of this text are the possible arrangements 
 
 The permutation number is the index in this list.  The "3rd permutation of 3" is `1 0 2`.  "1 2 0 has permutation number `3` (0 based)"
 
-
 **input:**
 
 what is 240th permutation of 6  
@@ -54,13 +53,11 @@ The "combinations of 3 out of 6" is the sorted list of the possible ways to take
 The "3rd combination number of 3 out of 6 is `0 1 4`".  "0 2 4 is combination index/number 5 or the 6th combination of 3 out of 6"
 
 **input:**  
-24th combination of 3 out of 8   
-112th combination of 4 out of 9 
+24th combination of 3 out of 8
+112th combination of 4 out of 9
 
 **output**  
    1 2 5  
  3 4 5 6
-
-
 
 Brute force solutions (generate full list, then take the number/index) to all of today's challenges are encouraged.

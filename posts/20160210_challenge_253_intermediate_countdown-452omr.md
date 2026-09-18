@@ -7,7 +7,8 @@ Countdown is a British ripoff of a French TV show where given 6 starting numbers
 
 [Full rules and ideas here](http://datagenetics.com/blog/august32014/index.html)
 
-#It's just the first count down (tedudu do)
+# It's just the first count down (tedudu do)
+
 A simplified ruleset is to test for solutions that don't require parentheses on one side of an operator, and no operator precedence.  All of the problems here have such an exact solution.
 
 **sample input**  
@@ -23,6 +24,7 @@ A simplified ruleset is to test for solutions that don't require parentheses on 
 (You may also simplify the solution by assuming - and ÷ are only applied in one direction/order)
 
 # Must shout a second count down
+
 RPN notation and a mini stack language can permit parenthesized group operations without using parentheses
 
 1 5 100 5 - × 9 - 10 + +  
@@ -32,7 +34,8 @@ equivalent to:  1+(((5×(100-5))-9)+10)
 
 **challenge:**  Allow for parenthesized grouped operations or RPN formatted expressions in determining solution.
 
-#Its the final count down
+# Its the final count down
+
 Use either program 1 or 2 to test which target totals from 0 to 1000 cannot be obtained by combining the 4 basic operators, or alternatively, find the lower target total that fails for the **input**:
 
 25 50 75 100 3 6

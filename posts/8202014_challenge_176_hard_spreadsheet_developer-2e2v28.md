@@ -11,7 +11,7 @@ The spreadsheet should ideally be able to expand dynamically in either direction
 
 * Assignment. This allows setting any number of cells to one value or cell. For example, `A3:A4&A5=5.23` or `F7:G11~A2=A1`.
 
-* Infix operators - `+`, `-`, `*`, `/` and `^` (exponent). These allow setting any number of cells to the result of a mathematical operation (only one - no compound operations are required but you can add them if you're up to it!) For example, `F2&F4=2*5` or `A1:C3=2^D5`. If you want, add support for mathematical constants such as *e* (2.71828183) or *pi* (3.14159265).
+* Infix operators - `+`, `-`, `*`, `/` and `^` (exponent). These allow setting any number of cells to the result of a mathematical operation (only one - no compound operations are required but you can add them if you're up to it!) For example, `F2&F4=2*5` or `A1:C3=2^D5`. If you want, add support for mathematical constants such as _e_ (2.71828183) or _pi_ (3.14159265).
 
 * Functions. These allow setting any number of cells to the result of a function which takes a variable number of cells. Your program must support the functions `sum` (adds the value of all the given cells), `product` (multiplies the value of all the given cells) and `average` (calculates the mean average of all the given cells). This looks like `A1:C3=average(D1:D20)`.
 

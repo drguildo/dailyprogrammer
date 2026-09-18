@@ -5,17 +5,17 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/9cvo0f/20180904_challeng
 
 # Description
 
-Most everyone who programs is familiar with the factorial - _n!_ - of a number, the product of the series from _n_ to _1_. One interesting aspect of the factorial operation is that it's also the number of permutations of a set of _n_ objects. 
+Most everyone who programs is familiar with the factorial - _n!_ - of a number, the product of the series from _n_ to _1_. One interesting aspect of the factorial operation is that it's also the number of permutations of a set of _n_ objects.
 
-Today we'll look at the _subfactorial_, defined as the [*derangement*](https://en.wikipedia.org/wiki/Derangement) of a set of _n_ objects, or a permutation of the elements of a set, such that no element appears in its original position. We denote it as _!n_. 
+Today we'll look at the _subfactorial_, defined as the [_derangement_](https://en.wikipedia.org/wiki/Derangement) of a set of _n_ objects, or a permutation of the elements of a set, such that no element appears in its original position. We denote it as _!n_.
 
 Some basic definitions:
 
 - !1 -> 0 because you always have {1}, meaning 1 is always in it's position.
 - !2 -> 1 because you have {2,1}.
-- !3 -> 2 because you have {2,3,1} and {3,1,2}. 
+- !3 -> 2 because you have {2,3,1} and {3,1,2}.
 
-And so forth. 
+And so forth.
 
 Today's challenge is to write a subfactorial program. Given an input _n_, can your program calculate the correct value for _n_?
 
@@ -55,4 +55,4 @@ Enterprise edition - the most heavy, format, ceremonial code you can come up wit
 
 # Notes
 
-This was inspired after watching the Mind Your Decisions video about the "3 3 3 10" puzzle, where a subfactorial was used in one of the solutions. 
+This was inspired after watching the Mind Your Decisions video about the "3 3 3 10" puzzle, where a subfactorial was used in one of the solutions.

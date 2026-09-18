@@ -5,6 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/38yy9s/20150608_challeng
 
 
 # Description
+
 To covert nearly any number into a palindromic number you operate by reversing the digits and adding and then repeating the steps until you get a palindromic number. Some require many steps.
 
 e.g. 24 gets palindromic after 1 steps: 66 -&gt; 24 + 42 = 66
@@ -41,6 +42,6 @@ You will describe how many steps it took to get it to be palindromic, and what t
 
 # Note
 
-Bonus: see which input numbers, through 1000, yield identical palindromes. 
+Bonus: see which input numbers, through 1000, yield identical palindromes.
 
-Bonus 2: See which numbers don't get palindromic in under 10000 steps. Numbers that never converge are called Lychrel numbers. 
+Bonus 2: See which numbers don't get palindromic in under 10000 steps. Numbers that never converge are called Lychrel numbers.

@@ -3,11 +3,11 @@ title: "[2015-11-06] Challenge #239 [Hard] An Encoding of Threes"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3rrtxh/20151106_challenge_239_hard_an_encoding_of_threes/"
 ---
 
-Are you ready to take the [Game of Threes](https://www.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challenge_239_intermediate_a_zerosum/) to the next level? 
+Are you ready to take the [Game of Threes](https://www.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challenge_239_intermediate_a_zerosum/) to the next level?
 
 # Background
 
-As it turns out, if we chain the steps of a Threes solution into a sequence (ignoring their signs), the sequence becomes a [ternary](https://en.wikipedia.org/wiki/Ternary_numeral_system) representation of numeric data. In other words, we can use base 3 (instead of decimal or binary) to store numbers! 
+As it turns out, if we chain the steps of a Threes solution into a sequence (ignoring their signs), the sequence becomes a [ternary](https://en.wikipedia.org/wiki/Ternary_numeral_system) representation of numeric data. In other words, we can use base 3 (instead of decimal or binary) to store numbers!
 
 For example, if we were to use [ASCII character values](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/2000px-ASCII-Table-wide.svg.png) as our "data", then we could encode the letter `a` into a Threes solution like this:
 
@@ -20,7 +20,7 @@ For example, if we were to use [ASCII character values](https://upload.wikimedia
   - `10 * 3 - 1` = `29`
   - `29 * 3 + 0` = `87`
   - `87 * 3 + 1` = `262`
-- A "Threes-encoded" `a` is then the number `262`. 
+- A "Threes-encoded" `a` is then the number `262`.
 
 Note that at a couple steps, we subtracted instead of adding. Since the sign in the solution is not significant, additions can be flipped for subtractions to achieve different results. That means that `a` could actually be encoded as: `260`, `278`, `386`, `388`, or others. For example, `260` could be decoded like this:
 

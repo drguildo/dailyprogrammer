@@ -57,7 +57,7 @@ Then the output text is:
     My name is Stan.
     
 Words are always separated by spaces unless they're hyphenated.
-    
+
 ## Output Description
 
 Print the resultant decompressed data from your decompression algorithm, using the rules described above.

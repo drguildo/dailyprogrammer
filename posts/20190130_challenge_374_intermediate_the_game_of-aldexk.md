@@ -5,15 +5,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/aldexk/20190130_challeng
 
 # Description
 
-You are give a list of blobs, each having an initial position in an discrete grid, and a size. Blobs try to eat each other greedily and move around accordingly. 
+You are give a list of blobs, each having an initial position in an discrete grid, and a size. Blobs try to eat each other greedily and move around accordingly.
 
-During each cycle, all blobs move one step (Moore neighborhood) towards another blob of smaller size (if any). This blob is chosen as the closest one, with a preference for larger ones, breaking ties as clockwise (11H < 12H > 01H). 
+During each cycle, all blobs move one step (Moore neighborhood) towards another blob of smaller size (if any). This blob is chosen as the closest one, with a preference for larger ones, breaking ties as clockwise (11H < 12H > 01H).
 
 At the end of each cycle, blobs merge (with summed size) if they are on the same location.
 
 Return the final state of the blobs.
 
-# Example:
+# Example
 
 Given: `[(0,2,1),(2,1,2)]` as a list of (x,y and size)
 
@@ -23,7 +23,7 @@ Given: `[(0,2,1),(2,1,2)]` as a list of (x,y and size)
 
 Solution: `[(0,2)]`
 
-# Challenge 
+# Challenge
 
     [(0,1,2),
      (10,0,2)]
@@ -44,7 +44,7 @@ Solution: `[(0,2)]`
 
 # Bonus
 
-Help the blobs break out of flatland. 
+Help the blobs break out of flatland.
 
 Given: `[(1,2),(4,2)]`
 
@@ -84,7 +84,7 @@ Mind that the distances can be long. Try to limit run times.
      (2368968216, -4279093341, 3),
      (-2257551910, -3522058348, 2),
      (2873561846, -1004639306, 3)]
-	 
+     
 # Credits
 
-This challenge was suggested by /user/tomekanco, many thanks! Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by /user/tomekanco, many thanks! Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it.

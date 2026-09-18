@@ -5,11 +5,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4248hz/20160122_challeng
 
 You must plan a route for a salesman to visit each of 26 cities and then return home.  
 
-#The catch?
+# The catch?
 
 That is 3.04888e29 route permutations to brute force (don't try), and you only have 1 second to calculate the answer.  (salesman needs to leave right away)
 
-# out of kindness,
+# out of kindness
 
 The requirement is to get a good solution.  Not the guaranteed optimal one.  
 The 1 second limit is just approximate.  
@@ -17,6 +17,7 @@ You may spend additional second(s) evolving a better solution from a previous on
 You may also "cheat" by keeping a small (under say 10kb) amount of state for the next evolution iteration.
 
 # input
+
 cities are x y points, and the distance between them is the floor of the pythagoran distance.
 
 home city is the first at: 0 0
@@ -79,8 +80,8 @@ The calculated distance table,
      561 195  614 149 769 317 110 159  820  345 571  833 211 224  585  557 468 356  723 720  619 438  834 541  799   0 240
      710 156  385 327 612 125 180  98  584  524 524  592  36 250  381  365 250 220  506 515  396 454  598 300  579 240   0
 
-
 # output
+
       total distance of itinerary:  14193 pythagores
       route order: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 0
 
@@ -98,7 +99,8 @@ The allowed cheat list suggests a 3 step program.  1. quick clustering, 2. arran
 
 The evolving solver does not need to be the same program that creates the first solution.
 
-#bonus
+# bonus
+
 a 40 city tour.  Not sure if same algorithms will work
 
       0   0

@@ -5,11 +5,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3ntsni/20151007_challeng
 
 # Description
 
-The game of bowling is pretty simple: you have ten pins arranged in a triangle, and you roll a ball down a slick alley towards them and try and knock as many down as possible. In most frames (see below about the tenth frame) you get two attempts per "frame" before the remaining pins are cleared. 
+The game of bowling is pretty simple: you have ten pins arranged in a triangle, and you roll a ball down a slick alley towards them and try and knock as many down as possible. In most frames (see below about the tenth frame) you get two attempts per "frame" before the remaining pins are cleared.
 
 The bowler is allowed 10 frames in which to knock down pins, with frames one (1) through nine (9) being composed of up to two rolls. The tenth frame may be composed of up to three rolls: the bonus roll(s) following a strike or spare in the tenth (sometimes referred to as the eleventh and twelfth frames) are fill ball(s) used only to calculate the score of the mark rolled in the tenth.
 
-Bowing scoring is a bit tricky (which is why this is an *intermediate* challenge). In addition to a gutter ball (which is 0 pins), you have strikes and spares as well as 1 to 9 pins being knocked down. Strikes and spares affect the next balls in different ways. 
+Bowing scoring is a bit tricky (which is why this is an *intermediate* challenge). In addition to a gutter ball (which is 0 pins), you have strikes and spares as well as 1 to 9 pins being knocked down. Strikes and spares affect the next balls in different ways.
 
 When all ten pins are knocked down with the first ball of a frame (called a strike and typically rendered as an "X" on a scoresheet), a player is awarded ten points, plus a bonus of whatever is scored with the next two balls. In this way, the points scored for the two balls after the strike are counted twice.
 
@@ -43,7 +43,6 @@ Aka a perfect game.
 
 # Bonus ASCII Art
 
-
                              ! ! ! !
                           ." ! ! !  /
                         ."   ! !   /
@@ -60,7 +59,6 @@ Aka a perfect game.
            |/
           /|
           / |
-
 
 # Credit
 

@@ -23,8 +23,8 @@ Sample output:
 
 How many words from the list can appear next to the word `best` in a word ladder?
 
-__Bonus 1:__ One word in the list has 33 other words that can appear next to it. What is this word? 
+__Bonus 1:__ One word in the list has 33 other words that can appear next to it. What is this word?
 
 __Bonus 2:__ How many different words can be reached, starting from `best`, in 3 or fewer steps?
 
-_Thanks to **Thomas1122** for suggesting this challenge on /r/dailyprogrammer_ideas!_
+_Thanks to __Thomas1122__ for suggesting this challenge on /r/dailyprogrammer_ideas!_

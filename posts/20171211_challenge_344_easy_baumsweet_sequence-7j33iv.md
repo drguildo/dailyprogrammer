@@ -18,8 +18,8 @@ For example, b_4 = 1 because the binary representation of 4 is 100, which only c
                 00 0 0  00     00 000  0 runs of 0s
                    ^ ^            ^^^    odd length sequences
                
-Because we find an odd length sequence of 0s, b_n is 0. 
- 
+Because we find an odd length sequence of 0s, b_n is 0.
+
 # Challenge Description
 
 Your challenge today is to write a program that generates the Baum-Sweet sequence from 0 to some number *n*. For example, given "20" your program would emit:

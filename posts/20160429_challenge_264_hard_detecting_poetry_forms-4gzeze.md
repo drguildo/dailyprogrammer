@@ -19,12 +19,11 @@ You'll be given a poem in plain text, with line breaks as expected. Example:
       And unless we are wrong
       You expected this line to be lewd.
 
-
 # Output Description
 
 Your program should emit the rhyme scheme found in the poem. From the above example:
 
-	aabba
+    aabba
 
 (It's a Limerick.)
 
@@ -38,33 +37,33 @@ Your program should emit the rhyme scheme found in the poem. From the above exam
 
 --
 
-	  Once upon a midnight dreary, while I pondered, weak and weary,
-	  Over many a quaint and curious volume of forgotten lore—
-	  While I nodded, nearly napping, suddenly there came a tapping,
-	  As of some one gently rapping, rapping at my chamber door.
-	  "'Tis some visiter," I muttered, "tapping at my chamber door—
-	              Only this and nothing more."
+      Once upon a midnight dreary, while I pondered, weak and weary,
+      Over many a quaint and curious volume of forgotten lore—
+      While I nodded, nearly napping, suddenly there came a tapping,
+      As of some one gently rapping, rapping at my chamber door.
+      "'Tis some visiter," I muttered, "tapping at my chamber door—
+                  Only this and nothing more."
 
 --
 
-	Brothers, who when the sirens roar
-	From office, shop and factory pour
-	'Neath evening sky;
-	By cops directed to the fug
-	Of talkie-houses for a drug,
-	Or down canals to find a hug
+    Brothers, who when the sirens roar
+    From office, shop and factory pour
+    'Neath evening sky;
+    By cops directed to the fug
+    Of talkie-houses for a drug,
+    Or down canals to find a hug
 
 --
 
-	Two roads diverged in a yellow wood,
-	And sorry I could not travel both
-	And be one traveler, long I stood
-	And looked down one as far as I could
-	To where it bent in the undergrowth;	
+    Two roads diverged in a yellow wood,
+    And sorry I could not travel both
+    And be one traveler, long I stood
+    And looked down one as far as I could
+    To where it bent in the undergrowth;    
 
 # Challenge Output
 
-	aabba
-	abcbbb
-	aabccc
-	abaab
+    aabba
+    abcbbb
+    aabccc
+    abaab

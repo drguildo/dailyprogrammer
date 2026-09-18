@@ -7,7 +7,6 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/6l3hd8/20170703_challeng
 
 In the world of software testing there is a combinatorial shortcut to exhaustive testing called "All Pairs" or "Pairwise Testing". The gist of this kind of testing is based on some old research that found for a given scenario^1 -- a web form, for example -- most errors were caused either by 1 element, or the interaction of a pair of elements. So, rather than test every single combination of possible inputs, if you carefully chose your test cases so that each possible combination of 2 elements appeared at least once in the test cases, then you'd encounter the majority of the problems. This is helpful because for a form with many inputs, the exhaustive list of combinations can be quite large, but doing all-pairs testing can reduce the list quite drastically.
 
-
 Say on our hypothetical web form, we have a checkbox and two dropdowns.
 
 * The checkbox can only have two values: 0 or 1
@@ -57,4 +56,4 @@ So, the challenge is, given a set of possible inputs, e.g. `[['0', '1'], ['A', '
 
 # Credit
 
-This challenge was suggested by user /u/abyssalheaven, many thanks! If you have an idea for a challenge, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by user /u/abyssalheaven, many thanks! If you have an idea for a challenge, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

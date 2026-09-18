@@ -38,13 +38,13 @@ You just can't get the guests sometimes, some of them have already sat down and 
 
 In this case, there is only one solution (abAB).
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 
 Consider submitting it to /r/dailyprogrammer_ideas
 
-#Side note
+# Side note
 
 Sorry for being late, my cat was overrun by a car and we had to do some taking care of it first.
 

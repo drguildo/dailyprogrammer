@@ -19,7 +19,7 @@ Now to select a range, we need another syntax. The following symbols apply in or
 
 * A formula may have one or more `&`s (ampersands) in it. If so, both the cell/range specified to the left and right are selected. This is just a concatenation. For example, [`A1:B2&C3:D4` looks like this](http://i.imgur.com/rnYmCtG.png).
 
-* A formula may have one `~` (tilde) symbol in it. If so, any cells specified *before* the tilde are added to the final selection, and any cells *after* the tilde are removed from the final selection of cells. For example, if I enter `A1:C3~B2` then all cells from A1 to C3 *except* B2 are selected, [which looks like this](http://i.imgur.com/7fop7wJ.png). (This acts like a [relative complement](http://en.wikipedia.org/wiki/Complement_%28set_theory%29#Relative_complement) of the right hand side in the left hand side.)
+* A formula may have one `~` (tilde) symbol in it. If so, any cells specified _before_ the tilde are added to the final selection, and any cells _after_ the tilde are removed from the final selection of cells. For example, if I enter `A1:C3~B2` then all cells from A1 to C3 _except_ B2 are selected, [which looks like this](http://i.imgur.com/7fop7wJ.png). (This acts like a [relative complement](http://en.wikipedia.org/wiki/Complement_%28set_theory%29#Relative_complement) of the right hand side in the left hand side.)
 
 Your challenge today will be, given a selection string like `A3:C6&D1~B4&B5`, print the co-ordinates of all of the selected cells, along with the count of selected cells.
 

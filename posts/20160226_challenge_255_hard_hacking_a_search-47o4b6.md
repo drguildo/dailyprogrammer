@@ -16,8 +16,7 @@ Let's consider a simple search engine: one that searches over a large list of sh
     Matches: All work and no play makes Jack a dull boy.
             The MUJAC playmaker actually kinda sucked at karate.
 
-
-Typically, a search engine does not provide an easy way to simply search "everything", especially if it is a private service. Having people get access to all your data generally devalues the usefulness of only showing small bits of it (as a search engine does). 
+Typically, a search engine does not provide an easy way to simply search "everything", especially if it is a private service. Having people get access to all your data generally devalues the usefulness of only showing small bits of it (as a search engine does).
 
 We are going to force this (hypothetical) search engine to give us all of its results, by coming up with just the right inputs such that every one of its sayings is output at least once by all those searches. We will also be minimizing the number of searches we do, so we don't "overload" the search engine.
 
@@ -53,12 +52,12 @@ Also, while this is technically a valid solution, it is *not* an optimal one, si
 
 # Challenge input
 
-Use this file of 3877 one-line UNIX fortunes: https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/common/oneliners.txt
+Use this file of 3877 one-line UNIX fortunes: <https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/common/oneliners.txt>
 
 # Notes
 
 This is a hard problem not just via its tag here on /r/dailyprogrammer; it's in a [class of problems](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems) that is generally known to computer scientists to be difficult to find efficient solutions to. I picked a "5+ letter" limit on the outputs since it makes brute-forcing hard: 26^5 = 11,881,376 different combinations, checked against 3,877 lines each is 46 billion comparisons. That serves as a very big challenge. If you would like to make it easier while developing, you could turn the 5 character limit down to fewer -- reducing the number of possible outputs. Good luck!
 
-# Lastly...
+# Lastly
 
 Got your own idea for a super hard problem? Drop by /r/dailyprogrammer_ideas and share it with everyone!

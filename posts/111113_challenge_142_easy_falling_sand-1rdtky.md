@@ -13,6 +13,7 @@ Your goal is to implement a mini falling-sand simulation for just sand and stone
 * Sand keeps moving down through air, one step at a time, until it either hits the bottom of the grid, other sand, or stone.
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given an integer N which represents the N x N grid of ASCII characters. This means there will be N-lines of N-characters long. This is the starting grid of your simulated world: the character ' ' (space) means an empty space, while '.' (dot) means sand, and '#' (hash or pound) means stone. Once you parse this input, simulate the world until all particles are settled (e.g. the sand has fallen and either settled on the ground or on stone). "Ground" is defined as the solid surface right below the last row.
@@ -22,6 +23,7 @@ On standard console input, you will be given an integer N which represents the N
 Print the end result of all particle positions using the input format for particles.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     5

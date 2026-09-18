@@ -40,11 +40,11 @@ In today's challenge, we are given an expression in Kuth's up-arrow notation to 
     1 ↑ 0
     1 ↑↑ 0
     12 ↑↑↑↑↑↑↑↑↑↑↑ 25
- 
+
 # Credit
 
 This challenge was suggested by user /u/wizao, many thanks! If you have a challeng idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.
- 
+
 # Extra Info
 
-This YouTube video, [The Balloon Puzzle - The REAL Answer Explained ("Only Geniuses Can Solve")](https://www.youtube.com/watch?v=DNmWtINlkhw), includes exponentiation, tetration, and up-arrow notation. Kind of fun, can you solve it? 
+This YouTube video, [The Balloon Puzzle - The REAL Answer Explained ("Only Geniuses Can Solve")](https://www.youtube.com/watch?v=DNmWtINlkhw), includes exponentiation, tetration, and up-arrow notation. Kind of fun, can you solve it?

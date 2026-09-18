@@ -1,6 +1,5 @@
 ---
-title: "[9/27/2012] Challenge #101 [difficult] (Boolean Minimization)
-"
+title: "[9/27/2012] Challenge #101 [difficult] (Boolean Minimization)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/10lbjo/9272012_challenge_101_difficult_boolean/"
 ---
 
@@ -20,6 +19,6 @@ This is a 4-variable boolean function with the given truth table.  The program c
 
     f(abcd)=ac'+ab'+bcd'
 
-or 
-    
+or
+
     f(0123)=02'+01'+123'

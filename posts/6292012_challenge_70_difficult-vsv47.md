@@ -17,13 +17,13 @@ There are some composite numbers which pass Fermat’s primality test for all po
 
 Because there exist numbers that fool Fermat’s primality test for all bases, a strong pseudo-primality test is often used
 
-Your tasks are 
+Your tasks are
 
 * to write two functions that test if a number is a Fermat pseudo-prime or a strong pseudo-prime to a given base
 
-*  two functions that test primality using the Fermat and strong pseudo-prime tests.
+* two functions that test primality using the Fermat and strong pseudo-prime tests.
 
-Bonus: 
+Bonus:
 
 Write two functions that test if a number is a Carmichael number, and to identify all the Carmichael numbers less than a given input number by the user.
 

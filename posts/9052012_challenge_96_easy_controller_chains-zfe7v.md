@@ -1,6 +1,5 @@
 ---
-title: "[9/05/2012] Challenge #96 [easy] (Controller Chains)
-"
+title: "[9/05/2012] Challenge #96 [easy] (Controller Chains)"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/zfe7v/9052012_challenge_96_easy_controller_chains/"
 ---
 
@@ -8,7 +7,7 @@ It's 2001 all over again, and you just got a brand new ps2 in the mail.  Unfortu
 
 Fortunately, however, the ps2 has an accessory called a 'multitap' that multiplexes one controller port into four controller ports, to allow more than 2 controllers at once.  
 
-Pretend you don't know that only one multitap can be used in a given PS2 at once. By connecting multitaps to multitaps, you could easily create a complicated tree architecture to get as many ports as you need.  However, you also have limited resources at your disposal. 
+Pretend you don't know that only one multitap can be used in a given PS2 at once. By connecting multitaps to multitaps, you could easily create a complicated tree architecture to get as many ports as you need.  However, you also have limited resources at your disposal.
 
 Given that a controller costs $20, and a multitap costs $12, write a function that takes in an integer D for the amount of money you have (in dollars) and returns the total maximum number of people you could afford to get to play with you on one ps2 tree.
 

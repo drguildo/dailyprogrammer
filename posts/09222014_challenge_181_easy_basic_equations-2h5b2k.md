@@ -25,30 +25,30 @@ You will print a point in the format `(x, y)`, which is the point at which the t
 
 ## Sample Input
 
-	y=2x+2
-	y=5x-4
+    y=2x+2
+    y=5x-4
 
 ## Sample Output
 
-	(2, 6)
-	
+    (2, 6)
+    
 ## Sample Input
 
-	y=-5x
-	y=-4x+1
+    y=-5x
+    y=-4x+1
 
 ## Sample Output
 
-	(-1, 5)
+    (-1, 5)
 
 ## Sample Input
 
-	y=0.5x+1.3
-	y=-1.4x-0.2
+    y=0.5x+1.3
+    y=-1.4x-0.2
 
 ## Sample Output
 
-	(-0.7895, 0.9053)
+    (-0.7895, 0.9053)
 
 # Notes
 

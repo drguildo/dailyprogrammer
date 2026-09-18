@@ -45,14 +45,20 @@ number has at least 6 places after the decimal point.
 ## Sample Inputs and Outputs
 
 ### Sample 1 Input
+
     1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
 ### Sample 1 Output
+
     0.000106 0.001101 0.003752 0.008352 0.014896 0.023237 0.033171 0.044485
     0.056975 0.070457 0.084769 0.099768 0.115334 0.131363 0.147766 0.164466
 
 ### Sample 1 Input
+
     5 10 13 88 45 21 79 9 56 21 90 55 17 35 85 34
+
 ### Sample 1 Output
+
     0.000124 0.001200 0.002616 0.180212 0.054654 0.009631 0.151723 0.000867
     0.083360 0.009631 0.186620 0.080611 0.005531 0.032281 0.170648 0.030291
 
@@ -61,15 +67,19 @@ number has at least 6 places after the decimal point.
 If you're stuck, try these easier versions of the same problem:
 
 ## Intermediate Sample Input
+
     1 2 3 4 5 6 7 8
 
 ## Intermediate Sample Output
+
     0.004884 0.024842 0.056171 0.094499 0.136913 0.181597 0.227421 0.273674
 
 ## Easy Sample Input
+
     1 2 3 4
 
 ## Easy Sample Output
+
     0.063862 0.185608 0.312857 0.437672
 
 # Challenge

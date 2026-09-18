@@ -3,14 +3,14 @@ title: "[2016-01-06] Challenge #248 [Intermediate] A Measure of Edginess"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3zqiiq/20160106_challenge_248_intermediate_a_measure_of/"
 ---
 
-Want to write a program that actually understands images it sees? 
+Want to write a program that actually understands images it sees?
 
 One of the mainstays of the computer vision toolkit is *[edge
 detection](https://en.wikipedia.org/wiki/Edge_detection)* -- a series
 of different approaches to find places where color/brightness in an
 image changes abruptly. It is a process that takes a regular image as
 input, and returns an image that highlights locations at which "edges"
-exist. 
+exist.
 
 On Monday we [took a
 look](https://www.reddit.com/r/dailyprogrammer/comments/3zfajl/20160104_challenge_248_easy_draw_me_like_one_of/)
@@ -81,8 +81,8 @@ is done by looking at the pixels around it. Suppose our current pixel
 is `X` in the table below, while its surrounding pixels are `a` to `h`.
 
     a b c
-	d X e
-	f g h
+    d X e
+    f g h
 
 Since at this point each of these values are integers, we can just do
 some simple arithmetic to figure out how much this selection of 9
@@ -108,14 +108,13 @@ image, the outcome will be something like the problem's sample
 output. We can then print out the PPM image using the same value for
 red, green, and blue, giving us the grayscale output we want.
 
-
-# Finally...
+# Finally
 
 **Have any cool ideas for challenges?** Come post them over in
-  /r/dailyprogrammer_ideas! 
+  /r/dailyprogrammer_ideas!
 
 **Got feedback?** We (the mods) would like to know how we're doing!
   Are the problems too easy? Too hard? Just right? Boring/exciting?
   Varied/same? Anything you would like to see us do that we're not
   doing? Anything we're doing that we should just stop? Come by this
-  [feedback thread](https://redd.it/3zgexx) and let us know! 
+  [feedback thread](https://redd.it/3zgexx) and let us know!

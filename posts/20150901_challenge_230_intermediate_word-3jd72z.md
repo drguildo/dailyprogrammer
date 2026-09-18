@@ -23,7 +23,7 @@ This reduces the total letter count by four, as there are four "crossings". Your
 
 ## Input Specification
 
-You'll be given a set of words on one line, separated by commas. Your solution should be case insensitive, and treat hyphens and apostrophes as normal letters - you should handle the alphabet, `'` and `-` in words. 
+You'll be given a set of words on one line, separated by commas. Your solution should be case insensitive, and treat hyphens and apostrophes as normal letters - you should handle the alphabet, `'` and `-` in words.
 
 ## Output Description
 
@@ -75,7 +75,7 @@ This corresponds to the example in the challenge description.
     graphic,yellow,halberd,cardboard,grass,island,coating
 
 ### Output
-    
+
     COATING
           R     G
     CARDBOARD   A

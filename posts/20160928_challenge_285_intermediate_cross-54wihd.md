@@ -16,14 +16,13 @@ A customer birthday is:
 
 So the year, month, day can be stored as 1 byte each, and this arrangement makes it easiest to search on year or other components.  (the year can be coded as the offset to 1900)
 
-
 **challenge** (encode following dates)
 
 1944/11/22  
 1982/3/14  
 1986/2/11  
 
-#2. add a header to the file
+# 2. add a header to the file
 
 Database management software needs to know what is in the file.  Create a strategy to describe what is in the file, such that it can be read and written to.
 
@@ -44,8 +43,7 @@ A subject touched upon in Monday's part 1 challenge, was that there are 2 genera
 2. place a key of lengths or (easily derived) offsets to data starts as a header element to the data.  Relatively fast specific data access.  More memory used.  2 updates needed when record/field changed.
 3. Use a seperator, non-legal-data-value.  Still sequential read disadvantage, but a faster sequential read.  Requires that a non-legal-data value or escape sequence exists.
 
-
-FYI, most database (and in memory) systems allocate variable string data by using a "too big" text field and left aligning data within the larger space.  Provides quickest indexed access and in place updates. 
+FYI, most database (and in memory) systems allocate variable string data by using a "too big" text field and left aligning data within the larger space.  Provides quickest indexed access and in place updates.
 
 **challenge for 3 fields:  FirstName LastName DateOfBirth**:
 

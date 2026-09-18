@@ -27,7 +27,7 @@ Your challenge is, given an initial 'state' of 'on' and 'off' cells, and a numbe
 
 You will be given a number **N**, and then two more numbers **X** and **Y**. After that you will be given a textual ASCII grid of 'on' and 'off' states that is **X** cells wide and **Y** cells tall. On the grid, a period or full-stop `.` will represent 'off', and a hash sign `#` will represent 'on'.
 
-The grid that you are using must 'wrap around'. That means, if something goes off the bottom of the playing field, then it will wrap around to the top, like this: http://upload.wikimedia.org/wikipedia/en/d/d1/Long_gun.gif See how those cells act like the top and bottom, and the left and right of the field are joined up? In other words, the neighbours of a cell can look like this - where the lines coming out are the neighbours:
+The grid that you are using must 'wrap around'. That means, if something goes off the bottom of the playing field, then it will wrap around to the top, like this: <http://upload.wikimedia.org/wikipedia/en/d/d1/Long_gun.gif> See how those cells act like the top and bottom, and the left and right of the field are joined up? In other words, the neighbours of a cell can look like this - where the lines coming out are the neighbours:
 
     #-...-  ......  ../|\.
     |\.../  ......  ......

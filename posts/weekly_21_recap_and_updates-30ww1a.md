@@ -3,7 +3,7 @@ title: "[Weekly #21] Recap and Updates"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/30ww1a/weekly_21_recap_and_updates/"
 ---
 
-# [](#WeeklyIcon) The long tail of \/r/DailyProgrammer...
+# [](#WeeklyIcon) The long tail of \/r/DailyProgrammer
 
 /u/gfixler pointed out a few weeks ago in /r/DailyProgrammer_Ideas that some people don't get a chance to make their solutions known if they posted it some time after the challenge was released (see the original thread [here](http://www.reddit.com/r/dailyprogrammer_ideas/comments/2y2crh/the_long_tail_of_rdailyprogrammer/)). Solutions posted after the 'gold rush' of initial responses get buried, which is a bit disheartening if you submit your solution comment later on!
 

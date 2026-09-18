@@ -8,6 +8,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1rnrs2/112813_challenge_
 You and your friends are planning a big banquet, but need to figure out the order in which food will be served. Some food, like a turkey, have to be served after appetizers, but before desserts. Other foods are more simple, like a pecan pie, which can be eaten any time after the main meal. Given a list of foods and the order-relationships they have, print the banquet schedule. If a given food item cannot be placed in this schedule, write an error message for it.
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given two space-delimited integers, N and M. N is the number of food items, while M is the number of food-relationships. Food-items are unique single-word lower-case names with optional underscores (the '_' character), while food-relationships are two food items that are space delimited. All food-items will be listed first on their own lines, then all food-relationships will be listed on their own lines afterwards. A food-relationship is where the first item must be served before the second item.
@@ -28,6 +29,7 @@ Some orderings may be ambiguous: you might have two desserts before coffee, but 
 Print the correct order of food-items with a preceding index, starting from 1. If there are ambiguous ordering for items, list them together on the same line as a comma-delimited array of food-items. Any items that do not have a relationship must be printed with a warning or error message.
 
 # Sample Inputs & Outputs
+
 ## Sample Input 1
 
     3 3
@@ -72,6 +74,6 @@ Print the correct order of food-items with a preceding index, starting from 1. I
     
     Warning: Rice does not have any ordering.
 
-# Author's Note:
+# Author's Note
 
 This challenge has some subtle ordering logic that might be hard to understand at first. Work through sample data 2 by hand to better understand the ordering rules before writing code. Make sure to expand all widecard rules as well.

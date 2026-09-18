@@ -32,12 +32,12 @@ If the given URl is invalid, simply print "The given URL is invalid". If the giv
 
 **Sample Inputs & Outputs:**
 
-Given "http://en.wikipedia.org/w/index.php?title=Main_Page&action=edit", your program should print the following:
+Given "<http://en.wikipedia.org/w/index.php?title=Main_Page&action=edit>", your program should print the following:
 
     title: "Main_Page"
     action: "edit"
 
-Given "http://en.wikipedia.org/w/index.php?title= hello world!&action=é", your program should print the following:
+Given "<http://en.wikipedia.org/w/index.php?title=> hello world!&action=é", your program should print the following:
 
     The given URL is invalid
 

@@ -11,7 +11,6 @@ Imagine you live on a grid of characters, like the one below. For this example, 
        
     X .
 
-
 You start at the `X` at the bottom-left, and you want to get to the `X` at the top-right. However, you can only move up, to the right, and diagonally right and up in one go. This means there are three possible paths to get from one `X` to the other `X` (with the path represented by `-`, `+` and `|`):
 
     +-X  . X  . X
@@ -112,7 +111,7 @@ Output the number of valid path combinations in the input, or an error message i
 ## Example 2
 
 ### Input
-	
+
     10, 10
     .........X
     ..........
@@ -186,7 +185,7 @@ Output the number of valid path combinations in the input, or an error message i
     .............................
     .............................
 
-### Output 
+### Output
 
     19475329563
 
@@ -215,7 +214,7 @@ Output the number of valid path combinations in the input, or an error message i
     .............................
     .............................
 
-### Output 
+### Output
 
     6491776521
 

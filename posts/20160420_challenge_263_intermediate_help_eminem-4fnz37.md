@@ -3,7 +3,7 @@ title: "[2016-04-20] Challenge #263 [Intermediate] Help Eminem win his rap battl
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4fnz37/20160420_challenge_263_intermediate_help_eminem/"
 ---
 
-#Description
+# Description
 
 Eminem is out of rhymes! He's enlisted you to help him out.
 
@@ -20,43 +20,45 @@ with [this phoneme description](http://svn.code.sf.net/p/cmusphinx/code/trunk/cm
 Note that the dictionary uses the [ARPAbet](https://en.wikipedia.org/wiki/Arpabet) phonetic transcription code and
 includes stress indicators for the vowel sounds. Make sure to match the stress indicator of the input word.
 
-#Input
+# Input
 
 A word from the pronouncing dictionary
 
     solution
 
-#Output
+# Output
 
 A list of rhyming words, annotated by the number of matching phonemes and their phonetic definition,
 sorted by the number of matching phonemes.
 
-    [7] ABSOLUTION	AE2 B S AH0 L UW1 SH AH0 N
-    [7] DISSOLUTION	D IH2 S AH0 L UW1 SH AH0 N
-    [6] ALEUTIAN	AH0 L UW1 SH AH0 N
-    [6] ANDALUSIAN	AE2 N D AH0 L UW1 SH AH0 N
+    [7] ABSOLUTION    AE2 B S AH0 L UW1 SH AH0 N
+    [7] DISSOLUTION    D IH2 S AH0 L UW1 SH AH0 N
+    [6] ALEUTIAN    AH0 L UW1 SH AH0 N
+    [6] ANDALUSIAN    AE2 N D AH0 L UW1 SH AH0 N
     ...
-    [2] ZUPAN	Z UW1 P AH0 N
-    [2] ZURKUHLEN	Z ER0 K Y UW1 L AH0 N
-    [2] ZWAHLEN	Z W AA1 L AH0 N
-    [2] ZYMAN	Z AY1 M AH0 N
+    [2] ZUPAN    Z UW1 P AH0 N
+    [2] ZURKUHLEN    Z ER0 K Y UW1 L AH0 N
+    [2] ZWAHLEN    Z W AA1 L AH0 N
+    [2] ZYMAN    Z AY1 M AH0 N
 
-#Challenge
+# Challenge
 
 Eminem likes to play fast and loose with his rhyming!
 He doesn't mind if the rhymes you find don't match the stress indicator.
 
 Find all the words that rhyme the input word, regardless of the value of the stress indicator for the last vowel phoneme.
 
-###Input
+### Input
+
     noir
 
-###Output
-    [2] BOUDOIR	B UW1 D OY2 R
-    [2] LOIRE	L OY1 R
-    [2] MOIR	M OY1 R
-    [2] SOIR	S OY1 R
+### Output
+
+    [2] BOUDOIR    B UW1 D OY2 R
+    [2] LOIRE    L OY1 R
+    [2] MOIR    M OY1 R
+    [2] SOIR    S OY1 R
 
 # Credit
 
-This challenge was suggested by /u/lt_algorithm_gt. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a chance we'll use it. 
+This challenge was suggested by /u/lt_algorithm_gt. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a chance we'll use it.

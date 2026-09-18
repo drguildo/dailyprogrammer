@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4tqy5c/20160720_challeng
 
 The key function is a higher order array function modelled in sql as `group by` and in J as `/.`  For each key, apply a passed function to the entire subarray of items that share the same key.
 
-#function signature
+# function signature
 
 key(
 
@@ -30,7 +30,7 @@ for each item in input, return a record with the key and the item count for that
 
      5 3 5 2 2 9 7 0 7 5 9 2 9 1 9 9 6 6 8 5 1 1 4 8 5 0 3 5 8 2 3 8 3 4 6 4 9 3 4 3 4 5 9 9 9 7 7 1 9 3 4 6 6 8 8 0 4 0 6 3 2 6 3 2 3 5 7 4 2 6 7 3 9 5 7 8 9 5 6 5 6 8 3 1 8 4 6 5 6 4 8 9 5 7 8 4 4 9 2 6 10
 
-**output** 
+**output**
 
      5 13
      3 12
@@ -43,7 +43,6 @@ for each item in input, return a record with the key and the item count for that
      8 11
      4 12
     10  1
-
 
 # 2. grouped sum of field
 
@@ -84,10 +83,9 @@ for each record use the first field as key, and return key and sum of field 2 (g
     │d│272│
     └─┴───┘
 
-
 # 3. nub (easier)
 
-the "nub of an array" can be implemented with key.  It is similar to sql first function. 
+the "nub of an array" can be implemented with key.  It is similar to sql first function.
 
 for the input from `2.` return the first element keyed (grouped) by first column
 
@@ -104,6 +102,6 @@ for the input from `2.` return the first element keyed (grouped) by first column
     │d│85│
     └─┴──┘
 
-#note
+# note
 
 I will upvote if you write a key function that functionally returns an array/list.  (spirit of challenge is not to shortcut through actual data inputs)

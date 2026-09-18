@@ -41,5 +41,4 @@ Bonus: amend the program so that it can output a two-dimensional table instead o
         | xkcd      | xkcd.com         | Sudo make me a sandwich       |
         +-----------+------------------+-------------------------------+
 
-
-* Thanks to [Medicalizawhat](http://www.reddit.com/user/Medicalizawhat) for suggesting this problem at /r/dailyprogrammer_ideas (a version of this problem was originally posted [here](http://programthis.net/table-games/)). If you have a problem you think would be good for us, [head over there](http://www.reddit.com/r/dailyprogrammer_ideas) and post it! 
+* Thanks to [Medicalizawhat](http://www.reddit.com/user/Medicalizawhat) for suggesting this problem at /r/dailyprogrammer_ideas (a version of this problem was originally posted [here](http://programthis.net/table-games/)). If you have a problem you think would be good for us, [head over there](http://www.reddit.com/r/dailyprogrammer_ideas) and post it!

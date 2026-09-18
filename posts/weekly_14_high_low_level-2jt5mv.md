@@ -5,8 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2jt5mv/weekly_14_high_lo
 
 What's your preference towards languages?
 
-
-Do you like the abstracted nature of Python and Matlab where you can easily create useful programs with a relatively small line count? 
+Do you like the abstracted nature of Python and Matlab where you can easily create useful programs with a relatively small line count?
 
 Orrrr
 

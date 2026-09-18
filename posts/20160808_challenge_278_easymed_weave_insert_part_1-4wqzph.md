@@ -29,7 +29,6 @@ If the 2nd array is shorter than the first then the simplest option is to cut of
 (b)  
 (c)  
 
-
 # string input
 
 input format has each string within an array on its own line.  A blank line separates the 2 arrays.  A single string represents a character array.  The first line of input indicates "Bracket" or "Weave" to indicate use of the 2 alternate functions.
@@ -54,7 +53,6 @@ Bracket
 
 ()
 
-
 **output:**  
 (2+3)  
 (4-5)  
@@ -70,8 +68,7 @@ Weave
 
 **output:**  
 (2+3)  
-*    
+*
 (4-5)  
-*     
+*
 (6+7)  
-

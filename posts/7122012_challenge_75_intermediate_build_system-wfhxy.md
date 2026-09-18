@@ -24,7 +24,7 @@ Commands to set the target:
 This says that the current build target is an executable named <file>, or a static lib named <file>.  All subsequent commands affect this build target until it is changed.
 
 Commands to set flags:
-    
+
     ldflags <flag1> <flag2> <flag3> ... <flagn>
     cflags <flag1> <flag2> <flag3> ... <flagn>
 
@@ -47,7 +47,7 @@ Here is an example input file:
         hello.c
         hello_win32.c
         hello_posix.c
-	
+    
     exe hello
         cflags -O3
         hello_main.c

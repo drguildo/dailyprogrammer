@@ -33,6 +33,6 @@ In yesterday's challenge, we trialled ordering the solution submissions by *new*
 
 We have an [IRC channel on Freenode](http://www.reddit.com/r/dailyprogrammer/comments/2dtqr7/), at **#reddit-dailyprogrammer**. Join the channel and lurk with us!
 
-### Previously...
+### Previously
 
 The previous weekly thread was [**Machine Learning**](http://www.reddit.com/r/dailyprogrammer/comments/3206mk/).

@@ -3,9 +3,9 @@ title: "[7/16/2014] Challenge #171 [Intermediate] Zoom, Rotate, Invert Hex Pictu
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2avd5i/7162014_challenge_171_intermediate_zoom_rotate/"
 ---
 
-#Description:
+# Description
 
-This builds off the [Easy #171] (http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/) Challenge. We take it to the next level.
+This builds off the [Easy #171] (<http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/>) Challenge. We take it to the next level.
 
 We can read in an 8x8 picture from hex values. Once we have that image we can do some fun things to it.
 
@@ -15,11 +15,11 @@ We can read in an 8x8 picture from hex values. Once we have that image we can do
 
 Your challenge is implement these 3 abilities. If you completed Easy #171 then you have a headstart. Otherwise you will need to complete that first.
 
-#Input:
+# Input
 
-Same as [Easy #171] (http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/) read in 8 hex values and use it to generate a 8x8 image.
+Same as [Easy #171] (<http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/>) read in 8 hex values and use it to generate a 8x8 image.
 
-#Zoom:
+# Zoom
 
 You will zoom in x2 at a time. So let's look at what a zoom does.
 You have this image (using numbers for reference)
@@ -79,7 +79,7 @@ Your zoom feature should be able to take the image and go x2. Up to a maximum of
 Your zoom feature should also zoom out and take a 32x32 to a 16x16 and then down to a 8x8. Your zoom should
 not go out more than x4. (So your images can be only 8x8, 16x16 or 32x32).
 
-#Rotate:
+# Rotate
 
 This is very simple. You will rotate clockwise or counterclockwise.
 
@@ -98,15 +98,13 @@ If you rotate it 90 counter clockwise:
     12
     34
 
-
 Your rotations should go either direction and can handle the image being 8x8, 16x16 or 32x32.
 
-#Invert:
+# Invert
 
 In the image if it was turned off it becomes turned on. If it is turned on it becomes turn off.
 
 Example if you have this image: (adding a border of #)
-
 
      ##########
      #xxxxxxxx#
@@ -132,9 +130,9 @@ The invert of it becomes:
      #        #
      ##########
 
-#Challenge:
+# Challenge
 
-Use the same input as the [Easy #171] (http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/) and do the following operations on them.
+Use the same input as the [Easy #171] (<http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_easy_hex_to_8x8_bitmap/>) and do the following operations on them.
 
 * Zoom in x 2
 * Rotate Clockwise 90

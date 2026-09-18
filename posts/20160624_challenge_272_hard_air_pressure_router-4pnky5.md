@@ -35,12 +35,13 @@ The donut hub can be modeled as a straight line where coordinates wrap around fr
 
 'X' - **Hub closure** - hub simplification to prevent wrap around of air back to start.  Barrier inside the hub that permanently blocks air flow.
 
-#motor states
+# motor states
+
 The challenge is to catalogue all possible motor states given a port layout, and a "slug lockring".  The **basic motor states** for each type:
 
 M off 0 - outlet is blocked  
-M on 1 - outlet is open   
-B off 0 - outlet is blocked  OR exhaust is open   
+M on 1 - outlet is open
+B off 0 - outlet is blocked  OR exhaust is open
 B on 1 - outlet is open AND (exhaust is closed) OR exhaust paths/routes to H.  
 F off 0 - outlet is blocked  OR (exhaust is blocked OR no free path from exhaust to E or Lo)  
 F on 1 - outlet is open   AND exhaust is open AND free path from exhaust to `E` or `Lo`)  
@@ -56,15 +57,15 @@ F brake 2: ON and outlet open AND path/routed to `Lo` AND `Li` is blocked.
 F brake hard 3: OFF AND (exhaust is blocked OR exhaust path to `Lo` is blocked)  
 F reverse 4:  H (High Pressure input) is blocked from input  AND input open and is path/routed to `E` AND exhaust is open and path/routed to `Li`  
 
-#input format
+# input format
+
 2 (or 3) lines (with visual header)
-Aligned boxes of hub index and port description at each index (visual sugar. doesn't need parsing)   
+Aligned boxes of hub index and port description at each index (visual sugar. doesn't need parsing)
 a spaced delimited list of the port description at each hub index.  
 A space delimited list of slug intervals with 0 the first index.
 An optional additional space delimited list of slug intervals if a 2nd servo-motor is being used.
 
-
-#output format
+# output format
 
 The challenges are to rotate dials (servo settings) to every integer position to determine the motor states of all motors connected to hub at each dial setting.
 
@@ -76,13 +77,13 @@ motorid state, dial settings that create that state for that motor combination (
 
 (this format is useful to explore adding more slugs to a dial to enable more state combinations)
 
-**summary output**   
+**summary output**
 one line per unique motor state combination (likely fewer than dial settings) followed by count of lines, count of just basic states and count of special states.
 
-#1. Basic states challenge 
+# 1. Basic states challenge
 
 for clarity the slug array input of `0 11 17` means that:
- 
+
 At dial position 0, the slugs block ports `0 11 17`.  
 At dial position 1, the slugs block ports `1 12 18`.  
 At dial position 2, the slugs block ports `2 13 19`.  
@@ -108,6 +109,7 @@ A slug on node 8 would let air into both previous motors, and allow motor 2 to e
 (as soon as I do it, but this system has all 4 basic state combinations along with regenerative and hard braking on motor2):  **edit: posted in comments**
 
 # 2. simpler challenge
+
 3 non-feedback motors.  Can you figure out the dial setting to turn on motor 2M without the other 2 being on?  All 8 state combinations are possible.
 
     ┌─┬─┬─┬─┬──┬─┬─┬─┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┐
@@ -128,10 +130,11 @@ bonuses are aimed at crafting input interactively with your function.  So it is 
 outputs for bonuses are the input format.
 
 # bonus 1
+
 Can you design a single servo controller for a car with left front motor, right front motor, and rear wheel drive motor.  With regenerative braking on the back, and skid steering on the front (steer by either hard braking one side, and/or having one motor on and other off).  Available states must include 3 motors on, but there doesn't need to be power to rear wheels when steering.
 
 is a reverse gear possible?
 
+# bonus 2
 
-#bonus 2
 Using only B type motors, can you make a 3 degree of freedom (DOF) robot arm?  4 DOF?  Each degree of freedom needs to have on off and hold states.  All 3 must have hold states while another B motor is either on/off, but they can go on/off one at a time.  So with a 3 DOF robot, there are only 7 needed state combinations:  All hold, and on/off for each while other 2 hold.

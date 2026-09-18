@@ -66,7 +66,6 @@ Expected output:
     ....**..
     ....***.
 
-
 **2nd Part**
 
 We will extend our programming language, so that we can do more updates without
@@ -85,8 +84,8 @@ Each line has the following format:
                     rrca       |
                     djnz <labelref>
 
-&lt;label&gt; is a sequence of characters a-z A-Z _ terminated with one character ":".
-&lt;labelref&gt; is a sequence of characters a-z A-Z _ (it corresponds to some label minus
+&lt;label&gt; is a sequence of characters a-z A-Z _terminated with one character ":".
+&lt;labelref&gt; is a sequence of characters a-z A-Z_ (it corresponds to some label minus
 the trailing ":").
 
 Instruction ld b,&lt;num&gt; sets a number to register B. Instruction rlca rotates bits in
@@ -125,7 +124,6 @@ Challenge Output 2:
     .******.
     ..****..
     ...**...
-
 
 Challenge Input 3:
 
@@ -173,4 +171,4 @@ Challenge Output 4:
 
 # Credit
 
-This challenge was suggested by /u/lukz in /r/dailyprogrammer_ideas, many thanks! If you have a challenge idea please share it and there's a good chance we'll use it. 
+This challenge was suggested by /u/lukz in /r/dailyprogrammer_ideas, many thanks! If you have a challenge idea please share it and there's a good chance we'll use it.

@@ -20,7 +20,7 @@ You'll be given a line with a single integer on it, telling you how many lines t
 
 # Output Description
 
-Your program should emit the longest valid English language word you can make for each keyboard configuration. 
+Your program should emit the longest valid English language word you can make for each keyboard configuration.
 
     abcd = bacaba
     qwer = ewerer
@@ -43,4 +43,4 @@ Your program should emit the longest valid English language word you can make fo
 
 # Credit
 
-This challenge was inspired by /u/ThinkinWithSand, many thanks! If you have any ideas, please share them on /r/dailyprogrammer_ideas and there's a chance we'll use it. 
+This challenge was inspired by /u/ThinkinWithSand, many thanks! If you have any ideas, please share them on /r/dailyprogrammer_ideas and there's a chance we'll use it.

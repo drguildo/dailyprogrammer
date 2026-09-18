@@ -12,6 +12,7 @@ Your goal is to write a program that takes in one of these Dice Notation command
 *Author: nint22*
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 You will be given a string of the for NdM, where N and M are describe above in the challenge description. Essentially N is the number of times to roll the die, while M is the number of faces of this die. N will range from 1 to 100, while M will range from 2 to 100, both inclusively. This string will be given through standard console input.
@@ -21,6 +22,7 @@ You will be given a string of the for NdM, where N and M are describe above in t
 You must simulate the die rolls N times, where if there is more than one roll you must space-delimit (not print each result on a separate line). Note that the range of the random numbers must be inclusive of 1 to M, meaning that a die with 6 faces could possibly choose face 1, 2, 3, 4, 5, or 6.
 
 # Sample Inputs & Outputs
+
 ## Sample Input
 
     2d20

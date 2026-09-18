@@ -100,7 +100,6 @@ Here are some 4x5 crappy bitmaps to get started
     .O.O.
     .....
 
-
 the last one is that ghost square from Monday's challenge.  Bitmaps differences for Starting, Regular, and Ghost Rooks is encouraged, as is code generating as much as possible of the variations.
 
 # 2. Is the black king in check
@@ -111,21 +110,21 @@ The black king (k) is in a check position if
 
 1. He pretends he is a bishop(b), and can capture a B or Q(ueen)
 2. He pretends he is a rook(r), and can capture a R or Q(ueen)
-3. He pretends he is a knight(n), and can capture a N 
+3. He pretends he is a knight(n), and can capture a N
 4. He pretends he is a pawn(p), and can capture a P
 
 (note that pieces are blocked by other friend and foe pieces from "checking" the king)
 
 For output, list all squares that have a piece that is holding the black king in check.
 
-** sample input **
+**sample input**
 
 1r3rk1/1pnnq1bR/p1pp2B1/P2P1p2/1PP1pP2/2B3P1/5PK1/2Q4R
 
-** sample output **
+**sample output**
 
 empty - no checks.
 
-** challenge input **
+**challenge input**
 
 '1r3kR1/4P3/6NB/8/8/Q7/8/4KR2'

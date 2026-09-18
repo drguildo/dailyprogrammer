@@ -7,15 +7,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3rhzdj/20151104_challeng
 
 Let's pursue Monday's [Game of Threes](https://www.reddit.com/r/dailyprogrammer/comments/3r7wxz/20151102_challenge_239_easy_a_game_of_threes/) further!
 
-To make it more fun (and make it a 1-player instead of a [0-player](https://en.wikipedia.org/wiki/Zero-player_game) game), let's change the rules a bit: *You can now add any of [-2, -1, 1, 2] to reach a multiple of 3*. This gives you two options at each step, instead of the original single option. 
+To make it more fun (and make it a 1-player instead of a [0-player](https://en.wikipedia.org/wiki/Zero-player_game) game), let's change the rules a bit: *You can now add any of [-2, -1, 1, 2] to reach a multiple of 3*. This gives you two options at each step, instead of the original single option.
 
 With this modified rule, find a Threes sequence to get to 1, with this extra condition: *The sum of all the numbers that were added must equal 0*. If there is no possible correct solution, print `Impossible`.
 
-# Sample Input:
+# Sample Input
 
     929
 
-# Sample Output:
+# Sample Output
 
     929 1
     310 -1
@@ -25,7 +25,7 @@ With this modified rule, find a Threes sequence to get to 1, with this extra con
     4 -1
     1
 
-Since `1 - 1 - 1 + 2 - 1 == 0`, this is a correct solution. 
+Since `1 - 1 - 1 + 2 - 1 == 0`, this is a correct solution.
 
 # Bonus points
 

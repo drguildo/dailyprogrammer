@@ -9,7 +9,7 @@ The longest uncrossed (or nonintersecting) knight's path is a mathematical probl
 
 A further distinction can be made between a closed path, which ends on the same field as where it begins, and an open path, which ends on a different field from where it begins.
 
-For this challenge, assume the following: 
+For this challenge, assume the following:
 
 * You can make an open path
 * You can start (and end) on any legal square

@@ -3,7 +3,7 @@ title: "[2015-04-24] Challenge #211 [Hard] Hungry puppies"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/33ow0c/20150424_challenge_211_hard_hungry_puppies/"
 ---
 
-#Description
+# Description
 
 Annie has a whole bunch of puppies. They're lovable but also very rambunctious. One day, spur of the moment, Annie decides to get them all treats. She is looking forward to how happy they will all be, and getting ready to serve them the treats, when she realizes: the treats are not all the same size!
 
@@ -19,8 +19,9 @@ Note that the puppies on either end of the line only have a single neighbor to l
 
 Write a program for Annie to recommend a treat distribution that maximizes puppy happiness.
 
-#Formal inputs &amp; outputs
-#Input
+# Formal inputs &amp; outputs
+
+# Input
 
 The input is a single line of positive integers representing the sizes of the treats Annie purchased. For example:
 
@@ -28,7 +29,7 @@ The input is a single line of positive integers representing the sizes of the tr
 
 Assume there are as many puppies as there are treats. In this case, there are 8 puppies to be served 8 treats of 3 different sizes.
 
-#Output
+# Output
 
 The output must provide two facts. First, it must display what the maximum achievable happiness is, as a single integer on its own line
 
@@ -58,42 +59,41 @@ Again, pictorally:
 
 Note that it may be possible for there to be several different orderings of the treats that give the maximum happiness. As long as you print out one of them, it doesn't matter *which* one.
 
-#Example inputs and outputs
-##Input 1:
+# Example inputs and outputs
+
+## Input 1
 
     1 2 2 3 3 3 4
 
-
-##Output 1
+## Output 1
 
     2
     3 1 3 2 2 3 4
 
-
-##Input 2:
+## Input 2
 
     1 1 2 3 3 3 3 4 5 5 
 
-##Output 2:
+## Output 2
 
     4
     5 3 3 5 3 3 4 1 1 2
 
-#Challenge inputs
+# Challenge inputs
 
-##Challenge input 1
+## Challenge input 1
 
     1 1 2 3 3 3 3 4 5 5
 
-##Challenge input 2
+## Challenge input 2
 
     1 1 2 2 3 4 4 5 5 5 6 6
 
-#Bonus
+# Bonus
 
     1 1 2 2 2 2 2 2 3 4 4 4 5 5 5 6 6 6 7 7 8 8 9 9 9 9 9 9 9 9
 
-#Finally
+# Finally
 
 This lovely little problem was submitted by /u/Blackshell to /r/dailyprogrammer_ideas, and for his hard work, he has been rewarded with with a gold medal! That means he's a pretty cool dude!
 

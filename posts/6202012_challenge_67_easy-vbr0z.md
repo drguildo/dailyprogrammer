@@ -9,7 +9,7 @@ But more than that, when we instruct it to store an integer, we usually tell it 
 
 If we were to reverse that bit pattern, we would get "10110000000000000000000000000000", which written in decimal becomes "2952790016".
 
-Write a program that can do this "32-bit reverse" operation, so when given the number 13, it will return 2952790016. 
+Write a program that can do this "32-bit reverse" operation, so when given the number 13, it will return 2952790016.
 
 Note: just to be clear, for all numbers in this problem, we are using *unsigned* 32 bit integers.
 

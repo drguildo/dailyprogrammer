@@ -28,4 +28,4 @@ Write a function that, given a secret word and an offensive word, returns true i
 1. Define the _problem count_ of an offensive word to be the number of words in the [enable1 word list](https://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt) that return true when paired with that offensive word as secret words. For instance, the problem count of "snond" is 6. What is the problem count of "rrizi" (Zarthan offensive slang for the air in potato chip bags)?
 1. (Edited for clarity) What are the 10 largest problem counts of any sequence of 5 letters ("aaaaa", "aaaab", " aaaac", through "zzzzz")? _A solution to this problem needs to finish in less than a year. Aim for a few minutes, or an hour at most. Post your output along with your code._
 
-*Thanks to /u/AtlasMeh-ed for submitting this challenge on /r/dailyprogrammer_ideas!*
+_Thanks to /u/AtlasMeh-ed for submitting this challenge on /r/dailyprogrammer_ideas!_

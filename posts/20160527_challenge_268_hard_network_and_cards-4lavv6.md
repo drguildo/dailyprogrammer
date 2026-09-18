@@ -3,7 +3,7 @@ title: "[2016-05-27] Challenge #268 [Hard] Network and Cards: Part 3, The cheate
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4lavv6/20160527_challenge_268_hard_network_and_cards/"
 ---
 
-#Description
+# Description
 
 This week we are creating a game playable over network. This will be a 3-parter.
 
@@ -51,30 +51,30 @@ The cards have the following values:
     King -> 10
     Ace -> 1 or 11 (11 if not over 21 and 1 if over)
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
- - Server
- 
+- Server
+
 Server has to accept at least 4 commands: `START`, `TAKE`, `PLAY` and `PASS`
 
- - Client
- 
+- Client
+
  Clients must be able to recieve the choice for `TAKE` and `PASS` and must be able to recieve cards, format of that is up to you
 
-##Output description
+## Output description
 
- - Server
- 
+- Server
+
  No Output required, but I can imagen that some loggin will be handy.
- 
-  - Client
+
+- Client
   
   A decent output for humans to read the cards and see their current score.
   Also must know when to type in the option to `TAKE` and `PASS`
- 
-#Notes/Hints
+
+# Notes/Hints
 
 ## TCP Socket approach
 
@@ -89,17 +89,17 @@ For the connection, TCP connections are the easiest way to do this in most langu
 
 Some off you pointed out that this could be done with a webserver. If this is more in the line of what you are used to, no problem then, as long as it stays in the line of a multiplayer game.
 
-#Bonus
+# Bonus
 
 Examine the game logic from a other submissions (or your own) and try to create a cheating bot.
-If a programmer forgets to add checks or some sort, you can exploit these. 
+If a programmer forgets to add checks or some sort, you can exploit these.
 
 **HOWEVER**:
 
-**If you are not up for that, put it in your submission. I don't want to see any bragging, I want this to be fun. Please be respectfull to other people at all time.** 
+**If you are not up for that, put it in your submission. I don't want to see any bragging, I want this to be fun. Please be respectfull to other people at all time.**
 **I will monitor this closely and any hurtful comment will be deleted**
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

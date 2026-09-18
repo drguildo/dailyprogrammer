@@ -18,7 +18,7 @@ Dan has the option of setting up two huts at any two vertices within the park - 
 You will be given a number **N** which will represent the number of vertices in the graph of the park. N will be between 1 and 26 inclusive.
 
 You will then be given a distance matrix, with newlines separating rows and commas separating columns. -1 is used to denote that there is no route connecting those two vertices. For the sake of simplicity, the vertices in the graph are assumed to be named A, B, C, D and so on, with the matrix representing them in that order, left-to-right and top-to-bottom, like [this network](http://i.imgur.com/RIfsghM.png) and its corresponding [distance matrix](http://i.imgur.com/iXuaqNT.png).
-    
+
 ## Output Description
 
 If it doesn't matter which vertices Dan starts and ends the journey from, print

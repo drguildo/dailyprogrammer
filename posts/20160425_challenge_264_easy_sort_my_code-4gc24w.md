@@ -9,14 +9,13 @@ Keeping your code clean is one thing. But keeping it sorted is a whole other thi
 
 Today you will get sorted `C++` coded (literaly) like this:
 
-    
       std::cout << "Hello world!" << std::endl;
     }
     #include <iostream>
     int main () {
     
  And you have to unsort it into this:
- 
+
     #include <iostream>
     
     int main () {
@@ -30,13 +29,11 @@ There are some rules you have to follow:
 - Whitespace lines are not obliged
 - variables have to be defined before used.
 - Every `{` must have a `}` on the same indentation level
-- Lines that belong to the same method and are of the same indentation, are in order. 
+- Lines that belong to the same method and are of the same indentation, are in order.
 
 # Input Description
 
 You'll be given a program that was sorted
-
- 
 
         sum = i + sum;
       {
@@ -49,7 +46,6 @@ You'll be given a program that was sorted
     }
     #include <iostream>
     int main()
-
 
 # Output Description
 
@@ -83,7 +79,7 @@ Your program should unsort the lines to something compilable by the compiler:
     int main()
 
 # Challenge Output
-    
+
     #include <iostream>
     int main()
     {
@@ -151,4 +147,5 @@ When you have multiple possibilities, you can sort the methods alpabeticly
 I have made some adjustments to the challenge after the feedback of /u/jnd-au
 
 # Finaly
+
 Have a good challenge idea? Consider submitting it to /r/dailyprogrammer_ideas and there's a good chance we'll use it.

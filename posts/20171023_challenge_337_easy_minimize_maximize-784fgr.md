@@ -21,13 +21,11 @@ The accuracy of these answers will depending how much precision you use when cal
 
 1. ~114.6
 2. ~40
-                
+
 # Credit
 
-This challenge was adapted from [The First 25 Years of the Superbrain](http://shop.ukmt.org.uk/ukmt-books/the-first-25-years-of-the-superbrain). If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was adapted from [The First 25 Years of the Superbrain](http://shop.ukmt.org.uk/ukmt-books/the-first-25-years-of-the-superbrain). If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas and there's a good chance we'll use it.
 
 # Reference Reading (Hints)
 
 [https://en.wikipedia.org/wiki/Golden-section_search](https://en.wikipedia.org/wiki/Golden-section_search)
-    
-    

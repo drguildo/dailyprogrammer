@@ -28,22 +28,22 @@ However, if we start with the number 13:
 * 1^(2)=1
 * We get the number 1 forever.
 
-The sequence of numbers that we end up with is called a *sad cycle*, and it depends on the number you start with. If you start the process with a number **n**, the sad cycle for **n** is the cycle which ends up eventually repeating itself; this will either just be the cycle `1`, or the cycle `4, 16, 37, 58, 89, 145, 42, 20`.
+The sequence of numbers that we end up with is called a _sad cycle_, and it depends on the number you start with. If you start the process with a number **n**, the sad cycle for **n** is the cycle which ends up eventually repeating itself; this will either just be the cycle `1`, or the cycle `4, 16, 37, 58, 89, 145, 42, 20`.
 
-But what if we cube the digits instead of squaring them? This gives us a different set of cycles all together. For example, starting with 82375 and repeatedly getting the sum of the *cube* of the digits will lead us to the cycle `352, 160, 217`. Other numbers gravitate toward certain end points. These cycles are called *3-sad cycles* (as the digits are raised to the power 3). This can be extended toward higher powers. For example, the 7-sad cycle for 1060925 is `5141159, 4955606, 5515475, 1152428, 2191919, 14349038, 6917264, 6182897, 10080881, 6291458, 7254695, 6059210`. Your challenge today,  will be to find the *b*-sad cycle for a given *n*.
+But what if we cube the digits instead of squaring them? This gives us a different set of cycles all together. For example, starting with 82375 and repeatedly getting the sum of the _cube_ of the digits will lead us to the cycle `352, 160, 217`. Other numbers gravitate toward certain end points. These cycles are called _3-sad cycles_ (as the digits are raised to the power 3). This can be extended toward higher powers. For example, the 7-sad cycle for 1060925 is `5141159, 4955606, 5515475, 1152428, 2191919, 14349038, 6917264, 6182897, 10080881, 6291458, 7254695, 6059210`. Your challenge today,  will be to find the _b_-sad cycle for a given _n_.
 
 # Formal Inputs and Outputs
 
 ## Input Description
 
-You will input the base ***b*** on the first line, and the starting number ***n*** on the second line, like so:
+You will input the base _**b**_ on the first line, and the starting number _**n**_ on the second line, like so:
 
     5
     117649
 
 ## Output Description
 
-Output a comma-separated list containing the ***b***-sad cycle for ***n***. For example, the 5-sad cycle for 117649 is:
+Output a comma-separated list containing the _**b**_-sad cycle for _**n**_. For example, the 5-sad cycle for 117649 is:
 
     10933, 59536, 73318, 50062
 
@@ -101,9 +101,9 @@ The starting point of the cycle doesn't matter - you can give a circularly permu
 
 # Comment Order
 
-Some people have notified us that new solutions are getting buried if you're not one of the first to submit. This is valid concern, so today we're trialling a method of **setting the suggested sort order to** ***new*** (suggested sorts are a newly introduced feature on Reddit). We'll take feedback on this and see how it goes. This means newer solutions will appear at the top.
+Some people have notified us that new solutions are getting buried if you're not one of the first to submit. This is valid concern, so today we're trialling a method of **setting the suggested sort order to** _**new**_ (suggested sorts are a newly introduced feature on Reddit). We'll take feedback on this and see how it goes. This means newer solutions will appear at the top.
 
-If you don't like this new sorting, you can still change the method back to **sort by** ***best***, which is the default.
+If you don't like this new sorting, you can still change the method back to **sort by** _**best**_, which is the default.
 
 # Notes
 

@@ -3,11 +3,11 @@ title: "[5/23/2014] Challenge #163 [Hard] Intersecting Lines in 2-D space"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/26b42x/5232014_challenge_163_hard_intersecting_lines_in/"
 ---
 
-#Descripton:
+# Descripton
 
 Given a typical x/y coordinate system we can plot lines. It would be interesting to know which lines intersect.
 
-#Input: 
+# Input
 
 A series of lines from 1 to many to put in our 2-D space. The data will be in the form:
 
@@ -17,8 +17,7 @@ A series of lines from 1 to many to put in our 2-D space. The data will be in th
 * (x1 y1) will be the coordinates of the starting point on line
 * (x2 y2) will be the coordinates of the ending point on line
 
-
-##example input:
+## example input
 
     A -2.5 .5 3.5 .5
     B -2.23 99.99 -2.10 -56.23
@@ -28,15 +27,14 @@ A series of lines from 1 to many to put in our 2-D space. The data will be in th
     F 2.0 2.0 3.0 2.0
     G 2.5 .5 2.5 2.0
 
-
 * Max X can be 1,000,000,000.00
 * Max Y can be 1,000,000,000.00
 
-#Output:
+# Output
 
 The program will list which lines intersect. And which have 0 intersects.
 
-##Example Output:
+## Example Output
 
     Intersecting Lines:
     A B
@@ -47,12 +45,9 @@ The program will list which lines intersect. And which have 0 intersects.
     No intersections:
     D
 
-#Difficulty:
+# Difficulty
 
 This is a coder_d00d(tm) unknown difficulty challenge. It could be easy. Could be hard. But it seems cool for a Friday.
 
-
 * If you want to make it **easier**: input is only 2 lines and you return yes/no
 * If you want to make it **harder**: output is the 2 lines and the (x y) point they intersect at.
-
-

@@ -78,4 +78,4 @@ Optional output format: Illustrate the solution step by step.
 
 # Credit
 
-This challenge was suggested by /u/skeeto, many thanks! If you have a challenge idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by /u/skeeto, many thanks! If you have a challenge idea please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

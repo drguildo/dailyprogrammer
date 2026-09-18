@@ -12,9 +12,9 @@ A carriage company is renting cars and there is a particular car for which the i
 
 The first line of the input will be *n* the number of requests.  The following two lines will consist of n numbers for the starting day of the renting, followed by another n numbers for the last day of the renting corresponding.   For all lines 0 < ^x i < ^y i <= 365 inequality holds, where i=1, 2, ..., n.
 
-	10  
-	1 12 5 12 13 40 30 22 70 19  
-	23 10 10 29 25 66 35 33 100 65
+    10  
+    1 12 5 12 13 40 30 22 70 19  
+    23 10 10 29 25 66 35 33 100 65
 
 # Output Description
 
@@ -32,5 +32,4 @@ Remember your goal is to find the scenario where you serve the most number of co
 
 # Credit
 
-This challenge was suggested by user /u/bessaai, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
-
+This challenge was suggested by user /u/bessaai, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

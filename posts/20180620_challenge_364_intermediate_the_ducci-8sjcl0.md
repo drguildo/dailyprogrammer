@@ -7,13 +7,13 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challeng
 
 A Ducci sequence is a sequence of n-tuples of integers, sometimes known as "the Diffy game", because it is based on sequences. Given an n-tuple of integers (a_1, a_2, ... a_n) the next n-tuple in the sequence is formed by taking the absolute differences of neighboring integers. Ducci sequences are named after Enrico Ducci (1864-1940), the Italian mathematician credited with their discovery.
 
-*Some* Ducci sequences descend to all zeroes or a repeating sequence. An example is (1,2,1,2,1,0) -> (1,1,1,1,1,1) -> (0,0,0,0,0,0). 
+*Some* Ducci sequences descend to all zeroes or a repeating sequence. An example is (1,2,1,2,1,0) -> (1,1,1,1,1,1) -> (0,0,0,0,0,0).
 
-Additional information about the Ducci sequence can be found in [this writeup](http://www.cut-the-knot.org/Curriculum/Algebra/GregBrockman/GregBrockmanDucciSequences.shtml) from Greg Brockman, a mathematics student. 
+Additional information about the Ducci sequence can be found in [this writeup](http://www.cut-the-knot.org/Curriculum/Algebra/GregBrockman/GregBrockmanDucciSequences.shtml) from Greg Brockman, a mathematics student.
 
 It's kind of fun to play with the code once you get it working and to try and find sequences that never collapse and repeat. One I found was (2, 4126087, 4126085), it just goes on and on.
 
-It's also kind of fun to plot these in 3 dimensions. [Here](https://monkey.org/~jose/graphing/ducci/index2.html) is an example of the sequence "(129,12,155,772,63,4)" turned into 2 sets of lines (x1, y1, z1, x2, y2, z2). 
+It's also kind of fun to plot these in 3 dimensions. [Here](https://monkey.org/~jose/graphing/ducci/index2.html) is an example of the sequence "(129,12,155,772,63,4)" turned into 2 sets of lines (x1, y1, z1, x2, y2, z2).
 
 # Input Description
 

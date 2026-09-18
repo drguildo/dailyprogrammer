@@ -47,7 +47,7 @@ output:
 
 **Challenge**
 
-[Input](https://gist.githubusercontent.com/Uwila/e3699bc26149d2b575c5/raw/a493af3066422cb3673182d969b36a58cf653cf5/data.in) 
+[Input](https://gist.githubusercontent.com/Uwila/e3699bc26149d2b575c5/raw/a493af3066422cb3673182d969b36a58cf653cf5/data.in)
 
 Or possibly, as intermediate challenge:
 
@@ -57,11 +57,10 @@ Or possibly, as intermediate challenge:
 
 You may use the fact that this maze is 201*201, (the intermediate maze is 25x25) either by putting it at the top of the input file or hardcoding it. The maze may contain loops (this is intended).
 
-
-#Finally
+# Finally
 
 Have a good challenge idea?
 
-Consider submitting it to /r/dailyprogrammer_ideas 
+Consider submitting it to /r/dailyprogrammer_ideas
 
 PS: Sorry about the intermediate. My account was locked...

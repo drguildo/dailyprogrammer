@@ -66,4 +66,4 @@ Your program should report the number of hours the lights would be on. From the 
 
 # Credit
 
-This challenge was suggested by user /u/Elinaeri, many thanks. If you have an idea for a challenge, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+This challenge was suggested by user /u/Elinaeri, many thanks. If you have an idea for a challenge, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it.

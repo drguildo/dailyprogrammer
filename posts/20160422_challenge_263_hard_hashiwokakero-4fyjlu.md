@@ -204,7 +204,7 @@ Solve this 25x25 puzzle:
 
 The puzzle can be thought of as a [constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction) problem (CSP) over a graph. There are CSP libraries for most languages that may prove useful. Most CSP libraries are designed to work over integers. You can reason about graphs in terms of integers by using an [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix).
 
-You can play *Hashiwokakero* online at http://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/bridges.html
+You can play *Hashiwokakero* online at <http://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/bridges.html>
 
 # Bonus
 

@@ -11,7 +11,7 @@ As an example, consider the number 21. Its divisors are 1, 3, 7 and 21, and thei
 
 ~~The integer 12 is the first *abundant* number. Its proper divisors are 1, 2, 3, 4 and 6 for a total of 16. The amount by which the sum exceeds the number is the abundance. The number 12 has an abundance of 4, for example.~~ The integer 12 is the first abundant number. Its divisors are 1, 2, 3, 4, 6, and 12, and their sum is 28. Because 28 is greater than 2 x 12, the number 12 is abundant. It's abundant by is 28 - 24 = 4. (Thanks /u/Rev0lt_ for the correction.)
 
-#  Input Description
+# Input Description
 
 You'll be given an integer, one per line. Example:
 
@@ -19,7 +19,7 @@ You'll be given an integer, one per line. Example:
     21
     9
 
-#  Output Description
+# Output Description
 
 Your program should emit if the number if deficient, abundant (and its abundance), or neither. Example:
 
@@ -47,4 +47,4 @@ Your program should emit if the number if deficient, abundant (and its abundance
 
 # OOPS
 
-I had fouled up my implementation, 9 and 111 are deficient, not perfect. See http://sites.my.xs.edu.ph/connor-teh-14/aste/mathematics-asteroids/perfect-abundant-and-deficient-numbers-1-100. 
+I had fouled up my implementation, 9 and 111 are deficient, not perfect. See <http://sites.my.xs.edu.ph/connor-teh-14/aste/mathematics-asteroids/perfect-abundant-and-deficient-numbers-1-100>.

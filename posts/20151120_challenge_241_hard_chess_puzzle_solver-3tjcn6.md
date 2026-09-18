@@ -3,11 +3,11 @@ title: "[2015-11-20] Challenge # 241 [Hard] Chess Puzzle solver"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3tjcn6/20151120_challenge_241_hard_chess_puzzle_solver/"
 ---
 
-#1 .  Getting out of check
+# 1 .  Getting out of check
 
 Wednesday's challenge 2 (listing pieces that have black king in check) was pretty hard, but getting that one will get you through 2/3rds of this challenge.
 
-A good source of puzzles is this site https://www.sparkchess.com/chess-puzzles.html, and the first one is this first challenge:
+A good source of puzzles is this site <https://www.sparkchess.com/chess-puzzles.html>, and the first one is this first challenge:
 
       toascii'1r3rkR/1pnnq1b1/p1pp2B1/P2P1p2/1PP1pP2/2B3P1/5PK1/2Q4R'
     .r...rkR
@@ -29,7 +29,7 @@ It is perfectly reasonable also to try all possible moves filtered by those that
 
 For the purpose of these challenges, you do not need to consider castling, 2 space pawn moves, en-passant capture, or pawn promotion.  All positions are white to move first, and white is the one looking to check and mate, and black the one running away.
 
-** what move gets black out of check **
+**what move gets black out of check**
 
 # 2. Finding a move that causes check
 
@@ -95,7 +95,7 @@ The most general recommended strategy is to try all possible moves, but for comp
 1. The positions that a king would be in check by a specific type of piece that a such a piece can move to.  Intersection of those 2 sets for each piece type.
 2. In the case of a Queen, Bishop or Rook, if the piece is already in the same row, column or diagonal as the king, and there is only 1 piece between the 2, and that piece is white (attacker's colour) then moving that piece out of the way will result in check.  This is the only case that can result in double check on the king.
 
-** what 3 (white) moves gets black into check **
+**what 3 (white) moves gets black into check**
 
 # 3 . Chess puzzle solver
 
@@ -115,7 +115,6 @@ h7-h8 g7-h8 h1-h8
 
 **challenge inputs**
 
-
 1r3k2/2n1p1b1/3p2QR/p1pq1pN1/bp6/7P/2P2PP1/4RBK1
 
 solution has 5 check options, 2 reply lines
@@ -132,7 +131,7 @@ r2r1n2/pp2bk2/2p1p2p/3q4/3PN1QP/2P3R1/P4PP1/5RK1
 
 solution has 9 check options, 1 reply line
 
-# 4. Bonus: Forcing moves that are not check.
+# 4. Bonus: Forcing moves that are not check
 
 As long as the opponent cannot place you in check, and you would be able to check opposing king on next move, then your side (white) still has the initiative.
 
@@ -142,5 +141,4 @@ For these problems all legal moves for white can be considered.  But a good filt
 
 r2qrb2/p1pn1Qp1/1p4Nk/4PR2/3n4/7N/P5PP/R6K
 
-
->Thanks to /u/szerlok for this Challenge idea.  If you have ideas for challenges, visit /r/dailyprogrammer_ideas 
+>Thanks to /u/szerlok for this Challenge idea.  If you have ideas for challenges, visit /r/dailyprogrammer_ideas

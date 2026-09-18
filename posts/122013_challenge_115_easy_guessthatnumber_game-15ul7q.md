@@ -3,7 +3,7 @@ title: "[1/2/2013] Challenge #115 [Easy] Guess-that-number game!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/15ul7q/122013_challenge_115_easy_guessthatnumber_game/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Guess-that-number game!
+# [](#EasyIcon) *(Easy)*: Guess-that-number game
 
 A "guess-that-number" game is exactly what it sounds like: a number is guessed at random by the computer, and you must guess that number to win! The only thing the computer tells you is if your guess is below or above the number.
 

@@ -12,7 +12,6 @@ Imagine an infinitely long, one-dimensional list of symbols. The list is infinit
 
 (The `|` marks the location of the middle of the tape, position zero.) Of course, we can't represent an infinite tape at once. Therefore, we add another possible symbol to our alphabet, `_` (underscore), to denote the lack of a symbol. This `_` symbol fills the rest of the tape, all the way out to infinity, like so (ellipsis denotes repeat):
 
-
     . . . _________________#0110#10101#111#01##_________________ . . .
                            |
 
@@ -167,7 +166,7 @@ This machine takes input as dots (`.`) and dashes (`/`), including a delimiter s
 
 Notice all the spaces in the output, as the dots and dashes are now not centered on the middle of the tape.
 
-## Machine 3: Copying 
+## Machine 3: Copying
 
 This machine takes a binary input string, including a delimiter symbol at the end. The binary string is copied to after the delimiter symbol.
 

@@ -7,7 +7,7 @@ This exercise is inspired by a [Numberphile video](https://www.youtube.com/watch
 
 # Description
 
-A number of sailors (let's call it N) are stranded on an island with a huge pile of coconuts and a monkey. During the night, each sailor (in turn) does the following without the others knowing: 
+A number of sailors (let's call it N) are stranded on an island with a huge pile of coconuts and a monkey. During the night, each sailor (in turn) does the following without the others knowing:
 
 1. He takes one N'th (e.g. if N=5, one fifth) of the coconuts in the pile and hides them
 2. The division leaves one coconut left over, which is given to the monkey.
@@ -24,7 +24,7 @@ The input is a single number: N, the number of sailors. This number is a whole n
 
 ## Output
 
-The output is a single number: the number of coconuts in the original pile. 
+The output is a single number: the number of coconuts in the original pile.
 
 ## Sample input/output
 
@@ -36,7 +36,7 @@ The output is a single number: the number of coconuts in the original pile.
 
     3121
 
-**Sample solution for 5 sailors:** https://jsfiddle.net/722gjnze/8/
+**Sample solution for 5 sailors:** <https://jsfiddle.net/722gjnze/8/>
 
 # Credit
 

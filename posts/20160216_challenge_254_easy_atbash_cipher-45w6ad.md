@@ -12,9 +12,9 @@ Atbash is a simple substitution cipher originally for the Hebrew alphabet, but p
 
 Amusingly, some English words Atbash into their own reverses, e.g., "wizard" = "draziw."
 
-This is not considered a strong cipher but was at the time. 
+This is not considered a strong cipher but was at the time.
 
-For more information on the cipher, please see the [Wikipedia page on Atbash](https://en.wikipedia.org/wiki/Atbash). 
+For more information on the cipher, please see the [Wikipedia page on Atbash](https://en.wikipedia.org/wiki/Atbash).
 
 # Input Description
 
@@ -36,4 +36,4 @@ Your program should emit the following strings as ciphertext or plaintext:
 
 # Bonus
 
-Preserve case. 
+Preserve case.

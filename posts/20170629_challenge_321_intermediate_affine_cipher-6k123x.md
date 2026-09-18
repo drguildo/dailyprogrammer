@@ -3,7 +3,7 @@ title: "[2017-06-29] Challenge #321 [Intermediate] Affine Cipher Solver"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/6k123x/20170629_challenge_321_intermediate_affine_cipher/"
 ---
 
-#Description
+# Description
 
 You are to output what you think is the solution to a given [Affine Cipher](https://en.wikipedia.org/wiki/Affine_cipher). In short, Affine ciphers are encoded by the following formula for each character in the plaintext: `C ≡ aP + b (mod 26)` where `a` and `b` are constants, `C` is the ciphertext letter, and `P` is the plaintext letter. In this case, the letter "a" has the value of 0, "b" 1, and so on and so forth. If you want a hint as to how to decode:
 
@@ -35,21 +35,19 @@ Now we change this to text again
 
 `tyyrbd`
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 Input will be words separated by spaces or newlines. Input will be in uppercase if need be (i.e. if you can't figure out a way to handle mixed cases), but if not, it will be provided in regular text (e.g. `Lorum ipsum ... word`). Expect only alphabetical characters. With reference to my previous equation, `a` will *only* be a number coprime with 26. Hint:
 
     that is, a will be one of the following: 3, 5, 7, 11, 15, 17, 19, 21, 23, or 25
 
-
-##Output description
+## Output description
 
 What your program thinks is the correct decoding, in lowercase if you only took uppercase input, else in the same case as you were given. You may give multiple outputs if there is a "tie" in your scoring, that is, if your program deemed two or more decodings to be correct.
 
-
-#Test Cases
+# Test Cases
 
 **Test Case 1:** NLWC WC M NECN
 
@@ -71,7 +69,7 @@ What your program thinks is the correct decoding, in lowercase if you only took 
 
     My heart aches, and a drowsy numbness pains / My sense, as though of hemlock I had drunk, / Or emptied some dull opiate to the drains / One minute past, and Lethe-wards had sunk.
 
-#Bonus
+# Bonus
 
 Make your solver work for all forms of input, not just alphabetical and make your output match the input. I think it goes without saying that this challenge is for the English language, but if you want to, make this program for another language or compatible with English and another. If you want another challenge, optimize your code for run-time (I'd be interested to see submissions in this category).
 

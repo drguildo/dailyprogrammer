@@ -12,7 +12,7 @@ I'll be using [J's implementation](http://code.jsoftware.com/wiki/Vocabulary/sem
 The following table provides all necessary information for seperating a string based on commas (or other cut character) into words (array elements).
 
 statelabel | cutchar | other
----|---|----
+--- | --- | ----
 start | start-Nothing | inword-BeginWord
 inword | start-EmitWordDontBeginNew | inword-Nothing
 
@@ -28,10 +28,8 @@ While in `inword` state, if the cutchar `,` is seen, the `emit word` (include fr
 * When end of input is reached, emit any word from `begining marker` to end of input.
 Codes to make shorter ActionCodes
 
-
-
 Code | CodeNumber | Action
----|---|---
+--- | --- | ---
 N | 0 | Nothing
 B | 1 | BeginWord
 W | 2 | EmitWordStartNewWord
@@ -45,23 +43,23 @@ The `EmitVector` actions (not used in today's challenges) mark the tentative end
 Since the action codes are 1 letter long, there is no need for the `-` separator.  Alternate version of above table:
 
 statelabel | cutchar | other
----|---|----
+--- | --- | ----
 start | startN | inwordB
-inword | startw| inwordN
-
+inword | startw | inwordN
 
 The state labels can also be replaced by a row number, and if those are numbers, then we can use J language's numeric action codes as well.  We reintroduce the dash to allow for easier "cutting" by character.
 
 New equivalent state transition table with state labels (removed) references replaced by state row indexes (0 based)
 
 cutchar | other
----|----
+--- | ----
 0-0 | 1-1
 0-3 | 1-0
 
 **challenge**
 
 write a function with the following 3 parameters:  
+
 1. stateTransitionTable - in one of the above 3 formats.
 2. inputMapping - a 256 integer array where each element's position corresponds to the ascii table, and the value of each cell refers to the column of the `stateTransitionTable`.
 3. stringtoTokenize - the input string that the function will parse.
@@ -83,22 +81,18 @@ cut on `, .!?:`: The quick brown fox, jumped over what?  The Moon!!!!
     └───┴─────┴─────┴───┴──────┴────┴────┴───┴────┘
     
 
-
-
-
-
 # 2.  Bonus variation, extra state input
 
-write a state transition table that will allow cuts either on `,`, or if the state is within quotes `"` capture the entire contents within quotes as a single word even if/when a `,` is included. 
+write a state transition table that will allow cuts either on `,`, or if the state is within quotes `"` capture the entire contents within quotes as a single word even if/when a `,` is included.
 
 hint: your state transition table will need 3 input columns: `,`,`"`,`other`, and your inputmapping will code `,` as 0, `"` as 1, and `other` as 2 if the 3 input columns of the state transition table are in the order I mentioned.
 
-I will spoiler a transition table after a while, but input/output of the function with the correct transition table, 
+I will spoiler a transition table after a while, but input/output of the function with the correct transition table,
 
 **input:**  
  mark"bill,  steve" phil,john
 
-**output:** 
+**output:**
 
     ┌────┬────────────┬─────┬────┐
     │mark│bill,  steve│ phil│john│
@@ -110,7 +104,7 @@ In part 1 of this challenge posted 2 weeks ago, one value in a 256 based "charac
 
 Write a state machine such that words are emitted when either a `/` (escape) or `+` (delimiter) are encountered.  When an escape character/code is encountered, the character following the escape code is retained in the output though the initial escape is removed.  Similarly, delimiters are removed.
 
-This sequential machine requires 2 passes.  After the word formation pass (the application of the sequential machine), any words that start with `/`(escape) or `+`(delimiter) are joined with the previous word. 
+This sequential machine requires 2 passes.  After the word formation pass (the application of the sequential machine), any words that start with `/`(escape) or `+`(delimiter) are joined with the previous word.
 
 **input:**
 

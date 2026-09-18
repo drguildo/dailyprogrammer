@@ -12,7 +12,7 @@ This challenge is up a bit early as I'm busy tomorrow so I'll probably forget. A
 * Usage of algorithms
 
 and I decided to combine the two. This will also be a relatively open-ended challenge, as they seem to be quite popular among the developers - i.e. you - here. For this challenge, you will input a set of real numbers, and visualise the sorting of that set into ascending order, with an algorithm(s) of your choice, with any mode of visualisation you can imagine.
-    
+
 ## Input Description
 
 You will be given a set of numbers that are between 0 and 1 (inclusive). The method of input is up to you.
@@ -29,19 +29,19 @@ To get to grips with some different sorting algorithms, let's look at four here.
 
 Bubble sort is the simplest of the four. You simply step through the list, looking at pairs of elements that are next to each other. If the pair is not in order, you swap them and look at the next pair, like so:
 
-	4 1 2 3 5
-	<->
-	
-	1 4 2 3 5
-	  <->
-	
-	1 2 4 3 5
-	    <->
-	
-	1 2 3 4 5
-	       x
-	
-	1 2 3 4 5
+    4 1 2 3 5
+    <->
+    
+    1 4 2 3 5
+      <->
+    
+    1 2 4 3 5
+        <->
+    
+    1 2 3 4 5
+           x
+    
+    1 2 3 4 5
 
 If the list is not sorted after doing this, you go through the list again until it is. Done! This is simple but slow. Onto the next one...
 
@@ -50,23 +50,23 @@ If the list is not sorted after doing this, you go through the list again until 
 Selection sort is, to me, the most intuitive of the four, and is probably similar to what you do when you sort a pack of playing cards. Simply start with your list L and an empty list S. While L is not empty, move the lowest value from L to the end of S, like so:
 
     [3 5 6 1 8 7 2 4] []
-	
-	[3 5 6 8 7 2 4] [1]
-	
-	[3 5 6 8 7 4] [1 2]
-	
-	[5 6 8 7 4] [1 2 3]
-	
-	[5 6 8 7] [1 2 3 4]
-	
-	[6 8 7] [1 2 3 4 5]
-	
-	[8 7] [1 2 3 4 5 6]
-	
-	[8] [1 2 3 4 5 6 7]
-	
-	[] [1 2 3 4 5 6 7 8]
-	
+    
+    [3 5 6 8 7 2 4] [1]
+    
+    [3 5 6 8 7 4] [1 2]
+    
+    [5 6 8 7 4] [1 2 3]
+    
+    [5 6 8 7] [1 2 3 4]
+    
+    [6 8 7] [1 2 3 4 5]
+    
+    [8 7] [1 2 3 4 5 6]
+    
+    [8] [1 2 3 4 5 6 7]
+    
+    [] [1 2 3 4 5 6 7 8]
+    
 And now S is our sorted list. Simple again, however this too is slow on larger lists.
 
 ## Merge Sort
@@ -80,10 +80,10 @@ Then, take pairs of lists and merge them. How to merge them, you say? It's fairl
 Now, we have the following lists after merging 3 times:
 
     [3 5] [1 6] [7 8] [2 4]
-	
-	[1 3 5 6] [2 4 7 8]
-	
-	[1 2 3 4 5 6 7 8]
+    
+    [1 3 5 6] [2 4 7 8]
+    
+    [1 2 3 4 5 6 7 8]
 
 The final list there is your list in order. Done!
 
@@ -102,4 +102,3 @@ Here are a few videos to kick-start your imagination!
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [Bubble Sort folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
 * [Quick Sort visualized](https://www.youtube.com/watch?v=8hEyhs3OV1w)
-

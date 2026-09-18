@@ -3,7 +3,7 @@ title: "[2016-11-21] Challenge #293 [Easy] Defusing the bomb"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5e4mde/20161121_challenge_293_easy_defusing_the_bomb/"
 ---
 
-#Description
+# Description
 
 To disarm the bomb you have to cut some wires. These wires are either white, black, purple, red, green or orange.
 
@@ -16,16 +16,15 @@ The rules for disarming are simple:
     If you cut a green one you have to cut a orange or white one
     If you cut a purple cable you can't cut a purple, green, orange or white cable
 
-If you have anything wrong in the wrong order, the bomb will explode. 
+If you have anything wrong in the wrong order, the bomb will explode.
 
+There can be multiple wires with the same colour and these instructions are for one wire at a time. Once you cut a wire you can forget about the previous ones.
 
-There can be multiple wires with the same colour and these instructions are for one wire at a time. Once you cut a wire you can forget about the previous ones. 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You will recieve a sequence of wires that where cut in that order and you have to determine if the person was succesfull in disarming the bomb or that it blew up.
-
 
 ### Input 1
 
@@ -41,7 +40,7 @@ You will recieve a sequence of wires that where cut in that order and you have t
     green
     white
 
-##Output description
+## Output description
 
 Wheter or not the bomb exploded
 
@@ -53,11 +52,11 @@ Wheter or not the bomb exploded
 
     "Boom"
 
-#Notes/Hints
+# Notes/Hints
 
 A state machine will help this make easy
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

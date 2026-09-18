@@ -5,15 +5,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2zna5q/20140320_challeng
 
 # [](#HardIcon) _(Hard)_: Recurrence Relations, part 2
 
-In [Monday's challenge](/r/dailyprogrammer/comments/2z68di/), we wrote a program to compute the first *n* terms of a simple recurrence relation. These recurrence relations depended only on the directly previous term - that is, to know *u*(n), you only need to know *u*(n-1). In today's challenge, we'll be investigating more complicated recurrence relations.
+In [Monday's challenge](/r/dailyprogrammer/comments/2z68di/), we wrote a program to compute the first _n_ terms of a simple recurrence relation. These recurrence relations depended only on the directly previous term - that is, to know _u_(n), you only need to know _u_(n-1). In today's challenge, we'll be investigating more complicated recurrence relations.
 
-In today's recurrence relations, the relation given will only depend on terms *preceding* the defined tern, not terms *following* the defined term. For example, the relation for *u*(n) will never depend on *u*(n+1). Let's look at the Fibonacci sequence as defined by [OEIS](http://oeis.org/A000045):
+In today's recurrence relations, the relation given will only depend on terms _preceding_ the defined tern, not terms _following_ the defined term. For example, the relation for _u_(n) will never depend on _u_(n+1). Let's look at the Fibonacci sequence as defined by [OEIS](http://oeis.org/A000045):
 
     u(0) = 0
     u(1) = 1
     u(n) = u(n-1) + u(n-2)
 
-This relation provides a definition for the first two terms - the 0th term and the 1st term. It also says that the *n*-th term is the sum of the two previous terms - that is, the *(n-1)*-th term and the *(n-2)*-th term. As we know terms 0 and 1, we therefore know term 2. As we know term 1 and 2, we know term 3, and so on - for this reason, the Fibonacci sequence is **completely defined** by this recurrence relation - we can compute an infinite number of Fibonacci numbers after the first two, given two defined terms.
+This relation provides a definition for the first two terms - the 0th term and the 1st term. It also says that the _n_-th term is the sum of the two previous terms - that is, the _(n-1)_-th term and the _(n-2)_-th term. As we know terms 0 and 1, we therefore know term 2. As we know term 1 and 2, we know term 3, and so on - for this reason, the Fibonacci sequence is **completely defined** by this recurrence relation - we can compute an infinite number of Fibonacci numbers after the first two, given two defined terms.
 
 However, now let's look at this recurrence relation:
 
@@ -22,30 +22,30 @@ However, now let's look at this recurrence relation:
     u(2) = 3
     u(n) = u(n-1) * u(n-2) + u(n-5)
 
-We're given the 0th, 1st and 2nd terms. However, the relation for the *n*-th term depends on the *(n-5)*-th term. This means we can't calculate the value of *u*(3), as we'll need the term 5 before that - ie. *u*(-2), which we don't have. We can't calculate *u*(4) for the same reason. We find that, to try and define the 3rd term and beyond, we don't have enough information, so this series is **poorly defined** by this recurrence relation. Therefore, all we know about the series is that it begins `[0, 1, 3]` - and, as far as we know, that's the end of the series.
+We're given the 0th, 1st and 2nd terms. However, the relation for the _n_-th term depends on the _(n-5)_-th term. This means we can't calculate the value of _u_(3), as we'll need the term 5 before that - ie. _u_(-2), which we don't have. We can't calculate _u_(4) for the same reason. We find that, to try and define the 3rd term and beyond, we don't have enough information, so this series is **poorly defined** by this recurrence relation. Therefore, all we know about the series is that it begins `[0, 1, 3]` - and, as far as we know, that's the end of the series.
 
 Here's another example of a recurrence relation with a twist:
 
     u(1) = 0
     u(n) = u(n-2) * 2 + 1
 
-This relation defines the 1st term. It also defines the *n*-th term, with respect to the *(n-2)*-th term. This means we know the 3rd term, then the 5th term, then the 7th term... but we don't know about the even-numbered terms! Here is all we know of the series:
+This relation defines the 1st term. It also defines the _n_-th term, with respect to the _(n-2)_-th term. This means we know the 3rd term, then the 5th term, then the 7th term... but we don't know about the even-numbered terms! Here is all we know of the series:
 
     0, ?, 1, ?, 3, ?, 7, ?, 15, ?, ...
 
-There are an infinite number of terms that we *do* know, but there are terms in-between those that we don't know! We only know half of the series at any given time. This is an example of a series being **partially defined** by a recurrence relation - we can work out some terms, but not others.
+There are an infinite number of terms that we _do_ know, but there are terms in-between those that we don't know! We only know half of the series at any given time. This is an example of a series being **partially defined** by a recurrence relation - we can work out some terms, but not others.
 
-Your challenge today is, given a set of initial terms and a recurrence relation, work out *as many further terms as possible*.
+Your challenge today is, given a set of initial terms and a recurrence relation, work out _as many further terms as possible_.
 
 # Formal Inputs and Outputs
 
 ## Input Description
 
-You will accept the recurrence relation in **reverse Polish notation** (or postfix notation). If you solved [last Wednesday's challenge](/r/dailyprogrammer/comments/2yquvm/), you may be able to re-use some code from your solution here. To refer to the *(n-k)*-th term, you write `(k)` in the RPN expression. Possible operators are `+`, `-`, `*` and `/` (but feel free to add any of your own). For example, this recurrence relation input defines the *n*-th term of the Fibonacci sequence:
+You will accept the recurrence relation in **reverse Polish notation** (or postfix notation). If you solved [last Wednesday's challenge](/r/dailyprogrammer/comments/2yquvm/), you may be able to re-use some code from your solution here. To refer to the _(n-k)_-th term, you write `(k)` in the RPN expression. Possible operators are `+`, `-`, `*` and `/` (but feel free to add any of your own). For example, this recurrence relation input defines the _n_-th term of the Fibonacci sequence:
 
     (2) (1) +
 
-This means that the *n*-th term is the *(n-2)*-th term and the *(n-1)*-th term, added together. Next, you will accept any number of pre-defined terms, in the format `index:value`. For example, this line of input:
+This means that the _n_-th term is the _(n-2)_-th term and the _(n-1)_-th term, added together. Next, you will accept any number of pre-defined terms, in the format `index:value`. For example, this line of input:
 
     2:5.333
 
@@ -54,7 +54,7 @@ Defines the 2nd term of the series to be equal to 5.333. For example, the initia
     0:0
     1:1
 
-Finally, you will accept a number - this will be the maximum *n* of the term to calculate. For example, given:
+Finally, you will accept a number - this will be the maximum _n_ of the term to calculate. For example, given:
 
     40
 

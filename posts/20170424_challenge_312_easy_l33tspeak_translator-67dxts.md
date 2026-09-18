@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/67dxts/20170424_challeng
 
 # Description
 
-L33tspeak - the act of speaking like a computer hacker (or hax0r) - was popularized in the late 1990s as a mechanism of abusing ASCII art and character mappings to confuse outsiders. It was a lot of fun. [One popular comic strip](http://megatokyo.com/strip/9) in 2000 showed just how far the joke ran. 
+L33tspeak - the act of speaking like a computer hacker (or hax0r) - was popularized in the late 1990s as a mechanism of abusing ASCII art and character mappings to confuse outsiders. It was a lot of fun. [One popular comic strip](http://megatokyo.com/strip/9) in 2000 showed just how far the joke ran.
 
 In L33Tspeak you substitute letters for their rough outlines in ASCII characters, e.g. symbols or numbers. You can have 1:1 mappings (like E -> 3) or 1:many mappings (like W -> `//). So then you wind up with words like this:
 
@@ -31,7 +31,7 @@ For this challenge we'll be using a subset of American Standard Leetspeak:
     V -> \/
     W -> `//
 
-Your challenge, should you choose to accept it, is to translate to and from L33T. 
+Your challenge, should you choose to accept it, is to translate to and from L33T.
 
 # Input Description
 
@@ -62,4 +62,3 @@ You should emit the translated words: Examples:
     Eye need help! -> 3Y3 (\)33D H31P!
     3Y3 (\)33d j00 t0 g37 d4 d0c70r. -> Eye need j00 to get da doctor.
     1 n33d m4 p1llz! -> I need ma pillz!
-

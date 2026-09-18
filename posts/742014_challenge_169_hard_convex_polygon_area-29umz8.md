@@ -7,15 +7,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/29umz8/742014_challenge_
 
 A convex polygon is a geometric polygon (ie. sides are straight edges), where all of the interior angles are less than 180'. For a more rigorous definition of this, see [this page](http://www.mathopenref.com/polygonconvex.html).
 
-The challenge today is, given the points defining the boundaries of a convex polygon, find the area contained within it. 
-    
+The challenge today is, given the points defining the boundaries of a convex polygon, find the area contained within it.
+
 ## Input Description
 
 First you will be given a number, **N**. This is the number of vertices on the convex polygon.  
-Next you will be given the points defining the polygon, in no particular order. The points will be a 2-D location on a flat plane of infinite size. These will always form a convex shape so don't worry about checking that 
+Next you will be given the points defining the polygon, in no particular order. The points will be a 2-D location on a flat plane of infinite size. These will always form a convex shape so don't worry about checking that
 
 in your program. These will be in the form `x,y` where `x` and `y` are real numbers.
-    
+
 ## Output Description
 
 Print the area of the shape.

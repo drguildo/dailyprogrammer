@@ -5,13 +5,13 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/683w4s/20170428_challeng
 
 # Description
 
-Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. A number of algorithms have been developed, with the simplest being one that parses the text, finds the most unique (or important) words, and then finds a sentence or two that contains the most number of the most important words discovered. This is sometimes called "extraction-based summarization" because you are extracting a sentence that conveys the summary of the text. 
+Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. A number of algorithms have been developed, with the simplest being one that parses the text, finds the most unique (or important) words, and then finds a sentence or two that contains the most number of the most important words discovered. This is sometimes called "extraction-based summarization" because you are extracting a sentence that conveys the summary of the text.
 
 For your challenge, you should write an implementation of a text summarizer that can take a block of text (e.g. a paragraph) and emit a one or two sentence summarization of it. You can use a stop word list (words that appear in English that don't add any value) from [here](http://snowball.tartarus.org/algorithms/english/stop.txt).
 
-You may want to review this brief overview of the algorithms and approaches in text summarization from [Fast Forward labs](http://blog.fastforwardlabs.com/post/141666523533/hp-luhn-and-the-heuristic-value-of-simplicity). 
+You may want to review this brief overview of the algorithms and approaches in text summarization from [Fast Forward labs](http://blog.fastforwardlabs.com/post/141666523533/hp-luhn-and-the-heuristic-value-of-simplicity).
 
-This is essentially what [the autotldr bot does](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/). 
+This is essentially what [the autotldr bot does](https://www.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/).
 
 # Example Input
 

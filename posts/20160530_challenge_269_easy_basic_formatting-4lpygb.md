@@ -3,7 +3,7 @@ title: "[2016-05-30] Challenge #269 [Easy] BASIC Formatting"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4lpygb/20160530_challenge_269_easy_basic_formatting/"
 ---
 
-#Description
+# Description
 
 It's the year 2095. In an interesting turn of events, it was decided 50 years ago that BASIC
 is by far the universally best language. You work for a company by the name of SpaceCorp, who
@@ -11,7 +11,7 @@ has recently merged with a much smaller company MixCo. While SpaceCorp has rigor
 guidelines, exactly 4 space per level of indentation, MixCo developers seem to format however
 they please at the moment. Your job is to bring MixCo's development projects up to standards.
 
-#Input Description
+# Input Description
 
 You'll be given a number N, representing the number of lines of BASIC code.
 Following that will be a line containing the text to use for indentation, which will
@@ -21,11 +21,11 @@ that need to be reindented.
 
 Blocks are denoted by `IF` and `ENDIF`, as well as `FOR` and `NEXT`.
 
-#Output Description
+# Output Description
 
 You should output the BASIC indented by SpaceCorp guidelines.
 
-#Challenge Input
+# Challenge Input
 
     12
     ····
@@ -42,7 +42,7 @@ You should output the BASIC indented by SpaceCorp guidelines.
     ··»»ENDIF
     »»»»·NEXT
 
-#Challenge Output
+# Challenge Output
 
     VAR I
     FOR I=1 TO 31
@@ -57,7 +57,7 @@ You should output the BASIC indented by SpaceCorp guidelines.
     ····ENDIF
     NEXT
 
-#Bonus
+# Bonus
 
 Give an error code for mismatched or missing statements. For example, this has a missing `ENDIF`:
 
@@ -91,8 +91,7 @@ This has an extra `ENDIF`:
     NEXT
     ENDIF
 
-
-#Finally
+# Finally
 
 Have a good challenge idea?
 

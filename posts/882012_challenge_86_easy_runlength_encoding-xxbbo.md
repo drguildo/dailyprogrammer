@@ -7,7 +7,7 @@ Run-Length encoding is a simple form of compression that detects 'runs' of repea
 
     "Heeeeelllllooooo nurse!"
 
-Could be compressed using run-length encoding to the list of pairs 
+Could be compressed using run-length encoding to the list of pairs
      [(1,'H'),(5,'e'),(5,'l'),(5,'o'),(1,'n'),(1,'u'),(1,'r'),(1,'s'),(1,'e')]
 
 Which seems to not be compressed, but if you represent it as an array of 18bytes (each pair is 2 bytes), then we save 5 bytes of space compressing this string.

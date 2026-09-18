@@ -19,13 +19,14 @@ The rule for "too many parentheses" around part of an expression is that if remo
     (((zbcd)(((e)fg))))
     ab((c))
 
-**outputs:** 
+**outputs:**
 
     ((a((bc)(de)))f)  
     ((zbcd)((e)fg))
     ab(c)
 
 # bonus
+
  A 2nd rule of too many parentheses can be that parentheses enclosing nothing are not needed, and so should be removed.  A/white space would not be nothing.
 
 **inputs:**  
@@ -34,7 +35,7 @@ The rule for "too many parentheses" around part of an expression is that if remo
       ((fgh()()()))
       ()(abc())
 
-**outputs:** 
+**outputs:**
 
       NULL
       (fgh)

@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3snorf/20151113_challeng
 
 # Description
 
-KenKen are trademarked names for a style of arithmetic and logic puzzle invented in 2004 by Japanese math teacher Tetsuya Miyamoto, who intended the puzzles to be an instruction-free method of training the brain. KenKen now appears in more than 200 newspapers in the United States and worldwide. 
+KenKen are trademarked names for a style of arithmetic and logic puzzle invented in 2004 by Japanese math teacher Tetsuya Miyamoto, who intended the puzzles to be an instruction-free method of training the brain. KenKen now appears in more than 200 newspapers in the United States and worldwide.
 
 As in sudoku, the goal of each puzzle is to fill a grid with digits –– 1 through 4 for a 4x4 grid, 1 through 5 for a 5x5, etc. –– so that no digit appears more than once in any row or any column (a Latin square). Grids range in size from 3x3 to 9x9. Additionally, KenKen grids are divided into heavily outlined groups of cells –– often called “cages” –– and the numbers in the cells of each cage must produce a certain “target” number when combined using a specified mathematical operation (either addition, subtraction, multiplication or division). For example, a linear three-cell cage specifying addition and a target number of 6 in a 4x4 puzzle must be satisfied with the digits 1, 2, and 3. Digits may be repeated within a cage, as long as they are not in the same row or column. No operation is relevant for a single-cell cage: placing the "target" in the cell is the only possibility (thus being a "free space"). The target number and operation appear in the upper left-hand corner of the cage.
 
@@ -23,7 +23,7 @@ Cages will be described as the target value, the operator to use, and then the c
 
     11 + A1 A2
 
-We will use standard ASCII notation for mathematical operators: `+`, `-`, `/`, `*`, and `=`. The equals sign basically says "this square is this value" - a gimme. 
+We will use standard ASCII notation for mathematical operators: `+`, `-`, `/`, `*`, and `=`. The equals sign basically says "this square is this value" - a gimme.
 
 # Sample Input
 
@@ -76,7 +76,7 @@ Your program should emit the grid of numbers that satisfies the rules - yield th
 
 # Challenge Output
 
-You can see the result here: http://imgur.com/JHHt6Hg 
+You can see the result here: <http://imgur.com/JHHt6Hg>
 
     1 4 3 5 2 6
     3 5 2 6 4 1

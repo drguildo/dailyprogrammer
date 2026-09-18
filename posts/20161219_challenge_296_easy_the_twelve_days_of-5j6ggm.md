@@ -3,16 +3,17 @@ title: "[2016-12-19] Challenge #296 [Easy] The Twelve Days of..."
 url: "https://old.reddit.com/r/dailyprogrammer/comments/5j6ggm/20161219_challenge_296_easy_the_twelve_days_of/"
 ---
 
-#Description
+# Description
+
 Print out the lyrics of [The Twelve Days of Christmas](http://www.41051.com/xmaslyrics/twelvedays.html)
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 No input this time
 
-##Output description
+## Output description
 
     On the first day of Christmas
     my true love sent to me:
@@ -128,20 +129,20 @@ No input this time
     2 Turtle Doves
     and 1 Partridge in a Pear Tree
 
-#Notes/Hints
+# Notes/Hints
 
     We want to have our source code as small as possible.
     Surprise me on how you implement this.
 
-#Bonus 1
+# Bonus 1
 
 Instead of using `1, 2, 3, 4...`, use `a, two, three, four...`
 
-#Bonus 2
+# Bonus 2
 
 Recieve the gifts from input:
 
-##Input
+## Input
 
     Partridge in a Pear Tree
     Turtle Doves
@@ -156,11 +157,11 @@ Recieve the gifts from input:
     Pipers Piping
     Drummers Drumming
 
-##Output
+## Output
 
 The song described as above
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

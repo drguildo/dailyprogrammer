@@ -9,19 +9,20 @@ This problem is a simplified version of Text Segmentation in Natural Language Pr
 
 Given a positive integer, return all the ways that the integer can be represented by letters using the mapping:
 
- * `1` -&gt; `A`
- * `2` -&gt; `B`
- * `3` -&gt; `C`
+* `1` -&gt; `A`
+* `2` -&gt; `B`
+* `3` -&gt; `C`
 
  ...
- * `25` -&gt; `Y`
- * `26` -&gt; `Z`
+
+* `25` -&gt; `Y`
+* `26` -&gt; `Z`
 
 For example, the integer `1234` can be represented by the words :
 
- * `ABCD` -&gt; `[1,2,3,4]`
- * `AWD` -&gt; `[1,23,4]`
- * `LCD` -&gt; `[12,3,4]`
+* `ABCD` -&gt; `[1,2,3,4]`
+* `AWD` -&gt; `[1,23,4]`
+* `LCD` -&gt; `[12,3,4]`
 
 **Input description**
 
@@ -60,7 +61,7 @@ Example 3:
 We can use our beloved [enable1.txt](https://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt) (or other if you prefer that) to find real words or even sentences.
 
 *Example 1*
-    
+
     1321205
 
     ACUTE
@@ -78,7 +79,6 @@ We can use our beloved [enable1.txt](https://code.google.com/p/dotnetperls-contr
     85121215231518124
 
     HELLOWORLD
-
 
 *Bonus Input*
 

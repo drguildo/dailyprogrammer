@@ -29,7 +29,7 @@ When a cell has neighbours that are not of his own 1 of two things can happen:
         -> apply normal rules, meaning that you have to count in the cells of other colors as alive cells
     - If the amout of the other colors is greater then amount of that cell's own color then it just changes color.
 
-Last if a cell is 'off' and has 3 neighbour cells that are alive it will be the color that is the most represented. 
+Last if a cell is 'off' and has 3 neighbour cells that are alive it will be the color that is the most represented.
 
 Your challenge is, given a width and heigth to create a grid and a number of turns to simulate this variant
 
@@ -37,10 +37,10 @@ Your challenge is, given a width and heigth to create a grid and a number of tur
 
 ## Input Description
 
-You will be given three numbers **W** and **H** and **N**. These will present the width and heigth of the grid. With this you can create a grid where on the grid, a period or full-stop `.` will represent 'off', and a hash sign `#`/`*` will represent 'on' (for each color). 
+You will be given three numbers **W** and **H** and **N**. These will present the width and heigth of the grid. With this you can create a grid where on the grid, a period or full-stop `.` will represent 'off', and a hash sign `#`/`*` will represent 'on' (for each color).
 These states you can generate at random.
 
-The grid that you are using must 'wrap around'. That means, if something goes off the bottom of the playing field, then it will wrap around to the top, like this: http://upload.wikimedia.org/wikipedia/en/d/d1/Long_gun.gif See how those cells act like the top and bottom, and the left and right of the field are joined up? In other words, the neighbours of a cell can look like this - where the lines coming out are the neighbours:
+The grid that you are using must 'wrap around'. That means, if something goes off the bottom of the playing field, then it will wrap around to the top, like this: <http://upload.wikimedia.org/wikipedia/en/d/d1/Long_gun.gif> See how those cells act like the top and bottom, and the left and right of the field are joined up? In other words, the neighbours of a cell can look like this - where the lines coming out are the neighbours:
 
     #-...-  ......  ../|\.
     |\.../  ......  ......
@@ -67,7 +67,6 @@ Using that starting state, simulate **N** iterations of Conway's Game of Life. P
     32 17 17
     
     50 50 21
-
 
 ## note
 

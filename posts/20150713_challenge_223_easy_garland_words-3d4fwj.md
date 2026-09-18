@@ -24,4 +24,4 @@ Today's challenge is to write a function `garland` that, given a lowercase word,
 1. Find the largest degree of any garland word in the [enable1 English word list](https://code.google.com/p/dotnetperls-controls/downloads/detail?name=enable1.txt).
 1. Find a word list for some other language, and see if you can find a language with a garland word with a higher degree.
 
-*Thanks to /u/skeeto for submitting this challenge on /r/dailyprogrammer_ideas!*
+_Thanks to /u/skeeto for submitting this challenge on /r/dailyprogrammer_ideas!_

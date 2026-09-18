@@ -5,15 +5,15 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/aqwvxo/20190215_challeng
 
 # Description
 
-We'll focus in this challenge on what's called a _complete graph_, wherein every node is expressly connected to every other node. We'll also work assuming an undirected graph, that relationships are reciprocal. 
+We'll focus in this challenge on what's called a _complete graph_, wherein every node is expressly connected to every other node. We'll also work assuming an undirected graph, that relationships are reciprocal.
 
-In social network analysis, you can analyze for _structural balance_ - a configuration wherein you'll find local stability. The easy one is when everyone enjoys a positive relationship with everyone else - they're all friends. Another structurally balanced scenario is when you have - in a graph of three nodes - two friends and each with a shared enemy, so one positive relationship and two negative ones. 
+In social network analysis, you can analyze for _structural balance_ - a configuration wherein you'll find local stability. The easy one is when everyone enjoys a positive relationship with everyone else - they're all friends. Another structurally balanced scenario is when you have - in a graph of three nodes - two friends and each with a shared enemy, so one positive relationship and two negative ones.
 
-With larger graphs, you can continue this analysis by analyzing every three node subgraph and ensuring it has those properties - all positive or one positive and two negative relationsgips. 
+With larger graphs, you can continue this analysis by analyzing every three node subgraph and ensuring it has those properties - all positive or one positive and two negative relationsgips.
 
-A structurally balanced graph doesn't indicate complete future stability, just local stability - remember, factions can arise in these networks, akin to the Axis and Allies scenario of WW1 and WW2. 
+A structurally balanced graph doesn't indicate complete future stability, just local stability - remember, factions can arise in these networks, akin to the Axis and Allies scenario of WW1 and WW2.
 
-Today's challenge is to take a graph and identify if the graph is structurally balanced. This has great applicability to social network analysis, and can easily be applied to stuff like fictional universes like the Game of Thrones and the real world based on news events. 
+Today's challenge is to take a graph and identify if the graph is structurally balanced. This has great applicability to social network analysis, and can easily be applied to stuff like fictional universes like the Game of Thrones and the real world based on news events.
 
 # Example Input
 
@@ -44,7 +44,7 @@ Your program should emit if the graph is structurally balanced or not. Example:
 
 # Challenge Input
 
-This is the Game of Thrones Season 7 house list I found via [this list of alliances on the Vulture website](http://www.vulture.com/2017/08/game-of-thrones-season-7-alliances.html) - I don't watch GoT so I have no idea if I captured this right. 
+This is the Game of Thrones Season 7 house list I found via [this list of alliances on the Vulture website](http://www.vulture.com/2017/08/game-of-thrones-season-7-alliances.html) - I don't watch GoT so I have no idea if I captured this right.
 
     120 16
     Daenerys Targaryen ++ Jon Snow
@@ -172,6 +172,6 @@ This is the Game of Thrones Season 7 house list I found via [this list of allian
 
 You can learn more about the ideas behind this challenge in these resources:
 
-* [Positive and Negative Relationships](https://courses.cit.cornell.edu/info204_2007sp/balance.pdf), in D. Easley and J. Kleinberg. Networks, Crowds, and Markets: Reasoning about a Highly Connected World (2010). 
-* [Network Mathematics and Rival Factions](https://www.youtube.com/watch?v=qEKNFOaGQcc) from the PBS Digital YouTube channel Infinite Series. It was this video that inspired this challenge. 
-* [The Graph of Thrones \[Season 7 Contest\]](https://neo4j.com/blog/graph-of-thrones/), from the Neo4j site referencing how to use their software to answer a Kaggle challenge about predicting GoT's future. 
+* [Positive and Negative Relationships](https://courses.cit.cornell.edu/info204_2007sp/balance.pdf), in D. Easley and J. Kleinberg. Networks, Crowds, and Markets: Reasoning about a Highly Connected World (2010).
+* [Network Mathematics and Rival Factions](https://www.youtube.com/watch?v=qEKNFOaGQcc) from the PBS Digital YouTube channel Infinite Series. It was this video that inspired this challenge.
+* [The Graph of Thrones \[Season 7 Contest\]](https://neo4j.com/blog/graph-of-thrones/), from the Neo4j site referencing how to use their software to answer a Kaggle challenge about predicting GoT's future.

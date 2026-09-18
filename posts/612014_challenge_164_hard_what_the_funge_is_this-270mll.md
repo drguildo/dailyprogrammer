@@ -3,7 +3,7 @@ title: "[6/1/2014] Challenge #164 [Hard] What the Funge is this!?"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/270mll/612014_challenge_164_hard_what_the_funge_is_this/"
 ---
 
-#Description
+# Description
 
 Befunge is a programming language invented by Chris Pressey. The language was made with the goal of being extremely difficult to compile. Well, what makes it so difficult? Consider this 'Hello World' program written by /u/Elite6809 in Befunge:
 
@@ -26,17 +26,19 @@ Your job is to create a Befunge interpreter that will take in a list of user inp
 
 Be careful! Befunge is a self-modifying programming language (using the p command) and can change itself during runtime!
 
-#Inputs & Outputs
-##Input Description
+# Inputs & Outputs
+
+## Input Description
+
 Line 1 will consist of any values that will be used as input to the program. every time a user input command is called, it will use the next value in your list of inputs. If there is no input needed, it should be a single zero.
 
 The rest of your input will be the Befunge program to interpret. Befunge-93 has a maximum size of 80 characters horizontally by 25 characters vertically, so it should be within those parameters.
 
-##Output Description
+## Output Description
 
 The program should output a new value or character whenever an output command (. or ,) is called in your program.
 
-##Sample Inputs
+## Sample Inputs
 
 Ex.1 (Simple 'Hello World')
 
@@ -53,8 +55,7 @@ Ex.2 (Factorial program written by /u/AJ_Black)
     <$<v:\
     ^ *_$.@
 
-
-##Sample Outputs
+## Sample Outputs
 
 Sample outputs:
 
@@ -66,25 +67,24 @@ Ex.2:
 
 362880
 
-#Bonus
+# Bonus
 
 Challenge:
 
-Now that you've made an interpreter, put it to the test by making a Befunge program of your own. Make it serenade you by singing "99 Bottles,", or challenge yourself to a game of "higher or lower." 
+Now that you've made an interpreter, put it to the test by making a Befunge program of your own. Make it serenade you by singing "99 Bottles,", or challenge yourself to a game of "higher or lower."
 
-#Help
+# Help
 
 If you're stuck, try reading a few resources such as the Wiki page
 
-http://en.wikipedia.org/wiki/Befunge
+<http://en.wikipedia.org/wiki/Befunge>
 
 There's a good example of Befunge code here, written for our [Easy] challenge
 
-http://www.reddit.com/r/dailyprogrammer/comments/26ijiu/5262014_challenge_164_easy_assemble_this_scheme/chrdyfa
+<http://www.reddit.com/r/dailyprogrammer/comments/26ijiu/5262014_challenge_164_easy_assemble_this_scheme/chrdyfa>
 
-#Notes
+# Notes
 
-You can verify that your interpreter works using the following online interpreter - 
+You can verify that your interpreter works using the following online interpreter -
 
-
-http://www.bedroomlan.org/tools/befunge-93-playground
+<http://www.bedroomlan.org/tools/befunge-93-playground>

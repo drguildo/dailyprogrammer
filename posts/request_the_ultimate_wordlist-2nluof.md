@@ -23,18 +23,17 @@ Thanks :D !
 
 * [enable1](http://www.joereynoldsaudio.com/enable1.txt)
 * [wordlist](http://www.joereynoldsaudio.com/wordlist.txt)
-* http://www.keithv.com/software/wlist/
-* http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/share/dict/
-* http://www.mieliestronk.com/wordlist.html
-* http://mirrors.kernel.org/openwall/wordlists/
+* <http://www.keithv.com/software/wlist/>
+* <http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/share/dict/>
+* <http://www.mieliestronk.com/wordlist.html>
+* <http://mirrors.kernel.org/openwall/wordlists/>
 
-#Someone's done it before
+# Someone's done it before
 
 Thanks to /u/I_ASK_DUMB_SHIT for showing us the mega wordlist. 15gb and it claims to have every major wordlist in its contents
 
-https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
+<https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm>
 
-#Finally
+# Finally
 
 Since we've had that crackstation submission, it makes sense to remove this from the sticky. But for now, I'll keep it up as I've seen a few interesting other wordlists that wouldn't be in a conventional one (pokemon, flowers, planet names etc...)
-

@@ -3,13 +3,13 @@ title: "[2016-03-28] Challenge #260 [Easy] Garage Door Opener"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/4cb7eh/20160328_challenge_260_easy_garage_door_opener/"
 ---
 
-#Description
+# Description
 
  You just got a new garage door installed by the Automata&#8482; Garage Door Company. You are having a lot of fun playing with the remote clicker, opening and closing the door, scaring your pets and annoying the neighbors.
 
 The clicker is a one-button remote that works like this:
 
-1. If the door is `OPEN` or `CLOSED`, clicking the button will cause the door to move, until it completes the cycle of opening or closing. 
+1. If the door is `OPEN` or `CLOSED`, clicking the button will cause the door to move, until it completes the cycle of opening or closing.
 
     Door: Closed -> Button clicked -> Door: Opening -> Cycle complete -> Door: Open.
 
@@ -17,9 +17,9 @@ The clicker is a one-button remote that works like this:
 
 We will assume the initial state is CLOSED.
 
-#Formal Inputs &amp; Outputs
+# Formal Inputs &amp; Outputs
 
-##Input description
+## Input description
 
 Input will be a series of commands (can be hard coded, no need to parse):
 
@@ -32,7 +32,7 @@ Input will be a series of commands (can be hard coded, no need to parse):
     button_clicked
     cycle_complete
 
-##Output description
+## Output description
 
 Output should be the state of the door and the input commands, such as:
 
@@ -54,11 +54,11 @@ Output should be the state of the door and the input commands, such as:
     > Cycle complete.
     Door: CLOSED
 
-#Notes/Hints
+# Notes/Hints
 
 This is an example of a simple [Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine) with 6 States and 2 inputs.
 
-#Bonus
+# Bonus
 
 Bonus challenge - The door has an infrared beam near the bottom, and if something is breaking the beam, (your car, your cat, or a baby in a stroller) the door will be BLOCKED and will add the following rules:
 
@@ -104,7 +104,7 @@ Bonus Challenge output:
     
     
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

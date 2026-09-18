@@ -9,17 +9,16 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/5zj7e4/20170315_challeng
 
 Gray code differs from regular binary counting sequences in one key way: because sequential values can have only a single bit difference from their predecessor, you wind up with a non-linear progression of base 10 integers (see column 4, "Gray as decimal"):
 
-
-|	Decimal|	Binary|	Gray|	Gray as decimal|	
+|    Decimal|    Binary|    Gray|    Gray as decimal|
 | ------------ | :-----------:| :-----------: | ----------- |
-|	0|	000|	000|	0|	
-|	1|	001|	001|	1|	
-|	2|	010|	011|	3|	
-|	3|	011|	010|	2|	
-|	4|	100|	110|	6|	
-|	5|	101|	111|	7|	
-|	6|	110|	101|	5|	
-|	7|	111|	100|	4|	
+|    0|    000|    000|    0|
+|    1|    001|    001|    1|
+|    2|    010|    011|    3|
+|    3|    011|    010|    2|
+|    4|    100|    110|    6|
+|    5|    101|    111|    7|
+|    6|    110|    101|    5|
+|    7|    111|    100|    4|
 
 The problem with natural binary codes is that physical switches are not ideal: it is very unlikely that physical switches will change states exactly in synchrony. In the transition between the two states shown above, all three switches change state. In the brief period while all are changing, the switches will read some spurious position.  The Gray code solves this problem by changing only one switch at a time, so there is never any ambiguity of position.
 
@@ -52,4 +51,3 @@ Write a program that can construct an *n*-ary Gray code, so not just binary but,
     21
     22
     20
-

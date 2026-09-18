@@ -20,7 +20,7 @@ and 40,000 channels and gaining almost 5,000 new users per year. We have a chann
 
 Your challenge today will be to communicate with the freenode IRC server. This will consist of opening a TCP socket to
 freenode and sending two protocol messages to initiate the connection. The original
-[IRC RFC](https://tools.ietf.org/html/rfc1459#section-4.1) defines a message as a line of text up to 512 bytes starting 
+[IRC RFC](https://tools.ietf.org/html/rfc1459#section-4.1) defines a message as a line of text up to 512 bytes starting
 with a message code, followed by one or more space separated parameters, and ending with a CRLF (`\r\n`). The last
 paramater can be prefixed by a colon to mark it as a parameter that can contain spaces, which will take up the rest of the
 line. An example of a colon-prefixed parameter would be the contents of a chat message, as that is something that contains spaces.
@@ -73,7 +73,7 @@ In response, you must send a `PONG` message with the parameter being the same un
 
 # Notes
 
-You can see the full original IRC specification at https://tools.ietf.org/html/rfc1459. Sections 2.3 and 4.1 are of particular note, as they describe the message format and the initial connection. See also, http://ircdocs.horse/specs/.
+You can see the full original IRC specification at <https://tools.ietf.org/html/rfc1459>. Sections 2.3 and 4.1 are of particular note, as they describe the message format and the initial connection. See also, <http://ircdocs.horse/specs/>.
 
 [A Regular Expression For IRC Messages](https://mybuddymichael.com/writings/a-regular-expression-for-irc-messages.html)
 

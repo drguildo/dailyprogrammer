@@ -45,7 +45,7 @@ A list (1d array) is a list of "scalar items"
 A table (2d array) is a list of "list items"  
 A brick (3d array) is a list of "table items"  
 
-so, 
+so,
 
        iota 2 3
     0 1 2
@@ -115,7 +115,7 @@ last result is same as if swap is ommitted, because insert has been defined to i
 
     implement a swap adverb.
 
-# 3.  Compose conjunction.
+# 3.  Compose conjunction
 
 Composition of functions u and v should be familiar.  An easy model is:
 
@@ -183,7 +183,6 @@ With that new cell added on the right of the list of cells, insert(append) all t
     0 1 2 0
     3 4 5 0
 
-
 try to implement joincells as `compose(insert(append), pretransform_arrays_function):`
 
 # 5.  Rank conjunction
@@ -197,13 +196,13 @@ While each function has a built in default rank, the rank conjunction **can lowe
 1 number:  splits y argument into cells of that dimension.  x rank is infinity (or is ignored).  
 2 numbers: splits y into cells of first number dimension, and splits x into 2nd number dimension.  
 
-`Rank(u, _ _) ` specifies rank infinity for x and y which is the same as no rank modifier at all since the full arrays of x and y will be passed to u.
+`Rank(u, _ _)` specifies rank infinity for x and y which is the same as no rank modifier at all since the full arrays of x and y will be passed to u.
 
 you may use 32000 as a substitute for infinity, or the default value for both "v parameters" to Rank.
 
 `Rank(iota, 0 0)`  will split the y and x parameters into scalars and call iota for each split
 
-   pR 1 3 iota("0 0) 3 4     NB. "(0 0) is Rank(u, 0 0) (an adverb)  iota("0 0) is Rank(iota, 0 0).  returns a function. 
+   pR 1 3 iota("0 0) 3 4     NB. "(0 0) is Rank(u, 0 0) (an adverb)  iota("0 0) is Rank(iota, 0 0).  returns a function.
     1 2 3 0
     3 4 5 6
 
@@ -234,7 +233,7 @@ Note in the last 2 examples,  2 items were matched with 1 item (first), and 1 it
 
 the last call is equivalent to `Compose(Rank(insert(add)), 1), iota)([10,5])`
 
-#6. simple functions
+# 6. simple functions
 
 `Left(y,x):  return y`  `]` in J  
 `Right(y,x):  return swap(Left)(y, x=missing)`  NB. returns y if there is no x.  `[` in J  

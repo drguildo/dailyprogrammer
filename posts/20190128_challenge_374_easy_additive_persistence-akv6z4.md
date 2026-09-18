@@ -10,9 +10,9 @@ Inspired by [this tweet](https://twitter.com/fermatslibrary/status/1089883307473
 1. Add its digits
 1. Repeat until the result has 1 digit
 
-The total number of iterations is the additive persistence of N. 
+The total number of iterations is the additive persistence of N.
 
-Your challenge today is to implement a function that calculates the additive persistence of a number. 
+Your challenge today is to implement a function that calculates the additive persistence of a number.
 
 # Examples
 
@@ -23,6 +23,6 @@ Your challenge today is to implement a function that calculates the additive per
 
 # Bonus
 
-The really easy solution manipulates the input to convert the number to a string and iterate over it. Try it without making the number a strong, decomposing it into digits while keeping it a number. 
+The really easy solution manipulates the input to convert the number to a string and iterate over it. Try it without making the number a strong, decomposing it into digits while keeping it a number.
 
-On some platforms and languages, if you try and find ever larger persistence values you'll quickly learn about your platform's big integer interfaces (e.g. 64 bit numbers). 
+On some platforms and languages, if you try and find ever larger persistence values you'll quickly learn about your platform's big integer interfaces (e.g. 64 bit numbers).

@@ -3,12 +3,12 @@ title: "[2015-02-11] Challenge #201 [Practical Exercise] Get Your Priorities Rig
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2vkwgb/20150211_challenge_201_practical_exercise_get/"
 ---
 
-# [](#PEIcon) **(Practical Exercise)**: Get Your Priorities Right!
+# [](#PEIcon) **(Practical Exercise)**: Get Your Priorities Right
 
 A [priority queue](http://en.wikipedia.org/wiki/Priority_queue) is a data structure similar to a standard queue, except that entries in the queue have a *priority* associated with them - such that, when removing items from the queue, the entry with the highest priority will be removed before ones with lower priority. This is similar to a hospital triage system: patients with more severe wounds get treated quicker, even if they arrived later than a patient with a smaller injury. Let's say I have a priority queue containing strings, where the priority value is a real number. I add these 3 objects to my priority queue, in no particular order:
 
 | Patient | Priority |
-|--------:|:---------|
+| --------: | :--------- |
 | `"David Whatsit"` | 3.06 |
 | `"Joan Smith"` | 4.33 |
 | `"Bob Testing"` | 0.39 |
@@ -19,7 +19,7 @@ Here, if I was to *dequeue* four strings from the priority queue, the strings `"
 But what if we could assign *two* priorities to each object? Imagine a hospital (to keep with the theme), that needs to keep a list of equipment supplies and their costs. It also needs to keep track of how long it will take to receive that item.
 
 | Item | Cost | Shipping Time |
-|--------:|:--------|:--------|
+| --------: | :-------- | :-------- |
 | Hyperion Hypodermic Needle | £1.99 | 3 days |
 | SuperSaver Syringe | £0.89 | 7 days |
 | InjectXpress Platinum Plated Needle | £2.49 | 2 days |
@@ -77,7 +77,7 @@ Here's some more stuff on unit testing.
 * [MSDN: .NET unit tests](https://msdn.microsoft.com/en-us/library/hh694602.aspx)
 * [Writing good unit tests](https://developer.salesforce.com/page/How_to_Write_Good_Unit_Tests)
 
-# Finally...
+# Finally
 
 I wonder what this data structure would be called? A double priority queue?
 

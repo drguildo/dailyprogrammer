@@ -3,7 +3,7 @@ title: "[2015-09-09] Challenge #231 [Intermediate] Set Game Solver"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3ke4l6/20150909_challenge_231_intermediate_set_game/"
 ---
 
-Our apologies for the delay in getting this posted, there was some technical difficulties behind the scenes. 
+Our apologies for the delay in getting this posted, there was some technical difficulties behind the scenes.
 
 # Description
 
@@ -16,8 +16,8 @@ Set is a card game where each card is defined by a combination of four attribute
 
 The rules of Set are summarized by: If you can sort a group of three cards into "Two of ____ and one of _____," then it is not a set.
 
-See the [Wikipedia page for the Set game](http://en.wikipedia.org/wiki/Set_(game\))
- for for more background. 
+See the [Wikipedia page for the Set game](<http://en.wikipedia.org/wiki/Set_(game\)>)
+ for for more background.
 
 # Input Description
 

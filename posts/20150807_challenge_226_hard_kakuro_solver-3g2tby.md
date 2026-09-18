@@ -7,7 +7,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/3g2tby/20150807_challeng
 
 Kakuro is a popular Japanese logic puzzle sometimes called a mathematical crossword. The objective of the puzzle is to insert a digit from 1 to 9 inclusive into each white cell such that the sum of the numbers in each entry matches the clue associated with it and that no digit is duplicated in any contiguous row or column. It is that lack of duplication that makes creating Kakuro puzzles with unique solutions possible. Numbers in cells elsewhere in the grid may be reused.
 
-More background on Kakuro can be found on [Wikipedia](https://en.wikipedia.org/wiki/Kakuro). There's an [online version](http://www.kakuroconquest.com/) you can play as well. 
+More background on Kakuro can be found on [Wikipedia](https://en.wikipedia.org/wiki/Kakuro). There's an [online version](http://www.kakuroconquest.com/) you can play as well.
 
 # Input Description
 
@@ -16,7 +16,7 @@ You'll be given a pair of integers showing you the number of columns and rows (r
     1 2
     3 A1 A2
 
-This example means that the sum of two values in A1 and A2 should equal 3. 
+This example means that the sum of two values in A1 and A2 should equal 3.
 
 # Challenge Output
 

@@ -74,7 +74,7 @@ A led is drawn in this way `-|>|-`
     20
 
 *Output*
-    
+
     *--|>|---|>|---|>|---|>|---|>|--*
      |                             |
      --|>|---|>|---|>|---|>|---|>|--
@@ -131,7 +131,6 @@ The units are in voltage V, current mA (devide by 1000 for A), voltave V, capaci
      --|>|---|>|---|>|---|>|---|>|--
      |                             |
      --|>|---|>|---|>|---|>|---|>|--
-
 
 **Finally**
 

@@ -12,6 +12,7 @@ You will be given a list of unique student names, and then a list of their assig
 *Author:* nint22
 
 # Formal Inputs & Outputs
+
 ## Input Description
 
 On standard console input, you will be given two space-delimited integers N and M: N is the number of students (which ranges from 1 to 60, inclusive), and M is the number of assignments (which ranges from 4 to 100, inclusive). This will be followed by N lines of text, each starting with an upper-case unique string being is your students name. This is then followed by M integers, which are the grades ranging from 0 to 20, inclusively.
@@ -21,6 +22,7 @@ On standard console input, you will be given two space-delimited integers N and 
 On the first line of output, print the class' average grade. Then, for each student, print their name and average grade (up to two decimal points precision).
 
 # Sample Inputs & Outputs
+
 ## Sample Input 1
 
     3 5
@@ -52,9 +54,9 @@ On the first line of output, print the class' average grade. Then, for each stud
 ## Sample Output 2
 
     9.50
-    ABIGAIL	7.90
+    ABIGAIL    7.90
     ALEXANDER 7.30
-    AVA	13.40
+    AVA    13.40
     ETHAN 7.20
     ISABELLA 8.30
     JACOB 10.30

@@ -12,7 +12,7 @@ Specially, you're task today is to build the shopping cart system. We will start
 |:---|------|-------|
 | OH | Opera house tour | $300.00 |
 | BC | Sydney Bridge Climb | $110.00 |
-| SK | Sydney Sky Tower | $30.00 | 
+| SK | Sydney Sky Tower | $30.00 |
 
 As we want to attract attention, we intend to have a few weekly specials.
 
@@ -29,9 +29,9 @@ An object oriented interface could look like:
     sp.add(tour2);
     sp.total();
 
-Your task is to implement the shopping cart system described above. You'll have to figure out the `promotionalRules` structure, for example. 
+Your task is to implement the shopping cart system described above. You'll have to figure out the `promotionalRules` structure, for example.
 
-# Input Description 
+# Input Description
 
 You'll be given an order, one order per line, using the IDs above. Example:
 
@@ -57,4 +57,4 @@ Using the weekly specials described above, your program should emit the total pr
 
 # Credit
 
-This challenge [was posted](https://www.reddit.com/r/dailyprogrammer_ideas/comments/42n3zu/sydney_tourist_shopping_cart/) by /u/peterbarberconsult in /r/dailyprogrammer_ideas quite a while ago, many thanks! If you have an idea please feel free to share it, there's a chance we'll use it. 
+This challenge [was posted](https://www.reddit.com/r/dailyprogrammer_ideas/comments/42n3zu/sydney_tourist_shopping_cart/) by /u/peterbarberconsult in /r/dailyprogrammer_ideas quite a while ago, many thanks! If you have an idea please feel free to share it, there's a chance we'll use it.

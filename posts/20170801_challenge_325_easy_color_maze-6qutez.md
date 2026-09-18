@@ -3,7 +3,7 @@ title: "[2017-08-01] Challenge #325 [Easy] Color maze"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/6qutez/20170801_challenge_325_easy_color_maze/"
 ---
 
-#Description
+# Description
 
 Today we are going to do something colorfull and amazing. Yes it is a color maze :D (you can downvote me now, it was totally worth it).
 
@@ -14,9 +14,9 @@ For the mazes you always pick a spot on the bottom, in the starting color and tr
 
 You can move horizontally and vertically, but not diagonally. It is also allowed to move on the same node more then once.
 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You will recieve a line with the sequence to follow and all the lines after that are the maze.
 
@@ -27,7 +27,7 @@ You will recieve a line with the sequence to follow and all the lines after that
     Y G B Y G 
     R O R B R
 
-##Output description
+## Output description
 
 You can choose what you want to output:
 
@@ -51,8 +51,7 @@ or you could plot out the sequence
 
 or you could create an image result or go even fancier if you want to.
 
-
-##Challnge Input
+## Challnge Input
 
     R O Y P O
     R R B R R R B P Y G P B B B G P B P P R
@@ -76,11 +75,11 @@ or you could create an image result or go even fancier if you want to.
     P O O O P Y G G Y P O G P O B G P R P B
     R B B R R R R B B B Y O B G P G G O O Y
 
-#Notes/Hints
+# Notes/Hints
 
 Since the sequence can have the same color more then once, it is possible that you have to visit the same node more then once.
 
-#Bonus
+# Bonus
 
 Read the data not from text input but from the [image](http://imgur.com/uoItN6T)
 
@@ -95,7 +94,7 @@ The RGB values are
     Yellow: (255, 255, 0)
     Pink: (255, 192, 203)
 
-#Finally
+# Finally
 
 Have a good challenge idea?
 

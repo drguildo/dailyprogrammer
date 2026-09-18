@@ -12,7 +12,7 @@ You are handed two buckets, one can hold 3 liters and the other 5 liters of wate
 * empty a bucket
 * transfer water from one bucket into the other until the target bucket is full
 
-In the original riddle, you are to describe the actions that need to be done in order to get exactly 4 liters of water. 
+In the original riddle, you are to describe the actions that need to be done in order to get exactly 4 liters of water.
 Example solution:
 
     Two buckets (3L, 5L):
@@ -34,14 +34,13 @@ Another solution:
     Fill 3L -> (3,1)
     3L to 5L -> (0,4)
 
-
 Your task is to find a path of actions to obtain a target volume *l* <= max(*m*, *n*) liters of water, given two buckets of size *m*, *n*, where *m* and *n* are coprime.
 
-# Input Description 
+# Input Description
 
 The input will be three numbers representing *m*, *n*, and *l* respectively.
 
-# Output Description 
+# Output Description
 
 The format of the output will be a list of pairs representing the contents of the buckets *m* and *n* at each step:
 > [(0, 0), (3, 0), (0, 3), (3, 3), (1, 5), (1, 0), (0, 1), (3, 1), (0, 4)]
@@ -67,4 +66,4 @@ If there is no solution, print "no solution".
                 
 # Credit
 
-This challenge was suggested by user /u/itah! If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas. 
+This challenge was suggested by user /u/itah! If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas.

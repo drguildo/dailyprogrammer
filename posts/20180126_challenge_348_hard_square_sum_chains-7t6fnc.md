@@ -3,9 +3,9 @@ title: "[2018-01-26] Challenge #348 [Hard] Square Sum Chains"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/7t6fnc/20180126_challenge_348_hard_square_sum_chains/"
 ---
 
-#Description
+# Description
 
-For this challenge your task is, given a number N, rearrange the numbers 1 to N so that all adjacent pairs of numbers sum up to square numbers. 
+For this challenge your task is, given a number N, rearrange the numbers 1 to N so that all adjacent pairs of numbers sum up to square numbers.
 
 There might not actually be a solution. There also might be multiple solution. You are only required to find one, if possible.
 
@@ -19,17 +19,17 @@ For example, the smallest number for which this is possbile is 15:
     10 +  6 = 16 = 4^2
     ...
 
-#Example Input
+# Example Input
 
     15
     8
 
-#Example Output
+# Example Output
 
     8 1 15 10 6 3 13 12 4 5 11 14 2 7 9
     Not possible
 
-#Challenge Input
+# Challenge Input
 
     23
     24

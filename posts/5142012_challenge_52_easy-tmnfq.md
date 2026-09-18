@@ -21,6 +21,6 @@ ________________________________________________________________________________
 
 Please note that [difficult] challenge has been changed since it was already asked
 
-http://www.reddit.com/r/dailyprogrammer/comments/tmnfn/5142012_challenge_52_difficult/
+<http://www.reddit.com/r/dailyprogrammer/comments/tmnfn/5142012_challenge_52_difficult/>
 
 fortunately, someone informed it very early :)

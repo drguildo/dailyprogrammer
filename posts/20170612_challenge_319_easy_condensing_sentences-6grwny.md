@@ -5,9 +5,9 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/6grwny/20170612_challeng
 
 # Description
 
-Compression makes use of the fact that repeated structures are redundant, and it's more efficient to represent the pattern and the count or a reference to it. Siimilarly, we can *condense* a sentence by using the redundancy of overlapping letters from the end of one word and the start of the next. In this manner we can reduce the size of the sentence, even if we start to lose meaning. 
+Compression makes use of the fact that repeated structures are redundant, and it's more efficient to represent the pattern and the count or a reference to it. Siimilarly, we can *condense* a sentence by using the redundancy of overlapping letters from the end of one word and the start of the next. In this manner we can reduce the size of the sentence, even if we start to lose meaning.
 
-For instance, the phrase "live verses" can be condensed to "liverses". 
+For instance, the phrase "live verses" can be condensed to "liverses".
 
 In this challenge you'll be asked to write a tool to condense sentences.
 

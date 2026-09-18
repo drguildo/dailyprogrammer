@@ -5,13 +5,14 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1b3ka1/032713_challenge_
 
 
 # [](#IntermediateIcon) *(Intermediate)*: Path to Philosophy
+
 Clicking on the first link in the main text of a Wikipedia article not
 in parentheses or italics, and then repeating the process for subsequent
 articles, usually eventually gets you to the Philosophy article. As of
 May 26, 2011, 94.52% of all articles in Wikipedia lead eventually to
 the article Philosophy. The rest lead to an article with no wikilinks
 or with links to pages that do not exist, or get stuck in
-loops. [Here's a Youtube video demonstrating this phenomenon](http://www.youtube.c\
+loops. [Here's a Youtube video demonstrating this phenomenon](<http://www.youtube.c\>
 om/watch?v=vehDe2lSptU).
 
 Your goal is to write a program that will find the path from a given
@@ -30,13 +31,17 @@ Hint: Yes, there is a Wikipedia API. Feel free to use it.
 The original formulation of this problem is found in the alternative
 text to [XKCD: Extended Mind](http://www.youtube.com/watch?v=vehDe2lSptU).
 
-
 *Author: nagasgura*
+
 # Formal Inputs & Outputs
+
 ## Input Description
+
 Two strings, both which are names of existing Wikipedia articles (in
 the Wikipedia language of your choice).
+
 ## Output Description
+
 A path of Wikipedia articles, each linked from the previous one, that
 leads from the start article to the end article.
 
@@ -47,12 +52,16 @@ leads from the start article to the end article.
 * You must implement article caching early on
 
 You choose the output datastructure yourself, or print to standard-out.
+
 # Sample Inputs & Outputs
+
 ## Sample Input
+
 * From: Molecule
 * To:   Philosophy
 
 ## Sample Output
+
 * Molecule
 * Atom
 * Matter
@@ -62,10 +71,14 @@ You choose the output datastructure yourself, or print to standard-out.
 * Physics
 * Natural philosophy
 * Philosophy
+
 # Challenge Input
+
 * From: Asperger syndrome
 * To:   Logic
+
 ## Challenge Input Solution
+
     * Asperger syndrome
     * Autism spectrum
     * Pervasive developmental disorder
@@ -79,7 +92,8 @@ You choose the output datastructure yourself, or print to standard-out.
     * Proof (truth)
     * Necessity and sufficiency
     * Logic
+
 # Note
+
 This challenge was originally posted to /r/dailyprogrammer_ideas
 Help us out by posting your own ideas!
-				

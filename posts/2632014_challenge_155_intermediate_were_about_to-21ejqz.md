@@ -5,13 +5,11 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/21ejqz/2632014_challenge
 
 # **Description**
 
-
 One of the ways that chess games are tracked during play is to assign values to each piece and then look at the pieces that remain on the board for each player. After several moves where pieces have been taken, one can quickly determine who has an advantage.
 
+Pieces are assigned standard valuations:
 
-Pieces are assigned standard valuations: 
-
-* pawns are worth one point each. 
+* pawns are worth one point each.
 * Knights and bishops 3 points each
 * A Rook is worth 5
 * The Queen is worth 9 points.
@@ -19,22 +17,22 @@ Pieces are assigned standard valuations:
 
 More info on chess values can be seen [HERE](http://en.wikipedia.org/wiki/Chess_piece_relative_value)
 
-
 # **Input Description**
 
-Each line of input will be given in standard chess algebraic notation: 
+Each line of input will be given in standard chess algebraic notation:
 
 Here's a picture of the notation to give you an idea : [Image](http://home.comcast.net/~danheisman/images/Record_board.jpg)
 
 * columns are given a-h and rows are given 1-8 (starting with white's back row). For reference the queens are on d1 (white) and d8 (black).
 * Pieces (except for pawns) have a capital letter associated with them:
 
- King = K; Knight = N; Queen = Q; Rook = R; Bishop = B; None = pawns, they are just specified by their file. 
-* Captures are marked with an "x": 
+ King = K; Knight = N; Queen = Q; Rook = R; Bishop = B; None = pawns, they are just specified by their file.
 
- e.g. "Qxe5" for "queen captures the piece on square e5"; pawn captures are given by file, for example "exd5". 
+* Captures are marked with an "x":
 
-* Castling is indicated as such: O-O for kingside, O-O-O Queenside. Check is indicated by a "+" and checkmate is given by "mate" or "#". 
+ e.g. "Qxe5" for "queen captures the piece on square e5"; pawn captures are given by file, for example "exd5".
+
+* Castling is indicated as such: O-O for kingside, O-O-O Queenside. Check is indicated by a "+" and checkmate is given by "mate" or "#".
 
 For more help on chess notation see [HERE](http://home.comcast.net/~danheisman/Articles/recording_chess.htm)
 
@@ -50,8 +48,6 @@ Example:
 4. d3 Bc5        <-- White's Pawn moves to d3, Black's Bishop moves to c5
 
 etc...
-
-
 
 # **Formal Output Description**
 
@@ -127,8 +123,6 @@ This is actually Aronian vs So from the 2014 76th Tata Steel Masters round 6. Ar
 25. f4 Kf8
 26. a3 Nc6
 27. Ba6 Bxa3
-
-
 
 # **Thanks**
 

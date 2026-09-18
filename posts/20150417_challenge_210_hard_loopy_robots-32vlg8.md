@@ -31,8 +31,7 @@ Based on robot's behavior in accordance with a given command string we will outp
 
 A) That a loop was detected and how many cycles of the command string it took to return to the beginning of the loop
 
-
-B) That no loop was detected and our precious robot has trudged off into the sunset 
+B) That no loop was detected and our precious robot has trudged off into the sunset
 
 # Input
 

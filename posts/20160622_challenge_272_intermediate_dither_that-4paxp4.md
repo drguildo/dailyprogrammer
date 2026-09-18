@@ -49,4 +49,4 @@ Have a good challenge idea?
 Consider submitting it to /r/dailyprogrammer_ideas
 
 Thanks to /u/skeeto for this [challenge idea]
-(https://www.reddit.com/r/dailyprogrammer_ideas/comments/4nt7rp)
+(<https://www.reddit.com/r/dailyprogrammer_ideas/comments/4nt7rp>)

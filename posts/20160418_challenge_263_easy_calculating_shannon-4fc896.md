@@ -5,7 +5,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/4fc896/20160418_challeng
 
 # Description
 
-Shannon entropy was introduced by Claude E. Shannon in his 1948 paper "A Mathematical Theory of Communication". Somewhat related to the physical and chemical concept entropy, the Shannon entropy measures the uncertainty associated with a random variable, i.e. the expected value of the information in the message (in classical informatics it is measured in bits). This is a key concept in information theory and has consequences for things like compression, cryptography and privacy, and more. 
+Shannon entropy was introduced by Claude E. Shannon in his 1948 paper "A Mathematical Theory of Communication". Somewhat related to the physical and chemical concept entropy, the Shannon entropy measures the uncertainty associated with a random variable, i.e. the expected value of the information in the message (in classical informatics it is measured in bits). This is a key concept in information theory and has consequences for things like compression, cryptography and privacy, and more.
 
 The Shannon entropy *H* of input sequence *X* is calculated as -1 times the sum of the frequency of the symbol *i* times the log base 2 of the frequency:
 
@@ -17,7 +17,7 @@ The Shannon entropy *H* of input sequence *X* is calculated as -1 times the sum 
 
 (That funny thing is the summation for i=1 to n. I didn't see a good way to do this in Reddit's markup so I did some crude ASCII art.)
 
-For more, see Wikipedia for [Entropy in information theory](https://en.wikipedia.org/wiki/Entropy_(information_theory)). 
+For more, see Wikipedia for [Entropy in information theory](https://en.wikipedia.org/wiki/Entropy_(information_theory)).
 
 # Input Description
 

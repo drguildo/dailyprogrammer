@@ -63,8 +63,8 @@ Each 4 is adjacent to a "3", "2", and "1"; each "3" is adjacent to a "2" and 1",
 
 ### Tips
 
-* I rated this problem as [hard], as I'm not personally aware of the computational complexity of an optimal algorithm to this problem, or even an algorithm which can scale to non-trivial grid sizes. 
-* A naive brute force algorithm is on the order of c^n (exponential time), and thus is not feasible on normal computers beyond grids of about 4x4 size. 
+* I rated this problem as [hard], as I'm not personally aware of the computational complexity of an optimal algorithm to this problem, or even an algorithm which can scale to non-trivial grid sizes.
+* A naive brute force algorithm is on the order of c^n (exponential time), and thus is not feasible on normal computers beyond grids of about 4x4 size.
 * Verifying that a given solution is *legal* is possible in linear time. I'm not sure if there is an algorithm to prove a given solution is *optimal* any faster than producing an optimal solution to begin with.
 * If you don't have an algorithm that provides a guaranteed optimal solution (either via brute force, mathematical proof, or some combination thereof), feel free to provide a heuristic/best guess one.
 

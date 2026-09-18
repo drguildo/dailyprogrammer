@@ -14,7 +14,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/2a9u0a/792014_challenge_
 Ace is played low - ie. before 2 rather than after king.
 
 Your challenge today is as follows. You will be given a Rummy hand of 7 cards. You will then be given another card, that you have the choice to pick up. The challenge is to tell whether picking up the card will win you the game or not - ie. whether picking it up will give you a winning hand. You will also need to state which card it is being replaced with.
-    
+
 ## Input Description
 
 First you will be given a comma separated list of 7 cards on one line, as so:
@@ -33,7 +33,7 @@ If replacing a card in your hand with the new card will give you a winning hand,
 
 Because in that case, that would give you a run (Two, Three, Four, Five of Diamonds) and a set (Seven of Diamonds, Clubs and Hearts). In the event that picking up the new card will do nothing, print:
 
-	No possible winning hand.
+    No possible winning hand.
 
 # Notes
 
