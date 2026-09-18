@@ -25,6 +25,7 @@ fn main() {
     optional_3(&word_to_lettersum);
     optional_4(&letter_length_groupings);
     optional_5(&word_to_lettersum);
+    optional_6(&word_to_lettersum);
 }
 
 fn lettersum(s: &str) -> u32 {
@@ -150,6 +151,98 @@ fn optional_5(word_to_lettersum: &HashMap<&str, u32>) {
 // letters, and a different letter sum. The list is sorted both in descending
 // order of word length, and ascending order of letter sum. What's the longest
 // such list you can find?
-fn optional_6(_word_to_lettersum: &HashMap<&str, u32>) {
-    todo!()
+fn optional_6(word_to_lettersum: &HashMap<&str, u32>) {
+    let mut words: Vec<(usize, &str, u32)> = word_to_lettersum
+        .iter()
+        .map(|(&word, &lettersum)| (word.len(), word, lettersum))
+        .collect();
+    words.sort_unstable_by(|first, second| {
+        second.0.cmp(&first.0).then_with(|| first.1.cmp(second.1))
+    });
+
+    let mut sums: Vec<u32> = words.iter().map(|&(_, _, lettersum)| lettersum).collect();
+    sums.sort_unstable();
+    sums.dedup();
+
+    let mut tree_size = 1;
+    while tree_size < sums.len() {
+        tree_size *= 2;
+    }
+    let mut tree = vec![usize::MAX; tree_size * 2];
+    let mut lengths = vec![1; words.len()];
+    let mut predecessors = vec![usize::MAX; words.len()];
+    let mut best_index = 0;
+
+    let mut start = 0;
+    while start < words.len() {
+        let mut end = start + 1;
+        while end < words.len() && words[end].0 == words[start].0 {
+            end += 1;
+        }
+
+        for index in start..end {
+            let sum_index = sums.binary_search(&words[index].2).unwrap();
+            let mut left = tree_size;
+            let mut right = tree_size + sum_index;
+            let mut previous = usize::MAX;
+            while left < right {
+                if left % 2 == 1 {
+                    if tree[left] != usize::MAX
+                        && (previous == usize::MAX || lengths[tree[left]] > lengths[previous])
+                    {
+                        previous = tree[left];
+                    }
+                    left += 1;
+                }
+                if right % 2 == 1 {
+                    right -= 1;
+                    if tree[right] != usize::MAX
+                        && (previous == usize::MAX || lengths[tree[right]] > lengths[previous])
+                    {
+                        previous = tree[right];
+                    }
+                }
+                left /= 2;
+                right /= 2;
+            }
+
+            if previous != usize::MAX {
+                lengths[index] = lengths[previous] + 1;
+                predecessors[index] = previous;
+            }
+            if lengths[index] > lengths[best_index] {
+                best_index = index;
+            }
+        }
+
+        for index in start..end {
+            let mut position = tree_size + sums.binary_search(&words[index].2).unwrap();
+            while position < tree.len() {
+                if tree[position] == usize::MAX || lengths[index] > lengths[tree[position]] {
+                    tree[position] = index;
+                }
+                position /= 2;
+                if position == 0 {
+                    break;
+                }
+            }
+        }
+        start = end;
+    }
+
+    let mut longest = Vec::new();
+    let mut current = best_index;
+    loop {
+        longest.push(words[current].1);
+        if predecessors[current] == usize::MAX {
+            break;
+        }
+        current = predecessors[current];
+    }
+    longest.reverse();
+    println!(
+        "The longest list has {} words: {}",
+        longest.len(),
+        longest.join(", ")
+    );
 }
