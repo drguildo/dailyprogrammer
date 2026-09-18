@@ -3,7 +3,7 @@ title: "[07/12/13] Challenge #126 [Hard] Not-So-Normal Triangle Search"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1i65z6/071213_challenge_126_hard_notsonormal_triangle/"
 ---
 
-# [](#HardIcon) *(Hard)*: Not-So-Normal  Triangle Search
+# *(Hard)*: Not-So-Normal  Triangle Search
 
 A three-dimensional triangle can be defined with three points in 3D space: one for each corner. One can compute the [surface-normal](<http://en.wikipedia.org/wiki/Normal_(geometry\)>) of this triangle by using the three points to compute the [cross-product](http://en.wikipedia.org/wiki/Cross_product).
 

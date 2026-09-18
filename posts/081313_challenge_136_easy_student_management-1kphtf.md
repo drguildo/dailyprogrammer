@@ -3,7 +3,7 @@ title: "[08/13/13] Challenge #136 [Easy] Student Management"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1kphtf/081313_challenge_136_easy_student_management/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Student Management
+# *(Easy)*: Student Management
 
 You are a computer science professor at South Harmon Institute of Technology, and are in dire need of automatic grading! The good news is you have all of your student's assignments in an easy-to-read format, making automation easy!
 

@@ -3,7 +3,7 @@ title: "[11/28/13] Challenge #137 [Intermediate / Hard] Banquet Planning"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1rnrs2/112813_challenge_137_intermediate_hard_banquet/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Banquet Planning
+# *(Intermediate)*: Banquet Planning
 
 You and your friends are planning a big banquet, but need to figure out the order in which food will be served. Some food, like a turkey, have to be served after appetizers, but before desserts. Other foods are more simple, like a pecan pie, which can be eaten any time after the main meal. Given a list of foods and the order-relationships they have, print the banquet schedule. If a given food item cannot be placed in this schedule, write an error message for it.
 

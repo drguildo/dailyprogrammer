@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/164zvs/010713_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: Permutation of a string
+# *(Easy)*: Permutation of a string
 
 Write a function that prints all of the permutatons of the unique characters of a given string. For example, permute("baz") would print:
 

@@ -3,7 +3,7 @@ title: "[14-12-17] Challenge #193 [Intermediate] 50,000 Subscriber Meta-challeng
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2pma1z/141217_challenge_193_intermediate_50000/"
 ---
 
-# [](#IntermediateIcon) **(Intermediate)**: 50,000 Subscriber Meta-challenge
+# **(Intermediate)**: 50,000 Subscriber Meta-challenge
 
 Congratulations to everyone for getting the subreddit to 50K subscribers! As a reward I'll do a nice relaxed meta challenge. Effective communication is an important skill to have, but it certainly isn't easy; hence, it is a challenge unto itself. This also gives less experienced members of the subreddit a chance to see into the minds of the more veteran submitters.
 

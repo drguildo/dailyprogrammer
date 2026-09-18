@@ -3,7 +3,7 @@ title: "[12/05/13] Challenge #138 [Intermediate] Overlapping Circles"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1s6484/120513_challenge_138_intermediate_overlapping/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Overlapping Circles
+# *(Intermediate)*: Overlapping Circles
 
 Computing the volume of a circle is pretty straight-forward: Pi x Radius x Radius, or simply Pi x r ^2.
 

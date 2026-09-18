@@ -3,7 +3,7 @@ title: "[05/10/13] Challenge #123 [Hard] Robot Jousting"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ej32w/051013_challenge_123_hard_robot_jousting/"
 ---
 
-# [](#HardIcon) *(Hard)*: Robot Jousting
+# *(Hard)*: Robot Jousting
 
 You are an expert in the new and exciting field of *Robot Jousting*! Yes, you read that right: robots that charge one another to see who wins and who gets destroyed. Your job has been to work on a simulation of the joust matches and compute *when* there is a collision between the two robots and *which* robot would win (the robot with the higher velocity), thus preventing the destruction of very expensive hardware.
 

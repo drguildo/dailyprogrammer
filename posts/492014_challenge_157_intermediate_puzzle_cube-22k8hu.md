@@ -3,7 +3,7 @@ title: "[4/9/2014] Challenge #157 [Intermediate] Puzzle Cube Simulator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/22k8hu/492014_challenge_157_intermediate_puzzle_cube/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Puzzle Cube Simulator
+# _(Intermediate)_: Puzzle Cube Simulator
 
 You may be aware of puzzles such as the [Rubik's Cube](http://img1.wikia.nocookie.net/__cb20130909182419/maditsmadfunny/images/e/ee/Rubik%27s_Cube_cropped.jpg). They work by having pieces with coloured faces which can rotate around the centers. You may also be aware of higher-order puzzles such as the [Professor's Cube](http://upload.wikimedia.org/wikipedia/commons/f/fe/Professors_cube.jpg). These work in exactly the same way, with the exception of having more pieces. For the purposes of this challenge, an **n**-cube is a puzzle with **n** pieces along an edge - the Rubik's cube would be a 3-cube, and the Professor's cube a 5-cube.
 

@@ -3,7 +3,7 @@ title: "[12/11/13] Challenge #144 [Easy] Nuts &amp; Bolts"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1sob1e/121113_challenge_144_easy_nuts_bolts/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Nuts & Bolts
+# *(Easy)*: Nuts & Bolts
 
 You have just been hired at a local home improvement store to help compute the proper costs of inventory. The current prices are out of date and wrong; you have to figure out which items need to be re-labeled with the correct price.
 

@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/178vsz/012513_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Alphabetizing cipher
+# *(Hard)*: Alphabetizing cipher
 
 This challenge is an optimization problem. Your solution will be a string of the 26 letters of the alphabet in some order, such as:
 

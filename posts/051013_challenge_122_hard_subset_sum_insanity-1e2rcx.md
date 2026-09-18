@@ -3,7 +3,7 @@ title: "[05/10/13] Challenge #122 [Hard] Subset Sum Insanity"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1e2rcx/051013_challenge_122_hard_subset_sum_insanity/"
 ---
 
-# [](#HardIcon) *(Hard)*: Subset Sum
+# *(Hard)*: Subset Sum
 
 The [subset sum](http://en.wikipedia.org/wiki/Subset_sum_problem) problem is a classic computer science challenge: though it may appear trivial on its surface, there is no known solution that runs in [deterministic polynomial time](http://en.wikipedia.org/wiki/P_(complexity)) (basically this is an [NP-complete](http://en.wikipedia.org/wiki/Subset_sum_problem) problem). To make this challenge more "fun" (in the same way that losing in Dwarf Fortress is "fun"), we will be solving this problem in a three-dimensional matrix and define a subset as a set of integers that are directly adjacent!
 

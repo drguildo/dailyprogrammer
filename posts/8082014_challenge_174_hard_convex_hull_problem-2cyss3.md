@@ -3,7 +3,7 @@ title: "[8/08/2014] Challenge #174 [Hard] Convex Hull Problem"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2cyss3/8082014_challenge_174_hard_convex_hull_problem/"
 ---
 
-# [](#HardIcon) _(Hard)_: Convex Hull Problem
+# _(Hard)_: Convex Hull Problem
 
 I have [a collection of points, called **P**](http://i.imgur.com/yDhKB22.png). For this challenge the points will all be on a 2D plane. The Convex Hull problem is to find a convex polygon made from points in **P** which contains all of the points in **P**. There are several approaches to this problem, including brute-force (not good) and several O(n^(2)) solutions (naive, not brilliant) and some fairly in-depth algorithms.
 

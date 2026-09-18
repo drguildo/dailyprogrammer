@@ -3,7 +3,7 @@ title: "[01/09/13] Challenge #117 [Intermediate] Sort r/DailyProgrammer!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/169hkl/010913_challenge_117_intermediate_sort/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Sort r/DailyProgrammer
+# *(Intermediate)*: Sort r/DailyProgrammer
 
 Some users of r/DailyProgrammer want a list of URLs ordered from our very first challenge to the easiest challenge. Your goal is to crawl r/DailyProgrammer, automatically generate two types of these lists, and that's it!
 

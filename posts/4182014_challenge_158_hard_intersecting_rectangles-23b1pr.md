@@ -3,7 +3,7 @@ title: "[4/18/2014] Challenge #158 [Hard] Intersecting Rectangles"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/23b1pr/4182014_challenge_158_hard_intersecting_rectangles/"
 ---
 
-# [](#HardIcon) _(Hard)_: Intersecting Rectangles
+# _(Hard)_: Intersecting Rectangles
 
 Computing the area of a [single rectangle](http://i.imgur.com/0W5Oiav.png) is extremely simple: width multiplied by height.  
 Computing the area of two rectangles is a little more challenging. They can either be separate and thus have their areas calculated individually, [like this](http://i.imgur.com/IefYcFj.png). They can also intersect, in which case you calculate their individual areas, and subtract the area of the intersection, [like this](http://i.imgur.com/6GzHGrh.png).  

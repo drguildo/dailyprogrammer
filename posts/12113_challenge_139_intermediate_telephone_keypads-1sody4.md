@@ -3,7 +3,7 @@ title: "[12/1/13] Challenge #139 [Intermediate] Telephone Keypads"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1sody4/12113_challenge_139_intermediate_telephone_keypads/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Telephone Keypads
+# *(Intermediate)*: Telephone Keypads
 
 [Telephone Keypads](http://en.wikipedia.org/wiki/Telephone_keypad) commonly have both digits and characters on them. This is to help with remembering & typing phone numbers (called a [Phoneword](http://en.wikipedia.org/wiki/Phoneword)), like 1-800-PROGRAM rather than 1-800-776-4726. This keypad layout is also helpful with [T9](<http://en.wikipedia.org/wiki/T9_(predictive_text\)>), a way to type texts with word prediction.
 

@@ -3,7 +3,7 @@ title: "[06/09/13] Challenge #127 [Intermediate] Call Forwarding"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Call Forwarding
+# *(Intermediate)*: Call Forwarding
 
 A call forwarding service is a system that allows any incoming phone calls to a phone number be forwarded to a secondary phone number. This system is helpful in the case of a person taking a vacation (so that if Alice is out of the office, Bob receives all her customer's calls). It is possible, with such a system, that the secondary receiver (Bob in this case) also goes on vacation and also setups call forwarding to another person (Carol). Thus in such a situation, if someone calls Alice, it gets forwarded to Bob who in turn has the system re-forward to Carol.
 

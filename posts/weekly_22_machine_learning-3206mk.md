@@ -3,7 +3,7 @@ title: "[Weekly #22] Machine Learning"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3206mk/weekly_22_machine_learning/"
 ---
 
-# [](#WeeklyIcon) Asimov would be proud
+# Asimov would be proud
 
 [Machine learning](http://en.wikipedia.org/wiki/Machine_learning) is a diverse field spanning from optimization and data classification, to computer vision and pattern recognition. Modern algorithms for detecting spam email use machine learning to react to developing types of spam and spot them quicker than people could!
 

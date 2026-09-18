@@ -3,7 +3,7 @@ title: "[2015-02-02] Challenge #200 [Easy] Flood-Fill"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ug3hx/20150202_challenge_200_easy_floodfill/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Flood-Fill
+# _(Easy)_: Flood-Fill
 
 Flood-fill is a tool used in essentially any image editing program that's worth its salt. It allows you to fill in any contigious region of colour with another colour, like flooding a depression in a board with paint. For example, take [this beautiful image](http://i.imgur.com/NlCcrKj.png). If I was to flood-fill the colour orange into [this region of the image](http://i.imgur.com/yCavN08.png), then that region would be [turned completely orange](http://i.imgur.com/u6626BA.png).
 

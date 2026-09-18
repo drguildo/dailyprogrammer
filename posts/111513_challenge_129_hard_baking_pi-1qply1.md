@@ -3,7 +3,7 @@ title: "[11/15/13] Challenge #129 [Hard] Baking Pi"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1qply1/111513_challenge_129_hard_baking_pi/"
 ---
 
-# [](#HardIcon) *(Hard)*: Baking Pi
+# *(Hard)*: Baking Pi
 
 [Pi (π)](http://en.wikipedia.org/wiki/Pi), the super-cool irrational number, can be computed through a variety of ways. One way is using [continued fractions](http://en.wikipedia.org/wiki/Continued_fraction), which computes a more and more precise value of Pi over each iteration. The problem with this approach is you cannot distribute the work across several machines, because the computation itself cannot be split into smaller independent computations.
 

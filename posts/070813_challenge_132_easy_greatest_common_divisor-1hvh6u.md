@@ -3,7 +3,7 @@ title: "[07/08/13] Challenge #132 [Easy] Greatest Common Divisor"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Greatest Common Divisor
+# *(Easy)*: Greatest Common Divisor
 
 The [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of a given set of integers is the greatest integer that can divide these integers without any remainder. From Wikipedia, take a look at this example: for the integers 8 and 12, the highest integer that divides them without remainder is 4.
 

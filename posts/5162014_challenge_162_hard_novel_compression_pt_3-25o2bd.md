@@ -3,7 +3,7 @@ title: "[5/16/2014] Challenge #162 [Hard] Novel Compression, pt. 3: Putting it a
 url: "https://old.reddit.com/r/dailyprogrammer/comments/25o2bd/5162014_challenge_162_hard_novel_compression_pt_3/"
 ---
 
-# [](#HardIcon) _(Hard)_: Novel Compression, pt. 3: Putting it all together
+# _(Hard)_: Novel Compression, pt. 3: Putting it all together
 
 Welcome to the third and final part of this week's Theme Week. Today is not so much a 'hard' challenge as such, but rather a culmination of this week's efforts. You will be putting your code from Monday and Wednesday into one program that can be operated [via the command line or terminal](http://en.wikipedia.org/wiki/Command-line_interface#Arguments), and will deal with files rather than textual input.
 

@@ -3,7 +3,7 @@ title: "[7/30/2014] Challenge #173 [Intermediate] Advanced Langton's Ant"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2c4ka3/7302014_challenge_173_intermediate_advanced/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Advanced Langton's Ant
+# _(Intermediate)_: Advanced Langton's Ant
 
 If you've done any work or research onto cellular automata, you may have heard of [Langton's Ant](http://en.wikipedia.org/wiki/Langton%27s_ant). It starts with a grid similar to that of [Conway's Game of Life](http://www.reddit.com/r/dailyprogrammer/comments/271xyp/) where a grid cell can be black or white, however this time we have an 'ant' on it. This little metaphorical ant will follow these four rules at every 'step':
 

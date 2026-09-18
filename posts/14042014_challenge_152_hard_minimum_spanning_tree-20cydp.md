@@ -3,7 +3,7 @@ title: "[14/04/2014] Challenge #152 [Hard] Minimum Spanning Tree"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/20cydp/14042014_challenge_152_hard_minimum_spanning_tree/"
 ---
 
-# [](#HardIcon) _(Hard)_: Minimum Spanning Tree
+# _(Hard)_: Minimum Spanning Tree
 
 First, a bit of back story. In graph theory, a graph is a set of points called _vertices_, joined up by lines or _edges_. Those edges can have a number called _weight_ associated with them, which would represent distance, cost, or whatever you like. It's an abstract idea and is usually used for modeling real-world situations such as a neighborhood, a network of computers or a set of steps. A **spanning tree** is a subgraph (a graph deriving from another one) that connects _all_ of the vertices of the parent graph.  
 This means several things:

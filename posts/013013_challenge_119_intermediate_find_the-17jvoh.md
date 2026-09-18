@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/17jvoh/013013_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Find the shortest path
+# *(Intermediate)*: Find the shortest path
 
 Given an ASCII grid through standard console input, you must find the shortest path from the start to the exit (without walking through any walls). You may only move up, down, left, and right; never diagonally.
 

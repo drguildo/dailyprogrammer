@@ -3,7 +3,7 @@ title: "[11/20/13] Challenge #136 [Intermediate] Ranked Voting System"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1r2mcz/112013_challenge_136_intermediate_ranked_voting/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Ranked Voting System
+# *(Intermediate)*: Ranked Voting System
 
 A [Ranked Voting System](http://en.wikipedia.org/wiki/Ranked_voting_systems) is a system that chooses a result based on a ranked-preference rather than a simple majority. A standard ranked ballot generally has multiple choices, only one of which one can be picked. A ranked ballot allows you to choose the order in which you prefer candidates. An example could be that you prefer choice **B** first, then choice **C**, and finally choice **A**.
 

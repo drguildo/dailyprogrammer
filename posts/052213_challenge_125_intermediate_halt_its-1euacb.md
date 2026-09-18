@@ -3,7 +3,7 @@ title: "[05/22/13] Challenge #125 [Intermediate] Halt! It's simulation time!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1euacb/052213_challenge_125_intermediate_halt_its/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Halt! It's simulation time
+# *(Intermediate)*: Halt! It's simulation time
 
 The [Halting Problem](http://en.wikipedia.org/wiki/Halting_problem), in computational theory, is the challenge of determining if a given program and data, when started, will actually finish. In more simple terms: it is essentially impossible to determine if an arbitrary program will ever complete because of how quickly a program's complexity can grow. One could attempt to partially solve the program by attempting to find logical errors, such as infinite loops or bad iteration conditions, but this cannot verify if complex structures ever halt. Another partial solution is to just simulate the code and see if it halts, though this fails for any program that becomes reasonably large. For this challenge, you will be doing this last approach:
 

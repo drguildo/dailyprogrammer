@@ -3,7 +3,7 @@ title: "[11/11/13] Challenge #142 [Easy] Falling Sand"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1rdtky/111113_challenge_142_easy_falling_sand/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Falling Sand
+# *(Easy)*: Falling Sand
 
 [Falling-sand Games](http://en.wikipedia.org/wiki/Falling-sand_game) are particle-simulation games that focus on the interaction between particles in a 2D-world. Sand, as an example, might fall to the ground forming a pile. Other particles might be much more complex, like fire, that might spread depending on adjacent particle types.
 

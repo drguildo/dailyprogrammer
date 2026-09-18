@@ -3,7 +3,7 @@ title: "[07/03/13] Challenge #125 [Hard] Robo Room Service"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1hkpwz/070313_challenge_125_hard_robo_room_service/"
 ---
 
-# [](#HardIcon) *(Hard)*: Robo Room Service
+# *(Hard)*: Robo Room Service
 
 You are the lead software engineer hired by a major hotel chain to program a new path-planning system for an automated room-service robot! You read that right: you are helping build a robot that will execute some basic tasks, such as moving around hotel laundry or patrol for security. The problem though is that your path-planning system is based on a [graph](<http://en.wikipedia.org/wiki/Graph_(abstract_data_type\)>), whereas the only data you have about the hotel's layout is in an ASCII-map!
 

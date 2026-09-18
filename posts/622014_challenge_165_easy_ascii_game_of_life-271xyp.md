@@ -3,7 +3,7 @@ title: "[6/2/2014] Challenge #165 [Easy] ASCII Game of Life"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/271xyp/622014_challenge_165_easy_ascii_game_of_life/"
 ---
 
-# [](#EasyIcon) _(Easy)_: ASCII Game of Life
+# _(Easy)_: ASCII Game of Life
 
 Hello people. Sorry for submitting this early, but I have exams this week and the next so I'll have to submit these challenges a little bit early - I'm sure that's not an issue though! Welcome to June, and it's time for a run of similarly themed challenges - all of them will be based on ASCII data. Not too dissimilar to [this challenge](http://www.reddit.com/r/dailyprogrammer/comments/236va2/4162014_challenge_158_intermediate_part_1_the/) from a while ago.
 

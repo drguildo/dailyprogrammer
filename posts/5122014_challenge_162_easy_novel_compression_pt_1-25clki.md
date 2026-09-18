@@ -3,7 +3,7 @@ title: "[5/12/2014] Challenge #162 [Easy] Novel Compression, pt. 1: Unpacking th
 url: "https://old.reddit.com/r/dailyprogrammer/comments/25clki/5122014_challenge_162_easy_novel_compression_pt_1/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Novel Compression, pt. 1: Unpacking the Data
+# _(Easy)_: Novel Compression, pt. 1: Unpacking the Data
 
 Welcome to this week's Theme Week. We're going to be creating our very own basic compression format for short novels or writing. This format will probably not be practical for actual use, but may serve as a rudimentary introduction to how data compression works. As a side task, it is advised to use structured programming techniques, so your program is easy to extend, modify and maintain later on (ie. later this week.) To keep in line with our Easy-Intermediate-Hard trend, our first step will be to write the **decompresser**.
 

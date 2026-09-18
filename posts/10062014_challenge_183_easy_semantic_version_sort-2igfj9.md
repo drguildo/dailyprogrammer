@@ -3,7 +3,7 @@ title: "[10/06/2014] Challenge #183 [Easy] Semantic Version Sort"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2igfj9/10062014_challenge_183_easy_semantic_version_sort/"
 ---
 
-# [](#EasyIcon) __(Easy)__: Semantic Version Sort
+# __(Easy)__: Semantic Version Sort
 
 Semantic Versioning, or *Semver* as it's known on the streets, is an attempt to standardise the way that software versions are incrementally changed. In the world there are many different pieces of software whose developers have conflicting ideas about how software should be developed. For example, [Dwarf Fortress](http://www.bay12games.com/dwarves/) is currently at version 0.40.13, whereas [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome) (which has been around for 2 years *less* than Dwarf Fortress) is currently at version 37.0.2062.124. How can those version numbers even be compared? They both represent around the same progress of development but in totally different ways. Semantic versioning aims to solve this problem by splitting the version string into 3, 4 or 5 parts:
 

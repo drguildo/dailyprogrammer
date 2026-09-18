@@ -3,7 +3,7 @@ title: "[6/14/2014] Challenge #166b [Easy] Planetary Gravity Calculator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/284mep/6142014_challenge_166b_easy_planetary_gravity/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Planetary Gravity Calculator
+# _(Easy)_: Planetary Gravity Calculator
 
 Welcome to this week's rebooted challenges. While this challenge is very simple at its core (which I think gives it an Easy rating), it gives me a chance to teach a bit of physics while I'm at it, so I may as well!
 

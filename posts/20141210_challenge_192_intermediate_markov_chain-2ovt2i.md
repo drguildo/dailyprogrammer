@@ -3,7 +3,7 @@ title: "[2014-12-10] Challenge #192 [Intermediate] Markov Chain Error Detection"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ovt2i/20141210_challenge_192_intermediate_markov_chain/"
 ---
 
-# [](#IntermediateIcon) **(Intermediate)**: Markov Chain Error Detection
+# **(Intermediate)**: Markov Chain Error Detection
 
 A Markov process describes a system where the probability of changing to a certain state is dependent on the current state. A Markov Chain is a system where there is a discrete set of states. One application of this is in some predictive-texting systems. For example, a Markov chain can describe how, in writing, the word 'car' has a higher probability of being followed by the word 'key' than the word 'banana' or 'the'. This system is handy as it allows the predictive-texting system to adapt (in a limited way) to the specific user. For example, for the word 'source', an academic would have a likely following word as 'reference', whereas a programmer would have a likely following word as 'code' - as the text 'source reference' might be used a lot by an academic whereas the text 'source code' would be used a lot by a developer. This is of course a crude example but it illustrates the point nicely.
 

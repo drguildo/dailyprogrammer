@@ -3,7 +3,7 @@ title: "[2015-09-01] Challenge #230 [Intermediate] Word Compactification"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3jd72z/20150901_challenge_230_intermediate_word/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Word Compactification
+# _(Intermediate)_: Word Compactification
 
 Sam is trying to create a logo for his company, but the CEOs are fairly stingy and only allow him a limited number of [metal letter casts](https://en.wikipedia.org/wiki/Movable_type#Typesetting) for the letter head, so as many letters should be re-used in the logo as possible. The CEOs also decided to use every single word that came up in the board meeting for the company name, so there might be a lot of words. Some puzzles such as crosswords work like this, by putting words onto a grid in such a way that words can share letters; in a crossword, this is an element of the puzzle. For example:
 

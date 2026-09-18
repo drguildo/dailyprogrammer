@@ -3,7 +3,7 @@ title: "[2015-06-24] Challenge #220 [Intermediate] It's Go time!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3axjac/20150624_challenge_220_intermediate_its_go_time/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: It's Go time
+# _(Intermediate)_: It's Go time
 
 [Go](https://en.wikipedia.org/wiki/Go_\(game\)) is a board game involving placing black and white stones on a grid. Two opponents take turns to place stones; one player places white stones, the other black. Stones of the same colour form a _group_, as long as they're all connected via the cardinal axes. The leftmost pair of stones (represented by `#`) below are valid groups, and the rightmost pair are not.
 

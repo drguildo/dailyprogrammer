@@ -3,7 +3,7 @@ title: "[12/23/13] Challenge #146 [Easy] Polygon Perimeter"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1tixzk/122313_challenge_146_easy_polygon_perimeter/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Polygon Perimeter
+# *(Easy)*: Polygon Perimeter
 
 [A Polygon](http://en.wikipedia.org/wiki/Polygon) is a geometric two-dimensional figure that has n-sides (line segments) that closes to form a loop. Polygons can be in many different shapes and have many different neat properties, though this challenge is about [Regular Polygons](http://en.wikipedia.org/wiki/Regular_polygon). Our goal is to compute the permitter of an n-sided polygon that has equal-length sides given the [circumradius](http://en.wikipedia.org/wiki/Regular_polygon#Circumradius). This is the distance between the center of the Polygon to any of its vertices; not to be confused with the [apothem](http://en.wikipedia.org/wiki/Apothem)!
 

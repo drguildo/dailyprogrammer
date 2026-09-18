@@ -3,7 +3,7 @@ title: "[7/7/2014] Challenge #170 [Easy] Blackjack Checker"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/29zut0/772014_challenge_170_easy_blackjack_checker/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Blackjack Checker
+# _(Easy)_: Blackjack Checker
 
 [Blackjack](https://en.wikipedia.org/wiki/Blackjack) is a very common card game, where the primary aim is to pick up cards until your hand has a higher value than everyone else but is less than or equal to 21. This challenge will look at the outcome of the game, rather than playing the game itself.
 

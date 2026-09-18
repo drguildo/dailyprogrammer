@@ -3,7 +3,7 @@ title: "[09/11/13] Challenge #133 [Intermediate] Chain Reaction"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1m71k9/091113_challenge_133_intermediate_chain_reaction/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Chain Reaction
+# *(Intermediate)*: Chain Reaction
 
 You are a physicists attempting to simulate a discrete two-dimensional grid of elements that cause chain-reactions with other elements. A chain-reaction is when an element at a position becomes "active" and spreads out and activates with other elements. Different elements have different propagation rules: some only can react with directly-adjacent elements, while others only reacting with elements in the same column. Your goal is to simulate the given grid of elements and show the grid at each interaction.
 

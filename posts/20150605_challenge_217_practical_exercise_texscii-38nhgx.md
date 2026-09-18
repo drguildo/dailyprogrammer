@@ -3,7 +3,7 @@ title: "[2015-06-05] Challenge #217 [Practical Exercise] TeXSCII"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/38nhgx/20150605_challenge_217_practical_exercise_texscii/"
 ---
 
-# [](#PEIcon) _(Practical Exercise)_: TeXSCII
+# _(Practical Exercise)_: TeXSCII
 
 LaTeX is a typesetting utility based on the TeX typesetting and macro system which can be used to output mathematical formulae to display or print. For example, the LaTeX code `\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}` will be transformed into [this](http://latex.codecogs.com/gif.latex?%5Cdpi%7B200%7D%20%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E%7B2%7D-4ac%7D%7D%7B2a%7D) when typeset.
 

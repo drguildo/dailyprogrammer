@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1aih0v/031813_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: Words With Ordered Vowels
+# *(Easy)*: Words With Ordered Vowels
 
 Find words in a word list that contain all the vowels in alphabetical
  order, non-repeated, where vowels are defined as A E I O U Y.

@@ -3,7 +3,7 @@ title: "[2015-01-10] Challenge #196 [Hard] Precedence Parsing"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2rye5u/20150110_challenge_196_hard_precedence_parsing/"
 ---
 
-# [](#HardIcon) **(Hard)**: Precedence Parsing
+# **(Hard)**: Precedence Parsing
 
 If you have covered algebra then you may have heard of the BEDMAS rule (also known as BIDMAS, PEMDAS and a lot of other acronyms.) The rule says that, when reading a mathematical expression, you are to evaluate in this order:
 

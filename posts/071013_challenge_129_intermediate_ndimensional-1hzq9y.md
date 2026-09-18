@@ -3,7 +3,7 @@ title: "[07/10/13] Challenge #129 [Intermediate] N-Dimensional Vectors"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1hzq9y/071013_challenge_129_intermediate_ndimensional/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: N-Dimensional Vectors
+# *(Intermediate)*: N-Dimensional Vectors
 
 N-Dimensional [vectors](http://en.wikipedia.org/wiki/Euclidean_vector) are vectors with n-components; it can be interpreted as a point in n-dimensional space. 2-dimensional (2D) vectors can be seen as a line on paper. 3D vectors can be seen as a line (direction with length) in regular space. You can represent higher n-dimensions in many different ways, but what we're interested in is the three common vector operations: length, normilization, and dot-product.
 

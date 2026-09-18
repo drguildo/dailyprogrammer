@@ -3,7 +3,7 @@ title: "[2014-12-22] Challenge #194 [Easy] Destringification"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2q2xnc/20141222_challenge_194_easy_destringification/"
 ---
 
-# [](#EasyIcon) **(Easy)**: Destringification
+# **(Easy)**: Destringification
 
 Most programming languages understand the concept of escaping strings. For example, if you wanted to put a double-quote `"` into a string that is delimited by double quotes, you can't just do this:
 

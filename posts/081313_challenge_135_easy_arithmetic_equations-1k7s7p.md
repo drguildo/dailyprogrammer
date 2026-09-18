@@ -3,7 +3,7 @@ title: "[08/13/13] Challenge #135 [Easy] Arithmetic Equations"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1k7s7p/081313_challenge_135_easy_arithmetic_equations/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Arithmetic Equations
+# *(Easy)*: Arithmetic Equations
 
 [Unix](http://en.wikipedia.org/wiki/Unix), the famous multitasking and multi-user operating system, has several standards that defines Unix commands, system calls, subroutines, files, etc. Specifically within [Version 7](http://en.wikipedia.org/wiki/Version_7_Unix) (though this is included in many other Unix standards), there is a game called "arithmetic". To quote the [Man Page](http://en.wikipedia.org/wiki/Man_page):
 

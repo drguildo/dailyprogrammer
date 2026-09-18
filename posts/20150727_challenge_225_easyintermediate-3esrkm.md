@@ -3,7 +3,7 @@ title: "[2015-07-27] Challenge #225 [Easy/Intermediate] De-columnizing"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3esrkm/20150727_challenge_225_easyintermediate/"
 ---
 
-# [](#EasyIcon) _(Easy/Intermediate)_: De-columnizing
+# _(Easy/Intermediate)_: De-columnizing
 
 Often, column-style writing will put images and features to the left or right of the body of text, for example:
 
@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in repre-henderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## [](#IntermediateIcon) Extension (Intermediate)
+## Extension (Intermediate)
 
 At the start of each paragraph in your output, list the text of each feature associated with that paragraph. A feature is "associated" with a paragraph if the top of the feature box (the `+--------+`) starts on or below the line that the paragraph starts on. For example, the outputs for the above three examples would be:
 

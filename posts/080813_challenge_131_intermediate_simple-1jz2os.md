@@ -3,7 +3,7 @@ title: "[08/08/13] Challenge #131 [Intermediate] Simple Ray-Casting"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1jz2os/080813_challenge_131_intermediate_simple/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Simple Ray-Casting
+# *(Intermediate)*: Simple Ray-Casting
 
 [Ray Casting](http://en.wikipedia.org/wiki/Ray_casting) is a method of [rendering 3D computer graphics](<http://en.wikipedia.org/wiki/Rendering_(computer_graphics\)>), popular in the early/mid 90's. Famous games like [Wolfenstein](http://en.wikipedia.org/wiki/Wolfenstein_3D) and [Doom](<http://en.wikipedia.org/wiki/Doom_(video_game\)>) are great examples of ray-casting based graphics. Real-time computer graphics today are based on hardware-accelerated polygon [rasterization](http://en.wikipedia.org/wiki/Rasterisation), while film-quality computer graphics are based on [ray-tracing](<http://en.wikipedia.org/wiki/Ray_tracing_(graphics\)>) (a more advanced and finer-detailed ray-casting derivative).
 

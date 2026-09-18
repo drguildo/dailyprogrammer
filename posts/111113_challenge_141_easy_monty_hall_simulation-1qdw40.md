@@ -3,7 +3,7 @@ title: "[11/11/13] Challenge #141 [Easy] Monty Hall Simulation"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1qdw40/111113_challenge_141_easy_monty_hall_simulation/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Monty Hall Simulation
+# *(Easy)*: Monty Hall Simulation
 
 The [Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) is a probability puzzle that has a very non-intuitive answer for the average person. Here's the problem description taken from Wikipedia:
 

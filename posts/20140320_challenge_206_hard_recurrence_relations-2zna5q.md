@@ -3,7 +3,7 @@ title: "[2014-03-20] Challenge #206 [Hard] Recurrence Relations, part 2"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2zna5q/20140320_challenge_206_hard_recurrence_relations/"
 ---
 
-# [](#HardIcon) _(Hard)_: Recurrence Relations, part 2
+# _(Hard)_: Recurrence Relations, part 2
 
 In [Monday's challenge](/r/dailyprogrammer/comments/2z68di/), we wrote a program to compute the first _n_ terms of a simple recurrence relation. These recurrence relations depended only on the directly previous term - that is, to know _u_(n), you only need to know _u_(n-1). In today's challenge, we'll be investigating more complicated recurrence relations.
 

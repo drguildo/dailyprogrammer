@@ -3,7 +3,7 @@ title: "[2015-02-04] Challenge #200 [Intermediate] Metro Tile Meltdown"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2uo3yf/20150204_challenge_200_intermediate_metro_tile/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Metro Tile Meltdown
+# _(Intermediate)_: Metro Tile Meltdown
 
 In the continued name of backward-compatibility, Microsoft has released a version of their flagship operating system for VGA text-mode terminals. In this version of their operating system, rectangular tiles consisting of a single character are displayed on the screen, like so:
 

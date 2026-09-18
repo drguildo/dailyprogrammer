@@ -3,7 +3,7 @@ title: "[06/4/13] Challenge #128 [Easy] Sum-the-Digits, Part II"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Sum-the-Digits, Part II
+# *(Easy)*: Sum-the-Digits, Part II
 
 Given a well-formed (non-empty, fully valid) string of digits, let the integer N be the sum of digits. Then, given this integer N, turn it into a string of digits. Repeat this process until you only have one digit left. Simple, clean, and easy: focus on writing this as cleanly as possible in your preferred programming language.
 

@@ -3,7 +3,7 @@ title: "[2015-03-16] Challenge #206 [Easy] Recurrence Relations, part 1"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2z68di/20150316_challenge_206_easy_recurrence_relations/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Recurrence Relations, part 1
+# _(Easy)_: Recurrence Relations, part 1
 
 A recurrence relation is a mathematical construct for defining a series of numbers. It works by first giving an initial term, and then recursively defining the rest of the series as functions of the first one. For example, let's say we have a series of numbers called **u**, which is defined by this recurrence relation:
 

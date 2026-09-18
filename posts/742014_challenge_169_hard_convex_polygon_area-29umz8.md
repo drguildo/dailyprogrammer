@@ -3,7 +3,7 @@ title: "[7/4/2014] Challenge #169 [Hard] Convex Polygon Area"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/29umz8/742014_challenge_169_hard_convex_polygon_area/"
 ---
 
-# [](#HardIcon) _(Hard)_: Convex Polygon Area
+# _(Hard)_: Convex Polygon Area
 
 A convex polygon is a geometric polygon (ie. sides are straight edges), where all of the interior angles are less than 180'. For a more rigorous definition of this, see [this page](http://www.mathopenref.com/polygonconvex.html).
 

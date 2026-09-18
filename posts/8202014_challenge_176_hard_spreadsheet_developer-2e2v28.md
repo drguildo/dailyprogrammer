@@ -3,7 +3,7 @@ title: "[8/20/2014] Challenge #176 [Hard] Spreadsheet Developer pt. 2: Mathemati
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2e2v28/8202014_challenge_176_hard_spreadsheet_developer/"
 ---
 
-# [](#EasyIcon) _(Hard)_: Spreadsheet Developer pt. 2: Mathematical Operations
+# _(Hard)_: Spreadsheet Developer pt. 2: Mathematical Operations
 
 Today we are building on [what we did on Monday](/r/dailyprogrammer/comments/2dvc81/8182014_challenge_176_easy_spreadsheet_developer/). We be using the selection system we developed last time and create a way of using it to manipulate numerical data in a spreadsheet.
 

@@ -3,7 +3,7 @@ title: "[05/30/13] Challenge #126 [Intermediate] Perfect P'th Powers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1fcpnx/053013_challenge_126_intermediate_perfect_pth/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Perfect P'th Powers
+# *(Intermediate)*: Perfect P'th Powers
 
 An integer X is a "perfect square power" if there is some integer Y such that Y^2 = X. An integer X is a "perfect cube power" if there is some integer Y such that Y^3 = X. We can extrapolate this where P is the power in question: an integer X is a "perfect p'th power" if there is some integer Y such that Y^P = X.
 

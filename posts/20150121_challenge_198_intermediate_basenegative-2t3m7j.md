@@ -3,7 +3,7 @@ title: "[2015-01-21] Challenge #198 [Intermediate] Base-Negative Numbers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2t3m7j/20150121_challenge_198_intermediate_basenegative/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Base-Negative Numbers
+# _(Intermediate)_: Base-Negative Numbers
 
 _"Don't be stupid, Elite6809!"_, I hear you say. _"You can't have a negative base."_ Well, why not? Let's analyse what we mean by base. Given a base-**r** system, the column **p** places from the right (starting from zero), which contains the digit **n**, has the value **n**×**r**^(**p**). The binary columns 1, 2, 4, 8, 16, ... is the same as 2^(0), 2^(1), 2^(2), 2^(3), 2^(4). Nothing stops you from using a negative base with this system, except perhaps the understanding of the concept and practicality of its usage.
 

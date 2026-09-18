@@ -3,7 +3,7 @@ title: "[05/08/13] Challenge #124 [Intermediate] Circular Graphs"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ee664/050813_challenge_124_intermediate_circular_graphs/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Circular Graphs
+# *(Intermediate)*: Circular Graphs
 
 A classic problem in computer science & [graph-theory](http://en.wikipedia.org/wiki/Graph_theory) is to detect if there are any [circular paths](<http://en.wikipedia.org/wiki/Cycle_(graph_theory\)>) in a given directed graph (sometimes called a cycle). Your goal is to write a program that takes in a series of edges, which defines a graph, and then print all sets of cycles onto a console or text file.
 

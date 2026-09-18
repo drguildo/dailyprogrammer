@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/16z9oj/012113_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: Date Localization
+# *(Easy)*: Date Localization
 
 Localization of software is the process of adapting code to handle special properties of a given language or a region's standardization of date / time formats.
 

@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1dx3wj/050813_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Synchronizing Calendars
+# *(Intermediate)*: Synchronizing Calendars
 
 You're trying to plan out your family's Easter dinners for the next few centuries.
 

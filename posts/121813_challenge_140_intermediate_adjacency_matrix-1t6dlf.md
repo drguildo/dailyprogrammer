@@ -3,7 +3,7 @@ title: "[12/18/13] Challenge #140 [Intermediate] Adjacency Matrix"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1t6dlf/121813_challenge_140_intermediate_adjacency_matrix/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Adjacency Matrix
+# *(Intermediate)*: Adjacency Matrix
 
 In [graph theory](http://en.wikipedia.org/wiki/Graph_theory), an [adjacency matrix](http://en.wikipedia.org/wiki/Adjacency_matrix) is a data structure that can represent the edges between nodes for a [graph](<http://en.wikipedia.org/wiki/Graph_(mathematics\)>) in an N x N matrix. The basic idea is that an edge exists between the elements of a row and column if the entry at that point is set to a valid value. This data structure can also represent either a [directed graph](http://en.wikipedia.org/wiki/Directed_graph) or an [undirected graph](<http://en.wikipedia.org/wiki/Graph_(mathematics\)#Undirected_graph>), since you can read the rows as being "source" nodes, and columns as being the "destination" (or vice-versa).
 

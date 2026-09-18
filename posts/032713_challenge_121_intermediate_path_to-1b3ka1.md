@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1b3ka1/032713_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Path to Philosophy
+# *(Intermediate)*: Path to Philosophy
 
 Clicking on the first link in the main text of a Wikipedia article not
 in parentheses or italics, and then repeating the process for subsequent

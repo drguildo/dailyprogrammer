@@ -3,7 +3,7 @@ title: "[08/08/13] Challenge #132 [Intermediate] Tiny Assembler"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1kqxz9/080813_challenge_132_intermediate_tiny_assembler/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Tiny Assembler
+# *(Intermediate)*: Tiny Assembler
 
 *Tiny*, a very simple fictional computer architecture, is programmed by an assembly language that has 16 [mnemonics](http://en.wikipedia.org/wiki/Assembly_language#Opcode_mnemonics_and_extended_mnemonics), with 37 unique op-codes. The system is based on [Harvard architecture](http://en.wikipedia.org/wiki/Harvard_architecture), and is very straight-forward: program memory is different from working memory, the machine only executes one instruction at a time, memory is an array of bytes from index 0 to index 255 (inclusive), and doesn't have any relative addressing modes. Instructions are multibyte, much like the X86 architecture. Simple instructions like HALT only take one byte, while complex instructions like JLS (Jump if Less-than) take four bytes.
 

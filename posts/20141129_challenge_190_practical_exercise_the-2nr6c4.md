@@ -3,7 +3,7 @@ title: "[2014-11-29] Challenge #190 [Practical Exercise] The Complex Number"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2nr6c4/20141129_challenge_190_practical_exercise_the/"
 ---
 
-# [](#PEIcon) **(Practical Exercise)**: The Complex Number
+# **(Practical Exercise)**: The Complex Number
 
 The Friday challenge was not able to be submitted, so I'm going to deviate from the Friday standard here and do a submission which will benefit a different group of Daily Programmers. The vast majority of problems here are for computer scientists, and I feel this leaves out the rest of you - ie. those who are here more for the programming practice than the logical puzzles. Therefore, rather than being expected to solve a logic problem, you will be expected to implement a piece of software from a required specification, thus serving as an exercise in good programming practice and making use of language features available to you.
 

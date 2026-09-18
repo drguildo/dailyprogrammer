@@ -3,7 +3,7 @@ title: "[10/10/2014] Challenge #183 [Hard] Dimensionality Reduction"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2iy7xl/10102014_challenge_183_hard_dimensionality/"
 ---
 
-# [](#HardIcon) _(Hard)_: Dimensionality Reduction
+# _(Hard)_: Dimensionality Reduction
 
 I have submitted in such a long time so i though i give a hard challenge! This week's and next week's hard challenge will be a machine learning/data mining challenge which are in quite high demand and have applications in today's top companies like facebook, google, quora, twitter and hundreds of multiple other companies. It will be a long challenge so do note that there will be another hard challenge next week which will be the continuation to this one.
 

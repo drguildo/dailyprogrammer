@@ -3,7 +3,7 @@ title: "[04/16/13] Week-Long Challenge #1: Make a (tiny) video game!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ch463/041613_weeklong_challenge_1_make_a_tiny_video_game/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Make a tiny video game
+# *(Easy)*: Make a tiny video game
 
 **Please note this is an official week-long challenge; all submissions are due by Monday night, midnight, GMT - 7:00 (American pacific time). Winners announced the following Tuesday evening.**
 

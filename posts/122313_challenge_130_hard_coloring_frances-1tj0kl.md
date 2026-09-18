@@ -3,7 +3,7 @@ title: "[12/23/13] Challenge #130 [Hard] Coloring France's Departments"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/"
 ---
 
-# [](#HardIcon) *(Hard)*: Coloring France's Departments
+# *(Hard)*: Coloring France's Departments
 
 The European country of [France](http://en.wikipedia.org/wiki/France) is segmented into many different [departments](http://en.wikipedia.org/wiki/Departments_of_France); 96 in the main continent with a few others overseas. Wikipedia, as always, has a great [visualization of these departments with their respective unique numbers here](http://upload.wikimedia.org/wikipedia/commons/b/b2/D%C3%A9partements_de_France_English.svg).
 

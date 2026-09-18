@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/19gbdq/030113_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Polygon diagonals
+# *(Hard)*: Polygon diagonals
 
 In how many distinct ways can you divide a regular N-sided polygon into N-2 triangles using N-3 non-intersecting diagonals?
 

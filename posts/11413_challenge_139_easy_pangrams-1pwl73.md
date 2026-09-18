@@ -3,7 +3,7 @@ title: "[11/4/13] Challenge #139 [Easy] Pangrams"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1pwl73/11413_challenge_139_easy_pangrams/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Pangrams
+# *(Easy)*: Pangrams
 
 [Wikipedia](http://en.wikipedia.org/wiki/Pangram) has a great definition for Pangrams: "*A pangram or holoalphabetic sentence for a given alphabet is a sentence using every letter of the alphabet at least once.*" A good example is the English-language sentence "[The quick brown fox jumps over the lazy dog](http://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog)"; note how all 26 English-language letters are used in the sentence.
 

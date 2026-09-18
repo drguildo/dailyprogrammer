@@ -3,7 +3,7 @@ title: "[Weekly #23] Computational Complexity and Algorithm Design"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/36iufn/weekly_23_computational_complexity_and_algorithm/"
 ---
 
-# [](#WeeklyIcon) Dynamic Programming and Algorithm Design
+# Dynamic Programming and Algorithm Design
 
 Programming is fundamentally tied to computer science, which involves the design and optimization of algorithms to solve certain problems. In the world of "big data", tweaking and streamlining algorithms to work as quickly as possible is an important process in designing an algorithm, especially over large, inter-connected data sets.
 

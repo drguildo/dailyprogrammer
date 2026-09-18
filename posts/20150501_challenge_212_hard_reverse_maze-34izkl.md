@@ -3,7 +3,7 @@ title: "[2015-05-01] Challenge #212 [Hard] Reverse Maze Pathfinding"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/34izkl/20150501_challenge_212_hard_reverse_maze/"
 ---
 
-# [](#HardIcon) _(Hard)_: Reverse Maze Pathfinding
+# _(Hard)_: Reverse Maze Pathfinding
 
 We recently saw a maze traversal challenge, where the aim is to find the path through the maze, given the start and end point. Today, however, we're going to do the reverse. You'll be given the maze, and the path from point A to point B as a series of steps and turns, and you'll need to find all the potential candidates for points A and B.
 

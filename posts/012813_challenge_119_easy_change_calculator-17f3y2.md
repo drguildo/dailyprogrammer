@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/17f3y2/012813_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: Change Calculator
+# *(Easy)*: Change Calculator
 
 Write A function that takes an amount of money, rounds it to the nearest penny and then tells you the *minimum* number of coins needed to equal that amount of money. For Example: "4.17" would print out:
 

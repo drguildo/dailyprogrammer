@@ -3,7 +3,7 @@ title: "[5/14/2014] Challenge #162 [Intermediate] Novel Compression, pt. 2: Comp
 url: "https://old.reddit.com/r/dailyprogrammer/comments/25hlo9/5142014_challenge_162_intermediate_novel/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Novel Compression, pt. 2: Compressing the Data
+# _(Intermediate)_: Novel Compression, pt. 2: Compressing the Data
 
 Welcome to Part 2 of this week's Theme Week. Today we are (predictably) doing the opposite of Monday's challenge. We will be taking uncompressed data, running it through a compression algorithm, and printing compressed data. The grammar and format is exactly the same as last time.
 

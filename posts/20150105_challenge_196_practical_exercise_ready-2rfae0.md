@@ -3,7 +3,7 @@ title: "[2015-01-05] Challenge #196 [Practical Exercise] Ready... set... set!"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2rfae0/20150105_challenge_196_practical_exercise_ready/"
 ---
 
-# [](#PEIcon) **(Practical Exercise)**: Ready... set... Set
+# **(Practical Exercise)**: Ready... set... Set
 
 The [last practical exercise](/r/dailyprogrammer/comments/2nr6c4/20141129_challenge_190_practical_exercise_the/) was well-received so I'm going to make another one. This one is less complicated and, if you're still finding your feet with object-oriented programming, should be great practice for you. This should be doable in functional languages too.
 

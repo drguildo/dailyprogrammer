@@ -3,7 +3,7 @@ title: "[09/13/13] Challenge #127 [Hard] Language Detection"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1mby3b/091313_challenge_127_hard_language_detection/"
 ---
 
-# [](#HardIcon) *(Hard)*: Language Detection
+# *(Hard)*: Language Detection
 
 You are part of the newly formed ILU team, whose acronym spells Internet Language Usage. Your goal is to help write part of a web-crawler that detects which language a wep-page / document has been written in. The good news is you only have to support detection of five languages (English, Spanish, French, German, and Portuguese), though the bad news is the text input has been stripped to just space-delimited words. These languages have hundreds of thousands of words each, some growing at a rate of [~25,000 new words a year](http://en.wikipedia.org/wiki/English_language#Number_of_words_in_English)! These languages also share many words, called [cognates](http://en.wikipedia.org/wiki/Cognate). An example would be the French-English word "lance", both meaning a spear / javelin-like weapon.
 

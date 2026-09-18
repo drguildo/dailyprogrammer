@@ -3,7 +3,7 @@ title: "[07/01/13] Challenge #131 [Easy] Who tests the tests?"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1heozl/070113_challenge_131_easy_who_tests_the_tests/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Who tests the tests?
+# *(Easy)*: Who tests the tests?
 
 [Unit Testing](http://en.wikipedia.org/wiki/Unit_testing) is one of the more basic, but effective, tools for [software testing](http://en.wikipedia.org/wiki/Software_testing) / quality assurance. Your job, as an expert test-engineer, is to double-check someone else's test data, and make sure that the expected output is indeed correct. The two functions you are testing is string-reversal and string-to-upper functions.
 

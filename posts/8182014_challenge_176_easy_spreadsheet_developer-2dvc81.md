@@ -3,7 +3,7 @@ title: "[8/18/2014] Challenge #176 [Easy] Spreadsheet Developer pt. 1: Cell Sele
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2dvc81/8182014_challenge_176_easy_spreadsheet_developer/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Spreadsheet Developer pt. 1: Cell Selection
+# _(Easy)_: Spreadsheet Developer pt. 1: Cell Selection
 
 Today and on Wednesday we will be developing a terminal-based spreadsheet package somewhat like [ed](http://en.wikipedia.org/wiki/Ed_%28text_editor%29) used to be. Today we'll be taking a look at the mechanism for selecting ranges of cells from textual data.
 

@@ -3,7 +3,7 @@ title: "[11/11/13] Challenge #141 [Easy] Checksums"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1qwkdz/111113_challenge_141_easy_checksums/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Checksums
+# *(Easy)*: Checksums
 
 [Checksums](http://en.wikipedia.org/wiki/Checksum) are a tool that allow you to verify the integrity of data (useful for networking, security, error-correction, etc.). Though there are *many* different Checksum algorithms, the general usage is that you give raw-data to your algorithm of choice, and a block of data (usually smaller than the given data) is generated and can later be used by re-computing the checksum and comparing the original and recent values.
 

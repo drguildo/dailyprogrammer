@@ -3,7 +3,7 @@ title: "[2014-12-5] Challenge #191 [Hard] Tricky Stick Stacking"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2oe0px/2014125_challenge_191_hard_tricky_stick_stacking/"
 ---
 
-# [](#HardIcon) **(Hard)**: Tricky Stick Stacking
+# **(Hard)**: Tricky Stick Stacking
 
 Similar to the previous [hard challenge with the arrows](/r/dailyprogrammer/comments/2m82yz/), this challenge will similarly require a hard degree of thought to solve (providing, of course, you develop the algorithm yourself,) while being relatively easy to understand.
 

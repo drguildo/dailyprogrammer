@@ -3,7 +3,7 @@ title: "[2015-04-03] Challenge #208 [Hard] The Universal Machine"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/31aja8/20150403_challenge_208_hard_the_universal_machine/"
 ---
 
-# [](#HardIcon) _(Hard)_: The Universal Machine
+# _(Hard)_: The Universal Machine
 
 Imagine an infinitely long, one-dimensional list of symbols. The list is infinite in both directions, and each symbol is indexed by a number, where the middle of the list is zero. This is called a **tape**. The symbols on the tape can be any symbol from an **alphabet**, which is just a set of possible symbols. If our example alphabet consists of the symbols `0`, `1` and `#`, then a valid tape would look like:
 

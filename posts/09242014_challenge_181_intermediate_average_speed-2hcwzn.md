@@ -3,7 +3,7 @@ title: "[09/24/2014] Challenge #181 [Intermediate] Average Speed Cameras"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2hcwzn/09242014_challenge_181_intermediate_average_speed/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Average Speed Cameras
+# _(Intermediate)_: Average Speed Cameras
 
 In the UK, a common safety measure on motorways is the so-called [average speed cameras](http://en.wikipedia.org/wiki/SPECS_%28speed_camera%29). These, unlike normal speed cameras which measure a vehicle's speed instantaneously, have several connected cameras at intervals along a motorway. The speed of a vehicle can be determined by dividing the distance between two cameras by the time it takes the vehicle to get from one to another. This can be used to stop vehicles breaking the speed limit over long stretches of roads, rather than allowing vehicles to speed up after they are out of range. The Home Office has contacted you to replace the aging software system in the cameras with something more up to date.
 

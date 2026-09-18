@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1eyipq/052413_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Snake-Fill
+# *(Hard)*: Snake-Fill
 
 The snake-fill algorithm is a "fictional" algorithm where you must fill a given 2D board, with some minimal obstacles, with a "snake". This "snake" always starts in the top-left corner and can move in any directly-adjacent direction (north, east, south, west) one step at a time. This snake is also infinitely long: once it has moved over a tile on the board, the tile is "filled" with the snakes body. A snake cannot revisit a tile: it is unable to traverse a tile that it has already traversed. Essentially this is the same logic that controls a snake during a [game of snake](<http://en.wikipedia.org/wiki/Snake_(video_game\)>).
 

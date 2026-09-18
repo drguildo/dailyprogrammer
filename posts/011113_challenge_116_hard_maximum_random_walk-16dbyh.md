@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/16dbyh/011113_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Maximum Random Walk
+# *(Hard)*: Maximum Random Walk
 
 Consider the classic random walk: at each step, you have a 1/2 chance of taking a step to the left and a 1/2 chance of taking a step to the right. Your expected position after a period of time is zero; that is the average over many such random walks is that you end up where you started. A more interesting question is what is the expected rightmost position you will attain during the walk.
 

@@ -3,7 +3,7 @@ title: "[2015-09-03] Challenge #230 [Hard] Logo De-compactification"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3jn6te/20150903_challenge_230_hard_logo/"
 ---
 
-# [](#HardIcon) _(Hard)_: Logo De-compactification
+# _(Hard)_: Logo De-compactification
 
 After Wednesday's meeting, the board of executives drew up a list of several thousand logos for their company. Content with their work, they saved the logos in ASCII form (like below) and went home.
 

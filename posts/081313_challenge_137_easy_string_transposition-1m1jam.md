@@ -3,7 +3,7 @@ title: "[08/13/13] Challenge #137 [Easy] String Transposition"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1m1jam/081313_challenge_137_easy_string_transposition/"
 ---
 
-# [](#EasyIcon) *(Easy)*: String Transposition
+# *(Easy)*: String Transposition
 
 It can be helpful sometimes to rotate a string 90-degrees, like a big vertical "SALES" poster or your business name on vertical neon lights, like [this image from Las Vegas](http://imgur.com/766x8uM). Your goal is to write a program that does this, but for multiples lines of text. This is very similar to a [Matrix Transposition](http://en.wikipedia.org/wiki/Transpose), since the order we want returned is not a true 90-degree rotation of text.
 

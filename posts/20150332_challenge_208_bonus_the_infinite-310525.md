@@ -3,7 +3,7 @@ title: "[2015-03-32] Challenge 208 [Bonus] The Infinite Stallman Theorem"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/310525/20150332_challenge_208_bonus_the_infinite/"
 ---
 
-# [](#BonusIcon) _(Bonus)_: The Infinite Stallman Theorem
+# _(Bonus)_: The Infinite Stallman Theorem
 
 Loosely, the [_infinite monkey theorem_](http://en.wikipedia.org/wiki/Infinite_monkey_theorem) states that, given an infinite number of monkeys randomly typing at typewriters for an unbounded amount of time, one will eventually produce a work of Shakespeare from start to finish. After the Japanese government performed this thought experiment using an infinitely-nested fractal pocket dimension with some success in 2007 (despite the incident with the micro black holes), application of the theorem has had some practical value in the field of [software optimization](http://en.wikipedia.org/wiki/Program_optimization).
 

@@ -3,7 +3,7 @@ title: "[6/9/2014] Challenge #166 [Easy] ASCII Fractal Curves"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/27pgqv/692014_challenge_166_easy_ascii_fractal_curves/"
 ---
 
-# [](#EasyIcon) _(Easy)_: ASCII Fractal Curves
+# _(Easy)_: ASCII Fractal Curves
 
 Today we're going to set a more open-ended challenge. First, let's look at what a space-filling curve is.
 

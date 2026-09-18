@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1asdd5/032213_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Derpson Family Party
+# *(Hard)*: Derpson Family Party
 
 The Derpsons are having a party for all their relatives. It will be
 the greatest party ever held, with hired musicians, a great cake and a

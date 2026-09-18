@@ -3,7 +3,7 @@ title: "[7/9/2014] Challenge #170 [Intermediate] Rummy Checker"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2a9u0a/792014_challenge_170_intermediate_rummy_checker/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Rummy Checker
+# _(Intermediate)_: Rummy Checker
 
 [Rummy](http://en.wikipedia.org/wiki/Rummy) is another very common card game. This time, the aim of the game is to match cards together into groups (**melds**) in your hand. You continually swap cards until you have such melds, at which point if you have a valid hand you have won. Your hand contains 7 cards, and your hand will contain 2 melds - one that is 3 long and one that is 4 long. A meld is either:
 

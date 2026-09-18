@@ -3,7 +3,7 @@ title: "[08/06/13] Challenge #134 [Easy] N-Divisible Digits"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1jtryq/080613_challenge_134_easy_ndivisible_digits/"
 ---
 
-# [](#EasyIcon) *(Easy)*: N-Divisible Digits
+# *(Easy)*: N-Divisible Digits
 
 Write a program that takes two integers, N and M, and find the largest integer composed of N-digits that is evenly divisible by M. N will always be 1 or greater, with M being 2 or greater. Note that some combinations of N and M will not have a solution.
 

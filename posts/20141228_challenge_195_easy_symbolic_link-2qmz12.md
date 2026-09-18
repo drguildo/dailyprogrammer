@@ -3,7 +3,7 @@ title: "[2014-12-28] Challenge #195 [Easy] Symbolic Link Resolution"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2qmz12/20141228_challenge_195_easy_symbolic_link/"
 ---
 
-# [](#EasyIcon) **(Easy)**: Symbolic Link Resolution
+# **(Easy)**: Symbolic Link Resolution
 
 Many Unix-based systems support the concept of a **symbolic link**. This is where one directory name is transparently mapped to another. Before we look further at symbolic links, here's a brief primer on Unix paths.
 

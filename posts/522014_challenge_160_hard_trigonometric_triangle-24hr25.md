@@ -3,7 +3,7 @@ title: "[5/2/2014] Challenge #160 [Hard] Trigonometric Triangle Trouble, pt. 2"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/24hr25/522014_challenge_160_hard_trigonometric_triangle/"
 ---
 
-# [](#HardIcon) _(Hard)_: Trigonometric Triangle Trouble, pt. 2
+# _(Hard)_: Trigonometric Triangle Trouble, pt. 2
 
 [I'm posting this early because there's a chance I won't have access to the internet tomorrow. Better an hour early than a day late I suppose.]
 

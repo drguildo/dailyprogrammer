@@ -3,7 +3,7 @@ title: "[12/23/13] Challenge #140 [Intermediate] Graph Radius"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1tiz4z/122313_challenge_140_intermediate_graph_radius/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Graph Radius
+# *(Intermediate)*: Graph Radius
 
 In [graph theory](http://en.wikipedia.org/wiki/Graph_theory), a [graph's radius](<http://en.wikipedia.org/wiki/Distance_(graph_theory\)>) is the minimum eccentricity of any vertex for a given graph. More simply: it is the minimum distance between all possible pairs of vertices in a graph.
 

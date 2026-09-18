@@ -3,7 +3,7 @@ title: "[11/03/2014] Challenge #187 [Easy] A Flagon of Flags"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2l6dll/11032014_challenge_187_easy_a_flagon_of_flags/"
 ---
 
-# [](#EasyIcon) **(Easy)**: A Flagon of Flags
+# **(Easy)**: A Flagon of Flags
 
 In the command-line world, programs are operated not with graphical user interfaces but with command line flags. These flags are what the operator uses to pass parameters to the program. The standard form of flag starts with a double hyphen `--` and consists of a word in `lower-case-separated-by-hyphens`. For example, to forcefully remove a directory recursively on Unix based systems, the command used may be:
 

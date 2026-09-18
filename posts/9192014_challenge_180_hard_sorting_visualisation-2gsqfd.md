@@ -3,7 +3,7 @@ title: "[9/19/2014] Challenge #180 [Hard] Sorting Visualisation"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2gsqfd/9192014_challenge_180_hard_sorting_visualisation/"
 ---
 
-# [](#HardIcon) _(Hard)_: Sorting Visualisation
+# _(Hard)_: Sorting Visualisation
 
 This challenge is up a bit early as I'm busy tomorrow so I'll probably forget. Anyway, after reading the comments on [this week's Weekly Discussion](http://www.reddit.com/r/dailyprogrammer/comments/2ggunp/), I wrote this week's Hard challenge based on two commonly requested things:
 

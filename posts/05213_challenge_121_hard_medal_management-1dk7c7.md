@@ -3,7 +3,7 @@ title: "[05/2/13] Challenge #121 [Hard] Medal Management"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1dk7c7/05213_challenge_121_hard_medal_management/"
 ---
 
-# [](#HardIcon) *(Hard)*: Medal Management
+# *(Hard)*: Medal Management
 
 The moderators of /r/DailyProgrammer give out medals (either gold or silver) as community rewards / community achievements. Though everyone has the two medal icons next to their names, the actual amount you have are reflected as two integers (gold first, then silver). The side-bar to the right has a section titled "Achievements System", which describes how medals are earned.
 

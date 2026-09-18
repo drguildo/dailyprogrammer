@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Base Conversion Words
+# *(Intermediate)*: Base Conversion Words
 
 Given as input an arbitrary string and base (integer), your goal is to convert the base-encoded string to all bases from 2 to 64 and try to detect all English-language words.
 

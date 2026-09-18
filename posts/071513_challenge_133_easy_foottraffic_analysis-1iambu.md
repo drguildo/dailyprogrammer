@@ -3,7 +3,7 @@ title: "[07/15/13] Challenge #133 [Easy] Foot-Traffic Analysis"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Foot-Traffic Analysis
+# *(Easy)*: Foot-Traffic Analysis
 
 The world's most prestigious art gallery in the world needs *your* help! Management wants to figure out how many people visit each room in the gallery, and for how long: this is to help improve the quality of the overall gallery in the future.
 

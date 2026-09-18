@@ -3,7 +3,7 @@ title: "[2017-06-30] Challenge #321 [Hard] Circle Splitter"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/6ksmh5/20170630_challenge_321_hard_circle_splitter/"
 ---
 
-# [](#HardIcon) _(Hard)_: Circle Splitter
+# _(Hard)_: Circle Splitter
 
 _(sorry for submitting this so late! currently away from home and apparently the internet hasn't arrived in a lot of places in Wales yet.)_
 

@@ -3,7 +3,7 @@ title: "[10/24/2014] Challenge #185 [Intermediate to Hard] Roots of a Polynomial
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2k7mnn/10242014_challenge_185_intermediate_to_hard_roots/"
 ---
 
-# [](#HardIcon) **(Intermediate to Hard)**: Roots of a Polynomial
+# **(Intermediate to Hard)**: Roots of a Polynomial
 
 In mathematics, a polynomial is a form of expression. The type of polynomials we're dealing with today are called *univariate* polynomials, which means they only have one variable. For this challenge, this variable will be called `x`. You'll need to dig out your algebra textbooks if you're a bit rusty, though this challenge doesn't require you to use anything more than high school (A-level) mathematics.
 

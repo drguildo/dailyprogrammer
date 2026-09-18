@@ -3,7 +3,7 @@ title: "[17/04/2014] Challenge #153 [Easy] Pascal's Pyramid"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/20l2it/17042014_challenge_153_easy_pascals_pyramid/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Pascal's Pyramid
+# _(Easy)_: Pascal's Pyramid
 
 You may have seen Pascal's Triangle before. It has been known about for a long time now and is a very simple concept - it makes several appearances in mathematics, one of which is when you calculate the [binomial expansion](http://en.wikipedia.org/wiki/Binomial_theorem).  
 If you've not seen it before, you can calculate it by first putting **1** on the outermost numbers:

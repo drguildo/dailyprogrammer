@@ -3,7 +3,7 @@ title: "[06/17/13] Challenge #130 [Easy] Roll the Dies"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1givnn/061713_challenge_130_easy_roll_the_dies/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Roll the Dies
+# *(Easy)*: Roll the Dies
 
 In many board games, you have to roll [multiple multi-faces dies](http://en.wikipedia.org/wiki/File:Dice_(typical_role_playing_game_dice).jpg) to generate random numbers as part of the game mechanics. A classic die used is the d20 (die of 20 faces) in the game Dungeons & Dragons. This notation, often called the [Dice Notation](http://en.wikipedia.org/wiki/Dice_notation), is where you write NdM, where N is a positive integer representing the number of dies to roll, while M is a positive integer equal to or grater than two (2), representing the number of faces on the die. Thus, the string "2d20" simply means to roll the 20-faced die twice. On the other hand "20d2" means to roll a two-sided die 20 times.
 

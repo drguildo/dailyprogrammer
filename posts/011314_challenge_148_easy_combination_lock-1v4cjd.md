@@ -3,7 +3,7 @@ title: "[01/13/14] Challenge #148 [Easy] Combination Lock"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1v4cjd/011314_challenge_148_easy_combination_lock/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Combination Lock
+# *(Easy)*: Combination Lock
 
 [Combination locks](http://en.wikipedia.org/wiki/Combination_lock) are mechanisms that are locked until a specific number combination is input. Either the input is a single dial that must rotate around in a special procedure, or have three disks set in specific positions. This challenge will ask you to compute how much you have to spin a single-face lock to open it with a given three-digit code.
 

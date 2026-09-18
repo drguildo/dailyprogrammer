@@ -3,7 +3,7 @@ title: "[06/12/13] Challenge #128 [Intermediate] Covering Potholes"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1g7gyi/061213_challenge_128_intermediate_covering/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Covering Potholes
+# *(Intermediate)*: Covering Potholes
 
 Matrix city currently has very poor road conditions; full of potholes and are in dire need of repair. The city needs your help figuring out which streets (and avenues) they should repair. Chosen streets are repaired fully, no half measures, and are end-to-end. They're asking you to give them the minimum number of roads to fix such that all the potholes are still patched up. (They're on a very limited budget.)
 

@@ -3,7 +3,7 @@ title: "[10/15/2014] Challenge #184 [Intermediate] Radioactive Decay"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2jcgej/10152014_challenge_184_intermediate_radioactive/"
 ---
 
-# [](#IntermediateIcon) **(Intermediate)**: Radioactive Decay
+# **(Intermediate)**: Radioactive Decay
 
 Radioactive decay occurs when an unstable atomic nucleus tries to make itself become more stable. It does this by spitting bits of itself out - like [taking bits off your car to make it lighter](https://www.youtube.com/watch?v=OETj9aTYO2Q). While radioactive decay is an entirely random process, the probability of one type of nucleus decaying per second is well-defined.
 

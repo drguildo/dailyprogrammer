@@ -3,7 +3,7 @@ title: "[6/14/2014] Challenge #166b [Intermediate] Prime Factor Trees"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/284uhh/6142014_challenge_166b_intermediate_prime_factor/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Prime Factor Trees
+# _(Intermediate)_: Prime Factor Trees
 
 Every number can be represented as the product of its [prime factors](http://en.wikipedia.org/wiki/Prime_factor). These are all of the prime numbers which the number is divisible by - if a number has no prime factors except itself, then it is prime (because it cannot be divided by any other number.) Finding the prime factor representation of a number comes in handy in quite a few ways - one of which is being able to easily find the [Greatest Common Divisor](http://en.wikipedia.org/wiki/Greatest_common_divisor).
 

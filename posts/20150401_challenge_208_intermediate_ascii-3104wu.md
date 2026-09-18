@@ -3,7 +3,7 @@ title: "[2015-04-01] Challenge #208 [Intermediate] ASCII Gradient Generator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3104wu/20150401_challenge_208_intermediate_ascii/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: ASCII Gradient Generator
+# _(Intermediate)_: ASCII Gradient Generator
 
 A linear colour gradient is where an image transitions through a range of colours, [like this](http://i.imgur.com/IPwnI8X.png). A gradient doesn't need to be directly horizontal or vertical - it can be [diagonal](http://i.imgur.com/D4trkEk.png) too, or only be [longer or shorter](http://i.imgur.com/8CHx95i.png) than usual. It can also cycle through [as many colours as you like](http://i.imgur.com/Br3xwXM.png).
 

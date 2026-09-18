@@ -3,7 +3,7 @@ title: "[10/29/2014] Challenge #186 [Intermediate] Syzygyfication"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2kpnky/10292014_challenge_186_intermediate_syzygyfication/"
 ---
 
-# [](#IntermediateIcon) **(Intermediate)**: Syzygyfication
+# **(Intermediate)**: Syzygyfication
 
 In astronomical terms, a *syzygy* is when 3 or more objects line up in a straight line. The classic example of this is an *eclipse* (not the IDE, thankfully.) If the Sun, the Moon and the Earth (in that order) line up in a straight line, then the Moon is directly in-between the Sun and the Earth, meaning the view of the Sun is occluded - a solar eclipse. Another example of a syzygy is a *transit*. This is like an eclipse, but when a planet goes in front of the sun instead; for example, [in this image](http://upload.wikimedia.org/wikipedia/commons/6/64/Mercury_transit_2.jpg), the big yellow disc is (predictably) the Sun and the circular black spot in the middle is Mercury. It's like a mini-eclipse. Besides these two examples, syzygy can occur without the Sun. The dots in [this image here](https://upload.wikimedia.org/wikipedia/commons/c/c2/Three_Planets_Dance_Over_La_Silla.jpg) are the planets Mercury, Venus and Jupiter. They do not form a perfect syzygy  - the chance of that occurring is next to nothing - but they line up close enough that they're within a few degrees of each other in the sky.
 

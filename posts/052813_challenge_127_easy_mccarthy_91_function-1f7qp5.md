@@ -3,7 +3,7 @@ title: "[05/28/13] Challenge #127 [Easy] McCarthy 91 Function"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1f7qp5/052813_challenge_127_easy_mccarthy_91_function/"
 ---
 
-# [](#EasyIcon) *(Easy)*: McCarthy 91 Function
+# *(Easy)*: McCarthy 91 Function
 
 The [McCarthy 91 Function](http://en.wikipedia.org/wiki/McCarthy_91_function) is a recursive function which, given an integer N, returns the integer 91 if N is equal to or smaller than 100, or simply N-10 if N is greater than 100. Sounds simple, but look at the function definition in the linked Wikipedia article! How could such a function work to always return a constant (for N <= 100) that isn't in the function body? Well, that's your task: write out each step that McCarthy's function does for a given integer N.
 

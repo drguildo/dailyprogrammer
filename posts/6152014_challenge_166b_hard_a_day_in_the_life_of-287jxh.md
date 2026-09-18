@@ -3,7 +3,7 @@ title: "[6/15/2014] Challenge #166b [Hard] A Day in the Life of a Network Router
 url: "https://old.reddit.com/r/dailyprogrammer/comments/287jxh/6152014_challenge_166b_hard_a_day_in_the_life_of/"
 ---
 
-# [](#HardIcon) _(Hard)_: A Day in the Life of a Network Router
+# _(Hard)_: A Day in the Life of a Network Router
 
 Every time you send or receive data across the internet, it has navigated itself through tens or hundreds of intermediate destinations to finally reach its target. This involves a ton of extremely well optimised algorithms to find the fastest way to get from A to B - and all of this happens without you knowing about it - until now. The network engineers at Notfast© Internet have detected a problem with a central node - it's not letting any packets through! They are hiring some engineers to manually route the packets while they go about fixing the problem.
 

@@ -3,7 +3,7 @@ title: "[10/01/2014] Challenge #182 [Intermediate] The Data Collator from Jamaic
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2i13a4/10012014_challenge_182_intermediate_the_data/"
 ---
 
-# [](/IntermediateIcon) **(Intermediate)**: The Data Collator from Jamaica
+# **(Intermediate)**: The Data Collator from Jamaica
 
 Often, when given a set of data where one variable is associated with another, we want to find a general rule equating the two variables, with which you can find the closest appropriate match of one to the other.
 

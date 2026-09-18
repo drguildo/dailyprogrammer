@@ -3,7 +3,7 @@ title: "[8/15/2014] Challenge #175 [Hard] Hall of Mirror[]"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2dmdwo/8152014_challenge_175_hard_hall_of_mirror/"
 ---
 
-# [](#HardIcon) _(Hard)_: Hall of `Mirror[]`
+# _(Hard)_: Hall of `Mirror[]`
 
 Today we're going to embark on some advanced geometry. You'll want to freshen up your angles and vectors because there will be a lot of them today!
 

@@ -3,7 +3,7 @@ title: "[1/3/2013] Challenge #115 [Intermediate] Sum-Pairings"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/15wm48/132013_challenge_115_intermediate_sumpairings/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Sum-Parings
+# *(Intermediate)*: Sum-Parings
 
 Let the term "sum-pair" be a pair of integers A and B such that the sum of A and B equals a given number C. As an example, let C be 10. Thus, the pairs (5, 5), (1, 9), (2, 8), etc. are all sum-pairs of 10.
 

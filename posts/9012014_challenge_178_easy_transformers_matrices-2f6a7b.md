@@ -3,7 +3,7 @@ title: "[9/01/2014] Challenge #178 [Easy] Transformers: Matrices in Disguise, pt
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2f6a7b/9012014_challenge_178_easy_transformers_matrices/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Transformers: Matrices in Disguise, pt. 1
+# *(Easy)*: Transformers: Matrices in Disguise, pt. 1
 
 Or, rather, transform*ation*s. Today we'll be doing a bit of basic geometry. We'll be writing a program which will take a point in 2-dimensional space, represented as `(X, Y)` (where X and Y can be decimal and negative), transform them a number of times in different ways and then find the final position of the point.
 

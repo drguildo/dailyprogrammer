@@ -3,7 +3,7 @@ title: "[6/20/2014] Challenge #167 [Hard] Park Ranger"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/28nqeb/6202014_challenge_167_hard_park_ranger/"
 ---
 
-# [](#HardIcon) _(Hard)_: Park Ranger
+# _(Hard)_: Park Ranger
 
 Ranger Dan owns a wildlife park in an obscure country somewhere in Europe. The park is an absolute mess, though! Litter covers every walkway. Ranger Dan has been tasked with ensuring all of the walkways are clean on a daily basis. However, doing this on a daily basis can take some time - Dan to ensure that time is not wasted travelling down walkways that have already been checked. Each walkway is checked by walking along it once, from one end to another.
 

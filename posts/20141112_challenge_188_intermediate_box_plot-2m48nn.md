@@ -3,7 +3,7 @@ title: "[2014-11-12] Challenge #188 [Intermediate] Box Plot Generator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2m48nn/20141112_challenge_188_intermediate_box_plot/"
 ---
 
-# [](#IntermediateIcon) **(Intermediate)**: Box Plot Generator
+# **(Intermediate)**: Box Plot Generator
 
 A [box plot](http://en.wikipedia.org/wiki/Box_plot) is a convenient way of representing a set of univariate (one-variable) numerical data, while showing some useful statistical info about it at the same time. To understand what a box plot represents you need to learn about quartiles.
 

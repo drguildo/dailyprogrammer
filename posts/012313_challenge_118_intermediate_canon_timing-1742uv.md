@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1742uv/012313_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Canon Timing
+# *(Intermediate)*: Canon Timing
 
 Naval ships typically separate their shells, explosives, and cannons in different compartments. This is all done for the safety of the ship and control of the explosive materials. [Check out this great animation from Wikipedia on how some ships load cannons!](http://en.wikipedia.org/wiki/File:Animated_gun_turret.gif)
 

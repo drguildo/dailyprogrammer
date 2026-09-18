@@ -3,7 +3,7 @@ title: "[2015-08-14] Challenge #227 [Hard] Adjacency Matrix Generator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/"
 ---
 
-# [](#HardIcon) _(Hard)_: Adjacency Matrix Generator
+# _(Hard)_: Adjacency Matrix Generator
 
 We've often talked about adjacency matrices in challenges before. Usually, the adjacency matrix is the input to a challenge. This time, however, we're going to be taking a visual representation of a graph as input, and turning it into the adjacency matrix. Here's the rules for the input diagrams:
 

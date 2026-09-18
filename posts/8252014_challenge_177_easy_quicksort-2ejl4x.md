@@ -3,7 +3,7 @@ title: "[8/25/2014] Challenge #177 [Easy] Quicksort"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2ejl4x/8252014_challenge_177_easy_quicksort/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Quicksort
+# *(Easy)*: Quicksort
 
 On a daily basis we take advantage of the power of a language's standard library. One of the common functions within such libraries is for sorting sets of data. This saves you some time so you don't have to write it yourself. But what about the occasions when you don't have a standard library?
 

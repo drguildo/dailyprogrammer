@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/19rkqr/030613_challenge_
 ---
 
 
-# [](#IntermediateIcon) *(Intermediate)*: Bytelandian Exchange 2
+# *(Intermediate)*: Bytelandian Exchange 2
 
 _This problem uses the same money-changing device from Monday's Easy challenge.*
 

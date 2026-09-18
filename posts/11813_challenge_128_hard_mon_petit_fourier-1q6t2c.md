@@ -3,7 +3,7 @@ title: "[11/8/13] Challenge #128 [Hard] Mon Petit Fourier"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1q6t2c/11813_challenge_128_hard_mon_petit_fourier/"
 ---
 
-# [](#HardIcon) *(Hard)*: Mon Petit Fourier
+# *(Hard)*: Mon Petit Fourier
 
 [Fast Fourier Transform](http://en.wikipedia.org/wiki/Fast_Fourier_transform) is an extremely powerful algorithm. Fourier transforms can convert a signal (used loosely here) between its time / space domain to its frequency domain. A less-technical explanation is that it's an algorithm that can take the signal made from a sum of sinusoidal waves, and returns a set of simple sinusoidal wave functions that, if summed, closely match the original signal given. [This YouTube video](http://www.youtube.com/watch?v=ObklYbQaX24) does a great rundown on what an FFT is.
 

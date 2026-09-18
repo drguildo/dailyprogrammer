@@ -3,7 +3,7 @@ title: "[07/17/13] Challenge #130 [Intermediate] Foot-Traffic Generator"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ihm0q/071713_challenge_130_intermediate_foottraffic/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: Foot-Traffic Generator
+# *(Intermediate)*: Foot-Traffic Generator
 
 This week's [Easy] challenge was [#133: Foot-Traffic Analysis](http://www.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/): part of the challenge was to parse foot-traffic information and print out some room-usage information. What if we wanted to test this program with our own custom data-set? How can we generate a custom log to test our Foot-Traffic Analysis tool with? Real-world programming requires you to often write your own test-generating code! Your goal in this challenge is to do exactly that: write a foot-traffic generator!
 

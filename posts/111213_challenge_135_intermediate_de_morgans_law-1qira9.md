@@ -3,7 +3,7 @@ title: "[11/12/13] Challenge #135 [Intermediate] De Morgan's Law"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1qira9/111213_challenge_135_intermediate_de_morgans_law/"
 ---
 
-# [](#IntermediateIcon) *(Intermediate)*: De Morgan's Law
+# *(Intermediate)*: De Morgan's Law
 
 [De Morgan's Law](http://en.wikipedia.org/wiki/De_Morgan's_laws) is a neat law of Boolean propositional logic, helpful in every-day programming. It helps with inverting a boolean expression to get the opposite expression. [Wolfram Mathworld](http://mathworld.wolfram.com/deMorgansLaws.html) has a much more correct definition using set theory, being equivalent to [Boolean expressions](http://en.wikipedia.org/wiki/Boolean_algebra).
 

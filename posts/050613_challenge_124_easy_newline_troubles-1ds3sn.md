@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/1ds3sn/050613_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: New-Line Troubles
+# *(Easy)*: New-Line Troubles
 
 A [newline character](http://en.wikipedia.org/wiki/Newline) is a special character in text for computers: though it is not a visual (e.g. renderable) character, it is a control character, informing the reader (whatever program that is) that the following text should be on a new line (hence "newline character").
 

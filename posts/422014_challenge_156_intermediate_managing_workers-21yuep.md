@@ -3,7 +3,7 @@ title: "[4/2/2014] Challenge #156 [Intermediate] Managing Workers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/21yuep/422014_challenge_156_intermediate_managing_workers/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Managing Workers
+# _(Intermediate)_: Managing Workers
 
 After yesterday's April Fools shenanigans, management worldwide must work at full pace to make up for lost productivity from the innumerable ThinkGeek pranks aimed at coworkers. You've been hired by some random company to create a program which lets them organise their workers to do a set of given tasks in a project as efficiently as possible.
 

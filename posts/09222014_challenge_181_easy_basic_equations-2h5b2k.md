@@ -3,7 +3,7 @@ title: "[09/22/2014] Challenge #181 [Easy] Basic Equations"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2h5b2k/09222014_challenge_181_easy_basic_equations/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Basic Equations
+# _(Easy)_: Basic Equations
 
 Today, we'll be creating a simple calculator, that we may extend in later challenges. Assuming you have done basic algebra, you may have seen equations in the form [`y=ax+b`](http://latex.codecogs.com/gif.latex?y%3Dax&plus;b), where `a` and `b` are constants. This forms a graph of a straight line, when you plot `y` in respect to `x`. If you have not explored this concept yet, you can visualise a linear equation such as this using [this online tool](http://www.mathopenref.com/linearexplorer.html), which will plot it for you.
 

@@ -3,7 +3,7 @@ title: "[06/1/13] Challenge #124 [Hard] Power-Processor Management"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1fhd6h/06113_challenge_124_hard_powerprocessor_management/"
 ---
 
-# [](#HardIcon) *(Hard)*: Power-Processor Management
+# *(Hard)*: Power-Processor Management
 
 A co-worker has just finished designing and fabricating an incredibly powerful new processor architecture: this processor allows you to vary how fast you execute code, but in turn vary how much energy you consume. Your goal is to write a power-focused process scheduling system that minimizes both time and maximum processor speed for the given work.
 

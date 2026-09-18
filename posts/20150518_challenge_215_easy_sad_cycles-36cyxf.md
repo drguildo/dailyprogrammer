@@ -3,7 +3,7 @@ title: "[2015-05-18] Challenge #215 [Easy] Sad Cycles"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/36cyxf/20150518_challenge_215_easy_sad_cycles/"
 ---
 
-# [](#EasyIcon) _(Easy)_: Sad Cycles
+# _(Easy)_: Sad Cycles
 
 Take a number, and add up the square of each digit. You'll end up with another number. If you repeat this process over and over again, you'll see that one of two things happen:
 

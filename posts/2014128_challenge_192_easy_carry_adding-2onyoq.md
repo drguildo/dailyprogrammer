@@ -3,7 +3,7 @@ title: "[2014-12-8] Challenge #192 [Easy] Carry Adding"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/2onyoq/2014128_challenge_192_easy_carry_adding/"
 ---
 
-# [](#EasyIcon) **(Easy)**: Carry Adding
+# **(Easy)**: Carry Adding
 
 When you were first learning arithmetic, the way most people were tought to set out addition problems was like follows:
 

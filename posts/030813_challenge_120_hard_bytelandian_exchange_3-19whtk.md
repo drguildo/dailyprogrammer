@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/19whtk/030813_challenge_
 ---
 
 
-# [](#HardIcon) *(Hard)*: Bytelandian Exchange 3
+# *(Hard)*: Bytelandian Exchange 3
 
 Bytelandian Currency is coins with positive integers on them. (Don't worry about 0-valued coins because they're useless for this problem.) You have access to two peculiar money changing machines:
 

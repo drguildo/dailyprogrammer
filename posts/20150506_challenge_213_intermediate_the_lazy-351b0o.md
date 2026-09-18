@@ -3,7 +3,7 @@ title: "[2015-05-06] Challenge #213 [Intermediate] The Lazy Typist"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/351b0o/20150506_challenge_213_intermediate_the_lazy/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: The Lazy Typist
+# _(Intermediate)_: The Lazy Typist
 
 We've all had a night where we're so lazy that we actively avoid moving our hands around on the keyboard. In today's challenge, we'll be given a sentence to type, and we'll work out a minimal-effort way of typing that string (ie. minimize how much the hand moves), using a basic QWERTY keyboard layout - the keys supported are the letters A to Z, shift, and space - in this arrangement:
 

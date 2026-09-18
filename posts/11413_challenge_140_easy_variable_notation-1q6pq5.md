@@ -3,7 +3,7 @@ title: "[11/4/13] Challenge #140 [Easy] Variable Notation"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1q6pq5/11413_challenge_140_easy_variable_notation/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Variable Notation
+# *(Easy)*: Variable Notation
 
 When writing code, it can be helpful to have a standard ([Identifier naming convention](http://en.wikipedia.org/wiki/Identifier_naming_convention)) that describes how to define all your variables and object names. This is to keep code easy to read and maintain. Sometimes the standard can help describe the type (such as in [Hungarian notation](http://en.wikipedia.org/wiki/Hungarian_notation)) or make the variables visually easy to read ([CamcelCase notation](http://en.wikipedia.org/wiki/CamelCase) or [snake_case](http://en.wikipedia.org/wiki/Snake_case)).
 

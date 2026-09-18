@@ -3,7 +3,7 @@ title: "[5/7/2014] Challenge #161 [Medium] Appointing Workers"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/24ypno/572014_challenge_161_medium_appointing_workers/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: Appointing Workers
+# _(Intermediate)_: Appointing Workers
 
 In the past, we've already tackled the challenge of deciding in which order to do certain jobs. However, now you need to work out which worker gets which job. What if some workers are only qualified to do certain jobs? How do you ensure there are no jobs or workers left out? Your challenge now is (given some jobs that need to be done, and some workers and the jobs they're allowed to do) compute who should be given which job, so no-one is doing a job they are not qualified for.
 

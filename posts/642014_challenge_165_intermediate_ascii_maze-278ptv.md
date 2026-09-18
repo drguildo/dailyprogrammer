@@ -3,7 +3,7 @@ title: "[6/4/2014] Challenge #165 [Intermediate] ASCII Maze Master"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/278ptv/642014_challenge_165_intermediate_ascii_maze/"
 ---
 
-# [](#IntermediateIcon) _(Intermediate)_: ASCII Maze Master
+# _(Intermediate)_: ASCII Maze Master
 
 We're going to have a slightly more logical puzzle today. We're going to write a program that will find a path through a simple maze.
 

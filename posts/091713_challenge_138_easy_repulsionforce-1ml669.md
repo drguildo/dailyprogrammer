@@ -3,7 +3,7 @@ title: "[09/17/13] Challenge #138 [Easy] Repulsion-Force"
 url: "https://old.reddit.com/r/dailyprogrammer/comments/1ml669/091713_challenge_138_easy_repulsionforce/"
 ---
 
-# [](#EasyIcon) *(Easy)*: Repulsion-Force
+# *(Easy)*: Repulsion-Force
 
 [Colomb's Law](http://en.wikipedia.org/wiki/Coulomb%27s_law) describes the repulsion force for two electrically charged particles. In *very* general terms, it describes the rate at which particles move away from each-other based on each particle's mass and distance from one another.
 

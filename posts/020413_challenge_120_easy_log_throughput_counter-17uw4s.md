@@ -4,7 +4,7 @@ url: "https://old.reddit.com/r/dailyprogrammer/comments/17uw4s/020413_challenge_
 ---
 
 
-# [](#EasyIcon) *(Easy)*: Log throughput counter
+# *(Easy)*: Log throughput counter
 
 You are responsible for a search engine of a large website and the servers are getting overloaded. You are pretty sure there's an increase in the number of queries per second, probably because someone is crawling you like there is no tomorrow. To be really sure you need to help the sysadmin in setting up a monitoring system which will alert everyone when the num. of queries per second reach a certain threshold. All he needs to get this going is a file that has one number corresponding to the number of queries in the past x seconds. The file needs to be updated every x seconds automatically so he can integrate that in his monitoring system.
 You have a log file from the search engine which has one query per line and is constantly being written to. Now all you need to do is to come up with a little program that runs in the background with a very small footprint and is very efficient in counting the query throughput every x seconds. This count is then written to a file. It has to be very precise, so if the program is set to count the last 3 seconds it really needs to be 3.
