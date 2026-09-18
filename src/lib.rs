@@ -1,5 +1,10 @@
 use std::path::Path;
 
+// This is where helper code that is used throughout the project is placed.
+
+/// Converts the contents of a file into a matrix of strings. Each line in the
+/// file becomes a row in the matrix, and each whitespace-separated word becomes
+/// an element in the row.
 pub fn file_to_matrix<P: AsRef<Path>>(file: P) -> Vec<Vec<String>> {
     let s = std::fs::read_to_string(file).unwrap();
     let matrix = s
