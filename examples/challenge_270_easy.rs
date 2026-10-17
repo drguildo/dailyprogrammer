@@ -14,16 +14,12 @@ fn transpose(matrix: &[Vec<char>]) -> Vec<Vec<char>> {
         .fold(0, |acc, v| if v.len() > acc { v.len() } else { acc });
 
     let mut transposed: Vec<Vec<char>> = Vec::new();
-    for y in 0..matrix.len() {
+    for row in matrix {
         for x in 0..longest {
             if x >= transposed.len() {
                 transposed.push(Vec::new());
             }
-            let c = if matrix[y].len() > x {
-                matrix[y][x]
-            } else {
-                ' '
-            };
+            let c = if row.len() > x { row[x] } else { ' ' };
             transposed[x].push(c);
         }
     }
@@ -32,9 +28,9 @@ fn transpose(matrix: &[Vec<char>]) -> Vec<Vec<char>> {
 }
 
 fn print_matrix(matrix: &[Vec<char>]) {
-    for y in 0..matrix.len() {
-        for x in 0..matrix[y].len() {
-            print!("{}", matrix[y][x]);
+    for row in matrix {
+        for col in row {
+            print!("{}", col);
         }
         println!();
     }
